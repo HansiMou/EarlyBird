@@ -34,7 +34,10 @@ public class EarlyBird {
 		// System.out.println(config.weeknum);
 
 		CheckFolder();
+		
+		// get all the starting urls and set-up
 		GetUrls();
+		
 		for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
 			System.out.println("Key = " + entry.getKey() + ", Value = "
 					+ entry.getValue().print());
