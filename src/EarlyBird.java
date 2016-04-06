@@ -67,17 +67,16 @@ public class EarlyBird {
 					continue;
 				} else if (str.startsWith("Link")) {
 					u.link = str.split("::")[1];
-					if (u.name.equals("Science")) {
-						AddLastTwoWeekJournal(u.link);
-						u.name = "";
-						u.link = "";
-					}
 				} else if (str.startsWith("Level")) {
 					u.lv = Integer.parseInt(str.split("::")[1]);
 				} else if (str.startsWith("First_Level_Pre_Filter")) {
 					u.flpre = str.split("::")[1];
 				} else if (str.startsWith("First_Level_Post_Filter")) {
 					u.flpost = str.split("::")[1];
+					if (u.name.equals("Science")) {
+						AddLastTwoWeekJournal(u);
+						u.name = "";
+					}
 				} else if (str.startsWith("Second_Level_Pre_Filter")) {
 					u.secpre = str.split("::")[1];
 				} else if (str.startsWith("Second_Level_Post_Filter")) {
@@ -101,58 +100,42 @@ public class EarlyBird {
 	/**
 	 * Description: expecially designed for science
 	 */
-	private static void AddLastTwoWeekJournal(String link) {
+	private static void AddLastTwoWeekJournal(StartingUrl u) {
 		// TODO Auto-generated method stub
-		Calendar now2 = new GregorianCalendar();
-		now2.setTime(new Date());
+		
 
 		// 2015 Jan 02 Vol 347, Iss 6217
 		int stdVol = 347;
 		int stdIss = 6217;
 
-		// get the most recent journal
-		long vol = stdVol;
-		long iss = stdIss;
+		for (int i = 1; i <= config.weeknum; i++) {
+			long vol = stdVol;
+			long iss = stdIss;
+			Calendar now2 = new GregorianCalendar();
+			Date last = new Date(new Date().getTime() - (i-1)*(7 * 24 * 3600 * 1000));
+			now2.setTime(last);
+			vol += (now2.get(Calendar.YEAR) - 2015) * 4;
+			if (now2.get(Calendar.MONTH) <= 2) {
+			} else if (now2.get(Calendar.MONTH) <= 5) {
+				vol++;
+			} else if (now2.get(Calendar.MONTH) <= 8) {
+				vol += 2;
+			} else if (now2.get(Calendar.MONTH) <= 11) {
+				vol += 3;
+			}
 
-		vol += (now2.get(Calendar.YEAR) - 2015) * 4;
-		if (now2.get(Calendar.MONTH) <= 2) {
-		} else if (now2.get(Calendar.MONTH) <= 5) {
-			vol++;
-		} else if (now2.get(Calendar.MONTH) <= 8) {
-			vol += 2;
-		} else if (now2.get(Calendar.MONTH) <= 11) {
-			vol += 3;
+			Calendar c = Calendar.getInstance();
+			c.set(2015, 0, 2);
+			Date standard = c.getTime();
+			long tmp = (new Date().getTime() / 86400000 - standard.getTime() / 86400000) / 7;
+			iss += tmp - i;
+			StartingUrl mr = new StartingUrl();
+			mr.name = u.name;
+			mr.link = u.link + vol + "/" + iss;
+			mr.lv = u.lv;
+			mr.flpost = u.flpost;
+			urls.put(mr.link, mr);
 		}
-
-		Calendar c = Calendar.getInstance();
-		c.set(2015, 0, 2);
-		Date standard = c.getTime();
-		long tmp = (new Date().getTime() / 86400000 - standard.getTime() / 86400000) / 7;
-		iss += tmp - 1;
-		StartingUrl mr = new StartingUrl();
-		mr.name = "Science";
-		mr.link = link + vol + "/" + iss;
-		urls.put(mr.link, mr);
-
-		// get the second most recent issue
-		long lastiss = iss - 1;
-		long lastvol = stdVol;
-		Date last = new Date(new Date().getTime() - 7 * 24 * 3600 * 1000);
-		now2.setTime(last);
-		lastvol += (now2.get(Calendar.YEAR) - 2015) * 4;
-		if (now2.get(Calendar.MONTH) <= 2) {
-		} else if (now2.get(Calendar.MONTH) <= 5) {
-			lastvol++;
-		} else if (now2.get(Calendar.MONTH) <= 8) {
-			lastvol += 2;
-		} else if (now2.get(Calendar.MONTH) <= 11) {
-			lastvol += 3;
-		}
-		StartingUrl smr = new StartingUrl();
-		smr.name = "Science";
-		smr.link = link + lastvol + "/" + lastiss;
-		urls.put(smr.link, smr);
-		// System.out.println(lastvol + " " + lastiss);
 	}
 
 	/**

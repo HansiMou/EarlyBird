@@ -5,10 +5,12 @@ TimePeroidOfWeeks::2
 Link::http://pubs.acs.org/
 Level::3
 First_Level_Pre_Filter::journal
-Second_Level_Pre_Filter::doc
+Second_Level_Pre_Filter::toc
 Second_Level_Post_Filter::0/0
+Third_Level_Pre_Filter::doi/abs
 Exception::http://pubs.acs.org/editorschoice/
 
 #Science
 Link::http://science.sciencemag.org/content/
-
+Level::1
+First_Level_Post_Filter::.summary
