@@ -38,8 +38,6 @@ Second_Level_Pre_Filter::journal
 Second_Level_Post_Filter::.html
 
 #Nature
-Link::http://www.nature.com/nature
-Level::2
-First_Level_Pre_Filter:: research/research_by_subject.html
-Second_Level_Pre_Filter::journal
-Second_Level_Post_Filter::.html
+Link::http://www.nature.com/nature/research/chemical-sciences.html
+Level::1
+First_Level_Pre_Filter::http://www.nature.com/nature/journal/

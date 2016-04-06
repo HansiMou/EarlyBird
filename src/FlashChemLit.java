@@ -19,27 +19,22 @@ import java.util.Map;
  *
  *         Apr 5, 2016
  */
-public class EarlyBird {
+public class FlashChemLit {
 	static HashMap<String, StartingUrl> urls = new HashMap<String, StartingUrl>();
 	static HashSet<String> exception = new HashSet<String>();
 	static Config config = new Config();
 
-	/**
-	 * Description:
-	 * 
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// System.out.println(config.folder);
 		// System.out.println(config.weeknum);
 
 		CheckFolder();
-		
+
 		// get all the starting urls and set-up
 		GetUrls();
-		
+
 		for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
-			System.out.println("Key = " + entry.getKey() + ", Value = "
+			System.out.println("Key = " + entry.getKey() + "\n"
 					+ entry.getValue().print());
 		}
 	}
@@ -105,7 +100,6 @@ public class EarlyBird {
 	 */
 	private static void AddLastTwoWeekJournal(StartingUrl u) {
 		// TODO Auto-generated method stub
-		
 
 		// 2015 Jan 02 Vol 347, Iss 6217
 		int stdVol = 347;
@@ -115,7 +109,8 @@ public class EarlyBird {
 			long vol = stdVol;
 			long iss = stdIss;
 			Calendar now2 = new GregorianCalendar();
-			Date last = new Date(new Date().getTime() - (i-1)*(7 * 24 * 3600 * 1000));
+			Date last = new Date(new Date().getTime() - (i - 1)
+					* (7 * 24 * 3600 * 1000));
 			now2.setTime(last);
 			vol += (now2.get(Calendar.YEAR) - 2015) * 4;
 			if (now2.get(Calendar.MONTH) <= 2) {

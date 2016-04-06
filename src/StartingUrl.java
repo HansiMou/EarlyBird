@@ -21,6 +21,6 @@ public class StartingUrl {
 	String thirdpost = "";
 
 	public String print() {
-		return name + "\t" + link + "\t" + lv;
+		return name + "\t" + link + "\t" + flpre;
 	}
 }
