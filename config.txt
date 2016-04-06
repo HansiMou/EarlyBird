@@ -1,0 +1,14 @@
+Folder::downloads
+TimePeroidOfWeeks::2
+
+#ACS
+Link::http://pubs.acs.org/
+Level::3
+First_Level_Pre_Filter::journal
+Second_Level_Pre_Filter::doc
+Second_Level_Post_Filter::0/0
+Exception::http://pubs.acs.org/editorschoice/
+
+#Science
+Link::http://science.sciencemag.org/content/by/year/
+Level::1
