@@ -1,12 +1,13 @@
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 
 /**
  * @author Hansi Mou
@@ -33,10 +34,18 @@ public class FlashChemLit {
 		// get all the starting urls and set-up
 		GetUrls();
 
-		for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
-			System.out.println("Key = " + entry.getKey() + "\n"
-					+ entry.getValue().print());
-		}
+//		for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
+//			System.out.println("Key = " + entry.getKey() + "\n"
+//					+ entry.getValue().print());
+//		}
+		WebCrawler wc = new WebCrawler();
+		wc.run(config.folder, urls.get("http://pubs.acs.org/"), false);
+//		try {
+//			System.out.println(new URL(new URL("http://www.nature.com/nchembio/"), "/nchembio/research/index.html"));
+//		} catch (MalformedURLException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 	}
 
 	/**
@@ -64,25 +73,25 @@ public class FlashChemLit {
 				} else if (u.name.equals("")) {
 					continue;
 				} else if (str.startsWith("Link")) {
-					u.link = str.split("::")[1];
+					u.link = str.split("::")[1].trim();
 				} else if (str.startsWith("Level")) {
-					u.lv = Integer.parseInt(str.split("::")[1]);
+					u.lv = Integer.parseInt(str.split("::")[1].trim());
 				} else if (str.startsWith("First_Level_Pre_Filter")) {
-					u.flpre = str.split("::")[1];
+					u.flpre = str.split("::")[1].trim();
 				} else if (str.startsWith("First_Level_Post_Filter")) {
-					u.flpost = str.split("::")[1];
+					u.flpost = str.split("::")[1].trim();
 					if (u.name.equals("Science")) {
 						AddLastTwoWeekJournal(u);
-						u.name = "";
+						u = new StartingUrl();
 					}
 				} else if (str.startsWith("Second_Level_Pre_Filter")) {
-					u.secpre = str.split("::")[1];
+					u.secpre = str.split("::")[1].trim();
 				} else if (str.startsWith("Second_Level_Post_Filter")) {
-					u.secpost = str.split("::")[1];
+					u.secpost = str.split("::")[1].trim();
 				} else if (str.startsWith("Second_Level_Post_Filter")) {
-					u.secpost = str.split("::")[1];
+					u.secpost = str.split("::")[1].trim();
 				} else if (str.startsWith("Exception")) {
-					exception.add(str.split("::")[1]);
+					exception.add(str.split("::")[1].trim());
 				}
 			}
 			if (!u.name.equals(""))
