@@ -1,31 +1,32 @@
-// A minimal Web Crawler written in Java
-// Usage: From command line 
-//     java WebCrawler <URL> [N]
-//  where URL is the url to start the crawl, and N (optional)
-//  is the maximum number of pages to download.
+// base class
 
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.net.URLConnection;
 import java.util.HashSet;
 import java.util.Hashtable;
-import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.Properties;
 import java.util.Queue;
 import java.util.StringTokenizer;
+import java.util.concurrent.TimeUnit;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 
 public class WebCrawler {
 	public static int LEVEL_LIMIT = 20; // Absolute max level
 	public static boolean DEBUG = true;
 	public static final String DISALLOW = "Disallow:";
-	public static String path;
-
+	public static String path = "downloads";
+	HashSet<URL> lastLvResult;
+	Config config;
 	int lv = 0;
 	int curNum = 1;
 	int last = 0;
@@ -33,12 +34,11 @@ public class WebCrawler {
 	Queue<URL> newURLs;
 	// Known URLs
 	Hashtable<URL, Integer> knownURLs;
-	HashSet<URL> lastLvResult;
 	StartingUrl su;
 
 	// initializes data structures. argv is the command line arguments.
 
-	public void initialize(String path, StartingUrl s, boolean d) {
+	public void initialize(String path, StartingUrl s, boolean d, Config c) {
 		URL url;
 		this.path = path;
 
@@ -46,6 +46,7 @@ public class WebCrawler {
 		newURLs = new LinkedList<URL>();
 		lastLvResult = new HashSet<URL>();
 		su = s;
+		config = c;
 
 		LEVEL_LIMIT = s.lv;
 		this.DEBUG = d;
@@ -63,13 +64,13 @@ public class WebCrawler {
 		/*
 		 * Behind a firewall set your proxy and port here!
 		 */
-		// Properties props = new Properties(System.getProperties());
-		// props.put("http.proxySet", "true");
-		// props.put("http.proxyHost", "webcache-cup");
-		// props.put("http.proxyPort", "8080");
-		//
-		// Properties newprops = new Properties(props);
-		// System.setProperties(newprops);
+		 Properties props = new Properties(System.getProperties());
+		 props.put("http.proxySet", "true");
+		 props.put("http.proxyHost", "webcache-cup");
+		 props.put("http.proxyPort", "8080");
+		
+		 Properties newprops = new Properties(props);
+		 System.setProperties(newprops);
 		/**/
 	}
 
@@ -159,8 +160,8 @@ public class WebCrawler {
 					knownURLs.put(url, new Integer(1));
 				newURLs.add(url);
 				last++;
-				if (this.lv == this.LEVEL_LIMIT - 1)
-					this.lastLvResult.add(url);
+//				if (this.lv == this.LEVEL_LIMIT - 1)
+//					this.lastLvResult.add(url);
 			}
 			// }
 		} catch (MalformedURLException e) {
@@ -175,7 +176,7 @@ public class WebCrawler {
 	 * @param url
 	 * @return boolean
 	 */
-	private boolean shouldAdded(URL url) {
+	public boolean shouldAdded(URL url) {
 		// if (knownURLs.containsKey(url)) {
 		// return false;
 		// }
@@ -188,7 +189,8 @@ public class WebCrawler {
 			} else {
 				return url.toString().toLowerCase()
 						.startsWith(su.link + su.flpre)
-						&& url.toString().toLowerCase().endsWith(su.flpost);
+						&& url.toString().toLowerCase().endsWith(su.flpost)
+						&& !su.link.equals(url.toString().split("#")[0]);
 			}
 		case 1:
 			if (su.secpre.startsWith("http://")) {
@@ -205,6 +207,9 @@ public class WebCrawler {
 				return url.toString().toLowerCase()
 						.startsWith(su.thirdpre.toLowerCase());
 			} else {
+				// System.out.println(url.toString());
+				// System.out.println(url.toString().toLowerCase()
+				// .startsWith(su.link + su.thirdpre));
 				return url.toString().toLowerCase()
 						.startsWith(su.link + su.thirdpre)
 						&& url.toString().toLowerCase().endsWith(su.thirdpost);
@@ -220,20 +225,71 @@ public class WebCrawler {
 	 * 
 	 * @param content
 	 */
-	private void DownloadPages(URL url, String content) {
+	public boolean DownloadPages(URL url) {
+		// TODO Auto-generated method stub
+//		System.out.println(getpage(url));
+//		return false;
+		String name = url.getFile().replace("/", "_");
+		FileWriter writer;
+		try {
+			File dir = new File(path + "/" + name);
+			if(dir.exists()) 
+				return false;
+			writer = new FileWriter(path + "/" + name);
+			writer.write(getpage(url));
+			writer.close();
+		} catch (IOException e) {
+		}
+		return true;
+	}
+	
+	public boolean DownloadPagesJsoup(URL url) {
 		// TODO Auto-generated method stub
 		String name = url.getFile().replace("/", "_");
 		FileWriter writer;
 		try {
+			File dir = new File(path + "/" + name);
+			if(dir.exists()) 
+				return false;
+			Document doc = Jsoup.connect(url.toString()).data("query", "Java")
+					.userAgent("Mozilla").cookie("auth", "token").timeout(3000)
+					.post();
 			writer = new FileWriter(path + "/" + name);
-			writer.write(content);
+			writer.write(doc.html());
 			writer.close();
-		} catch (IOException e) {
+//			System.out.println(doc.html());
+		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		return true;
 	}
 
+	public boolean DownloadPagesWebDriver(URL url){
+		String name = url.getFile().replace("/", "_");
+		FileWriter writer;
+		try {
+			File dir = new File(path + "/" + name);
+			if(dir.exists()) 
+				return false;
+			writer = new FileWriter(path + "/" + name);
+			writer.write(getpageWD(url));
+			writer.close();
+		} catch (IOException e) {
+		}
+		return true;
+	}
+	public String getpageWD(URL url){
+		System.setProperty("webdriver.chrome.driver", config.cdp);
+		//WebDriver driver = new FirefoxDriver();
+		WebDriver driver = new ChromeDriver();
+		 driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS) ;      
+		driver.get(url.toString());
+		
+		String res = driver.getPageSource();
+		driver.close();
+		return res;
+	}
 	// Go through page finding links to URLs. A link is signalled
 	// by <a href=" ... It ends with a close angle bracket, preceded
 	// by a close quote, possibly preceded by a hatch mark (marking a
@@ -277,82 +333,33 @@ public class WebCrawler {
 		}
 	}
 
-	// Top-level procedure. Keep popping a url off newURLs, download
-	// it, and accumulate new URLs
+	public String getpage(URL url)
 
-	public void run(String path, StartingUrl s, boolean d) {
-		initialize(path, s, d);
-		while (this.lv < 2) {
-			URL url = newURLs.poll();
-			this.curNum--;
-			if (DEBUG)
-				System.out.println("level " + this.lv + "\t" + url.toString());
-			// if (robotSafe(url)) {
-			// String page = getpage(url);
-			// if (DEBUG)
-			// System.out.println(page);
-			// if (page.length() != 0)
-			// processpage(url, page);
-			GetProcessAdd(url);
-			if (newURLs.isEmpty())
-				break;
-			// }
-			if (curNum == 0) {
-				this.lv++;
-				curNum = last;
-				last = 0;
+	{ try { 
+	    // try opening the URL
+	    URLConnection urlConnection = url.openConnection();
+	    if (DEBUG)
+	    System.out.println("Downloading " + url.toString());
+
+	    urlConnection.setAllowUserInteraction(false);
+
+	    InputStream urlStream = url.openStream();
+			// search the input stream for links
+			// first, read in the entire URL
+	    byte b[] = new byte[1000];
+	    int numRead = urlStream.read(b);
+	    String content = new String(b, 0, numRead);
+	    while ((numRead != -1) ) {
+	       numRead = urlStream.read(b);
+	       if (numRead != -1) {
+	         String newContent = new String(b, 0, numRead);
+	         content += newContent;
+			    }
 			}
-		}
-		if (DEBUG)
-			System.out.println("Search complete.");
-		GetResult();
-	}
-
-	/**
-	 * Description:
-	 * 
-	 * @param url
-	 */
-	private void GetProcessAdd(URL url) {
-		Document doc = null;
-		try {
-			doc = Jsoup.connect(url.toString()).timeout(10000).get();
-		} catch (IOException e) {
-			if (DEBUG)
-			e.printStackTrace();
-		}
-		Elements es = doc.getElementsByTag("a");
-		if (DEBUG)
-			System.out.println(es);
-		for (int i = 0; i < es.size(); i++) {
-			try {
-				URL newUrl = new URL(url, es.get(i).attr("href"));
-//				if(this.lv == 0)
-//				System.out.println(newUrl);
-				if (shouldAdded(newUrl)) {
-					newURLs.add(newUrl);
-					last++;
-					if (this.lv == this.LEVEL_LIMIT - 1){
-						this.lastLvResult.add(newUrl);
-					}
-				}
-			} catch (MalformedURLException e1) {
-				// e1.printStackTrace();
-			}
-		}
-	}
-
-	/**
-	 * Description:
-	 */
-	public HashSet<URL> GetResult() {
-		// TODO Auto-generated method stub
-		Iterator it = this.lastLvResult.iterator();
-		URL obj = null;
-		while (it.hasNext()) {
-			obj = (URL) it.next();
-			System.out.println(obj.toString());
-		}
-		return this.lastLvResult;
-	}
+	    return content;
+	  
+	 } catch (IOException e) {
+	       System.out.println("ERROR: couldn't open URL ");
+	       return "";
+	    }  }
 }

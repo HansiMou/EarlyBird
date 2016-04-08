@@ -1,5 +1,6 @@
 Folder::downloads
 TimePeroidOfWeeks::2
+ChromeDirverPath::chromedriver
 
 #ACS
 Link::http://pubs.acs.org/
@@ -13,7 +14,7 @@ Exception::http://pubs.acs.org/editorschoice/
 #Science
 Link::http://science.sciencemag.org/content/
 Level::1
-First_Level_Post_Filter::.summary
+
 
 #Nchembio
 Link::http://www.nature.com/nchembio/

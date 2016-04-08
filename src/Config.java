@@ -12,6 +12,7 @@ import java.io.IOException;
 public class Config {
 	String folder = "download";
 	int weeknum = 1;
+	String cdp = "chromedriver";
 
 	public Config() {
 		try {
@@ -26,6 +27,9 @@ public class Config {
 					this.folder = str.split("::")[1];
 				} else if (str.startsWith("TimePeroidOfWeeks")) {
 					this.weeknum = Integer.parseInt(str.split("::")[1]);
+				}
+				else if (str.startsWith("ChromeDirverPath")){
+					this.cdp = str.split("::")[1];
 				}
 			}
 

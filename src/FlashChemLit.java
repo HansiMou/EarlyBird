@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
@@ -24,28 +25,38 @@ public class FlashChemLit {
 	static HashMap<String, StartingUrl> urls = new HashMap<String, StartingUrl>();
 	static HashSet<String> exception = new HashSet<String>();
 	static Config config = new Config();
+	static ArrayList<String> startings = new ArrayList<String>();
 
 	public static void main(String[] args) {
-		// System.out.println(config.folder);
-		// System.out.println(config.weeknum);
-
 		CheckFolder();
 
 		// get all the starting urls and set-up
 		GetUrls();
 
-//		for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
-//			System.out.println("Key = " + entry.getKey() + "\n"
-//					+ entry.getValue().print());
-//		}
-		WebCrawler wc = new WebCrawler();
-		wc.run(config.folder, urls.get("http://pubs.acs.org/"), false);
-//		try {
-//			System.out.println(new URL(new URL("http://www.nature.com/nchembio/"), "/nchembio/research/index.html"));
-//		} catch (MalformedURLException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
+//		 for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
+//		 System.out.println("Key = " + entry.getKey() + "\n"
+//		 + entry.getValue().print()+"\n");
+//		 }
+		
+		
+		
+		for (int i = 0; i < startings.size(); i++) {
+			if (startings.get(i).contains(".acs.")) {
+//				WebCrawlerACS wc = new WebCrawlerACS();
+//				wc.run(config.folder, urls.get(startings.get(i)), false, config);
+			}
+			else if (startings.get(i).contains("science.sciencemag.org")){
+				WebCrawlerSci wc = new WebCrawlerSci();
+				wc.run(config.folder, urls.get(startings.get(i)), false, config);
+//				try {
+//					wc.DownloadPagesWebDriver(new URL("http://science.sciencemag.org/content/352/6282/208"));
+//				} catch (MalformedURLException e) {
+//					// TODO Auto-generated catch block
+//					e.printStackTrace();
+//				}
+//				break;
+			}
+		}
 	}
 
 	/**
@@ -74,22 +85,28 @@ public class FlashChemLit {
 					continue;
 				} else if (str.startsWith("Link")) {
 					u.link = str.split("::")[1].trim();
+					if (u.name.equals("ACS"))
+						startings.add(u.link);
 				} else if (str.startsWith("Level")) {
 					u.lv = Integer.parseInt(str.split("::")[1].trim());
-				} else if (str.startsWith("First_Level_Pre_Filter")) {
-					u.flpre = str.split("::")[1].trim();
-				} else if (str.startsWith("First_Level_Post_Filter")) {
-					u.flpost = str.split("::")[1].trim();
 					if (u.name.equals("Science")) {
 						AddLastTwoWeekJournal(u);
 						u = new StartingUrl();
 					}
+				} else if (str.startsWith("First_Level_Pre_Filter")) {
+					u.flpre = str.split("::")[1].trim();
+				} else if (str.startsWith("First_Level_Post_Filter")) {
+					u.flpost = str.split("::")[1].trim();
 				} else if (str.startsWith("Second_Level_Pre_Filter")) {
 					u.secpre = str.split("::")[1].trim();
 				} else if (str.startsWith("Second_Level_Post_Filter")) {
 					u.secpost = str.split("::")[1].trim();
 				} else if (str.startsWith("Second_Level_Post_Filter")) {
 					u.secpost = str.split("::")[1].trim();
+				} else if (str.startsWith("Third_Level_Pre_Filter")) {
+					u.thirdpre = str.split("::")[1].trim();
+				} else if (str.startsWith("Third_Level_Post_Filter")) {
+					u.thirdpost = str.split("::")[1].trim();
 				} else if (str.startsWith("Exception")) {
 					exception.add(str.split("::")[1].trim());
 				}
@@ -142,6 +159,7 @@ public class FlashChemLit {
 			mr.lv = u.lv;
 			mr.flpost = u.flpost;
 			urls.put(mr.link, mr);
+			startings.add(mr.link);
 		}
 	}
 
