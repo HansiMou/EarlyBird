@@ -9,6 +9,10 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 
 /**
  * @author Hansi Mou
@@ -37,17 +41,20 @@ public class FlashChemLit {
 //		 System.out.println("Key = " + entry.getKey() + "\n"
 //		 + entry.getValue().print()+"\n");
 //		 }
-		
+		System.setProperty("webdriver.chrome.driver", config.cdp);
+		//WebDriver driver = new FirefoxDriver();
+		WebDriver driver = new ChromeDriver();
+		 driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS) ;   
 		
 		
 		for (int i = 0; i < startings.size(); i++) {
 			if (startings.get(i).contains(".acs.")) {
-//				WebCrawlerACS wc = new WebCrawlerACS();
-//				wc.run(config.folder, urls.get(startings.get(i)), false, config);
+				WebCrawlerACS wc = new WebCrawlerACS();
+				wc.run(config.folder, urls.get(startings.get(i)), false, config, driver);
 			}
 			else if (startings.get(i).contains("science.sciencemag.org")){
 				WebCrawlerSci wc = new WebCrawlerSci();
-				wc.run(config.folder, urls.get(startings.get(i)), false, config);
+				wc.run(config.folder, urls.get(startings.get(i)), false, config, driver);
 //				try {
 //					wc.DownloadPagesWebDriver(new URL("http://science.sciencemag.org/content/352/6282/208"));
 //				} catch (MalformedURLException e) {
@@ -57,6 +64,7 @@ public class FlashChemLit {
 //				break;
 			}
 		}
+		driver.close();
 	}
 
 	/**

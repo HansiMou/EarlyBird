@@ -21,12 +21,13 @@ import java.util.StringTokenizer;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
+import org.openqa.selenium.WebDriver;
 
 public class WebCrawlerACS extends WebCrawler {
 	HashSet<URL> tmpnewURLs = new HashSet<URL>();
 
-	public void run(String path, StartingUrl s, boolean d, Config c) {
-		initialize(path, s, d, c);
+	public void run(String path, StartingUrl s, boolean d, Config c, WebDriver wd) {
+		initialize(path, s, d, c, wd);
 		while (this.lv < this.LEVEL_LIMIT) {
 			URL url = newURLs.poll();
 			this.curNum--;

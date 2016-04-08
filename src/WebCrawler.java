@@ -21,6 +21,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class WebCrawler {
+	WebDriver driver;
 	public static int LEVEL_LIMIT = 20; // Absolute max level
 	public static boolean DEBUG = true;
 	public static final String DISALLOW = "Disallow:";
@@ -38,10 +39,10 @@ public class WebCrawler {
 
 	// initializes data structures. argv is the command line arguments.
 
-	public void initialize(String path, StartingUrl s, boolean d, Config c) {
+	public void initialize(String path, StartingUrl s, boolean d, Config c, WebDriver wd) {
 		URL url;
 		this.path = path;
-
+		driver = wd;
 		knownURLs = new Hashtable<URL, Integer>();
 		newURLs = new LinkedList<URL>();
 		lastLvResult = new HashSet<URL>();
@@ -280,14 +281,11 @@ public class WebCrawler {
 		return true;
 	}
 	public String getpageWD(URL url){
-		System.setProperty("webdriver.chrome.driver", config.cdp);
-		//WebDriver driver = new FirefoxDriver();
-		WebDriver driver = new ChromeDriver();
-		 driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS) ;      
+		   
 		driver.get(url.toString());
 		
 		String res = driver.getPageSource();
-		driver.close();
+		
 		return res;
 	}
 	// Go through page finding links to URLs. A link is signalled
