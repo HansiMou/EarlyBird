@@ -1,0 +1,677 @@
+<!doctype html>
+<!--[if lt IE 7]>
+    <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 7]>
+    <html class="no-js lt-ie10 lt-ie9 lt-ie8 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 8]>
+    <html class="no-js lt-ie10 lt-ie9 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 9]>
+    <html class="no-js lt-ie10 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if gt IE 9]>
+    <html class="no-js is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if (!IE)]><!-->
+<html class="no-js" lang="en" data-application="loading">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <title> Ternary Hybrid γ-Fe2O3/CrVI/Amine Oxidase Nanostructure for Electrochemical Sensing: Application for Polyamine Detection in Tumor Tissue - Bonaiuto - 2016 - Chemistry – A European Journal -  Wiley Online Library</title> 
+  <link rel="shortcut icon" type="image/x-icon" href="http://onlinelibrary.wiley.com:80/enhanced/static/images/brand/wiley/favicon.ico?version=1.11.2"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+  <meta name="description" content=""> 
+  <meta name="robots" content="noarchive"> 
+  <meta name="citation_doi" content="10.1002/chem.201600156"> 
+  <meta name="citation_journal_title" content="Chemistry – A European Journal"> 
+  <meta name="citation_title" content="Ternary Hybrid γ‐Fe2O3/CrVI/Amine Oxidase Nanostructure for Electrochemical Sensing: Application for Polyamine Detection in Tumor Tissue"> 
+  <meta name="citation_keywords" content="biosensors"> 
+  <meta name="citation_keywords" content="cancer"> 
+  <meta name="citation_keywords" content="chromium"> 
+  <meta name="citation_keywords" content="enzymes"> 
+  <meta name="citation_keywords" content="nanostructures"> 
+  <meta name="citation_issn" content="1521-3765"> 
+  <meta name="article_references" content="Bonaiuto, E., Magro, M., Baratella, D., Jakubec, P., Sconcerle, E., Terzo, M., Miotto, G., Macone, A., Agostinelli, E., Fasolato, S., Venerando, R., Salviulo, G., Malina, O., Zboril, R. and Vianello, F. (2016), Ternary Hybrid γ‐Fe2O3/CrVI/Amine Oxidase Nanostructure for Electrochemical Sensing: Application for Polyamine Detection in Tumor Tissue. Chem. Eur. J.. doi:10.1002/chem.201600156"> 
+  <meta name="citation_language" content="en"> 
+  <meta name="citation_publication_date" content="2016/04/01"> 
+  <meta name="citation_online_date" content="2016/04/08"> 
+  <meta name="citation_author" content="Bonaiuto, Emanuela"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Padua Department of Comparative Biomedicine and Food Science Legnaro Italy"> 
+  <meta name="citation_author" content="Magro, Massimiliano"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Padua Department of Comparative Biomedicine and Food Science Legnaro Italy"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Palacky University Regional Centre of Advanced Technologies and Materials Olomouc Czech Republic"> 
+  <meta name="citation_author" content="Baratella, Davide"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Padua Department of Comparative Biomedicine and Food Science Legnaro Italy"> 
+  <meta name="citation_author" content="Jakubec, Petr"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Palacky University Regional Centre of Advanced Technologies and Materials Olomouc Czech Republic"> 
+  <meta name="citation_author" content="Sconcerle, Elisabetta"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Padua Department of Comparative Biomedicine and Food Science Legnaro Italy"> 
+  <meta name="citation_author" content="Terzo, Milo"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Padua Department of Comparative Biomedicine and Food Science Legnaro Italy"> 
+  <meta name="citation_author" content="Miotto, Giovanni"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Padua Department of Molecular Medicine Italy"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="VIMM and Padova University Hospital Proteomic Center of Padova University Padua Italy"> 
+  <meta name="citation_author" content="Macone, Alberto"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Rome “La Sapienza” Department of Biochemical Sciences “A. Rossi Fanelli” Rome Italy"> 
+  <meta name="citation_author" content="Agostinelli, Enzo"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Rome “La Sapienza” Department of Biochemical Sciences “A. Rossi Fanelli” Rome Italy"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="CNR, Institute of Molecular Biology and Pathology Rome Italy"> 
+  <meta name="citation_author" content="Fasolato, Silvano"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Padua Unit of Hepatic Emergencies and Liver Transplantation Padua Italy"> 
+  <meta name="citation_author" content="Venerando, Rina"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Padua Department of Molecular Medicine Italy"> 
+  <meta name="citation_author" content="Salviulo, Gabriella"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Padua Department of Geosciences Italy"> 
+  <meta name="citation_author" content="Malina, Ondrej"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Palacky University Regional Centre of Advanced Technologies and Materials Olomouc Czech Republic"> 
+  <meta name="citation_author" content="Zboril, Radek"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Palacky University Regional Centre of Advanced Technologies and Materials Olomouc Czech Republic"> 
+  <meta name="citation_author" content="Vianello, Fabio"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Padua Department of Comparative Biomedicine and Food Science Legnaro Italy"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Palacky University Regional Centre of Advanced Technologies and Materials Olomouc Czech Republic"> 
+  <meta name="citation_abstract_html_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600156/abstract"> 
+  <meta name="citation_fulltext_html_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600156/full"> 
+  <meta name="citation_pdf_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600156/pdf"> 
+  <link rel="stylesheet" media="screen" href="http://cdn.wol2.wiley.com/external/fonts/open-sans/open-sans.css"> 
+  <!--[if lt IE 9]>
+        <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/common/css/wol-common-ie.css?version=1.11.2"/>
+        <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/css/wol-article-ie.css?version=1.11.2"/>
+    <![endif]--> 
+  <!--[if gt IE 8]><!--> 
+  <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/common/css/wol-common.css?version=1.11.2"> 
+  <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/css/wol-article.css?version=1.11.2"> 
+  <!--<![endif]--> 
+  <script src="http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/modernizr.custom.js?version=1.11.2"></script> 
+  <!--[if gt IE 8]><!--> 
+  <script>
+        //<![CDATA[
+        Modernizr.load([
+            {
+                test: window.matchMedia,
+                nope: 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/polyfills/matchMedia.js?version=1.11.2'
+            },
+            {
+                test: window.matchMedia && window.matchMedia( 'all' ).addListener,
+                nope: 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/polyfills/matchMedia.addListener.js?version=1.11.2'
+            }
+        ]);
+        //]]>
+    </script> 
+  <!--<![endif]--> 
+  <script type="text/javascript">
+        //<![CDATA[
+        wol2datalayer = window.wol2datalayer ? wol2datalayer : {};
+                    wol2datalayer.server="onlinelibrary.wiley.com";
+                    wol2datalayer.pageName="Ternary Hybrid \u03B3\u2010Fe2O3\/CrVI\/Amine Oxidase Nanostructure for Electrochemical Sensing: Application for Polyamine Detection in Tumor Tissue - Bonaiuto - 2016 - Chemistry \u2013 A European Journal";
+                    wol2datalayer.channel="JOURNALS";
+                    wol2datalayer.prop1="ABSTRACT\/ACCESS DENIED";
+                    wol2datalayer.prop2="ENHANCED ABSTRACT\/ACCESS DENIED";
+                    wol2datalayer.prop3="Chemistry \u2013 A European Journal";
+                    wol2datalayer.prop4="CH00,CH70,CH80,CH90,CHB0,CHD0,MS00";
+                    wol2datalayer.prop5="";
+                    wol2datalayer.prop7="Ternary Hybrid \u03B3\u2010Fe2O3\/CrVI\/Amine Oxidase Nanostructure for Electrochemical Sensing: Application for Polyamine Detection in Tumor Tissue";
+                    wol2datalayer.prop8="";
+                    wol2datalayer.prop9="licensed";
+                    wol2datalayer.prop10="subscription";
+                    wol2datalayer.prop11="PDF and HTML";
+                    wol2datalayer.prop12="0";
+                    wol2datalayer.prop13="10.1002\/(ISSN)1521-3765";
+                    wol2datalayer.prop14="10.1002\/chem.201600156";
+                    wol2datalayer.prop15="Early View";
+                    wol2datalayer.prop16="$esc.javascript($entry.getValue())";
+                    wol2datalayer.prop18="08 APR 2016";
+                    wol2datalayer.prop33="CH00";
+                    wol2datalayer.prop35="";
+                    wol2datalayer.events="event59";
+                    wol2datalayer.prop26="Guest";
+        
+        //]]>
+    </script> 
+  <script type="text/javascript">
+      //<![CDATA[
+      document.write("<scr"+"ipt type=\"text/javascript\" src=\"//assets.adobedtm.com/6e626c9ec247e474f6b98eb15a79a185cf7e26a5/satelliteLib-d0317bde5157000144848f23fbb44a4de679c053.js\"></sc"+"ript>");
+      //]]>
+    </script> 
+  <script>
+        var gs_channels = 'default';
+    </script> 
+  <script src="http://wiley.grapeshot.co.uk/main/channels.cgi?url=http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201600156/abstract"></script> 
+  <script>
+        var digitalData         = digitalData || {};
+        digitalData.dartZone    = 'wly.chemistry_000033/chem-euro-j_2111';
+    </script> 
+  <script>
+        var googletag       = googletag       || {};
+        googletag.cmd       = googletag.cmd   || [];
+
+        ( function () {
+            var gads = document.createElement ( 'script' ) ,
+                node = document.getElementsByTagName ( 'script' ) [ 0 ] ;
+            gads.async  = true;
+            gads.src    = document.location.protocol + '//www.googletagservices.com/tag/js/gpt.js';
+            node.parentNode.insertBefore ( gads , node );
+        }) ();
+    </script> 
+  <script>
+        googletag.cmd.push ( function () {
+            // Mapping for mobile images sizes
+            var sizes = {
+                    leaderboard : googletag.sizeMapping ()
+                        .addSize ([ 300 , 100 ] , [ 300 , 50 ])
+                        .addSize ([ 740 , 100 ] , [ 728 , 90 ])
+                        .addSize ([ 0 , 0 ]     , 'fluid' )
+                        .build () ,
+                    skyscraper : googletag.sizeMapping ()
+                        .addSize ([ 1200 , 0 ] , [ 160 , 600 ])
+                        .addSize ([ 1200 , 0 ] , [ 160 , 320 ])
+                        .addSize ([ 1200 , 0 ] , [ 160 , 160 ])
+                        .addSize ([ 1200 , 0 ] , [ 120 , 600 ])
+                        .build ()
+                };
+
+            googletag.pubads ()
+                .setTargeting ( 'WOL-Page-Type'               , "ABSTRACT\/ACCESS DENIED" )
+                .setTargeting ( 'WOL-Page-Subtype'            , "ENHANCED ABSTRACT\/ACCESS DENIED" )
+                .setTargeting ( 'WOL-Subject-Codes'           , "CH00,CH70,CH80,CH90,CHB0,CHD0,MS00" )
+                .setTargeting ( 'WOL-Article-Access-State'    , "licensed" )
+                .setTargeting ( 'WOL-Pub-Access-Status'       , "subscription" )
+                .setTargeting ( 'WOL-Article-Availability'    , "PDF and HTML" )
+                .setTargeting ( 'WOL-Journal-DOI'             , "10.1002\/(ISSN)1521-3765" )
+                .setTargeting ( 'WOL-Article-Chapter-DOI'     , "10.1002\/chem.201600156" )
+                .setTargeting ( 'WOL-Issue-DOI'               , "Early View" )
+                .setTargeting ( 'WOL-Site-Search-Query'       , "" )
+                .setTargeting ( 'WOL-User-login-Status'       , "Guest" )
+                .setTargeting ( 'WOL-Primary-Subject-Code'    , "CH00" )
+                .setTargeting ( 'WOL-Hub-ID'                  , "" )
+                .setTargeting ( 'gs_cat'                      , gs_channels );
+
+            googletag.defineSlot (
+                    '/2215/wly.chemistry_000033/chem-euro-j_2111'  ,
+                    'fluid'                     ,
+                    'advert-leaderboard'
+                )
+                .defineSizeMapping ( sizes.leaderboard )
+                .addService ( googletag.pubads ())
+                .setCollapseEmptyDiv ( true );
+
+            googletag.defineSlot (
+                    '/2215/wly.chemistry_000033/chem-euro-j_2111'  ,
+                    'fluid'                     ,
+                    'advert-skyscraper'
+                )
+                .defineSizeMapping ( sizes.skyscraper )
+                .addService ( googletag.pubads ())
+                .setCollapseEmptyDiv ( true );
+
+            // Enable services
+            googletag.pubads ().enableSingleRequest ();
+            googletag.enableServices ();
+        });
+    </script> 
+ </head> 
+ <body data-type="default"> 
+  <script>
+    var dataLayer = window.dataLayer ? dataLayer : {};
+    dataLayer.pageType = 'ABSTRACT/ACCESS DENIED';
+    dataLayer.contentAvailability = 'PDF and HTML';
+</script> 
+  <div id="js-viewport-main" class="l-viewport-main prim-nav-container"> 
+   <header class="header clearfix" role="banner"> 
+    <div class="ribbon"> 
+     <span class="ribbon__quarter ribbon__first"></span> 
+     <span class="ribbon__quarter ribbon__second"></span> 
+     <span class="ribbon__quarter ribbon__third"></span> 
+     <span class="ribbon__quarter ribbon__fourth"></span> 
+    </div> 
+    <div class="l-header-container"> 
+     <div class="l-header clearfix"> 
+      <span class="header__logo"> <a href="http://onlinelibrary.wiley.com"> <img src="http://onlinelibrary.wiley.com:80/enhanced/static/common/images/brand/wiley/header-logo.png?version=1.11.2" alt="Wiley Online Library"> </a> </span> 
+      <ul class="header__user-access u-horizontal-list"> 
+       <li> <a href="#main-content" class="is-accessible header__user-access-skip-link">Skip to main content</a> </li> 
+       <li> <a href="https://secure.onlinelibrary.wiley.com/secure/login/?originalUrl=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fchem.201600156%2Ffull%3Fwol1URL%3D%2Fdoi%2F10.1002%2Fchem.201600156%2Ffull&amp;wolSessionId=f02cc3d02832445cb639692b62497893" class="header__user-access-link"> <span class="icon icon__avatar"></span> <span class="header__user-access-link-text">Log in / Register</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </header> 
+   <img src="http://onlinelibrary.wiley.com/createAccessReportingEvent?doi=10.1002%2Fchem.201600156"> 
+   <aside class="advert-leaderboard__container"> 
+    <div id="advert-leaderboard" class="advert" role="complementary"> 
+     <div class="advert-leaderboard__title">
+      Advertisement
+     </div> 
+     <script>
+                googletag.cmd.push ( function () {
+                    googletag.display ( 'advert-leaderboard' );
+                });
+            </script> 
+     <noscript> 
+      <a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=728x90&amp;tile=1&amp;c=934648900" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=728x90&amp;tile=1&amp;c=934648900"> </a> 
+     </noscript> 
+    </div> 
+   </aside> 
+   <div class="l-main main" role="main"> 
+    <div class="l-article-restricted-access js-restricted-access l-article--right"> 
+     <ul class="meta-navigation u-list-plain"> 
+      <li class="meta-navigation__item"> <a id="wol1backlink" href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201600156/abstract" class="meta-navigation__return"> <span class="icon icon__return"></span> <span>Go to old article view</span> </a> </li> 
+     </ul> 
+     <div id="js-viewport-mini" class="l-viewport-mini"> 
+      <div id="js-article-nav" class="l-article-nav js-module" data-module="toolbar"> 
+       <div id="js-article-tools" class="toolbar toolbar--restricted-access"> 
+        <a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201600156/full" class="button button--action"> <span class="icon icon__get-access"></span> Get access </a> 
+        <ul class="article-tools__bar"> 
+         <li class="article-tools__tool article-tools__tool--set js-module" data-module="textresize"></li> 
+         <li class="article-tools__tool article-tools__tool--set article-tools__tool--share js-module" data-module="add-this" data-doi="10.1002/chem.201600156"></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="skyscraper--right"> 
+       <div id="skyscraper" class="skyscraper"> 
+        <aside id="advert-skyscraper" class="advert-skyscraper" role="complementary"> 
+         <div class="skyscraper__title">
+          Advertisement
+         </div> 
+         <script>
+                googletag.cmd.push ( function () {
+                    googletag.display ( 'advert-skyscraper' );
+                });
+            </script> 
+         <noscript> 
+          <a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=160x600|160x320|160x160|120x600&amp;tile=2&amp;c=365836863" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=160x600|160x320|160x160|120x600&amp;tile=2&amp;c=365836863"> </a> 
+         </noscript> 
+        </aside> 
+       </div> 
+      </div> 
+      <article class="journal js-journal"> 
+       <header class="journal-header"> 
+        <a class="journal-header__name journal-header__name--normal" href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765"> 
+         <div class="journal-header__name-link"> 
+          <strong class="journal-header__name-title">Chemistry – A European Journal</strong> 
+          <div class="journal-header__link">
+           Explore this journal &gt;
+          </div> 
+         </div> </a> 
+        <ul class="u-horizontal-list"> 
+         <li> <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765" class="journal-header__logo"> <img src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2F%28ISSN%291521-3765/asset/olalertbanner.jpg?l=SkaBT8QEx2qTQZnRtCT6QPhcLJA52yymxHPBeYaFWucLC58DhbjndxPt4K%2FLlREj" alt="Chemistry – A European Journal" class="journal-header__logo-img"> 
+           <div class="journal-header__link">
+            Explore this journal &gt;
+           </div> </a> </li> 
+        </ul> 
+       </header> 
+       <article class="issue"> 
+        <div class="issue-header js-module" data-module="issue-header"> 
+         <nav class="issue-header__nav" role="navigation"> 
+          <div class="issue-header__nav-control"> 
+           <div class="issue-header__sub-title"> 
+            <span class="weight-bold">Early View</span> 
+           </div> 
+           <div class="issue-header__image-wrapper"> 
+            <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/earlyview" class="issue-header__image-link"> <img src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.v22.16/asset/cover.gif?l=SkaBT8QEx2q6ifHMLifR1GS%2B1vV2seqA8Q9Jd21y7zCS%2F5O1u5tb9w%3D%3D" class="issue-header__image" alt="Chemistry – A European Journal"> </a> 
+            <ol class="u-list-plain"> 
+             <li> <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201600218" class="issue-header__arrow--left issue-header__arrow"> <span class="icon icon__arrow icon__arrow--left"></span> <span class="is-accessible">Previous article in Early View: Two-Photon Excitation of a Plasmonic Nanoswitch Monitored by Single-Molecule Fluorescence Microscopy</span> </a> <p class="issue-header__tooltip issue-header__tooltip--left"> <span class="icon icon__chevron-up"></span> <span class="issue-header__tooltip-header">Previous article in Early View:</span> Two-Photon Excitation of a Plasmonic Nanoswitch Monitored by Single-Molecule Fluorescence Microscopy </p> </li> 
+             <li> <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201600141" class="issue-header__arrow--right issue-header__arrow"> <span class="icon icon__arrow icon__arrow--right"></span> <span class="is-accessible">Next article in Early View: Biomineralization-Inspired Preparation of Zinc Hydroxide Carbonate/Polymer Hybrids and Their Conversion into Zinc Oxide Thin-Film Photocatalysts</span> </a> <p class="issue-header__tooltip issue-header__tooltip--right"> <span class="icon icon__chevron-up"></span> <span class="issue-header__tooltip-header">Next article in Early View:</span> Biomineralization-Inspired Preparation of Zinc Hydroxide Carbonate/Polymer Hybrids and Their Conversion into Zinc Oxide Thin-Film Photocatalysts </p> </li> 
+            </ol> 
+           </div> 
+           <p class="issue-header__description"> <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/earlyview" class="issue-header__link">Browse Early View Articles</a><br> Online Version of Record published before inclusion in an issue</p> 
+          </div> 
+         </nav> 
+        </div> 
+        <article id="main-content" class="article js-module" data-module="Article">
+         <header class="js-module article-header" data-module="ArticleHeader">
+          <div class="article-header__intro">
+           <span class="article-header__category article-category">Full Paper</span>
+           <h1 class="article-header__title" lang="en">Ternary Hybrid γ-Fe<sub>2</sub>O<sub>3</sub>/Cr<sup>VI</sup>/Amine Oxidase Nanostructure for Electrochemical Sensing: Application for Polyamine Detection in Tumor Tissue</h1>
+           <div class="article-header__authors-container">
+            <h2 class="is-accessible">Authors</h2>
+            <ul class="article-header__authors_list js-module" data-module="keyboardHover">
+             <li class="article-header__authors-item" data-hover-container="author1" data-author-name="Dr. Emanuela Bonaiuto"><h3 class="article-header__authors-name" data-hover-control="author1">Dr. Emanuela Bonaiuto,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author1">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Comparative Biomedicine and Food Science, University of Padua, Legnaro, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Emanuela Bonaiuto"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Emanuela%20Bonaiuto%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Emanuela Bonaiuto"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author2" data-author-name="Dr. Massimiliano Magro"><h3 class="article-header__authors-name" data-hover-control="author2">Dr. Massimiliano Magro,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author2">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Comparative Biomedicine and Food Science, University of Padua, Legnaro, Italy</li>
+                <li>Regional Centre of Advanced Technologies and Materials, Palacky University, Olomouc, Czech Republic</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Massimiliano Magro"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Massimiliano%20Magro%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Massimiliano Magro"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author3" data-author-name="Dr. Davide Baratella"><h3 class="article-header__authors-name" data-hover-control="author3">Dr. Davide Baratella,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author3">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Comparative Biomedicine and Food Science, University of Padua, Legnaro, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Davide Baratella"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Davide%20Baratella%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Davide Baratella"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author4" data-author-name="Dr. Petr Jakubec"><h3 class="article-header__authors-name" data-hover-control="author4">Dr. Petr Jakubec,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author4">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Regional Centre of Advanced Technologies and Materials, Palacky University, Olomouc, Czech Republic</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Petr Jakubec"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Petr%20Jakubec%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Petr Jakubec"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author5" data-author-name="Elisabetta Sconcerle"><h3 class="article-header__authors-name" data-hover-control="author5">Elisabetta Sconcerle,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author5">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Comparative Biomedicine and Food Science, University of Padua, Legnaro, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Elisabetta Sconcerle"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Elisabetta%20Sconcerle%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Elisabetta Sconcerle"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author6" data-author-name="Dr. Milo Terzo"><h3 class="article-header__authors-name" data-hover-control="author6">Dr. Milo Terzo,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author6">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Comparative Biomedicine and Food Science, University of Padua, Legnaro, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Milo Terzo"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Milo%20Terzo%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Milo Terzo"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author7" data-author-name="Dr. Giovanni Miotto"><h3 class="article-header__authors-name" data-hover-control="author7">Dr. Giovanni Miotto,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author7">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Molecular Medicine, University of Padua, Italy</li>
+                <li>Proteomic Center of Padova University, VIMM and Padova University Hospital, Padua, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Giovanni Miotto"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Giovanni%20Miotto%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Giovanni Miotto"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author8" data-author-name="Dr. Alberto Macone"><h3 class="article-header__authors-name" data-hover-control="author8">Dr. Alberto Macone,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author8">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Biochemical Sciences “A. Rossi Fanelli”, University of Rome “La Sapienza”, Rome, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Alberto Macone"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Alberto%20Macone%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Alberto Macone"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author9" data-author-name="Prof. Enzo Agostinelli"><h3 class="article-header__authors-name" data-hover-control="author9">Prof. Enzo Agostinelli,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author9">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Biochemical Sciences “A. Rossi Fanelli”, University of Rome “La Sapienza”, Rome, Italy</li>
+                <li>CNR, Institute of Molecular Biology and Pathology, Rome, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Prof. Enzo Agostinelli"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Prof.%20Enzo%20Agostinelli%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Prof. Enzo Agostinelli"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author10" data-author-name="Dr. Silvano Fasolato"><h3 class="article-header__authors-name" data-hover-control="author10">Dr. Silvano Fasolato,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author10">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Unit of Hepatic Emergencies and Liver Transplantation, Department of Medicine, University of Padua, Padua, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Silvano Fasolato"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Silvano%20Fasolato%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Silvano Fasolato"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author11" data-author-name="Dr. Rina Venerando"><h3 class="article-header__authors-name" data-hover-control="author11">Dr. Rina Venerando,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author11">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Molecular Medicine, University of Padua, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Rina Venerando"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Rina%20Venerando%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Rina Venerando"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author12" data-author-name="Prof. Gabriella Salviulo"><h3 class="article-header__authors-name" data-hover-control="author12">Prof. Gabriella Salviulo,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author12">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Geosciences, University of Padua, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Prof. Gabriella Salviulo"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Prof.%20Gabriella%20Salviulo%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Prof. Gabriella Salviulo"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author13" data-author-name="Dr. Ondrej Malina"><h3 class="article-header__authors-name" data-hover-control="author13">Dr. Ondrej Malina,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author13">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Regional Centre of Advanced Technologies and Materials, Palacky University, Olomouc, Czech Republic</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Ondrej Malina"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Ondrej%20Malina%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Ondrej Malina"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author14" data-author-name="Prof. Radek Zboril"><h3 class="article-header__authors-name" data-hover-control="author14">Prof. Radek Zboril,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author14">
+               <ul class="article-header__authors-item-details">
+                <li><span class="article-header__authors-item-label icon icon__orchid">ORCID:</span><a class="article-header__authors-item-link" href="http://orcid.org/0000-0002-3147-2196">orcid.org/0000-0002-3147-2196</a></li>
+               </ul>
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Regional Centre of Advanced Technologies and Materials, Palacky University, Olomouc, Czech Republic</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Prof. Radek Zboril"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Prof.%20Radek%20Zboril%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Prof. Radek Zboril"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author15" data-author-name="Prof. Dr. Fabio Vianello"><h3 class="article-header__authors-name" data-hover-control="author15">Prof. Dr. Fabio Vianello<span class="icon icon__article-header icon__email"></span></h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author15">
+               <span class="article-header__corresponding-auth">Corresponding author</span>
+               <ul class="article-header__authors-item-details">
+                <li><span class="article-header__authors-item-label">E-mail address: </span><a href="mailto:fabio.vianello@unipd.it" title="Link to email address" class="article-header__authors-item-email">fabio.vianello@unipd.it</a></li>
+                <li><span class="article-header__authors-item-label icon icon__orchid">ORCID:</span><a class="article-header__authors-item-link" href="http://orcid.org/0000-0002-4874-7205">orcid.org/0000-0002-4874-7205</a></li>
+               </ul>
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Comparative Biomedicine and Food Science, University of Padua, Legnaro, Italy</li>
+                <li>Regional Centre of Advanced Technologies and Materials, Palacky University, Olomouc, Czech Republic</li>
+               </ol>
+               <ul class="article-header__authors-item-corresp-addr">
+                <li><i class="icon icon__authors-corresp-addr"></i></li>
+               </ul>
+               <span class="after-author-correspondence" data-author-name="Prof. Dr. Fabio Vianello"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Prof.%E2%80%85Dr.%20Fabio%20Vianello%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Prof. Dr. Fabio Vianello"></span>
+              </div></li>
+            </ul>
+           </div>
+           <div class="article-header__meta-info-container">
+            <ul id="header-meta-info-container" class="article-header__meta-info-list">
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label">First published: </span><time class="article-header__meta-info-data" datetime="2016-04-08" id="first-published-date">8 April 2016</time><a href="#publication-history" class="article-header__meta-info-2nd-data js-publication-history">Full publication history</a></li>
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label" id="header-section-doi">DOI: </span><span class="article-header__meta-info-data">10.1002/chem.201600156</span><a href="/enhanced/exportCitation/doi/10.1002/chem.201600156" class="article-header__meta-info-2nd-data analytics-view-citation js-module" data-module="fragment">View/save citation</a></li>
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label">Cited by: </span><span class="article-header__meta-info-data"><span id="js-citations__count">0</span> articles </span><a class="article-header__meta-info-2nd-data citations__control js-module" href="http://onlinelibrary.wiley.com/enhanced/refreshCitedBy?doi=10.1002/chem.201600156&amp;refreshCitedByCounter=true" data-module="citations">Check for new citations</a><a href="#footer-citing" class="js-scrollto article-header__meta-info-2nd-data citations__link">Citing literature</a></li>
+             <li class="article-header__meta-info-item">
+              <div data-module="alt-metrics" class="js-module altmetric-embed" data-badge-type="1" data-doi="10.1002/chem.201600156" data-badge-popover="bottom" data-link-target="_blank"></div></li>
+             <li class="article-header__meta-info-item"><a href="#funding-information" class="article-header__meta-info-2nd-data js-funding-info">Funding Information</a></li>
+            </ul>
+           </div>
+          </div>
+          <hr>
+         </header>
+         <section id="abstract" class="article-section article-section--abstract">
+          <div id="en_main_abstract" class="article-section__content mainAbstract" lang="en">
+           <h2 class="article-section__header">Abstract</h2>
+           <p>Dichromate binds to surface-active maghemite nanoparticles (SAMNs) to form a stable core–shell nanostructures (SAMN@Cr<sup>VI</sup>). The hybrid was characterized by Mössbauer spectroscopy, high-angle annular dark-field imaging, electron energy-loss spectroscopy, and electrochemical techniques, which revealed a strong interaction of dichromate with the nanoparticle surface. Electrochemical characterization showed lower charge-transfer resistance, better electrochemical performance, and more reversible electrochemical behavior with respect to naked SAMNs. Moreover, SAMN@Cr<sup>VI</sup> is an excellent electrocatalyst for hydrogen peroxide reduction. Furthermore, an enzyme, namely, bovine serum amine oxidase (BSAO: EC 1.4.3.6), was immobilized on SAMN@Cr<sup>VI</sup> by self-assembly to give a ternary hybrid nanostructured catalyst for polyamine oxidation (SAMN@Cr<sup>VI</sup>-BSAO). SAMN@Cr<sup>VI</sup>-BSAO was applied for the development of a reagentless, fast, inexpensive, and interference-free polyamine biosensor, which was successfully exploited for the discrimination of tumorous tissue from healthy tissue in human crude liver extracts.</p>
+          </div>
+         </section>
+         <span id="after-abstract"></span>
+         <section class="article-section align-center">
+          <a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201600156/full" class="button button--action"><span class="icon icon__get-access"></span> Get access to the full text of this article </a>
+         </section>
+         <div id="js-feedback" class="feedback feedback--maximised js-module" data-module="feedback">
+          <a href="https://wileyonlinelibrary.uservoice.com/" class="feedback__content-link feedback__content-link--open" target="_blank">Provide feedback or get help</a>
+          <div class="feedback__content">
+           <span class="feedback__content-title">You are viewing our new enhanced HTML article.</span> 
+           <p class="feedback__content-paragraph"> If you can't find a tool you're looking for, please click the link at the top of the page to "Go to old article view". Alternatively, view our <a href="https://wileyonlinelibrary.uservoice.com" class="feedback__content-link" target="_blank"> Knowledge Base articles </a> for additional help. Your feedback is important to us, so please <a href="https://wileyonlinelibrary.uservoice.com" class="feedback__content-link" target="_blank"> let us know </a> if you have comments or ideas for improvement. </p>
+          </div>
+         </div>
+         <footer class="article-footer js-module" data-module="Footer">
+          <h2 class="is-accessible">Ancillary</h2>
+          <section id="footer-article-info" class="article-footer__section">
+           <h3 class="article-footer__section-title js-footer-title"><i class="icon icon__double-chevron"></i>Article Information</h3>
+           <div class="article-info__section-content js-footer-info js-article-info">
+            <div class="article-info__doi-container">
+             <h4 class="article-info__section-sub-title">DOI</h4>
+             <span class="article-info__section-doi-data">10.1002/chem.201600156</span>
+             <ul class="article-info__list u-list-plain">
+              <li class="article-info__citations-item"><a href="/enhanced/exportCitation/doi/10.1002/chem.201600156" class="article-header__meta-info-2nd-data analytics-view-citation js-module" data-module="fragment">View/save citation</a></li>
+             </ul>
+            </div>
+            <div class="article-info__format-container article-format">
+             <h4 class="article-info__section-sub-title">Format Available</h4>
+             <span class="article-info__section-format-data">Full text: HTML | PDF</span>
+            </div>
+            <footer class="article-info__copyright-container" id="copyright">
+             <p class="article-info__copyright">© 2016 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim</p>
+            </footer>
+            <p class="request-permissions"><a href="https://s100.copyright.com/AppDispatchServlet?publisherName=Wiley&amp;publication=CHEM&amp;title=Ternary%20Hybrid%20%CE%B3%E2%80%90Fe2O3%2FCrVI%2FAmine%20Oxidase%20Nanostructure%20for%20Electrochemical%20Sensing%3A%20Application%20for%20Polyamine%20Detection%20in%20Tumor%20Tissue&amp;publicationDate=08%20APR%202016&amp;author=Emanuela%20Bonaiuto%2CMassimiliano%20Magro%2CDavide%20Baratella%2CPetr%20Jakubec%2CElisabetta%20Sconcerle%2CMilo%20Terzo%2CGiovanni%20Miotto%2CAlberto%20Macone%2CEnzo%20Agostinelli%2CSilvano%20Fasolato%2CRina%20Venerando%2CGabriella%20Salviulo%2COndrej%20Malina%2CRadek%20Zboril%2CFabio%20Vianello&amp;startPage=n%2Fa&amp;endPage=n%2Fa&amp;copyright=%C2%A9%202016%20WILEY%E2%80%90VCH%20Verlag%20GmbH%20%26%20Co.%20KGaA%2C%20Weinheim&amp;contentID=10.1002%2Fchem.201600156&amp;orderSource=Wileyonline&amp;orderBeanReset=true" class="js-module" data-module="rights-link" target="_blank"><span class="icon-aa icon-aa__permission"></span> Request Permissions </a></p>
+            <div class="article-info__keywords-plus-wrapper">
+             <div class="article-info__keywords-container">
+              <h4 class="article-info__section-sub-title">Keywords</h4>
+              <ul class="article-info__keywords-list u-horizontal-list">
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">biosensors; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">cancer; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">chromium; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">enzymes; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">nanostructures</span></li>
+              </ul>
+             </div>
+             <span id="after-keywords"></span>
+            </div>
+            <div class="article-info__publication-history-container" id="publication-history">
+             <h4 class="article-info__section-sub-title">Publication History</h4>
+             <ul class="article-info__publication-history-list u-list-plain">
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Version of record online: </span><time datetime="2016-04-08" class="article-info__publication-history-data">8 April 2016</time></li>
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Manuscript Received: </span><time datetime="2016-01-13" class="article-info__publication-history-data">13 January 2016</time></li>
+             </ul>
+            </div>
+            <div id="funding-information" class="article-info__funded-by-container">
+             <h4 class="article-info__section-sub-title">Funded by</h4>
+             <ul class="article-info__funded-by-list">
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">Italian Institutional Ministry. Grant Numbers: 60A06-7411, 60A06-8055</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">University of Padua. Grant Number: CPDR148959</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">CARIPARO Foundation</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">Ministry of Education, Youth and Sports of the Czech Republic. Grant Number: LO1305</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">Palacký University. Grant Number: IGA_PrF_2015_017</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">Regione Lazio. Grant Number: FILAS-RU-2014-1020</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">Italian MIUR</span></li>
+             </ul>
+            </div>
+            <span id="after-funding-information"></span>
+           </div>
+          </section>
+          <section id="footer-support-info" class="article-footer__section">
+           <h3 class="article-footer__section-title js-footer-title"><i class="icon icon__double-chevron"></i>Supporting Information </h3>
+           <div class="article-supp-info__section-content js-footer-info" id="">
+            <p class="article-info__intro">As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p>
+            <div class="support-info__table-wrapper">
+             <table class="support-info__table">
+              <thead>
+               <tr>
+                <th id="article-filename">Filename</th>
+                <th id="article-description">Description</th>
+               </tr>
+              </thead>
+              <tbody>
+               <tr>
+                <td headers="article-filename"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600156/asset/supinfo%2Fchem201600156-sup-0001-misc_information.pdf?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAL5vXckFdwSLRJ9MHlXZS%2F7AoOcPFqOaaGOTwxc7%2BdhryXiJL6zY9eg%0AM3U%2BGJXIUu6WYIMKmrF9n0k6wo2Wq9sl9GTyWw6cbQ%3D%3D">chem201600156-sup-0001-misc_information.pdf</a><span class="support-info__file-ext">1014K</span></td>
+                <td headers="article-description">Supplementary</td>
+               </tr>
+              </tbody>
+             </table>
+            </div>
+            <p class="support-info__disclaimer">Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.</p>
+           </div>
+          </section>
+          <section id="footer-citing" class="article-footer__section citations__section">
+           <h3 class="article-footer__section-title js-footer-title"><span class="icon icon__double-chevron"></span>Citing Literature </h3>
+           <div id="js-citations__section" class="article-info__section-content js-footer-info">
+            <div class="modal__header">
+             <ul class="cited-info__list u-horizontal-list">
+              <li class="cited-info__item"><span class="cited-info__text">Number of times cited</span>: <span id="js-citations__counter">0</span></li>
+             </ul>
+            </div>
+            <div class="modal__scrollable">
+             <ol class="article-section__citation-list"></ol>
+            </div>
+           </div>
+          </section>
+         </footer>
+        </article> 
+       </article> 
+      </article> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- START: Footer --> 
+   <div class="stripe"> 
+    <div class="fill fill--1"></div> 
+    <div class="fill fill--2"></div> 
+    <div class="fill fill--3"></div> 
+    <div class="fill fill--4"></div> 
+   </div> 
+   <footer class="footer footer--wiley" role="contentinfo"> 
+    <nav class="footer__nav" role="navigation"> 
+     <ul class="footer__list footer__list--logo"> 
+      <li> <h2 class="footer__logo"> <a href="http://onlinelibrary.wiley.com"> <img src="http://onlinelibrary.wiley.com:80/enhanced/static/common/images/brand/wiley/footer-logo.png?version=1.11.2" alt="Wiley"> </a> </h2> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/browse/publications"> <b>Browse Publications</b> </a> </li> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/browse/subjects"> <b>Browse by Subject</b> </a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390229.html"> <b>Resources</b> </a> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://journalshelp.wiley.com/">Help &amp; Support</a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-813473.html">Cookies</a> &amp; <a class="footer__link" href="http://onlinelibrary.wiley.com/privacyPolicy">Privacy</a> </li> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/termsAndConditions">Terms &amp; Conditions</a> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390001.html">About Us</a> </li> 
+      <li> <a class="footer__link" href="http://www.wileyjobnetwork.com/">Wiley Job Network</a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390236.html">Advertisers</a> &amp; <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390243.html">Agents</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="footer__copy"> 
+     <p class="footer__text footer__text--slogan">Powered by <a href="http://onlinelibrary.wiley.com" class="footer__link footer__link--active">Wiley Online Library</a></p> 
+     <p class="footer__text">Copyright © 1999 - 2016 <a href="http://www.wiley.com" class="footer__link footer__link--active">John Wiley &amp; Sons, Inc.</a> All Rights Reserved</p> 
+    </div> 
+   </footer> 
+   <script>
+//<![CDATA[
+    
+    Modernizr.load([
+        {
+            load    : 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/wiley-require-2.1.6.js',
+            callback: function() {
+
+                
+                var interval = setInterval(function() {
+                    if ( typeof WILEY !== 'undefined' && WILEY.requirejs ) {
+
+                        WILEY.requirejs([
+                                'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/wiley-common.js?version=1.11.2',
+                                'http://onlinelibrary.wiley.com:80/enhanced/static/js/wiley-article.js?version=1.11.2'
+                            ], function() {
+                            WILEY.requirejs([
+                                'common/modules/main',
+                                'modules/main-article'
+
+                                                            ]);
+                        });
+
+                        clearInterval(interval);
+                    }
+                }, 100 );
+            }
+        }
+        ]);
+//]]>
+</script> 
+  </div> 
+  <script type="text/javascript">_satellite.pageBottom();</script>  
+ </body>
+</html>

@@ -1,0 +1,517 @@
+<!doctype html>
+<!--[if lt IE 7]>
+    <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 7]>
+    <html class="no-js lt-ie10 lt-ie9 lt-ie8 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 8]>
+    <html class="no-js lt-ie10 lt-ie9 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 9]>
+    <html class="no-js lt-ie10 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if gt IE 9]>
+    <html class="no-js is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if (!IE)]><!-->
+<html class="no-js" lang="en" data-application="loading">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <title> Brønsted Acid-Catalyzed [3+2]-Cycloaddition of 2-Vinylindoles with In Situ-Generated 2-Methide-2H-indoles: Highly Enantioselective Synthesis of Pyrrolo[1,2-a]indoles - Bera - 2016 - Chemistry – A European Journal -  Wiley Online Library</title> 
+  <link rel="shortcut icon" type="image/x-icon" href="http://onlinelibrary.wiley.com:80/enhanced/static/images/brand/wiley/favicon.ico?version=1.11.2"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+  <meta name="description" content=""> 
+  <meta name="robots" content="noarchive"> 
+  <meta name="citation_doi" content="10.1002/chem.201601020"> 
+  <meta name="citation_journal_title" content="Chemistry – A European Journal"> 
+  <meta name="citation_title" content="Brønsted Acid‐Catalyzed [3+2]‐Cycloaddition of 2‐Vinylindoles with In Situ‐Generated 2‐Methide‐2H‐indoles: Highly Enantioselective Synthesis of Pyrrolo[1,2‐a]indoles"> 
+  <meta name="citation_keywords" content="asymmetric synthesis"> 
+  <meta name="citation_keywords" content="phosphoric acids"> 
+  <meta name="citation_keywords" content="cycloaddition"> 
+  <meta name="citation_keywords" content="heterocycles"> 
+  <meta name="citation_keywords" content="organocatalysis"> 
+  <meta name="citation_issn" content="1521-3765"> 
+  <meta name="article_references" content="Bera, K. and Schneider, C. (2016), Brønsted Acid‐Catalyzed [3+2]‐Cycloaddition of 2‐Vinylindoles with In Situ‐Generated 2‐Methide‐2H‐indoles: Highly Enantioselective Synthesis of Pyrrolo[1,2‐a]indoles. Chem. Eur. J.. doi:10.1002/chem.201601020"> 
+  <meta name="citation_language" content="en"> 
+  <meta name="citation_publication_date" content="2016/03/01"> 
+  <meta name="citation_online_date" content="2016/03/30"> 
+  <meta name="citation_author" content="Bera, Kalisankar"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Universität Leipzig Institut für Organische Chemie Leipzig Germany"> 
+  <meta name="citation_author" content="Schneider, Christoph"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Universität Leipzig Institut für Organische Chemie Leipzig Germany"> 
+  <meta name="citation_abstract_html_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201601020/abstract"> 
+  <meta name="citation_fulltext_html_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201601020/full"> 
+  <meta name="citation_pdf_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201601020/pdf"> 
+  <link rel="stylesheet" media="screen" href="http://cdn.wol2.wiley.com/external/fonts/open-sans/open-sans.css"> 
+  <!--[if lt IE 9]>
+        <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/common/css/wol-common-ie.css?version=1.11.2"/>
+        <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/css/wol-article-ie.css?version=1.11.2"/>
+    <![endif]--> 
+  <!--[if gt IE 8]><!--> 
+  <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/common/css/wol-common.css?version=1.11.2"> 
+  <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/css/wol-article.css?version=1.11.2"> 
+  <!--<![endif]--> 
+  <script src="http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/modernizr.custom.js?version=1.11.2"></script> 
+  <!--[if gt IE 8]><!--> 
+  <script>
+        //<![CDATA[
+        Modernizr.load([
+            {
+                test: window.matchMedia,
+                nope: 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/polyfills/matchMedia.js?version=1.11.2'
+            },
+            {
+                test: window.matchMedia && window.matchMedia( 'all' ).addListener,
+                nope: 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/polyfills/matchMedia.addListener.js?version=1.11.2'
+            }
+        ]);
+        //]]>
+    </script> 
+  <!--<![endif]--> 
+  <script type="text/javascript">
+        //<![CDATA[
+        wol2datalayer = window.wol2datalayer ? wol2datalayer : {};
+                    wol2datalayer.server="onlinelibrary.wiley.com";
+                    wol2datalayer.pageName="Br\u00F8nsted Acid\u2010Catalyzed [3+2]\u2010Cycloaddition of 2\u2010Vinylindoles with In\u2005Situ\u2010Generated 2\u2010Methide\u20102H\u2010indoles: Highly Enantioselective Synthesis of Pyrrolo[1,2\u2010a]indoles - Bera - 2016 - Chemistry \u2013 A European Journal";
+                    wol2datalayer.channel="JOURNALS";
+                    wol2datalayer.prop1="ABSTRACT\/ACCESS DENIED";
+                    wol2datalayer.prop2="ENHANCED ABSTRACT\/ACCESS DENIED";
+                    wol2datalayer.prop3="Chemistry \u2013 A European Journal";
+                    wol2datalayer.prop4="CH00,CH70,CH80,CH90,CHB0,CHD0,MS00";
+                    wol2datalayer.prop5="";
+                    wol2datalayer.prop7="Br\u00F8nsted Acid\u2010Catalyzed [3+2]\u2010Cycloaddition of 2\u2010Vinylindoles with In\u2005Situ\u2010Generated 2\u2010Methide\u20102H\u2010indoles: Highly Enantioselective Synthesis of Pyrrolo[1,2\u2010a]indoles";
+                    wol2datalayer.prop8="";
+                    wol2datalayer.prop9="licensed";
+                    wol2datalayer.prop10="subscription";
+                    wol2datalayer.prop11="PDF and HTML";
+                    wol2datalayer.prop12="9";
+                    wol2datalayer.prop13="10.1002\/(ISSN)1521-3765";
+                    wol2datalayer.prop14="10.1002\/chem.201601020";
+                    wol2datalayer.prop15="Early View";
+                    wol2datalayer.prop16="$esc.javascript($entry.getValue())";
+                    wol2datalayer.prop18="30 MAR 2016";
+                    wol2datalayer.prop33="CH00";
+                    wol2datalayer.prop35="";
+                    wol2datalayer.events="event59";
+                    wol2datalayer.prop26="Guest";
+        
+        //]]>
+    </script> 
+  <script type="text/javascript">
+      //<![CDATA[
+      document.write("<scr"+"ipt type=\"text/javascript\" src=\"//assets.adobedtm.com/6e626c9ec247e474f6b98eb15a79a185cf7e26a5/satelliteLib-d0317bde5157000144848f23fbb44a4de679c053.js\"></sc"+"ript>");
+      //]]>
+    </script> 
+  <script>
+        var gs_channels = 'default';
+    </script> 
+  <script src="http://wiley.grapeshot.co.uk/main/channels.cgi?url=http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201601020/abstract"></script> 
+  <script>
+        var digitalData         = digitalData || {};
+        digitalData.dartZone    = 'wly.chemistry_000033/chem-euro-j_2111';
+    </script> 
+  <script>
+        var googletag       = googletag       || {};
+        googletag.cmd       = googletag.cmd   || [];
+
+        ( function () {
+            var gads = document.createElement ( 'script' ) ,
+                node = document.getElementsByTagName ( 'script' ) [ 0 ] ;
+            gads.async  = true;
+            gads.src    = document.location.protocol + '//www.googletagservices.com/tag/js/gpt.js';
+            node.parentNode.insertBefore ( gads , node );
+        }) ();
+    </script> 
+  <script>
+        googletag.cmd.push ( function () {
+            // Mapping for mobile images sizes
+            var sizes = {
+                    leaderboard : googletag.sizeMapping ()
+                        .addSize ([ 300 , 100 ] , [ 300 , 50 ])
+                        .addSize ([ 740 , 100 ] , [ 728 , 90 ])
+                        .addSize ([ 0 , 0 ]     , 'fluid' )
+                        .build () ,
+                    skyscraper : googletag.sizeMapping ()
+                        .addSize ([ 1200 , 0 ] , [ 160 , 600 ])
+                        .addSize ([ 1200 , 0 ] , [ 160 , 320 ])
+                        .addSize ([ 1200 , 0 ] , [ 160 , 160 ])
+                        .addSize ([ 1200 , 0 ] , [ 120 , 600 ])
+                        .build ()
+                };
+
+            googletag.pubads ()
+                .setTargeting ( 'WOL-Page-Type'               , "ABSTRACT\/ACCESS DENIED" )
+                .setTargeting ( 'WOL-Page-Subtype'            , "ENHANCED ABSTRACT\/ACCESS DENIED" )
+                .setTargeting ( 'WOL-Subject-Codes'           , "CH00,CH70,CH80,CH90,CHB0,CHD0,MS00" )
+                .setTargeting ( 'WOL-Article-Access-State'    , "licensed" )
+                .setTargeting ( 'WOL-Pub-Access-Status'       , "subscription" )
+                .setTargeting ( 'WOL-Article-Availability'    , "PDF and HTML" )
+                .setTargeting ( 'WOL-Journal-DOI'             , "10.1002\/(ISSN)1521-3765" )
+                .setTargeting ( 'WOL-Article-Chapter-DOI'     , "10.1002\/chem.201601020" )
+                .setTargeting ( 'WOL-Issue-DOI'               , "Early View" )
+                .setTargeting ( 'WOL-Site-Search-Query'       , "" )
+                .setTargeting ( 'WOL-User-login-Status'       , "Guest" )
+                .setTargeting ( 'WOL-Primary-Subject-Code'    , "CH00" )
+                .setTargeting ( 'WOL-Hub-ID'                  , "" )
+                .setTargeting ( 'gs_cat'                      , gs_channels );
+
+            googletag.defineSlot (
+                    '/2215/wly.chemistry_000033/chem-euro-j_2111'  ,
+                    'fluid'                     ,
+                    'advert-leaderboard'
+                )
+                .defineSizeMapping ( sizes.leaderboard )
+                .addService ( googletag.pubads ())
+                .setCollapseEmptyDiv ( true );
+
+            googletag.defineSlot (
+                    '/2215/wly.chemistry_000033/chem-euro-j_2111'  ,
+                    'fluid'                     ,
+                    'advert-skyscraper'
+                )
+                .defineSizeMapping ( sizes.skyscraper )
+                .addService ( googletag.pubads ())
+                .setCollapseEmptyDiv ( true );
+
+            // Enable services
+            googletag.pubads ().enableSingleRequest ();
+            googletag.enableServices ();
+        });
+    </script> 
+ </head> 
+ <body data-type="default"> 
+  <script>
+    var dataLayer = window.dataLayer ? dataLayer : {};
+    dataLayer.pageType = 'ABSTRACT/ACCESS DENIED';
+    dataLayer.contentAvailability = 'PDF and HTML';
+</script> 
+  <div id="js-viewport-main" class="l-viewport-main prim-nav-container"> 
+   <header class="header clearfix" role="banner"> 
+    <div class="ribbon"> 
+     <span class="ribbon__quarter ribbon__first"></span> 
+     <span class="ribbon__quarter ribbon__second"></span> 
+     <span class="ribbon__quarter ribbon__third"></span> 
+     <span class="ribbon__quarter ribbon__fourth"></span> 
+    </div> 
+    <div class="l-header-container"> 
+     <div class="l-header clearfix"> 
+      <span class="header__logo"> <a href="http://onlinelibrary.wiley.com"> <img src="http://onlinelibrary.wiley.com:80/enhanced/static/common/images/brand/wiley/header-logo.png?version=1.11.2" alt="Wiley Online Library"> </a> </span> 
+      <ul class="header__user-access u-horizontal-list"> 
+       <li> <a href="#main-content" class="is-accessible header__user-access-skip-link">Skip to main content</a> </li> 
+       <li> <a href="https://secure.onlinelibrary.wiley.com/secure/login/?originalUrl=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fchem.201601020%2Ffull%3Fwol1URL%3D%2Fdoi%2F10.1002%2Fchem.201601020%2Ffull&amp;wolSessionId=8f452ddff8794243bd9ac69712a991da" class="header__user-access-link"> <span class="icon icon__avatar"></span> <span class="header__user-access-link-text">Log in / Register</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </header> 
+   <img src="http://onlinelibrary.wiley.com/createAccessReportingEvent?doi=10.1002%2Fchem.201601020"> 
+   <aside class="advert-leaderboard__container"> 
+    <div id="advert-leaderboard" class="advert" role="complementary"> 
+     <div class="advert-leaderboard__title">
+      Advertisement
+     </div> 
+     <script>
+                googletag.cmd.push ( function () {
+                    googletag.display ( 'advert-leaderboard' );
+                });
+            </script> 
+     <noscript> 
+      <a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=728x90&amp;tile=1&amp;c=164092419" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=728x90&amp;tile=1&amp;c=164092419"> </a> 
+     </noscript> 
+    </div> 
+   </aside> 
+   <div class="l-main main" role="main"> 
+    <div class="l-article-restricted-access js-restricted-access l-article--right"> 
+     <ul class="meta-navigation u-list-plain"> 
+      <li class="meta-navigation__item"> <a id="wol1backlink" href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201601020/abstract" class="meta-navigation__return"> <span class="icon icon__return"></span> <span>Go to old article view</span> </a> </li> 
+     </ul> 
+     <div id="js-viewport-mini" class="l-viewport-mini"> 
+      <div id="js-article-nav" class="l-article-nav js-module" data-module="toolbar"> 
+       <div id="js-article-tools" class="toolbar toolbar--restricted-access"> 
+        <a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201601020/full" class="button button--action"> <span class="icon icon__get-access"></span> Get access </a> 
+        <ul class="article-tools__bar"> 
+         <li class="article-tools__tool article-tools__tool--set js-module" data-module="textresize"></li> 
+         <li class="article-tools__tool article-tools__tool--set article-tools__tool--share js-module" data-module="add-this" data-doi="10.1002/chem.201601020"></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="skyscraper--right"> 
+       <div id="skyscraper" class="skyscraper"> 
+        <aside id="advert-skyscraper" class="advert-skyscraper" role="complementary"> 
+         <div class="skyscraper__title">
+          Advertisement
+         </div> 
+         <script>
+                googletag.cmd.push ( function () {
+                    googletag.display ( 'advert-skyscraper' );
+                });
+            </script> 
+         <noscript> 
+          <a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=160x600|160x320|160x160|120x600&amp;tile=2&amp;c=560192392" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=160x600|160x320|160x160|120x600&amp;tile=2&amp;c=560192392"> </a> 
+         </noscript> 
+        </aside> 
+       </div> 
+      </div> 
+      <article class="journal js-journal"> 
+       <header class="journal-header"> 
+        <a class="journal-header__name journal-header__name--normal" href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765"> 
+         <div class="journal-header__name-link"> 
+          <strong class="journal-header__name-title">Chemistry – A European Journal</strong> 
+          <div class="journal-header__link">
+           Explore this journal &gt;
+          </div> 
+         </div> </a> 
+        <ul class="u-horizontal-list"> 
+         <li> <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765" class="journal-header__logo"> <img src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2F%28ISSN%291521-3765/asset/olalertbanner.jpg?l=SkaBT8QEx2qTQZnRtCT6QPhcLJA52yymxHPBeYaFWucLC58DhbjndxPt4K%2FLlREj" alt="Chemistry – A European Journal" class="journal-header__logo-img"> 
+           <div class="journal-header__link">
+            Explore this journal &gt;
+           </div> </a> </li> 
+        </ul> 
+       </header> 
+       <article class="issue"> 
+        <div class="issue-header js-module" data-module="issue-header"> 
+         <nav class="issue-header__nav" role="navigation"> 
+          <div class="issue-header__nav-control"> 
+           <div class="issue-header__sub-title"> 
+            <span class="weight-bold">Early View</span> 
+           </div> 
+           <div class="issue-header__image-wrapper"> 
+            <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/earlyview" class="issue-header__image-link"> <img src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.v22.16/asset/cover.gif?l=SkaBT8QEx2q6ifHMLifR1GS%2B1vV2seqA8Q9Jd21y7zCS%2F5O1u5tb9w%3D%3D" class="issue-header__image" alt="Chemistry – A European Journal"> </a> 
+            <ol class="u-list-plain"> 
+             <li> <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201600918" class="issue-header__arrow--left issue-header__arrow"> <span class="icon icon__arrow icon__arrow--left"></span> <span class="is-accessible">Previous article in Early View: Extension of N-Heteroacenes through a Four-Membered Ring</span> </a> <p class="issue-header__tooltip issue-header__tooltip--left"> <span class="icon icon__chevron-up"></span> <span class="issue-header__tooltip-header">Previous article in Early View:</span> Extension of N-Heteroacenes through a Four-Membered Ring </p> </li> 
+             <li> <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201505145" class="issue-header__arrow--right issue-header__arrow"> <span class="icon icon__arrow icon__arrow--right"></span> <span class="is-accessible">Next article in Early View: Substitution of Lithium for Magnesium, Zinc, and Aluminum in Li15Si4: Crystal Structures, Thermodynamic Properties, as well as 6Li and 7Li NMR Spectroscopy of Li15Si4 and Li15−xMxSi4 (M=Mg, Zn, and Al)</span> </a> <p class="issue-header__tooltip issue-header__tooltip--right"> <span class="icon icon__chevron-up"></span> <span class="issue-header__tooltip-header">Next article in Early View:</span> Substitution of Lithium for Magnesium, Zinc, and Aluminum in Li15Si4: Crystal Structures, Thermodynamic Properties, as well as 6Li and 7Li NMR Spectroscopy of Li15Si4 and Li15−xMxSi4 (M=Mg, Zn, and Al) </p> </li> 
+            </ol> 
+           </div> 
+           <p class="issue-header__description"> <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/earlyview" class="issue-header__link">Browse Early View Articles</a><br> Online Version of Record published before inclusion in an issue</p> 
+          </div> 
+         </nav> 
+        </div> 
+        <article id="main-content" class="article js-module" data-module="Article">
+         <header class="js-module article-header" data-module="ArticleHeader">
+          <div class="article-header__intro">
+           <span class="article-header__category article-category">Communication</span>
+           <h1 class="article-header__title" lang="en">Brønsted Acid-Catalyzed [3+2]-Cycloaddition of 2-Vinylindoles with In Situ-Generated 2-Methide-2<em>H</em>-indoles: Highly Enantioselective Synthesis of Pyrrolo[1,2-<em>a</em>]indoles</h1>
+           <div class="article-header__authors-container">
+            <h2 class="is-accessible">Authors</h2>
+            <ul class="article-header__authors_list js-module" data-module="keyboardHover">
+             <li class="article-header__authors-item" data-hover-container="author1" data-author-name="Dr. Kalisankar Bera"><h3 class="article-header__authors-name" data-hover-control="author1">Dr. Kalisankar Bera,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author1">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Institut für Organische Chemie, Universität Leipzig, Leipzig, Germany</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Kalisankar Bera"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Kalisankar%20Bera%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Kalisankar Bera"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author2" data-author-name="Prof. Dr. Christoph Schneider"><h3 class="article-header__authors-name" data-hover-control="author2">Prof. Dr. Christoph Schneider<span class="icon icon__article-header icon__email"></span></h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author2">
+               <span class="article-header__corresponding-auth">Corresponding author</span>
+               <ul class="article-header__authors-item-details">
+                <li><span class="article-header__authors-item-label">E-mail address: </span><a href="mailto:schneider@chemie.uni-leipzig.de" title="Link to email address" class="article-header__authors-item-email">schneider@chemie.uni-leipzig.de</a></li>
+               </ul>
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Institut für Organische Chemie, Universität Leipzig, Leipzig, Germany</li>
+               </ol>
+               <ul class="article-header__authors-item-corresp-addr">
+                <li><i class="icon icon__authors-corresp-addr"></i></li>
+               </ul>
+               <span class="after-author-correspondence" data-author-name="Prof. Dr. Christoph Schneider"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Prof.%E2%80%85Dr.%20Christoph%20Schneider%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Prof. Dr. Christoph Schneider"></span>
+              </div></li>
+            </ul>
+           </div>
+           <div class="article-header__meta-info-container">
+            <ul id="header-meta-info-container" class="article-header__meta-info-list">
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label">First published: </span><time class="article-header__meta-info-data" datetime="2016-03-30" id="first-published-date">30 March 2016</time><a href="#publication-history" class="article-header__meta-info-2nd-data js-publication-history">Full publication history</a></li>
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label" id="header-section-doi">DOI: </span><span class="article-header__meta-info-data">10.1002/chem.201601020</span><a href="/enhanced/exportCitation/doi/10.1002/chem.201601020" class="article-header__meta-info-2nd-data analytics-view-citation js-module" data-module="fragment">View/save citation</a></li>
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label">Cited by: </span><span class="article-header__meta-info-data"><span id="js-citations__count">0</span> articles </span><a class="article-header__meta-info-2nd-data citations__control js-module" href="http://onlinelibrary.wiley.com/enhanced/refreshCitedBy?doi=10.1002/chem.201601020&amp;refreshCitedByCounter=true" data-module="citations">Check for new citations</a><a href="#footer-citing" class="js-scrollto article-header__meta-info-2nd-data citations__link">Citing literature</a></li>
+             <li class="article-header__meta-info-item">
+              <div data-module="alt-metrics" class="js-module altmetric-embed" data-badge-type="1" data-doi="10.1002/chem.201601020" data-badge-popover="bottom" data-link-target="_blank"></div></li>
+             <li class="article-header__meta-info-item"><a href="#funding-information" class="article-header__meta-info-2nd-data js-funding-info">Funding Information</a></li>
+            </ul>
+           </div>
+          </div>
+          <hr>
+         </header>
+         <section id="abstract" class="article-section article-section--abstract">
+          <div id="en_main_abstract" class="article-section__content mainAbstract" lang="en">
+           <h2 class="article-section__header">Abstract</h2>
+           <p>Pyrrolo[1,2-<em>a</em>]indoles are privileged structural elements of many natural products and pharmaceuticals. An efficient one-step process for their highly diastereo- and enantioselective synthesis, comprising a direct [3+2]-cycloaddition, has been developed. A chiral BINOL-derived phosphoric acid catalyzes the reaction of in situ-generated 2-methide-2<em>H</em>-indoles with 2-vinylindoles, furnishing the target products incorporating three contiguous stereogenic centers as single diastereoisomers and with excellent yields and enantioselectivities.</p>
+          </div>
+         </section>
+         <span id="after-abstract"></span>
+         <section class="article-section align-center">
+          <a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201601020/full" class="button button--action"><span class="icon icon__get-access"></span> Get access to the full text of this article </a>
+         </section>
+         <div id="js-feedback" class="feedback feedback--maximised js-module" data-module="feedback">
+          <a href="https://wileyonlinelibrary.uservoice.com/" class="feedback__content-link feedback__content-link--open" target="_blank">Provide feedback or get help</a>
+          <div class="feedback__content">
+           <span class="feedback__content-title">You are viewing our new enhanced HTML article.</span> 
+           <p class="feedback__content-paragraph"> If you can't find a tool you're looking for, please click the link at the top of the page to "Go to old article view". Alternatively, view our <a href="https://wileyonlinelibrary.uservoice.com" class="feedback__content-link" target="_blank"> Knowledge Base articles </a> for additional help. Your feedback is important to us, so please <a href="https://wileyonlinelibrary.uservoice.com" class="feedback__content-link" target="_blank"> let us know </a> if you have comments or ideas for improvement. </p>
+          </div>
+         </div>
+         <footer class="article-footer js-module" data-module="Footer">
+          <h2 class="is-accessible">Ancillary</h2>
+          <section id="footer-article-info" class="article-footer__section">
+           <h3 class="article-footer__section-title js-footer-title"><i class="icon icon__double-chevron"></i>Article Information</h3>
+           <div class="article-info__section-content js-footer-info js-article-info">
+            <div class="article-info__doi-container">
+             <h4 class="article-info__section-sub-title">DOI</h4>
+             <span class="article-info__section-doi-data">10.1002/chem.201601020</span>
+             <ul class="article-info__list u-list-plain">
+              <li class="article-info__citations-item"><a href="/enhanced/exportCitation/doi/10.1002/chem.201601020" class="article-header__meta-info-2nd-data analytics-view-citation js-module" data-module="fragment">View/save citation</a></li>
+             </ul>
+            </div>
+            <div class="article-info__format-container article-format">
+             <h4 class="article-info__section-sub-title">Format Available</h4>
+             <span class="article-info__section-format-data">Full text: HTML | PDF</span>
+            </div>
+            <footer class="article-info__copyright-container" id="copyright">
+             <p class="article-info__copyright">© 2016 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim</p>
+            </footer>
+            <p class="request-permissions"><a href="https://s100.copyright.com/AppDispatchServlet?publisherName=Wiley&amp;publication=CHEM&amp;title=Br%C3%B8nsted%20Acid%E2%80%90Catalyzed%20%5B3%2B2%5D%E2%80%90Cycloaddition%20of%202%E2%80%90Vinylindoles%20with%20In%E2%80%85Situ%E2%80%90Generated%202%E2%80%90Methide%E2%80%902H%E2%80%90indoles%3A%20Highly%20Enantioselective%20Synthesis%20of%20Pyrrolo%5B1%2C2%E2%80%90a%5Dindoles&amp;publicationDate=30%20MAR%202016&amp;author=Kalisankar%20Bera%2CChristoph%20Schneider&amp;startPage=n%2Fa&amp;endPage=n%2Fa&amp;copyright=%C2%A9%202016%20WILEY%E2%80%90VCH%20Verlag%20GmbH%20%26%20Co.%20KGaA%2C%20Weinheim&amp;contentID=10.1002%2Fchem.201601020&amp;orderSource=Wileyonline&amp;orderBeanReset=true" class="js-module" data-module="rights-link" target="_blank"><span class="icon-aa icon-aa__permission"></span> Request Permissions </a></p>
+            <div class="article-info__keywords-plus-wrapper">
+             <div class="article-info__keywords-container">
+              <h4 class="article-info__section-sub-title">Keywords</h4>
+              <ul class="article-info__keywords-list u-horizontal-list">
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">asymmetric synthesis; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">phosphoric acids; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">cycloaddition; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">heterocycles; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">organocatalysis</span></li>
+              </ul>
+             </div>
+             <span id="after-keywords"></span>
+            </div>
+            <div class="article-info__publication-history-container" id="publication-history">
+             <h4 class="article-info__section-sub-title">Publication History</h4>
+             <ul class="article-info__publication-history-list u-list-plain">
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Version of record online: </span><time datetime="2016-03-30" class="article-info__publication-history-data">30 March 2016</time></li>
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Accepted manuscript online: </span><time datetime="2016-03-15" class="article-info__publication-history-data">15 March 2016</time></li>
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Manuscript Received: </span><time datetime="2016-03-15" class="article-info__publication-history-data">15 March 2016</time></li>
+             </ul>
+            </div>
+            <div id="funding-information" class="article-info__funded-by-container">
+             <h4 class="article-info__section-sub-title">Funded by</h4>
+             <ul class="article-info__funded-by-list">
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">DFG</span></li>
+             </ul>
+            </div>
+            <span id="after-funding-information"></span>
+           </div>
+          </section>
+          <section id="footer-support-info" class="article-footer__section">
+           <h3 class="article-footer__section-title js-footer-title"><i class="icon icon__double-chevron"></i>Supporting Information </h3>
+           <div class="article-supp-info__section-content js-footer-info" id="">
+            <p class="article-info__intro">As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p>
+            <div class="support-info__table-wrapper">
+             <table class="support-info__table">
+              <thead>
+               <tr>
+                <th id="article-filename">Filename</th>
+                <th id="article-description">Description</th>
+               </tr>
+              </thead>
+              <tbody>
+               <tr>
+                <td headers="article-filename"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201601020/asset/supinfo%2Fchem201601020-sup-0001-misc_information.pdf?l=SkaBT8QEx2qC%2FkuQm2Z%2BpDPOGW%2Fyfl5IksdNLRlp4Q4fRIpVFIpizSXCqPr59qXoxk2e6MCNtK6k%0Ab4mLoWEBRYNg1vNyVKWshOaf736ZpjvX2uceavB3XA%3D%3D">chem201601020-sup-0001-misc_information.pdf</a><span class="support-info__file-ext">9092K</span></td>
+                <td headers="article-description">Supplementary</td>
+               </tr>
+              </tbody>
+             </table>
+            </div>
+            <p class="support-info__disclaimer">Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.</p>
+           </div>
+          </section>
+          <section id="footer-citing" class="article-footer__section citations__section">
+           <h3 class="article-footer__section-title js-footer-title"><span class="icon icon__double-chevron"></span>Citing Literature </h3>
+           <div id="js-citations__section" class="article-info__section-content js-footer-info">
+            <div class="modal__header">
+             <ul class="cited-info__list u-horizontal-list">
+              <li class="cited-info__item"><span class="cited-info__text">Number of times cited</span>: <span id="js-citations__counter">0</span></li>
+             </ul>
+            </div>
+            <div class="modal__scrollable">
+             <ol class="article-section__citation-list"></ol>
+            </div>
+           </div>
+          </section>
+         </footer>
+        </article> 
+       </article> 
+      </article> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- START: Footer --> 
+   <div class="stripe"> 
+    <div class="fill fill--1"></div> 
+    <div class="fill fill--2"></div> 
+    <div class="fill fill--3"></div> 
+    <div class="fill fill--4"></div> 
+   </div> 
+   <footer class="footer footer--wiley" role="contentinfo"> 
+    <nav class="footer__nav" role="navigation"> 
+     <ul class="footer__list footer__list--logo"> 
+      <li> <h2 class="footer__logo"> <a href="http://onlinelibrary.wiley.com"> <img src="http://onlinelibrary.wiley.com:80/enhanced/static/common/images/brand/wiley/footer-logo.png?version=1.11.2" alt="Wiley"> </a> </h2> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/browse/publications"> <b>Browse Publications</b> </a> </li> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/browse/subjects"> <b>Browse by Subject</b> </a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390229.html"> <b>Resources</b> </a> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://journalshelp.wiley.com/">Help &amp; Support</a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-813473.html">Cookies</a> &amp; <a class="footer__link" href="http://onlinelibrary.wiley.com/privacyPolicy">Privacy</a> </li> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/termsAndConditions">Terms &amp; Conditions</a> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390001.html">About Us</a> </li> 
+      <li> <a class="footer__link" href="http://www.wileyjobnetwork.com/">Wiley Job Network</a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390236.html">Advertisers</a> &amp; <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390243.html">Agents</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="footer__copy"> 
+     <p class="footer__text footer__text--slogan">Powered by <a href="http://onlinelibrary.wiley.com" class="footer__link footer__link--active">Wiley Online Library</a></p> 
+     <p class="footer__text">Copyright © 1999 - 2016 <a href="http://www.wiley.com" class="footer__link footer__link--active">John Wiley &amp; Sons, Inc.</a> All Rights Reserved</p> 
+    </div> 
+   </footer> 
+   <script>
+//<![CDATA[
+    
+    Modernizr.load([
+        {
+            load    : 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/wiley-require-2.1.6.js',
+            callback: function() {
+
+                
+                var interval = setInterval(function() {
+                    if ( typeof WILEY !== 'undefined' && WILEY.requirejs ) {
+
+                        WILEY.requirejs([
+                                'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/wiley-common.js?version=1.11.2',
+                                'http://onlinelibrary.wiley.com:80/enhanced/static/js/wiley-article.js?version=1.11.2'
+                            ], function() {
+                            WILEY.requirejs([
+                                'common/modules/main',
+                                'modules/main-article'
+
+                                                            ]);
+                        });
+
+                        clearInterval(interval);
+                    }
+                }, 100 );
+            }
+        }
+        ]);
+//]]>
+</script> 
+  </div> 
+  <script type="text/javascript">_satellite.pageBottom();</script>  
+ </body>
+</html>

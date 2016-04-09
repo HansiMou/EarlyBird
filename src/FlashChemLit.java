@@ -1,14 +1,13 @@
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.net.MalformedURLException;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
@@ -31,39 +30,56 @@ public class FlashChemLit {
 	static Config config = new Config();
 	static ArrayList<String> startings = new ArrayList<String>();
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		CheckFolder();
 
 		// get all the starting urls and set-up
 		GetUrls();
-
+		// System.out.println(startings);
 //		 for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
 //		 System.out.println("Key = " + entry.getKey() + "\n"
 //		 + entry.getValue().print()+"\n");
 //		 }
 		System.setProperty("webdriver.chrome.driver", config.cdp);
-		//WebDriver driver = new FirefoxDriver();
+		// WebDriver driver = new FirefoxDriver();
 		WebDriver driver = new ChromeDriver();
-		 driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS) ;   
-		
-		
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+
 		for (int i = 0; i < startings.size(); i++) {
 			if (startings.get(i).contains(".acs.")) {
-				WebCrawlerACS wc = new WebCrawlerACS();
-				wc.run(config.folder, urls.get(startings.get(i)), false, config, driver);
-			}
-			else if (startings.get(i).contains("science.sciencemag.org")){
-				WebCrawlerSci wc = new WebCrawlerSci();
-				wc.run(config.folder, urls.get(startings.get(i)), false, config, driver);
-//				try {
-//					wc.DownloadPagesWebDriver(new URL("http://science.sciencemag.org/content/352/6282/208"));
-//				} catch (MalformedURLException e) {
-//					// TODO Auto-generated catch block
-//					e.printStackTrace();
-//				}
-//				break;
+				// WebCrawlerACS wc = new WebCrawlerACS();
+				// wc.run(config.folder, urls.get(startings.get(i)), false,
+				// config, driver);
+			} else if (startings.get(i).contains("science.sciencemag.org")) {
+				// WebCrawlerSci wc = new WebCrawlerSci();
+				// wc.run(config.folder, urls.get(startings.get(i)), false,
+				// config, driver);
+			} else if (startings.get(i).contains("/nature/")) {
+				// WebCrawlerNature wc = new WebCrawlerNature();
+				// wc.run(config.folder, urls.get(startings.get(i)), false,
+				// config, driver);
+			} else if (startings.get(i).contains(".nature.")) {
+//				WebCrawlerNatureXX wc = new WebCrawlerNatureXX();
+//				wc.run(config.folder, urls.get(startings.get(i)), false,
+//						config, driver);
+			} else if (startings.get(i).contains("wiley")) {
+				WebCrawlerWiley wc = new WebCrawlerWiley();
+				wc.run(config.folder, urls.get(startings.get(i)), false,
+						config, driver);
 			}
 		}
+
+		// WebCrawlerNature wc = new WebCrawlerNature();
+		// wc.run(config.folder, urls.get(startings.get(0)), false,
+		// config, driver);
+		// try {
+		// wc.DownloadPages(new URL(
+		// "http://www.nature.com/nature/research/chemical-sciences.html?code=npg_subject_638&year=2016&month=04"));
+		// } catch (MalformedURLException e) {
+		// // TODO Auto-generated catch block
+		// e.printStackTrace();
+		// }
+
 		driver.close();
 	}
 
@@ -93,7 +109,7 @@ public class FlashChemLit {
 					continue;
 				} else if (str.startsWith("Link")) {
 					u.link = str.split("::")[1].trim();
-					if (u.name.equals("ACS"))
+					if (!u.name.equals("Nature") && !u.name.equals("Science"))
 						startings.add(u.link);
 				} else if (str.startsWith("Level")) {
 					u.lv = Integer.parseInt(str.split("::")[1].trim());
@@ -101,8 +117,13 @@ public class FlashChemLit {
 						AddLastTwoWeekJournal(u);
 						u = new StartingUrl();
 					}
+
 				} else if (str.startsWith("First_Level_Pre_Filter")) {
 					u.flpre = str.split("::")[1].trim();
+					if (u.name.equals("Nature")) {
+						NAddLastTwoWeekJournal(u);
+						u = new StartingUrl();
+					}
 				} else if (str.startsWith("First_Level_Post_Filter")) {
 					u.flpost = str.split("::")[1].trim();
 				} else if (str.startsWith("Second_Level_Pre_Filter")) {
@@ -127,6 +148,51 @@ public class FlashChemLit {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+	}
+
+	/**
+	 * Description: expecially designed for Nature
+	 */
+	private static void NAddLastTwoWeekJournal(StartingUrl u) {
+		// the start date
+		Calendar start = new GregorianCalendar();
+		start.setTime(new Date());
+		start.add(start.DATE, -config.weeknum * 7);
+		// up to date
+		Calendar now = new GregorianCalendar();
+		Date today = new Date();
+		now.setTime(today);
+
+		int count;
+		count = 12 * (now.get(Calendar.YEAR) - start.get(Calendar.YEAR))
+				+ now.get(Calendar.MONTH) - start.get(Calendar.MONTH);
+
+		int curYear = now.get(Calendar.YEAR);
+		int curMonth = now.get(Calendar.MONTH) + 1;
+
+		for (int c = 0; c <= count; c++) {
+			StartingUrl news = new StartingUrl();
+			news.link = u.link + "?year=" + curYear + "&month=" + curMonth;
+			news.lv = u.lv;
+			news.flpre = u.flpre;
+			urls.put(news.link, news);
+			startings.add(news.link);
+			curMonth--;
+			if (curMonth == 0) {
+				curYear--;
+				curMonth = 12;
+			}
+		}
+
+		// for (int y = 0; y <= now.get(Calendar.YEAR)-start.get(Calendar.YEAR);
+		// y++){
+		// for (int m = 0; m <=
+		// now.get(Calendar.MONTH)-start.get(Calendar.MONTH); m++) {
+		// String yplusm = (start.get(Calendar.YEAR) + y) + "::" +
+		// (start.get(Calendar.MONTH) + m + 1);
+		// System.out.println(yplusm);
+		// }
+		// }
 	}
 
 	/**
@@ -175,8 +241,6 @@ public class FlashChemLit {
 	 * Description: check whether fold exists, and whether files in the folder
 	 * are out of date
 	 * 
-	 * @param folder
-	 * @param weeknum
 	 */
 	private static void CheckFolder() {
 		// TODO Auto-generated method stub

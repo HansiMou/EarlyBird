@@ -186,7 +186,7 @@ public class WebCrawler {
 		case 0:
 			if (su.flpre.startsWith("http://")) {
 				return url.toString().toLowerCase()
-						.startsWith(su.flpre.toLowerCase());
+						.startsWith(su.flpre.toLowerCase()) && url.toString().toLowerCase().endsWith(su.flpost.toLowerCase());
 			} else {
 				return url.toString().toLowerCase()
 						.startsWith(su.link + su.flpre)
@@ -293,9 +293,7 @@ public class WebCrawler {
 	// by a close quote, possibly preceded by a hatch mark (marking a
 	// fragment, an internal page marker)
 
-	public void processpage(URL url, String page)
-
-	{
+	public void processpage(URL url, String page){
 		String lcPage = page.toLowerCase(); // Page in lower case
 		int index = 0; // position in page
 
@@ -331,9 +329,8 @@ public class WebCrawler {
 		}
 	}
 
-	public String getpage(URL url)
-
-	{ try { 
+	public String getpage(URL url){
+		try {
 	    // try opening the URL
 	    URLConnection urlConnection = url.openConnection();
 	    if (DEBUG)

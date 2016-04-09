@@ -43,4 +43,21 @@ Link::http://www.nature.com/nature/research/chemical-sciences.html
 Level::1
 First_Level_Pre_Filter::http://www.nature.com/nature/journal/
 
+#ACIE
+Link::http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773/earlyview
+Level::1
+First_Level_Pre_Filter::http://onlinelibrary.wiley.com/doi/10.1002/anie
+First_Level_Post_Filter::/full
+
+#CAAJ
+Link::http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1861-471X/earlyview
+Level::1
+First_Level_Pre_Filter::http://onlinelibrary.wiley.com/doi/10.1002/asia
+First_Level_Post_Filter::/full
+
+#CAEJ
+Link::http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/earlyview
+Level::1
+First_Level_Pre_Filter::http://onlinelibrary.wiley.com/doi/10.1002/chem
+First_Level_Post_Filter::/full
 

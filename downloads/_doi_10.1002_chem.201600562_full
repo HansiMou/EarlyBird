@@ -1,0 +1,1055 @@
+<!doctype html>
+<!--[if lt IE 7]>
+    <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 7]>
+    <html class="no-js lt-ie10 lt-ie9 lt-ie8 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 8]>
+    <html class="no-js lt-ie10 lt-ie9 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 9]>
+    <html class="no-js lt-ie10 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if gt IE 9]>
+    <html class="no-js is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if (!IE)]><!-->
+<html class="no-js" lang="en" data-application="loading">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <title> Design of 2D Porous Coordination Polymers Based on Metallacrown Units - Atzeri - 2016 - Chemistry – A European Journal -  Wiley Online Library</title> 
+  <link rel="shortcut icon" type="image/x-icon" href="http://onlinelibrary.wiley.com:80/enhanced/static/images/brand/wiley/favicon.ico?version=1.11.2"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+  <meta name="description" content=""> 
+  <meta name="robots" content="noarchive"> 
+  <meta name="citation_doi" content="10.1002/chem.201600562"> 
+  <meta name="citation_journal_title" content="Chemistry – A European Journal"> 
+  <meta name="citation_title" content="Design of 2D Porous Coordination Polymers Based on Metallacrown Units"> 
+  <meta name="citation_keywords" content="coordination polymers"> 
+  <meta name="citation_keywords" content="gas adsorption"> 
+  <meta name="citation_keywords" content="hydroxamic acids"> 
+  <meta name="citation_keywords" content="metallacrowns"> 
+  <meta name="citation_keywords" content="porosity"> 
+  <meta name="citation_issn" content="1521-3765"> 
+  <meta name="article_references" content="Atzeri, C., Marchiò, L., Chow, C. Y., Kampf, J. W., Pecoraro, V. L. and Tegoni, M. (2016), Design of 2D Porous Coordination Polymers Based on Metallacrown Units. Chem. Eur. J.. doi:10.1002/chem.201600562"> 
+  <meta name="citation_language" content="en"> 
+  <meta name="citation_publication_date" content="2016/03/01"> 
+  <meta name="citation_online_date" content="2016/03/29"> 
+  <meta name="citation_author" content="Atzeri, Corrado"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Parma Department of Chemistry Parma Italy"> 
+  <meta name="citation_author" content="Marchiò, Luciano"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Parma Department of Chemistry Parma Italy"> 
+  <meta name="citation_author" content="Chow, Chun Y."> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Michigan Department of Chemistry Ann Arbor Michigan USA"> 
+  <meta name="citation_author" content="Kampf, Jeff W."> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Michigan Department of Chemistry Ann Arbor Michigan USA"> 
+  <meta name="citation_author" content="Pecoraro, Vincent L."> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Michigan Department of Chemistry Ann Arbor Michigan USA"> 
+  <meta name="citation_author" content="Tegoni, Matteo"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="University of Parma Department of Chemistry Parma Italy"> 
+  <meta name="citation_abstract_html_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600562/abstract"> 
+  <meta name="citation_fulltext_html_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600562/full"> 
+  <meta name="citation_pdf_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600562/pdf"> 
+  <link rel="stylesheet" media="screen" href="http://cdn.wol2.wiley.com/external/fonts/open-sans/open-sans.css"> 
+  <!--[if lt IE 9]>
+        <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/common/css/wol-common-ie.css?version=1.11.2"/>
+        <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/css/wol-article-ie.css?version=1.11.2"/>
+    <![endif]--> 
+  <!--[if gt IE 8]><!--> 
+  <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/common/css/wol-common.css?version=1.11.2"> 
+  <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/css/wol-article.css?version=1.11.2"> 
+  <!--<![endif]--> 
+  <script src="http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/modernizr.custom.js?version=1.11.2"></script> 
+  <!--[if gt IE 8]><!--> 
+  <script>
+        //<![CDATA[
+        Modernizr.load([
+            {
+                test: window.matchMedia,
+                nope: 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/polyfills/matchMedia.js?version=1.11.2'
+            },
+            {
+                test: window.matchMedia && window.matchMedia( 'all' ).addListener,
+                nope: 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/polyfills/matchMedia.addListener.js?version=1.11.2'
+            }
+        ]);
+        //]]>
+    </script> 
+  <!--<![endif]--> 
+  <script type="text/javascript">
+        //<![CDATA[
+        wol2datalayer = window.wol2datalayer ? wol2datalayer : {};
+                    wol2datalayer.server="onlinelibrary.wiley.com";
+                    wol2datalayer.pageName="Design of 2D Porous Coordination Polymers Based on Metallacrown Units - Atzeri - 2016 - Chemistry \u2013 A European Journal";
+                    wol2datalayer.channel="JOURNALS";
+                    wol2datalayer.prop1="FULLTEXT";
+                    wol2datalayer.prop2="ENHANCED FULLTEXT_HTML";
+                    wol2datalayer.prop3="Chemistry \u2013 A European Journal";
+                    wol2datalayer.prop4="CH00,CH70,CH80,CH90,CHB0,CHD0,MS00";
+                    wol2datalayer.prop5="";
+                    wol2datalayer.prop7="Design of 2D Porous Coordination Polymers Based on Metallacrown Units";
+                    wol2datalayer.prop8="";
+                    wol2datalayer.prop9="free";
+                    wol2datalayer.prop10="subscription";
+                    wol2datalayer.prop11="PDF and HTML";
+                    wol2datalayer.prop12="10";
+                    wol2datalayer.prop13="10.1002\/(ISSN)1521-3765";
+                    wol2datalayer.prop14="10.1002\/chem.201600562";
+                    wol2datalayer.prop15="Early View";
+                    wol2datalayer.prop16="$esc.javascript($entry.getValue())";
+                    wol2datalayer.prop18="29 MAR 2016";
+                    wol2datalayer.prop33="CH00";
+                    wol2datalayer.prop35="";
+                    wol2datalayer.events="event60";
+                    wol2datalayer.prop26="Guest";
+        
+        //]]>
+    </script> 
+  <script type="text/javascript">
+      //<![CDATA[
+      document.write("<scr"+"ipt type=\"text/javascript\" src=\"//assets.adobedtm.com/6e626c9ec247e474f6b98eb15a79a185cf7e26a5/satelliteLib-d0317bde5157000144848f23fbb44a4de679c053.js\"></sc"+"ript>");
+      //]]>
+    </script> 
+  <script>
+        var gs_channels = 'default';
+    </script> 
+  <script src="http://wiley.grapeshot.co.uk/main/channels.cgi?url=http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201600562/full"></script> 
+  <script>
+        var digitalData         = digitalData || {};
+        digitalData.dartZone    = 'wly.chemistry_000033/chem-euro-j_2111';
+    </script> 
+  <script>
+        var googletag       = googletag       || {};
+        googletag.cmd       = googletag.cmd   || [];
+
+        ( function () {
+            var gads = document.createElement ( 'script' ) ,
+                node = document.getElementsByTagName ( 'script' ) [ 0 ] ;
+            gads.async  = true;
+            gads.src    = document.location.protocol + '//www.googletagservices.com/tag/js/gpt.js';
+            node.parentNode.insertBefore ( gads , node );
+        }) ();
+    </script> 
+  <script>
+        googletag.cmd.push ( function () {
+            // Mapping for mobile images sizes
+            var sizes = {
+                    leaderboard : googletag.sizeMapping ()
+                        .addSize ([ 300 , 100 ] , [ 300 , 50 ])
+                        .addSize ([ 740 , 100 ] , [ 728 , 90 ])
+                        .addSize ([ 0 , 0 ]     , 'fluid' )
+                        .build () ,
+                    skyscraper : googletag.sizeMapping ()
+                        .addSize ([ 1200 , 0 ] , [ 160 , 600 ])
+                        .addSize ([ 1200 , 0 ] , [ 160 , 320 ])
+                        .addSize ([ 1200 , 0 ] , [ 160 , 160 ])
+                        .addSize ([ 1200 , 0 ] , [ 120 , 600 ])
+                        .build ()
+                };
+
+            googletag.pubads ()
+                .setTargeting ( 'WOL-Page-Type'               , "FULLTEXT" )
+                .setTargeting ( 'WOL-Page-Subtype'            , "ENHANCED FULLTEXT_HTML" )
+                .setTargeting ( 'WOL-Subject-Codes'           , "CH00,CH70,CH80,CH90,CHB0,CHD0,MS00" )
+                .setTargeting ( 'WOL-Article-Access-State'    , "free" )
+                .setTargeting ( 'WOL-Pub-Access-Status'       , "subscription" )
+                .setTargeting ( 'WOL-Article-Availability'    , "PDF and HTML" )
+                .setTargeting ( 'WOL-Journal-DOI'             , "10.1002\/(ISSN)1521-3765" )
+                .setTargeting ( 'WOL-Article-Chapter-DOI'     , "10.1002\/chem.201600562" )
+                .setTargeting ( 'WOL-Issue-DOI'               , "Early View" )
+                .setTargeting ( 'WOL-Site-Search-Query'       , "" )
+                .setTargeting ( 'WOL-User-login-Status'       , "Guest" )
+                .setTargeting ( 'WOL-Primary-Subject-Code'    , "CH00" )
+                .setTargeting ( 'WOL-Hub-ID'                  , "" )
+                .setTargeting ( 'gs_cat'                      , gs_channels );
+
+            googletag.defineSlot (
+                    '/2215/wly.chemistry_000033/chem-euro-j_2111'  ,
+                    'fluid'                     ,
+                    'advert-leaderboard'
+                )
+                .defineSizeMapping ( sizes.leaderboard )
+                .addService ( googletag.pubads ())
+                .setCollapseEmptyDiv ( true );
+
+            googletag.defineSlot (
+                    '/2215/wly.chemistry_000033/chem-euro-j_2111'  ,
+                    'fluid'                     ,
+                    'advert-skyscraper'
+                )
+                .defineSizeMapping ( sizes.skyscraper )
+                .addService ( googletag.pubads ())
+                .setCollapseEmptyDiv ( true );
+
+            // Enable services
+            googletag.pubads ().enableSingleRequest ();
+            googletag.enableServices ();
+        });
+    </script> 
+ </head> 
+ <body data-type="default"> 
+  <script>
+    var dataLayer = window.dataLayer ? dataLayer : {};
+    dataLayer.pageType = 'FULLTEXT';
+    dataLayer.contentAvailability = 'PDF and HTML';
+</script> 
+  <div id="js-viewport-main" class="l-viewport-main prim-nav-container"> 
+   <header class="header clearfix" role="banner"> 
+    <div class="ribbon"> 
+     <span class="ribbon__quarter ribbon__first"></span> 
+     <span class="ribbon__quarter ribbon__second"></span> 
+     <span class="ribbon__quarter ribbon__third"></span> 
+     <span class="ribbon__quarter ribbon__fourth"></span> 
+    </div> 
+    <div class="l-header-container"> 
+     <div class="l-header clearfix"> 
+      <span class="header__logo"> <a href="http://onlinelibrary.wiley.com"> <img src="http://onlinelibrary.wiley.com:80/enhanced/static/common/images/brand/wiley/header-logo.png?version=1.11.2" alt="Wiley Online Library"> </a> </span> 
+      <ul class="header__user-access u-horizontal-list"> 
+       <li> <a href="#main-content" class="is-accessible header__user-access-skip-link">Skip to main content</a> </li> 
+       <li> <a href="https://secure.onlinelibrary.wiley.com/secure/login/?originalUrl=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fchem.201600562%2Ffull%3Fwol1URL%3D%2Fdoi%2F10.1002%2Fchem.201600562%2Ffull&amp;wolSessionId=d92aa663817d4264829cdf6ff61bc954" class="header__user-access-link"> <span class="icon icon__avatar"></span> <span class="header__user-access-link-text">Log in / Register</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </header> 
+   <img src="http://onlinelibrary.wiley.com/createAccessReportingEvent?doi=10.1002%2Fchem.201600562"> 
+   <aside class="advert-leaderboard__container"> 
+    <div id="advert-leaderboard" class="advert" role="complementary"> 
+     <div class="advert-leaderboard__title">
+      Advertisement
+     </div> 
+     <script>
+                googletag.cmd.push ( function () {
+                    googletag.display ( 'advert-leaderboard' );
+                });
+            </script> 
+     <noscript> 
+      <a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=728x90&amp;tile=1&amp;c=788657315" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=728x90&amp;tile=1&amp;c=788657315"> </a> 
+     </noscript> 
+    </div> 
+   </aside> 
+   <div class="l-main main" role="main"> 
+    <div class="l-article l-article--left"> 
+     <ul class="meta-navigation u-list-plain"> 
+      <li class="meta-navigation__item"> <a id="wol1backlink" href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201600562/full" class="meta-navigation__return"> <span class="icon icon__return"></span> <span>Go to old article view</span> </a> </li> 
+     </ul> 
+     <div id="js-viewport-mini" class="l-viewport-mini"> 
+      <div id="js-article-nav" class="l-article-nav js-module" data-module="toolbar"> 
+       <div id="js-article-tools" class="article-tools"> 
+        <ul class="article-tools__bar"> 
+         <li class="article-tools__tool article-tools__tool--set js-module" data-module="textresize"></li> 
+         <li class="article-tools__tool article-tools__tool--set article-tools__tool--share js-module" data-module="add-this" data-doi="10.1002/chem.201600562"></li> 
+        </ul> 
+        <ul class="article-tools__list"> 
+         <li> <a href="#article-nav" id="article-nav-menu" class="article-tools__item-link article-tools__item-link--menu" data-tool-type="article-nav" title="Article navigation"> <span class="article-tools__item-link-text">Go To<span class="icon icon__chevron-right"></span></span> <span class="is-accessible"> article navigation</span> </a> 
+          <nav id="article-nav" class="article-tools__article-nav js-module" data-module="article-nav" role="navigation"> 
+           <p class="article-tools__article-nav-title">Navigate this article</p> 
+           <div class="article-tools__article-nav-scrollpane"> 
+            <ul class="article-tools__article-nav-list"> 
+             <li class="article-tools__article-nav-item"> <a href="#abstract" class="js-scrollto article-tools__article-nav-item-link"> <span class="icon icon__chevron"></span>Abstract </a> </li> 
+             <li> 
+              <hr> </li> 
+             <li class="article-tools__article-nav-item"> <a href="#footer-support-info" data-analytics-revealed-panel="references" class="js-scrollto article-tools__article-nav-item-link article-tools__article-nav-item-link--panel-reveal">Supporting Information</a> </li> 
+             <li class="article-tools__article-nav-item"> <a href="#references-section" data-analytics-revealed-panel="references" class="js-scrollto article-tools__article-nav-item-link article-tools__article-nav-item-link--panel-reveal">References</a> </li> 
+             <li class="article-tools__article-nav-item citations__link"> <a href="#footer-citing" data-analytics-revealed-panel="footer-citing" class="js-scrollto article-tools__article-nav-item-link article-tools__article-nav-item-link--panel-reveal">Citing Literature</a> </li> 
+            </ul> 
+           </div> 
+          </nav> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <article class="journal js-journal"> 
+       <header class="journal-header"> 
+        <a class="journal-header__name journal-header__name--normal" href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765"> 
+         <div class="journal-header__name-link"> 
+          <strong class="journal-header__name-title">Chemistry – A European Journal</strong> 
+          <div class="journal-header__link">
+           Explore this journal &gt;
+          </div> 
+         </div> </a> 
+        <ul class="u-horizontal-list"> 
+         <li> <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765" class="journal-header__logo"> <img src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2F%28ISSN%291521-3765/asset/olalertbanner.jpg?l=SkaBT8QEx2qTQZnRtCT6QPhcLJA52yymxHPBeYaFWucLC58DhbjndxPt4K%2FLlREj" alt="Chemistry – A European Journal" class="journal-header__logo-img"> 
+           <div class="journal-header__link">
+            Explore this journal &gt;
+           </div> </a> </li> 
+        </ul> 
+       </header> 
+       <article class="issue"> 
+        <div class="issue-header js-module" data-module="issue-header"> 
+         <nav class="issue-header__nav" role="navigation"> 
+          <div class="issue-header__nav-control"> 
+           <div class="issue-header__sub-title"> 
+            <span class="weight-bold">Early View</span> 
+           </div> 
+           <div class="issue-header__image-wrapper"> 
+            <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/earlyview" class="issue-header__image-link"> <img src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.v22.16/asset/cover.gif?l=SkaBT8QEx2q6ifHMLifR1GS%2B1vV2seqA8Q9Jd21y7zCS%2F5O1u5tb9w%3D%3D" class="issue-header__image" alt="Chemistry – A European Journal"> </a> 
+            <ol class="u-list-plain"> 
+             <li> <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201600758" class="issue-header__arrow--left issue-header__arrow"> <span class="icon icon__arrow icon__arrow--left"></span> <span class="is-accessible">Previous article in Early View: New Chiral Reagent for Installation of Pharmacophoric (S)- or (R)-2-(Alkoxyphosphono)-1-amino-2,2-difluoroethyl Group</span> </a> <p class="issue-header__tooltip issue-header__tooltip--left"> <span class="icon icon__chevron-up"></span> <span class="issue-header__tooltip-header">Previous article in Early View:</span> New Chiral Reagent for Installation of Pharmacophoric (S)- or (R)-2-(Alkoxyphosphono)-1-amino-2,2-difluoroethyl Group </p> </li> 
+             <li> <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201600429" class="issue-header__arrow--right issue-header__arrow"> <span class="icon icon__arrow icon__arrow--right"></span> <span class="is-accessible">Next article in Early View: Rational Design for Rotaxane Synthesis through Intramolecular Slippage: Control of Activation Energy by Rigid Axle Length</span> </a> <p class="issue-header__tooltip issue-header__tooltip--right"> <span class="icon icon__chevron-up"></span> <span class="issue-header__tooltip-header">Next article in Early View:</span> Rational Design for Rotaxane Synthesis through Intramolecular Slippage: Control of Activation Energy by Rigid Axle Length </p> </li> 
+            </ol> 
+           </div> 
+           <p class="issue-header__description"> <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/earlyview" class="issue-header__link">Browse Early View Articles</a><br> Online Version of Record published before inclusion in an issue</p> 
+          </div> 
+         </nav> 
+        </div> 
+        <article id="main-content" class="article js-module" data-module="Article">
+         <header class="js-module article-header" data-module="ArticleHeader">
+          <div class="article-header__intro">
+           <span class="article-header__category article-category">Communication</span>
+           <h1 class="article-header__title" lang="en">Design of 2D Porous Coordination Polymers Based on Metallacrown Units</h1>
+           <div class="article-header__authors-container">
+            <h2 class="is-accessible">Authors</h2>
+            <ul class="article-header__authors_list js-module" data-module="keyboardHover">
+             <li class="article-header__authors-item" data-hover-container="author1" data-author-name="Dr. Corrado Atzeri"><h3 class="article-header__authors-name" data-hover-control="author1">Dr. Corrado Atzeri,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author1">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Chemistry, University of Parma, Parma, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Corrado Atzeri"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Corrado%20Atzeri%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Corrado Atzeri"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author2" data-author-name="Prof. Luciano Marchiò"><h3 class="article-header__authors-name" data-hover-control="author2">Prof. Luciano Marchiò,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author2">
+               <ul class="article-header__authors-item-details">
+                <li><span class="article-header__authors-item-label icon icon__orchid">ORCID:</span><a class="article-header__authors-item-link" href="http://orcid.org/0000-0002-0025-1104">orcid.org/0000-0002-0025-1104</a></li>
+               </ul>
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Chemistry, University of Parma, Parma, Italy</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Prof. Luciano Marchiò"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Prof.%20Luciano%20Marchi%C3%B2%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Prof. Luciano Marchiò"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author3" data-author-name="Dr. Chun Y. Chow"><h3 class="article-header__authors-name" data-hover-control="author3">Dr. Chun Y. Chow,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author3">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Chemistry, University of Michigan, Ann Arbor, Michigan, USA</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Chun Y. Chow"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Chun%20Y.%20Chow%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Chun Y. Chow"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author4" data-author-name="Dr. Jeff W. Kampf"><h3 class="article-header__authors-name" data-hover-control="author4">Dr. Jeff W. Kampf,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author4">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Chemistry, University of Michigan, Ann Arbor, Michigan, USA</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Jeff W. Kampf"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Jeff%20W.%20Kampf%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Jeff W. Kampf"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author5" data-author-name="Prof. Vincent L. Pecoraro"><h3 class="article-header__authors-name" data-hover-control="author5">Prof. Vincent L. Pecoraro<span class="icon icon__article-header icon__email"></span>,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author5">
+               <span class="article-header__corresponding-auth">Corresponding author</span>
+               <ul class="article-header__authors-item-details">
+                <li><span class="article-header__authors-item-label">E-mail address: </span><a href="mailto:vlpec@umich.edu" title="Link to email address" class="article-header__authors-item-email">vlpec@umich.edu</a></li>
+               </ul>
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Chemistry, University of Michigan, Ann Arbor, Michigan, USA</li>
+               </ol>
+               <ul class="article-header__authors-item-corresp-addr">
+                <li><i class="icon icon__authors-corresp-addr"></i></li>
+               </ul>
+               <span class="after-author-correspondence" data-author-name="Prof. Vincent L. Pecoraro"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Prof.%20Vincent%20L.%20Pecoraro%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Prof. Vincent L. Pecoraro"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author6" data-author-name="Dr. Matteo Tegoni"><h3 class="article-header__authors-name" data-hover-control="author6">Dr. Matteo Tegoni<span class="icon icon__article-header icon__email"></span></h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author6">
+               <span class="article-header__corresponding-auth">Corresponding author</span>
+               <ul class="article-header__authors-item-details">
+                <li><span class="article-header__authors-item-label">E-mail address: </span><a href="mailto:matteo.tegoni@unipr.it" title="Link to email address" class="article-header__authors-item-email">matteo.tegoni@unipr.it</a></li>
+                <li><span class="article-header__authors-item-label icon icon__orchid">ORCID:</span><a class="article-header__authors-item-link" href="http://orcid.org/0000-0002-9621-0410">orcid.org/0000-0002-9621-0410</a></li>
+               </ul>
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Chemistry, University of Parma, Parma, Italy</li>
+               </ol>
+               <ul class="article-header__authors-item-corresp-addr">
+                <li><i class="icon icon__authors-corresp-addr"></i></li>
+               </ul>
+               <span class="after-author-correspondence" data-author-name="Dr. Matteo Tegoni"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Matteo%20Tegoni%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Matteo Tegoni"></span>
+              </div></li>
+            </ul>
+           </div>
+           <div class="article-header__meta-info-container">
+            <ul id="header-meta-info-container" class="article-header__meta-info-list">
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label">First published: </span><time class="article-header__meta-info-data" datetime="2016-03-29" id="first-published-date">29 March 2016</time><a href="#publication-history" class="article-header__meta-info-2nd-data js-publication-history">Full publication history</a></li>
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label" id="header-section-doi">DOI: </span><span class="article-header__meta-info-data">10.1002/chem.201600562</span><a href="/enhanced/exportCitation/doi/10.1002/chem.201600562" class="article-header__meta-info-2nd-data analytics-view-citation js-module" data-module="fragment">View/save citation</a></li>
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label">Cited by: </span><span class="article-header__meta-info-data"><span id="js-citations__count">0</span> articles </span><a class="article-header__meta-info-2nd-data citations__control js-module" href="http://onlinelibrary.wiley.com/enhanced/refreshCitedBy?doi=10.1002/chem.201600562&amp;refreshCitedByCounter=true" data-module="citations">Check for new citations</a><a href="#footer-citing" class="js-scrollto article-header__meta-info-2nd-data citations__link">Citing literature</a></li>
+             <li class="article-header__meta-info-item">
+              <div data-module="alt-metrics" class="js-module altmetric-embed" data-badge-type="1" data-doi="10.1002/chem.201600562" data-badge-popover="bottom" data-link-target="_blank"></div></li>
+             <li class="article-header__meta-info-item"><a href="#funding-information" class="article-header__meta-info-2nd-data js-funding-info">Funding Information</a></li>
+            </ul>
+           </div>
+          </div>
+          <hr>
+         </header>
+         <section id="abstract" class="article-section article-section--abstract">
+          <div id="en_main_abstract" class="article-section__content mainAbstract" lang="en">
+           <h2 class="article-section__header">Abstract</h2>
+           <p>A 12-metallacrown-4 (MC) complex was designed and employed as the building block in the synthesis of coordination polymers, one of which is the first permanently porous MC architecture. The connection of the four-fold symmetric MC subunits by Cu<sup>II</sup> nodes led to the formation of 2D layers of metallacrowns. Channels are present in the crystalline architecture, which exhibits permanent porosity manifested in N<sub>2</sub> and CO<sub>2</sub> uptake capacity.</p>
+          </div>
+         </section>
+         <span id="after-abstract"></span>
+         <div id="js-feedback" class="feedback feedback--maximised js-module" data-module="feedback">
+          <a href="https://wileyonlinelibrary.uservoice.com/" class="feedback__content-link feedback__content-link--open" target="_blank">Provide feedback or get help</a>
+          <div class="feedback__content">
+           <span class="feedback__content-title">You are viewing our new enhanced HTML article.</span> 
+           <p class="feedback__content-paragraph"> If you can't find a tool you're looking for, please click the link at the top of the page to "Go to old article view". Alternatively, view our <a href="https://wileyonlinelibrary.uservoice.com" class="feedback__content-link" target="_blank"> Knowledge Base articles </a> for additional help. Your feedback is important to us, so please <a href="https://wileyonlinelibrary.uservoice.com" class="feedback__content-link" target="_blank"> let us know </a> if you have comments or ideas for improvement. </p>
+          </div>
+         </div>
+         <section id="pdf-section" class="article-section article-section__pdf-container js-pdf-content">
+          <ul class="box-actions__wrapper">
+           <li class="box-actions box-actions--readcube"><a href="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600562/epdf" class="js-article-section__pdf-container-link article-section__pdf-container-link"><span class="icon icon__readcube"></span><span class="js-article-section__pdf-container-title box-actions__title">Enhanced PDF</span></a></li>
+           <li class="box-actions"><a href="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600562/pdf" class="js-article-section__pdf-container-link article-section__pdf-container-link"><span class="icon icon__pdf"></span><span class="js-article-section__pdf-container-title box-actions__title">Standard PDF</span><span class="js-article-section__pdf-container-size box-actions__meta"> (1.5 MB) </span></a></li>
+          </ul>
+         </section>
+         <section class="article-section article-body-section" id="chem201600562-sec-0001">
+          <p>The chemistry of porous coordination polymers (PCPs) is a subject of extensive investigation due to its interesting applications in gas adsorption and purification, catalysis, luminescence, and magnetism.[<a href="#chem201600562-bib-0001" rel="references:#chem201600562-bib-0001" class="link__reference js-link__reference" title="Link to bibliographic citation">1</a>] The use of metal-rich entities as building blocks in the assembly of PCPs has allowed for the preparation of materials with functional properties that are derived from the individual molecular units (e.g. luminescence or slow magnetic relaxation).[<a href="#chem201600562-bib-0002" rel="references:#chem201600562-bib-0002" class="link__reference js-link__reference" title="Link to bibliographic citation">2</a>]</p>
+          <p>Metallacrowns (MCs, Scheme <a href="#chem201600562-fig-5001" rel="references:#chem201600562-fig-5001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a>a) are self-assembled metallamacrocycles that can be described as inorganic analogues of crown ethers, in which the C−C bonds are replaced by metal-heteroatom bonds.[<a href="#chem201600562-bib-0003" rel="references:#chem201600562-bib-0003 #chem201600562-bib-0004" class="link__reference js-link__reference" title="Link to bibliographic citations">3, 4</a>] Both classes of compounds have central cavities that can coordinate metal ions ranging in size from transition- and main-group metals, to larger lanthanide ions.[<a href="#chem201600562-bib-0003" rel="references:#chem201600562-bib-0003 #chem201600562-bib-0004" class="link__reference js-link__reference" title="Link to bibliographic citations">3, 4</a>] MCs are promising precursors to advanced materials and probes that utilize the electronic, optical, and magnetic properties derived from the confinement of several metal ions within a molecular framework of small dimensions.[<a href="#chem201600562-bib-0004" rel="references:#chem201600562-bib-0004 #chem201600562-bib-0005" class="link__reference js-link__reference" title="Link to bibliographic citations">4, 5</a>] For instance, MCs containing NIR-emitting lanthanides have been shown to display outstanding quantum yields and lifetimes, opening up the possibility for applications such as in vivo imaging.[<a href="#chem201600562-bib-0006" rel="references:#chem201600562-bib-0006" class="link__reference js-link__reference" title="Link to bibliographic citation">6</a>] Additionally, in the field of magnetism, several MCs have been reported to exhibit single-molecule magnet behavior.[<a href="#chem201600562-bib-0004" rel="references:#chem201600562-bib-0004 #chem201600562-bib-0005" class="link__reference js-link__reference" title="Link to bibliographic citations">4, 5</a>] With this in mind, we were attracted by the possibility of combining the versatile properties of MC scaffolds together with the permanent porosity of PCPs. The resulting hybrid solids may have interesting properties, suitable for applications ranging from the field of guest-responsive luminescent sensors, to the field of advanced magnetic materials.</p>
+          <section id="chem201600562-fig-5001" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_m%2Fchem201600562-fig-5001-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2gUwTLY7S9F0NqV2zZ0znNz3jbT0qch2ZNA5xQ7yoi0QS%0AezPq0Sjvw8x%2BgPXmjQfl&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="chem201600562-fig-5001" title="Open Scheme&nbsp;1. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Scheme&nbsp;1. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_n%2Fchem201600562-fig-5001.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAnuJqaJIGJJZw%0AQ6LpRC2Bpg%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Scheme&nbsp;1. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_n%2Fchem201600562-fig-5001.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAnuJqaJIGJJZw%0AQ6LpRC2Bpg%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Scheme&nbsp;1. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_m%2Fchem201600562-fig-5001-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2gUwTLY7S9F0NqV2zZ0znNz3jbT0qch2ZNA5xQ7yoi0QS%0AezPq0Sjvw8x%2BgPXmjQfl&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/powerpoint/image_n%2Fchem201600562-fig-5001.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAnuJqaJIGJJZw%0AQ6LpRC2Bpg%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>a) Scheme of {Cu<sup>II</sup>[12-MC<sub>CuII, hinHA</sub>-4]}<sup>2−</sup>. The ligand hinHA<sup>3−</sup> is highlighted; b) Schematic representation of the 2D layers of metallacrowns.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>MCs are solution stable under a wide range of conditions[<a href="#chem201600562-bib-0003" rel="references:#chem201600562-bib-0003 #chem201600562-bib-0007" class="link__reference js-link__reference" title="Link to bibliographic citations">3, 7</a>] and can be easily isolated in the solid state. Nevertheless, only a few examples of extended frameworks[<a href="#chem201600562-bib-0008" rel="references:#chem201600562-bib-0008 #chem201600562-bib-0009 #chem201600562-bib-0010" class="link__reference js-link__reference" title="Link to bibliographic citations">8-10</a>] or supramolecular architectures[<a href="#chem201600562-bib-0011" rel="references:#chem201600562-bib-0011 #chem201600562-bib-0012 #chem201600562-bib-0013" class="link__reference js-link__reference" title="Link to bibliographic citations">11-13</a>] composed of MC units have been reported to date. Furthermore, none of these compounds display the permanent porosity that is typical of porous coordination polymers. One reason for the lack of porosity is the fact that MCs are often linked through ditopic bridging ligands (e.g. dicarboxylates), which coordinate to the axial positions of the metal ions in the MC framework.[<a href="#chem201600562-bib-0009" rel="references:#chem201600562-bib-0009 #chem201600562-bib-0011 #chem201600562-bib-0014" class="link__reference js-link__reference" title="Link to bibliographic citations">9, 11, 14</a>] This type of connection favors the formation of chains of MCs, which tend to crystallize in close proximity to each other; therefore, reducing the void space necessary for significant porosity.</p>
+          <p>Two examples of multidimensional coordination polymers formed by the linkage of MCs through functional moieties placed on the periphery of the molecular framework have been reported.[<a href="#chem201600562-bib-0008" rel="references:#chem201600562-bib-0008" class="link__reference js-link__reference" title="Link to bibliographic citation">8</a>] However, permanent porosity was not observed for either one of the lattices.[<a href="#chem201600562-bib-0008" rel="references:#chem201600562-bib-0008" class="link__reference js-link__reference" title="Link to bibliographic citation">8</a>] Furthermore, there are a few examples of void-space containing networks formed by the aggregation of MCs held together by weak interactions.[<a href="#chem201600562-bib-0012" rel="references:#chem201600562-bib-0012 #chem201600562-bib-0013" class="link__reference js-link__reference" title="Link to bibliographic citations">12, 13</a>] As with the first example, the interactions established in these architectures do not provide sufficient structural stabilization for the lattices to exhibit significant gas uptake properties. Also, these (pseudo)-porous extended frameworks were formed by serendipitous spatial arrangement of the MC units, rather than from the rational design and control of the interactions established between the building blocks.</p>
+          <p>In this paper, we present two novel MC networks, one of which is the first permanent PCP made of metallacrowns that is resistant to solvent evacuation and capable of adsorbing gas. In this architecture, 12-MC-4 units were assembled using Cu<sup>II</sup> ions and a pyridinic analogue of salicylhydroxamic acid as the ligand (hinHA<sup>3−</sup>, Scheme <a href="#chem201600562-fig-5001" rel="references:#chem201600562-fig-5001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a> a). We aimed to connect these MC units through in-plane metal-ion bridges to form a chessboard-like fourfold arrangement (Scheme <a href="#chem201600562-fig-5001" rel="references:#chem201600562-fig-5001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a> b). Hence, the ligand was designed to provide the MC with pyridine-like moieties pointing towards the exterior of the scaffold, in order to increase the propensity for forming peripheral coordination bonds. These bonds were designed to impose proper distance between MC units to generate voids within the lattice.[<a href="#chem201600562-bib-0008a" rel="references:#chem201600562-bib-0008a" class="link__reference js-link__reference" title="Link to bibliographic citation">8a</a>]</p>
+          <p>The ligand H<sub>3</sub>hinHA (3-hydroxyisonicotine hydroxamic acid) was synthesized in moderate yield from the carboxylic acid precursor using activation–deprotection strategies.[<a href="#chem201600562-bib-0015" rel="references:#chem201600562-bib-0015" class="link__reference js-link__reference" title="Link to bibliographic citation">15</a>] The reaction of Cu<sup>II</sup> salts with H<sub>3</sub>hinHA selectively provided a {Cu<sup>II</sup>[12-MC<sub>CuII, hinHA</sub>-4]}<sup>2−</sup> species, as observed by mass spectrometry (ESI-MS, Figure S8, Supporting Information). By modifying reaction conditions, we were able to isolate two distinct MC networks.</p>
+          <p>Network <b>1</b> (Figure <a href="#chem201600562-fig-0001" rel="references:#chem201600562-fig-0001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a>) was isolated by reacting H<sub>3</sub>hinHA with Cu<sup>II</sup> acetate in a 1:1.75 ratio in a dilute 2:1 DMF/pyridine solution, followed by slow evaporation of the solvent. The structure is composed of stacked two-dimensional coordination networks with the formula {[Cu<sup>II</sup>(AcO)Py]<sub>2</sub>{Cu<sup>II</sup>[12- MC<sub>CuII, hinHA</sub>-4]}}<sub><em>n</em></sub>. As shown in Figure <a href="#chem201600562-fig-0001" rel="references:#chem201600562-fig-0001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a>, single units of the {Cu<sup>II</sup>[12-MC<sub>CuII, hinHA</sub>-4]}<sup>2−</sup> metallacrown are bridged by additional Cu<sup>II</sup> ions coordinated to the peripheral pyridinic moieties of two neighboring MC units. The bridging Cu<sup>II</sup> nodes have the formula [Cu<sup>II</sup>(AcO)Py]<sup>+</sup>: their coordination geometry can be described as distorted square planar, in which the two MC pyridinic moieties coordinate to the linking metals in a <em>trans</em> fashion. The remaining positions are occupied by a monodentate acetate ion and a solvent pyridine molecule (Figure <a href="#chem201600562-fig-0001" rel="references:#chem201600562-fig-0001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a> b). The result is the formation of a chessboard-like arrangement of 12-MC-4 units, in which the voids have a rectangular shape. Interestingly, each layer is not planar, but rather has a wave-like topology, as the result of the bowl-shaped MC units. </p>
+          <section id="chem201600562-fig-0001" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_m%2Fchem201600562-fig-0001-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2gUwTLY7S9F0NqV2zZ0znNz3jbT0qch2ZlZR%2B5BCoVUJU%0APQomyPO714PfKYxbtL%2FL&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="chem201600562-fig-0001" title="Open Figure&nbsp;1. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Figure&nbsp;1. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_n%2Fchem201600562-fig-0001.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAfpID1%2F1jYJs9%0AxR9mkDbE1g%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Figure&nbsp;1. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_n%2Fchem201600562-fig-0001.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAfpID1%2F1jYJs9%0AxR9mkDbE1g%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Figure&nbsp;1. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_m%2Fchem201600562-fig-0001-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2gUwTLY7S9F0NqV2zZ0znNz3jbT0qch2ZlZR%2B5BCoVUJU%0APQomyPO714PfKYxbtL%2FL&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/powerpoint/image_n%2Fchem201600562-fig-0001.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAfpID1%2F1jYJs9%0AxR9mkDbE1g%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>a) Representation of one layer of the porous network <b>1</b>, viewed along the <em>c</em> axis. One MC unit is shown in a space-filling representation. Taking into consideration van der Waals radii, the 2D pore section measures 12.6×8.9 Å<sup>2</sup>, accounting for 36 % of the total cell volume. b) Encapsulation of a coordinated pyridine molecule within the hydrophobic pyridinic pocket forms π–π pillars holding the layers together.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>In the MC unit, each of the five Cu<sup>II</sup> ions are coordinated axially by one solvent molecule of pyridine, and exhibit a distorted square-pyramidal coordination geometry (Figure S14, Supporting Information). Due to steric interactions, the four ring ions are all coordinated by the pyridine molecules on the MC convex face, while the central Cu<sup>II</sup> ion is coordinated by the fifth pyridine on the opposite face (Figure <a href="#chem201600562-fig-0001" rel="references:#chem201600562-fig-0001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a> b).</p>
+          <p>One structural consequence of this pyridine distribution is the disruption of planarity leading to the bowl shape of the MC units. In this nonplanar configuration, the prochiral MC units gain chirality, as one can distinguish the clockwise or anticlockwise rotation of the (Cu–O–N)<sub>4</sub> cyclic repetition of the MC ring, with respect to the concave face of the molecule (Figure S12, Supplementary Information).[<a href="#chem201600562-bib-0016" rel="references:#chem201600562-bib-0016" class="link__reference js-link__reference" title="Link to bibliographic citation">16</a>] Since the crystal lattice is formed by the wave-like repetition of only one of the two possible enantiomers, a homochiral coordination polymer which crystallizes in the chiral space group <em>P</em>42<sub>1</sub>2 is obtained.</p>
+          <p>The four pyridine molecules coordinated to the convex face of an MC subunit form an aromatic pocket that encapsulates the lone pyridine of the neighboring 2D layer (Figure <a href="#chem201600562-fig-0001" rel="references:#chem201600562-fig-0001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a> b). This columnar stacking of interpenetrated pyridines creates π–π pillars, which provide stability to the assembly and allow the rectangular void spaces of each layer to be perfectly stacked, one above the other, to form void channels that run along the entire crystal (Figure <a href="#chem201600562-fig-0002" rel="references:#chem201600562-fig-0002" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">2</a>). Since the charge balance is provided by the bridging [Cu<sup>II</sup>(AcO)Py]<sup>+</sup> units, no extra counter ions, which may potentially occupy the void spaces, are required. By taking into consideration the van der Waals radii, the estimated channel cross section measures 12.6×8.9 Å<sup>2</sup> and accounts for 36 % of the total unit-cell volume, as estimated by PLATON.[<a href="#chem201600562-bib-0017" rel="references:#chem201600562-bib-0017" class="link__reference js-link__reference" title="Link to bibliographic citation">17</a>] The channels are filled by disordered solvent molecules, which can be removed by thermal treatment of the solid at moderate temperatures, without loss of crystallinity (see below). </p>
+          <section id="chem201600562-fig-0002" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_m%2Fchem201600562-fig-0002-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2gUwTLY7S9F0NqV2zZ0znNz3jbT0qch2ZctOi9V1MLjPu%0AjDSE%2F70jWs73lPvGxMl5&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="chem201600562-fig-0002" title="Open Figure&nbsp;2. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Figure&nbsp;2. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_n%2Fchem201600562-fig-0002.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnA8QjM%2FIVt0lXC%0A5K8E2888Ug%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Figure&nbsp;2. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_n%2Fchem201600562-fig-0002.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnA8QjM%2FIVt0lXC%0A5K8E2888Ug%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Figure&nbsp;2. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_m%2Fchem201600562-fig-0002-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2gUwTLY7S9F0NqV2zZ0znNz3jbT0qch2ZctOi9V1MLjPu%0AjDSE%2F70jWs73lPvGxMl5&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/powerpoint/image_n%2Fchem201600562-fig-0002.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnA8QjM%2FIVt0lXC%0A5K8E2888Ug%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>a) Side view of the void channels formed by the vertical stacking of MC layers. The MC network is represented as sticks; the channels were generated by rolling a spherical probe of radius 1.2 Å on the surface of the voids. b) Top-down view of the rectangular-shaped channels running along the crystal; the atoms of the network are shown as spheres.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>The thermal stability of the crystalline network <b>1</b> was investigated through thermogravimetric analysis (TGA) and variable-temperature powder X-ray diffraction (PXRD, Figure <a href="#chem201600562-fig-0003" rel="references:#chem201600562-fig-0003" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">3</a>) on a solvent-exchanged batch of crystals (CH<sub>2</sub>Cl<sub>2</sub>, three times over three days). The TGA curve displayed a sharp weight loss of 15 % between 50–65 °C, corresponding to the loss of adsorbed solvent in the void channels (Figure <a href="#chem201600562-fig-0003" rel="references:#chem201600562-fig-0003" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">3</a> a). The plateau between 65–320 °C suggests that the network is thermally stable over this temperature range; at higher temperatures, decomposition of the organic matrix takes place. No loss of crystallinity is observed below 225 °C, as shown in the PXRD patterns in Figure <a href="#chem201600562-fig-0003" rel="references:#chem201600562-fig-0003" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">3</a> b. These results suggest high thermal resistance of the crystal lattice to degradation. </p>
+          <section id="chem201600562-fig-0003" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_m%2Fchem201600562-fig-0003-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2gUwTLY7S9F0NqV2zZ0znNz3jbT0qch2ZYrzGTVsyqJMw%0ASLq2WAujayO3rrA0%2FBIX&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="chem201600562-fig-0003" title="Open Figure&nbsp;3. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Figure&nbsp;3. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_n%2Fchem201600562-fig-0003.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAj5SRuWqpIe6Y%0AzcnS2Bc%2BqA%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Figure&nbsp;3. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_n%2Fchem201600562-fig-0003.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAj5SRuWqpIe6Y%0AzcnS2Bc%2BqA%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Figure&nbsp;3. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_m%2Fchem201600562-fig-0003-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2gUwTLY7S9F0NqV2zZ0znNz3jbT0qch2ZYrzGTVsyqJMw%0ASLq2WAujayO3rrA0%2FBIX&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/powerpoint/image_n%2Fchem201600562-fig-0003.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAj5SRuWqpIe6Y%0AzcnS2Bc%2BqA%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>a) Thermogravimetric analysis of solid <b>1</b>, run under a N<sub>2</sub> atmosphere up to 600 °C; b) Variable-temperature powder-XRD spectra of <b>1</b> in the 25–305 °C interval; c, d) Isothermal gas adsorption of <b>1</b>, respectively N<sub>2</sub> at 77 K and CO<sub>2</sub> at 195 K and 273 K.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>The porosity of compound <b>1</b> was studied by isothermal nitrogen adsorption at 77 K on crystals activated by solvent exchange followed by heating at 110 °C under vacuum for 6 h. The surface area was determined to be 515 and 568 m<sup>2</sup> g<sup>−1</sup> according to the BET and Langmuir methods, respectively, with a total pore volume of 0.583 cm<sup>3</sup> g<sup>−1</sup>. The activated network was also tested for isothermal CO<sub>2</sub> adsorption up to 1 atm at 195 and at 273 K, exhibiting CO<sub>2</sub> uptake capacities of 23.3 wt % (118.64 cm<sup>3</sup> g<sup>−1</sup>, 5.31 mmol g<sup>−1</sup>) and of 7.3 wt % (37.27 cm<sup>3</sup> g<sup>−1</sup>, 1.66 mmol g<sup>−1</sup>), respectively.[<a href="#chem201600562-bib-0018" rel="references:#chem201600562-bib-0018" class="link__reference js-link__reference" title="Link to bibliographic citation">18</a>] These values are comparable to the CO<sub>2</sub> adsorption capacities of other reported porous MOFs.[<a href="#chem201600562-bib-0019" rel="references:#chem201600562-bib-0019" class="link__reference js-link__reference" title="Link to bibliographic citation">19</a>] For both N<sub>2</sub> and CO<sub>2</sub>, the isotherms show a type-I behavior at lower gas pressures (Figure <a href="#chem201600562-fig-0003" rel="references:#chem201600562-fig-0003" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">3</a>);[<a href="#chem201600562-bib-0020" rel="references:#chem201600562-bib-0020" class="link__reference js-link__reference" title="Link to bibliographic citation">20</a>] such behavior is in agreement with the microporous nature of the solid, as indicated by the crystal structure. Hence, we can conclude that network <b>1</b> is the first permanently porous coordination polymer made of MCs and is capable of reversible gas adsorption.</p>
+          <p>A detailed description of the coordination polymers based on metallacrowns has been reported recently.[<a href="#chem201600562-bib-0021" rel="references:#chem201600562-bib-0021" class="link__reference js-link__reference" title="Link to bibliographic citation">21</a>] Compared to the compounds known to date, network <b>1</b>, with its average calculated pore diameter of 1.2 nm and 36 % of total void volume, possesses the second widest pores of all MC-based systems, behind the mesoporous aggregate La<sup>III</sup>/Cu<sup>II</sup> 15-MC-5 (average pore diameter of 2.4 nm with 43 % of unit cell voids).[<a href="#chem201600562-bib-0012" rel="references:#chem201600562-bib-0012" class="link__reference js-link__reference" title="Link to bibliographic citation">12</a>] However, the aforementioned mesoporous material does not withstand solvent evacuation and, therefore, does not show permanent porosity due to structural collapse upon solvent removal. A few other MC-based supramolecular assemblies have exhibited good uptake capacities towards alcohols,[<a href="#chem201600562-bib-0013" rel="references:#chem201600562-bib-0013" class="link__reference js-link__reference" title="Link to bibliographic citation">13</a>] though these sorption properties are not caused by the presence of porous lattices, but rather by compact, nonporous structures undergoing uptake mechanisms known as “gate-opening”.[<a href="#chem201600562-bib-0013" rel="references:#chem201600562-bib-0013 #chem201600562-bib-0021" class="link__reference js-link__reference" title="Link to bibliographic citations">13, 21</a>] On the other hand, compound <b>1</b> is a coordination polymer characterized by wide structured pores and by a crystal lattice resistant to solvent evacuation, attributes that effectively classify the framework as a porous material.</p>
+          <p>Reacting H<sub>3</sub>hinHA, Cu<sup>II</sup> triflate and tetraethylammonium (NEt<sub>4</sub><sup>+</sup>) acetate (1:1.25:3 ratio) in a solution of 3:2:1 DMSO/DMF/pyridine led to the isolation of a different network (<b>2</b>), which has the formula {(NEt<sub>4</sub>)<sub>2</sub>{Cu<sup>II</sup>[12-MC<sub>CuII, hinHA</sub>-4]}(DMSO)<sub>2</sub>}<sub>n</sub>.[<a href="#chem201600562-bib-0022" rel="references:#chem201600562-bib-0022" class="link__reference js-link__reference" title="Link to bibliographic citation">22</a>] Single-crystal X-ray diffraction revealed that compound <b>2</b> is also a 2D coordination polymer based on the same {Cu<sup>II</sup>[12-MC<sub>CuII, hinHA</sub>-4]}<sup>2−</sup> unit that differs from <b>1</b> in that, here, the MCs are directly linked together without bridging metal ions (Figure <a href="#chem201600562-fig-0004" rel="references:#chem201600562-fig-0004" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">4</a>). Cross-linking between MCs is established by coordination of the peripheral pyridinic moieties to the available axial positions of the Cu<sup>II</sup> ions of a neighboring MC unit (Figure <a href="#chem201600562-fig-0004" rel="references:#chem201600562-fig-0004" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">4</a> b). The result is the formation of a net of MC units, with adjoined building blocks situated almost perpendicular to each other. The four ring Cu<sup>II</sup> ions exhibit a square-pyramidal coordination geometry, in which the axial positions are occupied alternately either by a nearby MC pyridinic moiety or by a DMSO molecule (Figure <a href="#chem201600562-fig-0004" rel="references:#chem201600562-fig-0004" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">4</a> a). The charge of each MC unit is balanced with two bulky NEt<sub>4</sub><sup>+</sup> ions occupying the rectangular interstices created between the linked MCs, leading to a nonporous solid (Figure <a href="#chem201600562-fig-0004" rel="references:#chem201600562-fig-0004" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">4</a> b). The isolation of <b>2</b> in place of <b>1</b> is likely due to a Cu<sup>II</sup>/ligand 5:4 stoichiometric ratio required to assemble the MC units, leaving no extra metal ions available to act as the linkers. However, the coordinated DMSO also plays a role, as it prevents the formation of the pyridine aromatic pockets required to stabilize the interactions between layers in <b>1</b>, thus favoring the crystallization of <b>2</b>. Interestingly, the MC units in <b>2</b> arrange into layers: single 2D reticular frameworks, parallel to the <em>bc</em> crystallographic plane, are held together by weak interactions between NEt<sub>4</sub><sup>+</sup> ions and the aromatic residues of adjacent MCs (Figure S13, Supporting Information). </p>
+          <section id="chem201600562-fig-0004" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_m%2Fchem201600562-fig-0004-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2gUwTLY7S9F0NqV2zZ0znNz3jbT0qch2ZEQ7inrEMHZvs%0AWl%2BgJxMXG%2FJMEy6sjVSz&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="chem201600562-fig-0004" title="Open Figure&nbsp;4. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Figure&nbsp;4. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_n%2Fchem201600562-fig-0004.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAgyouY8ivzlu2%0Amyn5FubvuQ%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Figure&nbsp;4. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_n%2Fchem201600562-fig-0004.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAgyouY8ivzlu2%0Amyn5FubvuQ%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Figure&nbsp;4. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/image_m%2Fchem201600562-fig-0004-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2gUwTLY7S9F0NqV2zZ0znNz3jbT0qch2ZEQ7inrEMHZvs%0AWl%2BgJxMXG%2FJMEy6sjVSz&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/powerpoint/image_n%2Fchem201600562-fig-0004.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpAQzIzMmoSe2fOoknZ1%2Fv6eg9FCyC%2FzGUfEdJpIIQKnAgyouY8ivzlu2%0Amyn5FubvuQ%3D%3D&amp;s=%22d92aa663817d4264829cdf6ff61bc954%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>a) Single MC unit in <b>2</b>, with two coordinated DMSO molecules and two tetraethylammonium counter-ions; b) structure of <b>2</b>, viewed along <em>a</em>. The 2D network is established by cross-coordinated MC units, encapsulating tetraethylammonium (spacefill representation) in the interstices.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>A 1D coordination polymer of 15-MC-5 made of pyrazinohydroxamic acid, a close analogue of H<sub>3</sub>hinHA, was previously reported in the literature.[<a href="#chem201600562-bib-0011" rel="references:#chem201600562-bib-0011" class="link__reference js-link__reference" title="Link to bibliographic citation">11</a>] The connectivity between MCs was achieved by coordination of a peripheral pyridinic nitrogen atom onto a Cu<sup>II</sup> ring ion of a nearby MC. However, neither 2D nor 3D assemblies were generated, possibly due to the five-fold symmetry of 15-MC-5, which complicates the establishment of such frameworks.</p>
+          <p>Here, the ability of hinHA<sup>3−</sup> to assemble into stable, four-fold symmetric 12-MC-4 units and to provide donor atoms for the linkage of MC units through the coordination of bridging metal ions is fully exploited in <b>1</b>. Network <b>2</b>, although not porous, further demonstrates the tendency of 12-MC-4 of hinHA<sup>3−</sup> to form coordination polymers and opens the possibility to synthesize other novel materials using this ligand and different metals.</p>
+          <p>In conclusion, the newly designed H<sub>3</sub>hinHA proved to be a versatile and reliable organic ligand for the production of extended networks. With the design and isolation of network <b>1</b>, we succeeded in obtaining the first homochiral MC-based permanently porous coordination polymer that exhibits good gas adsorption capacity. This network represents a proof-of-concept demonstration of how the rational design of MC units may lead the way for a new class of functional porous materials based on high interest MC synthons. We now aim at exploiting the porosity of new MC-based frameworks to realize functional guest-responsive devices, with applications ranging from luminescent sensors to advanced magnetic materials, to catalysis.</p>
+          <section class="article-section article-body-section" id="chem201600562-sec-0002">
+           <h3>Acknowledgements</h3>
+           <p>The research leading to these results has received funding from the European Community's Seventh Framework Programme (FP7/2007-2013) under grant agreement no. 611488 (Marie Curie IRSES “Metallacrowns” project for M.T.) and from the National Science Foundation, (CHE-1361779 for V.L.P.). M.T. thanks the Italian Ministry of Foreign Affairs (MAE) for its support through the bilateral project Grande Rilevanza Italy-USA 2016-2017 (con il contributo del Ministero degli Affari Esteri e della Cooperazione Internazionale, Direzione Generale per la Promozione del Sistema Paese). The authors wish to thank Prof. A.J. Matzger and Dr. A.G. Wong-Foy for isothermal gas adsorption measurements, Prof. G. Calestani and Dr. F. Mezzadri for powder X-ray diffraction measurements.</p>
+          </section>
+         </section>
+         <footer class="article-footer js-module" data-module="Footer">
+          <h2 class="is-accessible">Ancillary</h2>
+          <section id="footer-article-info" class="article-footer__section">
+           <h3 class="article-footer__section-title js-footer-title"><i class="icon icon__double-chevron"></i>Article Information</h3>
+           <div class="article-info__section-content js-footer-info js-article-info">
+            <div class="article-info__doi-container">
+             <h4 class="article-info__section-sub-title">DOI</h4>
+             <span class="article-info__section-doi-data">10.1002/chem.201600562</span>
+             <ul class="article-info__list u-list-plain">
+              <li class="article-info__citations-item"><a href="/enhanced/exportCitation/doi/10.1002/chem.201600562" class="article-header__meta-info-2nd-data analytics-view-citation js-module" data-module="fragment">View/save citation</a></li>
+             </ul>
+            </div>
+            <div class="article-info__format-container article-format">
+             <h4 class="article-info__section-sub-title">Format Available</h4>
+             <span class="article-info__section-format-data">Full text: HTML | PDF</span>
+            </div>
+            <footer class="article-info__copyright-container" id="copyright">
+             <p class="article-info__copyright">© 2016 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim</p>
+            </footer>
+            <p class="request-permissions"><a href="https://s100.copyright.com/AppDispatchServlet?publisherName=Wiley&amp;publication=CHEM&amp;title=Design%20of%202D%20Porous%20Coordination%20Polymers%20Based%20on%20Metallacrown%20Units&amp;publicationDate=29%20MAR%202016&amp;author=Corrado%20Atzeri%2CLuciano%20Marchi%C3%B2%2CChun%20Y.%20Chow%2CJeff%20W.%20Kampf%2CVincent%20L.%20Pecoraro%2CMatteo%20Tegoni&amp;startPage=n%2Fa&amp;endPage=n%2Fa&amp;copyright=%C2%A9%202016%20WILEY%E2%80%90VCH%20Verlag%20GmbH%20%26%20Co.%20KGaA%2C%20Weinheim&amp;contentID=10.1002%2Fchem.201600562&amp;orderSource=Wileyonline&amp;orderBeanReset=true" class="js-module" data-module="rights-link" target="_blank"><span class="icon-aa icon-aa__permission"></span> Request Permissions </a></p>
+            <div class="article-info__keywords-plus-wrapper">
+             <div class="article-info__keywords-container">
+              <h4 class="article-info__section-sub-title">Keywords</h4>
+              <ul class="article-info__keywords-list u-horizontal-list">
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">coordination polymers; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">gas adsorption; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">hydroxamic acids; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">metallacrowns; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">porosity</span></li>
+              </ul>
+             </div>
+             <span id="after-keywords"></span>
+            </div>
+            <div class="article-info__publication-history-container" id="publication-history">
+             <h4 class="article-info__section-sub-title">Publication History</h4>
+             <ul class="article-info__publication-history-list u-list-plain">
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Version of record online: </span><time datetime="2016-03-29" class="article-info__publication-history-data">29 March 2016</time></li>
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Accepted manuscript online: </span><time datetime="2016-03-08" class="article-info__publication-history-data">8 March 2016</time></li>
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Manuscript Received: </span><time datetime="2016-02-05" class="article-info__publication-history-data">5 February 2016</time></li>
+             </ul>
+            </div>
+            <div id="funding-information" class="article-info__funded-by-container">
+             <h4 class="article-info__section-sub-title">Funded by</h4>
+             <ul class="article-info__funded-by-list">
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">European Community's Seventh Framework Programme. Grant Numbers: FP7/2007-2013, 611488</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">National Science Foundation. Grant Number: CHE-1361779</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">Italian Ministry of Foreign Affairs (MAE)</span></li>
+             </ul>
+            </div>
+            <span id="after-funding-information"></span>
+           </div>
+          </section>
+          <section id="footer-support-info" class="article-footer__section">
+           <h3 class="article-footer__section-title js-footer-title"><i class="icon icon__double-chevron"></i>Supporting Information </h3>
+           <div class="article-supp-info__section-content js-footer-info" id="">
+            <p class="article-info__intro">As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p>
+            <div class="support-info__table-wrapper">
+             <table class="support-info__table">
+              <thead>
+               <tr>
+                <th id="article-filename">Filename</th>
+                <th id="article-description">Description</th>
+               </tr>
+              </thead>
+              <tbody>
+               <tr>
+                <td headers="article-filename"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600562/asset/supinfo%2Fchem201600562-sup-0001-misc_information.pdf?l=SkaBT8QEx2qC%2FkuQm2Z%2BpEQyg464Lm2SwOJsbt5MHMvux9NlYx63TRLCeeMF5w3sDUHfx1E05OBh%0AytzRmO16%2F8Qe9rhbLb%2BZJW1%2FQh4o33A2VPr6q%2FqmxQ%3D%3D">chem201600562-sup-0001-misc_information.pdf</a><span class="support-info__file-ext">7914K</span></td>
+                <td headers="article-description">Supplementary</td>
+               </tr>
+              </tbody>
+             </table>
+            </div>
+            <p class="support-info__disclaimer">Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.</p>
+           </div>
+          </section>
+          <section class="article-footer__section article-section__references" id="references-section">
+           <div class="article-info__section-content">
+            <ul class="article-section__references-list">
+             <li id="chem201600562-bib-0001"><span class="bullet">1</span><cite id="chem201600562-cit-0001">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0001a"><span class="bullet">1a</span><cite id="chem201600562-cit-0002"><span class="author">G. Férey</span>, <span class="journalTitle">Chem. Soc. Rev.</span> <span class="pubYear">2007</span>, <span class="vol">36</span>, <span class="pageFirst">191</span>–<span class="pageLast">214</span>;</cite></li>
+             <li id="chem201600562-bib-0001b"><span class="bullet">1b</span><cite id="chem201600562-cit-0003"><span class="author">Y. Cui</span>, <span class="author">F. Zhu</span>, <span class="author">B. Chen</span>, <span class="author">G. Qian</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2015</span>, <span class="vol">51</span>, <span class="pageFirst">7420</span>–<span class="pageLast">7431</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC5CC00718F">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXislKiu7g%253D&amp;md5=aaeda2e874cb45dd041811e96a134091">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000353033600001&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 13</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0001c"><span class="bullet">1c</span><cite id="chem201600562-cit-0004"><span class="author">X.-G. Liu</span>, <span class="author">H. Wang</span>, <span class="author">B. Chen</span>, <span class="author">Y. Zou</span>, <span class="author">Z. G. Gu</span>, <span class="author">Z. Zhao</span>, <span class="author">L. Shen</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2015</span>, <span class="vol">51</span>, <span class="pageFirst">1677</span>–<span class="pageLast">1680</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC4CC08945F">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXitV2isLnO&amp;md5=bcacc4ebd6980f9a86c4cc747d40abbf">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000348200100030&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 15</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0001d"><span class="bullet">1d</span><cite id="chem201600562-cit-0005"><span class="author">M. Kurmoo</span>, <span class="journalTitle">Chem. Soc. Rev.</span> <span class="pubYear">2009</span>, <span class="vol">38</span>, <span class="pageFirst">1353</span>–<span class="pageLast">1379</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb804757j">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19384442">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXkvVamu7s%253D&amp;md5=7783830558bdd2c36bb5a42c69cb0f30">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000266597700012&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 1325</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0002"><span class="bullet">2</span><cite id="chem201600562-cit-0006"><span class="author">C. Wang</span>, <span class="author">D. Liu</span>, <span class="author">W. Lin</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2013</span>, <span class="vol">135</span>, <span class="pageFirst">13222</span>–<span class="pageLast">13234</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja308229p">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/23944646">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXht1OjurbN&amp;md5=f26587c8edc7489f9b1eb445a0b43d72">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000330163200001&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 188</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0003"><span class="bullet">3</span><cite id="chem201600562-cit-0007"><span class="author">M. Tegoni</span>, <span class="author">M. Remelli</span>, <span class="journalTitle">Coord. Chem. Rev.</span> <span class="pubYear">2012</span>, <span class="vol">256</span>, <span class="pageFirst">289</span>–<span class="pageLast">315</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2Fj.ccr.2011.06.007">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXhsFarsLjO&amp;md5=5a20900cff7986715a81d569a3eb09b7">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000298975200020&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 46</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0004"><span class="bullet">4</span><cite id="chem201600562-cit-0008">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0004a"><span class="bullet">4a</span><cite id="chem201600562-cit-0009"><span class="author">G. Mezei</span>, <span class="author">C. M. Zaleski</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">Chem. Rev.</span> <span class="pubYear">2007</span>, <span class="vol">107</span>, <span class="pageFirst">4933</span>–<span class="pageLast">5003</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fcr078200h">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/17999555">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2sXht1yrt7zL&amp;md5=788fbeca7c2eff842ee11862bfc359ea">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000250970400011&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 246</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0004b"><span class="bullet">4b</span><cite id="chem201600562-cit-0010"><span class="author">C. Y. Chow</span>, <span class="author">E. R. Trivedi</span>, <span class="author">V. Pecoraro</span>, <span class="author">C. M. Zaleski</span>, <span class="journalTitle">Comments Inorg. Chem.</span> <span class="pubYear">2015</span>, <span class="vol">35</span>, <span class="pageFirst">214</span>–<span class="pageLast">253</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1080%2F02603594.2014.981811">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXltlKgurs%253D&amp;md5=180ee5f3cf789ce0a4382b7730dde07a">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000357751400002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science®</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0005"><span class="bullet">5</span><cite id="chem201600562-cit-0011">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0005a"><span class="bullet">5a</span><cite id="chem201600562-cit-0012"><span class="author">Q.-W. Li</span>, <span class="author">J.-L. Liu</span>, <span class="author">J.-H. Jia</span>, <span class="author">Y.-C. Chen</span>, <span class="author">J. Liu</span>, <span class="author">L.-F. Wang</span>, <span class="author">M.-L. Tong</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2015</span>, <span class="vol">51</span>, <span class="pageFirst">10291</span>–<span class="pageLast">10294</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC5CC03389F">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXosVCmtbc%253D&amp;md5=2c2b48e9d47259feece03b3065a08ae5">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000356054600007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 3</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0005b"><span class="bullet">5b</span><cite id="chem201600562-cit-0013"><span class="author">C. Y. Chow</span>, <span class="author">H. Bolvin</span>, <span class="author">V. E. Campbell</span>, <span class="author">R. Guillot</span>, <span class="author">J. W. Kampf</span>, <span class="author">W. Wernsdorfer</span>, <span class="author">F. Gendron</span>, <span class="author">J. Autschbach</span>, <span class="author">V. L. Pecoraro</span>, <span class="author">T. Mallah</span>, <span class="journalTitle">Chem. Sci.</span> <span class="pubYear">2015</span>, <span class="vol">6</span>, <span class="pageFirst">4148</span>–<span class="pageLast">4159</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC5SC01029B">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXnvFWgt7c%253D&amp;md5=d61926a73f4ddc102d978d8e36967098">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000356176200061&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 9</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0005c"><span class="bullet">5c</span><cite id="chem201600562-cit-0014"><span class="author">A. Deb</span>, <span class="author">T. T. Boron</span>, <span class="author">M. Itou</span>, <span class="author">Y. Sakurai</span>, <span class="author">T. Mallah</span>, <span class="author">V. L. Pecoraro</span>, <span class="author">J. E. Penner-Hahn</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2014</span>, <span class="vol">136</span>, <span class="pageFirst">4889</span>–<span class="pageLast">4892</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja501452w">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/24625070">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXktlemsbs%253D&amp;md5=a15afd97c254438f7bbbfcf76886513c">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000333947900024&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 16</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0005d"><span class="bullet">5d</span><cite id="chem201600562-cit-0015"><span class="author">F. Cao</span>, <span class="author">S. Wang</span>, <span class="author">D. Li</span>, <span class="author">S. Zeng</span>, <span class="author">M. Niu</span>, <span class="author">Y. Song</span>, <span class="author">J. Dou</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2013</span>, <span class="vol">52</span>, <span class="pageFirst">10747</span>–<span class="pageLast">10755</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic3025952">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/24067233">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXhsFWlur7P&amp;md5=d1f22ad85d0afe0f231b05f9ef2a726d">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000326319800015&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 25</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0005e"><span class="bullet">5e</span><cite id="chem201600562-cit-0016"><span class="author">C. M. Zaleski</span>, <span class="author">S. Tricard</span>, <span class="author">E. C. Depperman</span>, <span class="author">W. Wernsdorfer</span>, <span class="author">T. Mallah</span>, <span class="author">M. L. Kirk</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2011</span>, <span class="vol">50</span>, <span class="pageFirst">11348</span>–<span class="pageLast">11352</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic2008792">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/22017563">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXhtlGlsLjN&amp;md5=8ac3b84bf5587418ec5ade40bca015e6">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000296830400016&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 20</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0005f"><span class="bullet">5f</span><cite id="chem201600562-cit-0017"><span class="author">S. Wang</span>, <span class="author">L. Kong</span>, <span class="author">H. Yang</span>, <span class="author">Z. He</span>, <span class="author">Z. Jiang</span>, <span class="author">D. Li</span>, <span class="author">S. Zeng</span>, <span class="author">M. Niu</span>, <span class="author">Y. Song</span>, <span class="author">J. Dou</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2011</span>, <span class="vol">50</span>, <span class="pageFirst">2705</span>–<span class="pageLast">2707</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic101622d">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/21370835">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXivVSjsrs%253D&amp;md5=d6a616ec738194f4f2805a23f31889dc">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000288730400001&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 23</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0005g"><span class="bullet">5g</span><cite id="chem201600562-cit-0018"><span class="author">T. T. Boron</span>, <span class="author">J. W. Kampf</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2010</span>, <span class="vol">49</span>, <span class="pageFirst">9104</span>–<span class="pageLast">9106</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic101121d">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/20849124">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3cXhtFygtr3E&amp;md5=37a591bb153d9c446f6f1c1802907e72">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000282783400004&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 46</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0005h"><span class="bullet">5h</span><cite id="chem201600562-cit-0019"><span class="author">C. M. Zaleski</span>, <span class="author">J. W. Kampf</span>, <span class="author">T. Mallah</span>, <span class="author">M. L. Kirk</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2007</span>, <span class="vol">46</span>, <span class="pageFirst">1954</span>–<span class="pageLast">1956</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic0621648">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/17323944">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2sXitVyjurg%253D&amp;md5=42a008c76c56c3cb6bcb6341a66d1205">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000244798800011&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 96</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0005i"><span class="bullet">5i</span><cite id="chem201600562-cit-0020"><span class="author">C. M. Zaleski</span>, <span class="author">E. C. Depperman</span>, <span class="author">J. W. Kampf</span>, <span class="author">M. L. Kirk</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2006</span>, <span class="vol">45</span>, <span class="pageFirst">10022</span>–<span class="pageLast">10024</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic061326x">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/17140199">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD28XhtFykurrE&amp;md5=06583c5503c960d36ed89eaf9c123633">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000242479700011&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 83</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0006"><span class="bullet">6</span><cite id="chem201600562-cit-0021">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0006a"><span class="bullet">6a</span><cite id="chem201600562-cit-0022"><span class="author">J. Jankolovits</span>, <span class="author">C. M. Andolina</span>, <span class="author">J. W. Kampf</span>, <span class="author">K. N. Raymond</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2011</span>, <span class="vol">50</span>, <span class="pageFirst">9660</span>–<span class="pageLast">9664</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/anie.201103851">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.201103851">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXhtFKhs7zJ&amp;md5=731218589831f7fc9cb9998797b60209">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000296205000028&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 45</a></li>
+              </ul><cite id="chem201600562-cit-0023"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2011</span>, <span class="vol">123</span>, <span class="pageFirst">9834</span>–<span class="pageLast">9838</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ange.201103851">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ange.201103851">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0006b"><span class="bullet">6b</span><cite id="chem201600562-cit-0024"><span class="author">E. R. Trivedi</span>, <span class="author">S. V. Eliseeva</span>, <span class="author">J. Jankolovits</span>, <span class="author">M. M. Olmstead</span>, <span class="author">S. Petoud</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2014</span>, <span class="vol">136</span>, <span class="pageFirst">1526</span>–<span class="pageLast">1534</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja4113337">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/24432702">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXotVGksw%253D%253D&amp;md5=a3415e34ab08be7f6008668e827ac3e7">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000330598600062&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 25</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0007"><span class="bullet">7</span><cite id="chem201600562-cit-0025">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0007a"><span class="bullet">7a</span><cite id="chem201600562-cit-0026"><span class="author">M. Tegoni</span>, <span class="author">M. Remelli</span>, <span class="author">D. Bacco</span>, <span class="author">L. Marchiò</span>, <span class="author">F. Dallavalle</span>, <span class="journalTitle">Dalton Trans.</span> <span class="pubYear">2008</span>, <span class="pageFirst">2693</span>–<span class="pageLast">2701</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb718765c">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/18688400">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000256238300007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 26</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0007b"><span class="bullet">7b</span><cite id="chem201600562-cit-0027"><span class="author">L. Marchiò</span>, <span class="author">N. Marchetti</span>, <span class="author">C. Atzeri</span>, <span class="author">V. Borghesani</span>, <span class="author">M. Remelli</span>, <span class="author">M. Tegoni</span>, <span class="journalTitle">Dalton Trans.</span> <span class="pubYear">2015</span>, <span class="vol">44</span>, <span class="pageFirst">3237</span>–<span class="pageLast">3250</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC4DT03264K">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/25597992">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXitFOgur3M&amp;md5=5b9b7c5e639a2720ebb62b0384568e34">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000349403100036&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 3</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0008"><span class="bullet">8</span><cite id="chem201600562-cit-0028">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0008a"><span class="bullet">8a</span><cite id="chem201600562-cit-0029"><span class="author">J. J. Bodwin</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2000</span>, <span class="vol">39</span>, <span class="pageFirst">3434</span>–<span class="pageLast">3435</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic000562j">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/11196797">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3cXkvFamt78%253D&amp;md5=949a427204d84bcf21f72ed63c9444ec">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000088717900002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 88</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0008b"><span class="bullet">8b</span><cite id="chem201600562-cit-0030"><span class="author">A. B. Lago</span>, <span class="author">J. Pasán</span>, <span class="author">L. Cañadillas-Delgado</span>, <span class="author">O. Fabelo</span>, <span class="author">F. J. M. Casado</span>, <span class="author">M. Julve</span>, <span class="author">F. Lloret</span>, <span class="author">C. Ruiz-Pérez</span>, <span class="journalTitle">New J. Chem.</span> <span class="pubYear">2011</span>, <span class="vol">35</span>, <span class="pageFirst">1817</span>–<span class="pageLast">1822</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fc1nj20184k">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXhtVOktbzL&amp;md5=1b71083f43850989250c2b494119e45c">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000294263700007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 10</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0009"><span class="bullet">9</span><cite id="chem201600562-cit-0031">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0009a"><span class="bullet">9a</span><cite id="chem201600562-cit-0032"><span class="author">C. McDonald</span>, <span class="author">T. Whyte</span>, <span class="author">S. M. Taylor</span>, <span class="author">S. Sanz</span>, <span class="author">E. K. Brechin</span>, <span class="author">D. Gaynor</span>, <span class="author">L. F. Jones</span>, <span class="journalTitle">CrystEngComm</span> <span class="pubYear">2013</span>, <span class="vol">15</span>, <span class="pageFirst">6672</span>–<span class="pageLast">6681</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fc3ce40859k">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000322839600007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 11</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0009b"><span class="bullet">9b</span><cite id="chem201600562-cit-0033"><span class="author">A. V. Pavlishchuk</span>, <span class="author">S. V. Kolotilov</span>, <span class="author">M. Zeller</span>, <span class="author">L. K. Thompson</span>, <span class="author">A. W. Addison</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2014</span>, <span class="vol">53</span>, <span class="pageFirst">1320</span>–<span class="pageLast">1330</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic401928m">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/24422476">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXnsVOhug%253D%253D&amp;md5=cdc9b94cd7affd1c3777964e862346bb">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000330812700012&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 9</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0010"><span class="bullet">10</span><cite id="chem201600562-cit-0034">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0010a"><span class="bullet">10a</span><cite id="chem201600562-cit-0035"><span class="author">M. Moon</span>, <span class="author">I. Kim</span>, <span class="author">M. S. Lah</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2000</span>, <span class="vol">39</span>, <span class="pageFirst">2710</span>–<span class="pageLast">2711</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic991079f">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/11232804">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3cXjs1Kntrs%253D&amp;md5=a76010d01a281f6beb160917adce8124">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000087905000004&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 94</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0010b"><span class="bullet">10b</span><cite id="chem201600562-cit-0036"><span class="author">K. Wang</span>, <span class="author">H.-H. Zou</span>, <span class="author">Z.-L. Chen</span>, <span class="author">Z. Zhang</span>, <span class="author">W.-Y. Sun</span>, <span class="author">F.-P. Liang</span>, <span class="journalTitle">Dalton Trans.</span> <span class="pubYear">2014</span>, <span class="vol">43</span>, <span class="pageFirst">12989</span>–<span class="pageLast">12995</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC4DT01593B">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/25030318">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXhtFSgsb%252FM&amp;md5=d53d9ff6defc97b2b4673f0bfe99941b">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000341064100023&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 5</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0010c"><span class="bullet">10c</span><cite id="chem201600562-cit-0037"><span class="author">L. Han</span>, <span class="author">L. Qin</span>, <span class="author">X. Z. Yan</span>, <span class="author">L. P. Xu</span>, <span class="author">J. Sun</span>, <span class="author">L. Yu</span>, <span class="author">H. B. Chen</span>, <span class="author">X. Zou</span>, <span class="journalTitle">Cryst. Growth Des.</span> <span class="pubYear">2013</span>, <span class="vol">13</span>, <span class="pageFirst">1807</span>–<span class="pageLast">1811</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fcg4000318">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXks1Gjtrg%253D&amp;md5=d662107da3c71b58655c7cd78e37a59d">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000318468400002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 15</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0010d"><span class="bullet">10d</span><cite id="chem201600562-cit-0038"><span class="author">D. Moon</span>, <span class="author">M. S. Lah</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2005</span>, <span class="vol">44</span>, <span class="pageFirst">1934</span>–<span class="pageLast">1940</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic0486872">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/15762719">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2MXhsVOrtLo%253D&amp;md5=16e34b24fe8c4370c36054e38c226f97">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000227764700030&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 43</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0011"><span class="bullet">11</span><cite id="chem201600562-cit-0039"><span class="author">E. V. Govor</span>, <span class="author">A. B. Lysenko</span>, <span class="author">A. N. Chernega</span>, <span class="author">J. A. K. Howard</span>, <span class="author">A. A. Mokhir</span>, <span class="author">J. Sieler</span>, <span class="author">K. V. Domasevitch</span>, <span class="journalTitle">Polyhedron</span> <span class="pubYear">2008</span>, <span class="vol">27</span>, <span class="pageFirst">2349</span>–<span class="pageLast">2356</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2Fj.poly.2008.04.042">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1cXovVCgs7s%253D&amp;md5=1aa8fd8d67896cbdb3d167313f0e5441">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000258435700016&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 9</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0012"><span class="bullet">12</span><cite id="chem201600562-cit-0040"><span class="author">C.-S. Lim</span>, <span class="author">J. Jankolovits</span>, <span class="author">J. W. Kampf</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">Chem. Asian J.</span> <span class="pubYear">2010</span>, <span class="vol">5</span>, <span class="pageFirst">46</span>–<span class="pageLast">49</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/asia.200900612">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/asia.200900612">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19950345">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXhs1WksLvN&amp;md5=7623d9136315f7cee66f9cba01b67960">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000273712600004&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 26</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0013"><span class="bullet">13</span><cite id="chem201600562-cit-0041">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0013a"><span class="bullet">13a</span><cite id="chem201600562-cit-0042"><span class="author">A. V. Pavlishchuk</span>, <span class="author">S. V. Kolotilov</span>, <span class="author">M. Zeller</span>, <span class="author">L. K. Thompson</span>, <span class="author">I. O. Fritsky</span>, <span class="author">A. W. Addison</span>, <span class="author">A. D. Hunter</span>, <span class="journalTitle">Eur. J. Inorg. Chem.</span> <span class="pubYear">2010</span>, <span class="pageFirst">4851</span>–<span class="pageLast">4858</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ejic.201000367">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ejic.201000367">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000284237700013&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 21</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0013b"><span class="bullet">13b</span><cite id="chem201600562-cit-0043"><span class="author">A. V. Pavlishchuk</span>, <span class="author">S. V. Kolotilov</span>, <span class="author">M. Zeller</span>, <span class="author">O. V. Shvets</span>, <span class="author">I. O. Fritsky</span>, <span class="author">S. E. Lofland</span>, <span class="author">A. W. Addison</span>, <span class="author">A. D. Hunter</span>, <span class="journalTitle">Eur. J. Inorg. Chem.</span> <span class="pubYear">2011</span>, <span class="pageFirst">4826</span>–<span class="pageLast">4836</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ejic.201100790">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ejic.201100790">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000297016100006&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 20</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0014"><span class="bullet">14</span><cite id="chem201600562-cit-0044">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0014a"><span class="bullet">14a</span><cite id="chem201600562-cit-0045"><span class="author">J. Jankolovits</span>, <span class="author">C.-S. Lim</span>, <span class="author">G. Mezei</span>, <span class="author">J. W. Kampf</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">Inorg. Chem.</span> <span class="pubYear">2012</span>, <span class="vol">51</span>, <span class="pageFirst">4527</span>–<span class="pageLast">4538</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fic202347j">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/22309194">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC38XhvVSktb0%253D&amp;md5=17166d2e7f234d59dbc4f948626257ad">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000302833700019&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 20</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0014b"><span class="bullet">14b</span><cite id="chem201600562-cit-0046"><span class="author">G. Mezei</span>, <span class="author">J. W. Kampf</span>, <span class="author">S. Pan</span>, <span class="author">K. R. Poeppelmeier</span>, <span class="author">B. Watkins</span>, <span class="author">V. L. Pecoraro</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2007</span>, <span class="pageFirst">1148</span>–<span class="pageLast">1150</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb614024f">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/17347721">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000244791200011&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 42</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0015"><span class="bullet">15</span><cite id="chem201600562-cit-0047"><span class="author">T. Haemers</span>, <span class="author">J. Wiesner</span>, <span class="author">D. Gießmann</span>, <span class="author">T. Verbrugghen</span>, <span class="author">U. Hillaert</span>, <span class="author">R. Ortmann</span>, <span class="author">H. Jomaa</span>, <span class="author">A. Link</span>, <span class="author">M. Schlitzer</span>, <span class="author">S. Van Calenbergh</span>, <span class="journalTitle">Bioorg. Med. Chem.</span> <span class="pubYear">2008</span>, <span class="vol">16</span>, <span class="pageFirst">3361</span>–<span class="pageLast">3371</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2Fj.bmc.2007.12.001">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/18158249">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1cXktFeqtrw%253D&amp;md5=fb68d4926dd609f9f4bd620471b2ae18">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000255127700062&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 34</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0016"><span class="bullet">16</span><cite id="chem201600562-cit-0048"><span class="author">V. L. Pecoraro</span>, <span class="author">A. J. Stemmler</span>, <span class="author">B. R. Gibney</span>, <span class="author">J. J. Bodwin</span>, <span class="author">H. Wang</span>, <span class="author">J. W. Kampf</span>, <span class="author">A. Barwinski</span>, <span class="journalTitle">Prog. Inorg. Chem.</span> <span class="pubYear">1996</span>, <span class="vol">45</span>, <span class="pageFirst">83</span>–<span class="pageLast">177</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2F9780470166468.ch2">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=A1997BG76J00002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 249</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0017"><span class="bullet">17</span><cite id="chem201600562-cit-0049"><span class="author">A. L. Spek</span>, <span class="journalTitle">J. Appl. Crystallogr.</span> <span class="pubYear">2003</span>, <span class="vol">36</span>, <span class="pageFirst">7</span>–<span class="pageLast">13</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1107/S0021889802022112">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1107/S0021889802022112">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3sXltlChtw%253D%253D&amp;md5=74b652e4cca9a2ecb65b881b81bb080f">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000180457300002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 11393</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0018"><span class="bullet">18</span><cite id="chem201600562-cit-0050">The uptake capacity of <b>1</b> was calculated as (wt of CO<sub>2</sub> uptake)/(wt of <b>1</b>). If calculated as (wt of CO<sub>2</sub> uptake)/(wt of CO<sub>2</sub> uptake+wt of <b>1</b>) the uptake capacity of <b>1</b> for CO<sub>2</sub> is 18.9 wt % at 195 K and 6.8 wt % at 273 K.</cite></li>
+             <li id="chem201600562-bib-0019"><span class="bullet">19</span><cite id="chem201600562-cit-0051">&nbsp;</cite></li>
+             <li id="chem201600562-bib-0019a"><span class="bullet">19a</span><cite id="chem201600562-cit-0052"><span class="author">T. K. Maji</span>, <span class="author">G. Mostafa</span>, <span class="author">R. Matsuda</span>, <span class="author">S. Kitagawa</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2005</span>, <span class="vol">127</span>, <span class="pageFirst">17152</span>–<span class="pageLast">17153</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja0561439">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/16332040">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2MXht1Wmt7jO&amp;md5=0497d9eaac0f7b3a495bdb328733f002">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000233917500012&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 237</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0019b"><span class="bullet">19b</span><cite id="chem201600562-cit-0053"><span class="author">Y. E. Cheon</span>, <span class="author">M. P. Suh</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2008</span>, <span class="vol">14</span>, <span class="pageFirst">3961</span>–<span class="pageLast">3967</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/chem.200701813">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.200701813">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/18348155">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1cXmtVynu78%253D&amp;md5=0fb3a693fb4294c3c27b4368b87b0c33">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000255703000016&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 111</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0019c"><span class="bullet">19c</span><cite id="chem201600562-cit-0054"><span class="author">Y. E. Cheon</span>, <span class="author">J. Park</span>, <span class="author">M. P. Suh</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2009</span>, <span class="pageFirst">5436</span>–<span class="pageLast">5438</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb910228k">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000269494000028&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 74</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0019d"><span class="bullet">19d</span><cite id="chem201600562-cit-0055"><span class="author">Y. E. Cheon</span>, <span class="author">M. P. Suh</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2009</span>, <span class="pageFirst">2296</span>–<span class="pageLast">2298</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb900085b">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19377664">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000265355800009&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 116</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0019e"><span class="bullet">19e</span><cite id="chem201600562-cit-0056"><span class="author">E. Neofotistou</span>, <span class="author">C. D. Malliakas</span>, <span class="author">P. N. Trikalitis</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2009</span>, <span class="vol">15</span>, <span class="pageFirst">4523</span>–<span class="pageLast">4527</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/chem.200900341">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.200900341">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19301330">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXltFCqu74%253D&amp;md5=d66f4e8889033fcd719aea86556ed24a">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000265955200003&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 84</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0019f"><span class="bullet">19f</span><cite id="chem201600562-cit-0057"><span class="author">H.-S. Choi</span>, <span class="author">M. P. Suh</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2009</span>, <span class="vol">48</span>, <span class="pageFirst">6865</span>–<span class="pageLast">6869</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/anie.200902836">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.200902836">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXhtVOrtrvI&amp;md5=576957612370314b04205f85c9730c1e">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000269937200020&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 235</a></li>
+              </ul><cite id="chem201600562-cit-0058"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2009</span>, <span class="vol">121</span>, <span class="pageFirst">6997</span>–<span class="pageLast">7001</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ange.200902836">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ange.200902836">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0020"><span class="bullet">20</span><cite id="chem201600562-cit-0059"><span class="author">G. Leofanti</span>, <span class="author">M. Padovan</span>, <span class="author">G. Tozzola</span>, <span class="author">B. Venturelli</span>, <span class="journalTitle">Catal. Today</span> <span class="pubYear">1998</span>, <span class="vol">41</span>, <span class="pageFirst">207</span>–<span class="pageLast">219</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2FS0920-5861%2898%2900050-9">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaK1cXjsFOisrY%253D&amp;md5=595da88e213fa580cf4bbad7c89f85d0">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000074436100018&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 472</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0021"><span class="bullet">21</span><cite id="chem201600562-cit-0060"><span class="author">A. V. Pavlishchuk</span>, <span class="author">Y. A. Satska</span>, <span class="author">S. V. Kolotilov</span>, <span class="author">I. O. Fritsky</span>, <span class="journalTitle">Curr. Opin. Chem. Eng. Curr. Inorg. Chem.</span> <span class="pubYear">2015</span>, <span class="vol">5</span>, <span class="pageFirst">5</span>–<span class="pageLast">25</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.2174%2F1877944105666150417230637">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXhtFOmurzO&amp;md5=286dbafe4ff6f0ceeb7f20838c3a36bf">CAS</a></li>
+              </ul></li>
+             <li id="chem201600562-bib-0022"><span class="bullet">22</span><cite id="chem201600562-cit-0061">Voids in the packing are occupied by pyridine (0.6 molecules) or DMSO (0.4 molecules). Final formula results {(NEt<sub>4</sub>)<sub>2</sub>{Cu<sup>II</sup>[12-MC<sub>CuII,hinHA</sub>-4](DMSO)<sub>1.4</sub>(Py)<sub>0.6</sub>}(DMSO)<sub>0.4</sub> (Py)<sub>0.6</sub>}<sub><em>n</em></sub>.</cite></li>
+            </ul>
+           </div>
+          </section>
+          <section id="footer-citing" class="article-footer__section citations__section">
+           <h3 class="article-footer__section-title js-footer-title"><span class="icon icon__double-chevron"></span>Citing Literature </h3>
+           <div id="js-citations__section" class="article-info__section-content js-footer-info">
+            <div class="modal__header">
+             <ul class="cited-info__list u-horizontal-list">
+              <li class="cited-info__item"><span class="cited-info__text">Number of times cited</span>: <span id="js-citations__counter">0</span></li>
+             </ul>
+            </div>
+            <div class="modal__scrollable">
+             <ol class="article-section__citation-list"></ol>
+            </div>
+           </div>
+          </section>
+         </footer>
+        </article> 
+       </article> 
+      </article> 
+      <div class="l-article-support"> 
+       <div class="skyscraper--left"> 
+        <div id="skyscraper" class="skyscraper"> 
+         <aside id="advert-skyscraper" class="advert-skyscraper" role="complementary"> 
+          <div class="skyscraper__title">
+           Advertisement
+          </div> 
+          <script>
+                googletag.cmd.push ( function () {
+                    googletag.display ( 'advert-skyscraper' );
+                });
+            </script> 
+          <noscript> 
+           <a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=160x600|160x320|160x160|120x600&amp;tile=2&amp;c=914031659" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=160x600|160x320|160x160|120x600&amp;tile=2&amp;c=914031659"> </a> 
+          </noscript> 
+         </aside> 
+        </div> 
+       </div> 
+       <div class="article-support js-article-support js-module" data-module="infopane"> 
+        <div class="article-support__links js-article-support-links"> 
+         <nav class="article-support__list-wrapper js-article-support-list-wrapper"> 
+          <ul class="article-support__list js-article-support-list u-list-plain"> 
+           <li class="article-support__item--pdf "> <a href="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600562/pdf" class="article-support__item-link js-infopane-pdf " data-support-type="PDF_options"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--pdf"></span> <span class="article-support__item-text">PDF</span> </a> </li> 
+           <li class="article-support__item--epdf"> <a href="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600562/epdf" class="article-support__item-link js-infopane-epdf"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--pdf"></span> <span class="article-support__item-text">PDF</span> </a> </li> 
+           <li> <a href="#footer-article-info" class="article-support__item-link js-infopane-toggle" data-support-type="Information"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--info"></span> <span class="article-support__item-text">Info</span> </a> </li> 
+           <li> <a href="#references-section" class="article-support__item-link js-infopane-toggle" data-support-type="References" data-target-scroll="false"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--ref"></span> <span class="article-support__item-text">References</span> </a> </li> 
+           <li class="article-support__item-figure-viewer"> <a href="http://onlinelibrary.wiley.com/enhanced/figures/doi/10.1002/chem.201600562" data-module="figure-viewer-modal" class="js-module article-support__item-link" id="js-figure-viewer__link" target="figureViewer"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--fig"></span> <span class="article-support__item-text">Figures</span> </a> </li> 
+          </ul> 
+         </nav> 
+        </div> 
+        <div class="article-support__pane js-article-support-pane is-hidden"> 
+         <div class="article-support__pane-title-bar"> 
+          <div class="article-support__pane-title js-article-support-title"></div> 
+          <div class="article-support__pane-close js-article-support-close"> 
+           <a href="#" class="article-support__pane-close__link" data-close="close" title="Close article support pane"> <span class="icon icon__infopane-close"></span> <span class="is-accessible">Close article support pane</span> </a> 
+          </div> 
+         </div> 
+         <div class="article-support__pane-content js-article-support-content"></div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- START: Footer --> 
+   <div class="stripe"> 
+    <div class="fill fill--1"></div> 
+    <div class="fill fill--2"></div> 
+    <div class="fill fill--3"></div> 
+    <div class="fill fill--4"></div> 
+   </div> 
+   <footer class="footer footer--wiley" role="contentinfo"> 
+    <nav class="footer__nav" role="navigation"> 
+     <ul class="footer__list footer__list--logo"> 
+      <li> <h2 class="footer__logo"> <a href="http://onlinelibrary.wiley.com"> <img src="http://onlinelibrary.wiley.com:80/enhanced/static/common/images/brand/wiley/footer-logo.png?version=1.11.2" alt="Wiley"> </a> </h2> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/browse/publications"> <b>Browse Publications</b> </a> </li> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/browse/subjects"> <b>Browse by Subject</b> </a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390229.html"> <b>Resources</b> </a> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://journalshelp.wiley.com/">Help &amp; Support</a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-813473.html">Cookies</a> &amp; <a class="footer__link" href="http://onlinelibrary.wiley.com/privacyPolicy">Privacy</a> </li> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/termsAndConditions">Terms &amp; Conditions</a> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390001.html">About Us</a> </li> 
+      <li> <a class="footer__link" href="http://www.wileyjobnetwork.com/">Wiley Job Network</a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390236.html">Advertisers</a> &amp; <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390243.html">Agents</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="footer__copy"> 
+     <p class="footer__text footer__text--slogan">Powered by <a href="http://onlinelibrary.wiley.com" class="footer__link footer__link--active">Wiley Online Library</a></p> 
+     <p class="footer__text">Copyright © 1999 - 2016 <a href="http://www.wiley.com" class="footer__link footer__link--active">John Wiley &amp; Sons, Inc.</a> All Rights Reserved</p> 
+    </div> 
+   </footer> 
+   <script>
+        Modernizr.load('http://content.readcube.com/wiley/epdf_linker.js');
+    </script> 
+   <script>
+//<![CDATA[
+    
+    Modernizr.load([
+        {
+            load    : 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/wiley-require-2.1.6.js',
+            callback: function() {
+
+                
+                var interval = setInterval(function() {
+                    if ( typeof WILEY !== 'undefined' && WILEY.requirejs ) {
+
+                        WILEY.requirejs([
+                                'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/wiley-common.js?version=1.11.2',
+                                'http://onlinelibrary.wiley.com:80/enhanced/static/js/wiley-article.js?version=1.11.2'
+                            ], function() {
+                            WILEY.requirejs([
+                                'common/modules/main',
+                                'modules/main-article'
+
+                                                            ]);
+                        });
+
+                        clearInterval(interval);
+                    }
+                }, 100 );
+            }
+        }
+        ]);
+//]]>
+</script> 
+  </div> 
+  <script type="text/javascript">_satellite.pageBottom();</script>  
+ </body>
+</html>

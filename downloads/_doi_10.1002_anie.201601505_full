@@ -1,0 +1,1354 @@
+<!doctype html>
+<!--[if lt IE 7]>
+    <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 7]>
+    <html class="no-js lt-ie10 lt-ie9 lt-ie8 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 8]>
+    <html class="no-js lt-ie10 lt-ie9 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 9]>
+    <html class="no-js lt-ie10 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if gt IE 9]>
+    <html class="no-js is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if (!IE)]><!-->
+<html class="no-js" lang="en" data-application="loading">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <title> Enzyme- and Ruthenium-Catalyzed Enantioselective Transformation of α-Allenic Alcohols into 2,3-Dihydrofurans - Yang - 2016 - Angewandte Chemie International Edition -  Wiley Online Library</title> 
+  <link rel="shortcut icon" type="image/x-icon" href="http://onlinelibrary.wiley.com:80/enhanced/static/images/brand/wiley/favicon.ico?version=1.11.2"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+  <meta name="description" content=""> 
+  <meta name="robots" content="noarchive"> 
+  <meta name="citation_doi" content="10.1002/anie.201601505"> 
+  <meta name="citation_journal_title" content="Angewandte Chemie International Edition"> 
+  <meta name="citation_title" content="Enzyme‐ and Ruthenium‐Catalyzed Enantioselective Transformation of α‐Allenic Alcohols into 2,3‐Dihydrofurans"> 
+  <meta name="citation_keywords" content="allenic alcohols"> 
+  <meta name="citation_keywords" content="asymmetric catalysis"> 
+  <meta name="citation_keywords" content="cycloisomerization"> 
+  <meta name="citation_keywords" content="kinetic resolution"> 
+  <meta name="citation_keywords" content="ruthenium"> 
+  <meta name="citation_issn" content="1521-3773"> 
+  <meta name="article_references" content="Yang, B., Zhu, C., Qiu, Y. and Bäckvall, J.-E. (2016), Enzyme‐ and Ruthenium‐Catalyzed Enantioselective Transformation of α‐Allenic Alcohols into 2,3‐Dihydrofurans. Angew. Chem. Int. Ed.. doi:10.1002/anie.201601505"> 
+  <meta name="citation_language" content="en"> 
+  <meta name="citation_publication_date" content="2016/04/01"> 
+  <meta name="citation_online_date" content="2016/04/08"> 
+  <meta name="citation_fulltext_world_readable" content=""> 
+  <meta name="citation_author" content="Yang, Bin"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Stockholm University Department of Organic Chemistry Stockholm Sweden"> 
+  <meta name="citation_author" content="Zhu, Can"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Stockholm University Department of Organic Chemistry Stockholm Sweden"> 
+  <meta name="citation_author" content="Qiu, Youai"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Stockholm University Department of Organic Chemistry Stockholm Sweden"> 
+  <meta name="citation_author" content="Bäckvall, Jan‐E."> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Stockholm University Department of Organic Chemistry Stockholm Sweden"> 
+  <meta name="citation_abstract_html_url" content="http://onlinelibrary.wiley.com/doi/10.1002/anie.201601505/abstract"> 
+  <meta name="citation_fulltext_html_url" content="http://onlinelibrary.wiley.com/doi/10.1002/anie.201601505/full"> 
+  <meta name="citation_pdf_url" content="http://onlinelibrary.wiley.com/doi/10.1002/anie.201601505/pdf"> 
+  <link rel="stylesheet" media="screen" href="http://cdn.wol2.wiley.com/external/fonts/open-sans/open-sans.css"> 
+  <!--[if lt IE 9]>
+        <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/common/css/wol-common-ie.css?version=1.11.2"/>
+        <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/css/wol-article-ie.css?version=1.11.2"/>
+    <![endif]--> 
+  <!--[if gt IE 8]><!--> 
+  <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/common/css/wol-common.css?version=1.11.2"> 
+  <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/css/wol-article.css?version=1.11.2"> 
+  <!--<![endif]--> 
+  <script src="http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/modernizr.custom.js?version=1.11.2"></script> 
+  <!--[if gt IE 8]><!--> 
+  <script>
+        //<![CDATA[
+        Modernizr.load([
+            {
+                test: window.matchMedia,
+                nope: 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/polyfills/matchMedia.js?version=1.11.2'
+            },
+            {
+                test: window.matchMedia && window.matchMedia( 'all' ).addListener,
+                nope: 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/polyfills/matchMedia.addListener.js?version=1.11.2'
+            }
+        ]);
+        //]]>
+    </script> 
+  <!--<![endif]--> 
+  <script type="text/javascript">
+        //<![CDATA[
+        wol2datalayer = window.wol2datalayer ? wol2datalayer : {};
+                    wol2datalayer.server="onlinelibrary.wiley.com";
+                    wol2datalayer.pageName="Enzyme\u2010 and Ruthenium\u2010Catalyzed Enantioselective Transformation of \u03B1\u2010Allenic Alcohols into 2,3\u2010Dihydrofurans - Yang - 2016 - Angewandte Chemie International Edition";
+                    wol2datalayer.channel="JOURNALS";
+                    wol2datalayer.prop1="FULLTEXT";
+                    wol2datalayer.prop2="ENHANCED FULLTEXT_HTML";
+                    wol2datalayer.prop3="Angewandte Chemie International Edition";
+                    wol2datalayer.prop4="CH00,CH70,CH80,CH90,CH95,CHB0,CHD0,MS00";
+                    wol2datalayer.prop5="";
+                    wol2datalayer.prop7="Enzyme\u2010 and Ruthenium\u2010Catalyzed Enantioselective Transformation of \u03B1\u2010Allenic Alcohols into 2,3\u2010Dihydrofurans";
+                    wol2datalayer.prop8="";
+                    wol2datalayer.prop9="online-open";
+                    wol2datalayer.prop10="subscription";
+                    wol2datalayer.prop11="PDF and HTML";
+                    wol2datalayer.prop12="0";
+                    wol2datalayer.prop13="10.1002\/(ISSN)1521-3773";
+                    wol2datalayer.prop14="10.1002\/anie.201601505";
+                    wol2datalayer.prop15="Early View";
+                    wol2datalayer.prop16="$esc.javascript($entry.getValue())";
+                    wol2datalayer.prop18="08 APR 2016";
+                    wol2datalayer.prop33="CH00";
+                    wol2datalayer.prop35="";
+                    wol2datalayer.events="event60";
+                    wol2datalayer.prop26="Guest";
+        
+        //]]>
+    </script> 
+  <script type="text/javascript">
+      //<![CDATA[
+      document.write("<scr"+"ipt type=\"text/javascript\" src=\"//assets.adobedtm.com/6e626c9ec247e474f6b98eb15a79a185cf7e26a5/satelliteLib-d0317bde5157000144848f23fbb44a4de679c053.js\"></sc"+"ript>");
+      //]]>
+    </script> 
+  <script>
+        var gs_channels = 'default';
+    </script> 
+  <script src="http://wiley.grapeshot.co.uk/main/channels.cgi?url=http://onlinelibrary.wiley.com/wol1/doi/10.1002/anie.201601505/full"></script> 
+  <script>
+        var digitalData         = digitalData || {};
+        digitalData.dartZone    = 'wly.chemistry_000033/angew-chemie-intl-ed_2002';
+    </script> 
+  <script>
+        var googletag       = googletag       || {};
+        googletag.cmd       = googletag.cmd   || [];
+
+        ( function () {
+            var gads = document.createElement ( 'script' ) ,
+                node = document.getElementsByTagName ( 'script' ) [ 0 ] ;
+            gads.async  = true;
+            gads.src    = document.location.protocol + '//www.googletagservices.com/tag/js/gpt.js';
+            node.parentNode.insertBefore ( gads , node );
+        }) ();
+    </script> 
+  <script>
+        googletag.cmd.push ( function () {
+            // Mapping for mobile images sizes
+            var sizes = {
+                    leaderboard : googletag.sizeMapping ()
+                        .addSize ([ 300 , 100 ] , [ 300 , 50 ])
+                        .addSize ([ 740 , 100 ] , [ 728 , 90 ])
+                        .addSize ([ 0 , 0 ]     , 'fluid' )
+                        .build () ,
+                    skyscraper : googletag.sizeMapping ()
+                        .addSize ([ 1200 , 0 ] , [ 160 , 600 ])
+                        .addSize ([ 1200 , 0 ] , [ 160 , 320 ])
+                        .addSize ([ 1200 , 0 ] , [ 160 , 160 ])
+                        .addSize ([ 1200 , 0 ] , [ 120 , 600 ])
+                        .build ()
+                };
+
+            googletag.pubads ()
+                .setTargeting ( 'WOL-Page-Type'               , "FULLTEXT" )
+                .setTargeting ( 'WOL-Page-Subtype'            , "ENHANCED FULLTEXT_HTML" )
+                .setTargeting ( 'WOL-Subject-Codes'           , "CH00,CH70,CH80,CH90,CH95,CHB0,CHD0,MS00" )
+                .setTargeting ( 'WOL-Article-Access-State'    , "online-open" )
+                .setTargeting ( 'WOL-Pub-Access-Status'       , "subscription" )
+                .setTargeting ( 'WOL-Article-Availability'    , "PDF and HTML" )
+                .setTargeting ( 'WOL-Journal-DOI'             , "10.1002\/(ISSN)1521-3773" )
+                .setTargeting ( 'WOL-Article-Chapter-DOI'     , "10.1002\/anie.201601505" )
+                .setTargeting ( 'WOL-Issue-DOI'               , "Early View" )
+                .setTargeting ( 'WOL-Site-Search-Query'       , "" )
+                .setTargeting ( 'WOL-User-login-Status'       , "Guest" )
+                .setTargeting ( 'WOL-Primary-Subject-Code'    , "CH00" )
+                .setTargeting ( 'WOL-Hub-ID'                  , "" )
+                .setTargeting ( 'gs_cat'                      , gs_channels );
+
+            googletag.defineSlot (
+                    '/2215/wly.chemistry_000033/angew-chemie-intl-ed_2002'  ,
+                    'fluid'                     ,
+                    'advert-leaderboard'
+                )
+                .defineSizeMapping ( sizes.leaderboard )
+                .addService ( googletag.pubads ())
+                .setCollapseEmptyDiv ( true );
+
+            googletag.defineSlot (
+                    '/2215/wly.chemistry_000033/angew-chemie-intl-ed_2002'  ,
+                    'fluid'                     ,
+                    'advert-skyscraper'
+                )
+                .defineSizeMapping ( sizes.skyscraper )
+                .addService ( googletag.pubads ())
+                .setCollapseEmptyDiv ( true );
+
+            // Enable services
+            googletag.pubads ().enableSingleRequest ();
+            googletag.enableServices ();
+        });
+    </script> 
+ </head> 
+ <body data-type="default"> 
+  <script>
+    var dataLayer = window.dataLayer ? dataLayer : {};
+    dataLayer.pageType = 'FULLTEXT';
+    dataLayer.contentAvailability = 'PDF and HTML';
+</script> 
+  <div id="js-viewport-main" class="l-viewport-main prim-nav-container"> 
+   <header class="header clearfix" role="banner"> 
+    <div class="ribbon"> 
+     <span class="ribbon__quarter ribbon__first"></span> 
+     <span class="ribbon__quarter ribbon__second"></span> 
+     <span class="ribbon__quarter ribbon__third"></span> 
+     <span class="ribbon__quarter ribbon__fourth"></span> 
+    </div> 
+    <div class="l-header-container"> 
+     <div class="l-header clearfix"> 
+      <span class="header__logo"> <a href="http://onlinelibrary.wiley.com"> <img src="http://onlinelibrary.wiley.com:80/enhanced/static/common/images/brand/wiley/header-logo.png?version=1.11.2" alt="Wiley Online Library"> </a> </span> 
+      <ul class="header__user-access u-horizontal-list"> 
+       <li> <a href="#main-content" class="is-accessible header__user-access-skip-link">Skip to main content</a> </li> 
+       <li> <a href="https://secure.onlinelibrary.wiley.com/secure/login/?originalUrl=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fanie.201601505%2Ffull%3Fwol1URL%3D%2Fdoi%2F10.1002%2Fanie.201601505%2Ffull&amp;wolSessionId=52878fdd0be44336bd9c7a9b51bf7bd7" class="header__user-access-link"> <span class="icon icon__avatar"></span> <span class="header__user-access-link-text">Log in / Register</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </header> 
+   <img src="http://onlinelibrary.wiley.com/createAccessReportingEvent?doi=10.1002%2Fanie.201601505"> 
+   <aside class="advert-leaderboard__container"> 
+    <div id="advert-leaderboard" class="advert" role="complementary"> 
+     <div class="advert-leaderboard__title">
+      Advertisement
+     </div> 
+     <script>
+                googletag.cmd.push ( function () {
+                    googletag.display ( 'advert-leaderboard' );
+                });
+            </script> 
+     <noscript> 
+      <a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/2215/wly.chemistry_000033/angew-chemie-intl-ed_2002&amp;sz=728x90&amp;tile=1&amp;c=117686595" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/2215/wly.chemistry_000033/angew-chemie-intl-ed_2002&amp;sz=728x90&amp;tile=1&amp;c=117686595"> </a> 
+     </noscript> 
+    </div> 
+   </aside> 
+   <div class="l-main main" role="main"> 
+    <div class="l-article l-article--left"> 
+     <ul class="meta-navigation u-list-plain"> 
+      <li class="meta-navigation__item"> <a id="wol1backlink" href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/anie.201601505/full" class="meta-navigation__return"> <span class="icon icon__return"></span> <span>Go to old article view</span> </a> </li> 
+     </ul> 
+     <div id="js-viewport-mini" class="l-viewport-mini"> 
+      <div id="js-article-nav" class="l-article-nav js-module" data-module="toolbar"> 
+       <div id="js-article-tools" class="article-tools"> 
+        <ul class="article-tools__bar"> 
+         <li class="article-tools__tool article-tools__tool--set js-module" data-module="textresize"></li> 
+         <li class="article-tools__tool article-tools__tool--set article-tools__tool--share js-module" data-module="add-this" data-doi="10.1002/anie.201601505"></li> 
+        </ul> 
+        <ul class="article-tools__list"> 
+         <li> <a href="#article-nav" id="article-nav-menu" class="article-tools__item-link article-tools__item-link--menu" data-tool-type="article-nav" title="Article navigation"> <span class="article-tools__item-link-text">Go To<span class="icon icon__chevron-right"></span></span> <span class="is-accessible"> article navigation</span> </a> 
+          <nav id="article-nav" class="article-tools__article-nav js-module" data-module="article-nav" role="navigation"> 
+           <p class="article-tools__article-nav-title">Navigate this article</p> 
+           <div class="article-tools__article-nav-scrollpane"> 
+            <ul class="article-tools__article-nav-list"> 
+             <li class="article-tools__article-nav-item"> <a href="#abstract" class="js-scrollto article-tools__article-nav-item-link"> <span class="icon icon__chevron"></span>Abstract </a> </li> 
+             <li> 
+              <hr> </li> 
+             <li class="article-tools__article-nav-item"> <a href="#footer-support-info" data-analytics-revealed-panel="references" class="js-scrollto article-tools__article-nav-item-link article-tools__article-nav-item-link--panel-reveal">Supporting Information</a> </li> 
+             <li class="article-tools__article-nav-item"> <a href="#references-section" data-analytics-revealed-panel="references" class="js-scrollto article-tools__article-nav-item-link article-tools__article-nav-item-link--panel-reveal">References</a> </li> 
+             <li class="article-tools__article-nav-item citations__link"> <a href="#footer-citing" data-analytics-revealed-panel="footer-citing" class="js-scrollto article-tools__article-nav-item-link article-tools__article-nav-item-link--panel-reveal">Citing Literature</a> </li> 
+            </ul> 
+           </div> 
+          </nav> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <article class="journal js-journal"> 
+       <header class="journal-header"> 
+        <a class="journal-header__name journal-header__name--normal" href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773"> 
+         <div class="journal-header__name-link"> 
+          <strong class="journal-header__name-title">Angewandte Chemie International Edition</strong> 
+          <div class="journal-header__link">
+           Explore this journal &gt;
+          </div> 
+         </div> </a> 
+        <ul class="u-horizontal-list"> 
+         <li> <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773" class="journal-header__logo"> <img src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2F%28ISSN%291521-3773/asset/olalertbanner.jpg?l=SkaBT8QEx2qTQZnRtCT6QKidUg2OJLE3zB6pcX53tglwysa0ddTtzg9Fek761bJu" alt="Angewandte Chemie International Edition" class="journal-header__logo-img"> 
+           <div class="journal-header__link">
+            Explore this journal &gt;
+           </div> </a> </li> 
+        </ul> 
+       </header> 
+       <article class="issue"> 
+        <div class="issue-header js-module" data-module="issue-header"> 
+         <nav class="issue-header__nav" role="navigation"> 
+          <div class="issue-header__nav-control"> 
+           <div class="issue-header__sub-title"> 
+            <span class="weight-bold">Early View</span> 
+           </div> 
+           <div class="issue-header__image-wrapper"> 
+            <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773/earlyview" class="issue-header__image-link"> <img src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.v55.15/asset/cover.gif?l=SkaBT8QEx2r9YJp9iDJij1p7bDN2%2BlG0BpyfeZKtYuFA0xGlY78RYQ%3D%3D" class="issue-header__image" alt="Angewandte Chemie International Edition"> </a> 
+            <ol class="u-list-plain"> 
+             <li> <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.201601517" class="issue-header__arrow--left issue-header__arrow"> <span class="icon icon__arrow icon__arrow--left"></span> <span class="is-accessible">Previous article in Early View: Structural Polymorphism and Thin Film Transistor Behavior in the Fullerene Framework Molecule 5,6;11,12-di-o-Phenylenetetracene</span> </a> <p class="issue-header__tooltip issue-header__tooltip--left"> <span class="icon icon__chevron-up"></span> <span class="issue-header__tooltip-header">Previous article in Early View:</span> Structural Polymorphism and Thin Film Transistor Behavior in the Fullerene Framework Molecule 5,6;11,12-di-o-Phenylenetetracene </p> </li> 
+             <li> <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.201601475" class="issue-header__arrow--right issue-header__arrow"> <span class="icon icon__arrow icon__arrow--right"></span> <span class="is-accessible">Next article in Early View: Repair of a Dimeric Azetidine Related to Thymine–Cytosine (6-4) Photoproduct by Electron Transfer Photoreduction</span> </a> <p class="issue-header__tooltip issue-header__tooltip--right"> <span class="icon icon__chevron-up"></span> <span class="issue-header__tooltip-header">Next article in Early View:</span> Repair of a Dimeric Azetidine Related to Thymine–Cytosine (6-4) Photoproduct by Electron Transfer Photoreduction </p> </li> 
+            </ol> 
+           </div> 
+           <p class="issue-header__description"> <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773/earlyview" class="issue-header__link">Browse Early View Articles</a><br> Online Version of Record published before inclusion in an issue</p> 
+          </div> 
+         </nav> 
+        </div> 
+        <article id="main-content" class="article js-module" data-module="Article">
+         <header class="js-module article-header" data-module="ArticleHeader">
+          <div class="article-header__intro">
+           <ul class="article-type__list u-horizontal-list">
+            <li><span class="article-type article-type--open-access"><span class="icon icon__article-type icon__article-type--open-access"></span>Open Access</span></li>
+            <li><a target="_blank" class="article-type article-type--cc" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><span class="icon icon__article-type icon__article-type--cc"></span>Creative Commons</a></li>
+           </ul>
+           <span class="article-header__category article-category">Communication</span>
+           <h1 class="article-header__title" lang="en">Enzyme- and Ruthenium-Catalyzed Enantioselective Transformation of α-Allenic Alcohols into 2,3-Dihydrofurans</h1>
+           <div class="article-header__authors-container">
+            <h2 class="is-accessible">Authors</h2>
+            <ul class="article-header__authors_list js-module" data-module="keyboardHover">
+             <li class="article-header__authors-item" data-hover-container="author1" data-author-name="Bin Yang"><h3 class="article-header__authors-name" data-hover-control="author1">Bin Yang,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author1">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Organic Chemistry, Arrhenius Laboratory, Stockholm University, Stockholm, Sweden</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Bin Yang"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Bin%20Yang%22">Search for more papers by this author</a>
+               <ul class="article-header__authors-item-note-ref" data-content="reveal">
+                <li id="anie201601505-note-1001" class="article-header__references-item"><sup></sup> <p>These authors contributed equally to this work.</p> </li>
+               </ul>
+               <span class="author-content-bottom" data-author-name="Bin Yang"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author2" data-author-name="Dr. Can Zhu"><h3 class="article-header__authors-name" data-hover-control="author2">Dr. Can Zhu,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author2">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Organic Chemistry, Arrhenius Laboratory, Stockholm University, Stockholm, Sweden</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Can Zhu"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Can%20Zhu%22">Search for more papers by this author</a>
+               <ul class="article-header__authors-item-note-ref" data-content="reveal">
+                <li id="anie201601505-note-1001" class="article-header__references-item"><sup></sup> <p>These authors contributed equally to this work.</p> </li>
+               </ul>
+               <span class="author-content-bottom" data-author-name="Dr. Can Zhu"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author3" data-author-name="Dr. Youai Qiu"><h3 class="article-header__authors-name" data-hover-control="author3">Dr. Youai Qiu,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author3">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Organic Chemistry, Arrhenius Laboratory, Stockholm University, Stockholm, Sweden</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Youai Qiu"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Youai%20Qiu%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Youai Qiu"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author4" data-author-name="Prof. Dr. Jan‐E. Bäckvall"><h3 class="article-header__authors-name" data-hover-control="author4">Prof. Dr. Jan-E. Bäckvall<span class="icon icon__article-header icon__email"></span></h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author4">
+               <span class="article-header__corresponding-auth">Corresponding author</span>
+               <ul class="article-header__authors-item-details">
+                <li><span class="article-header__authors-item-label">E-mail address: </span><a href="mailto:jeb@organ.su.se" title="Link to email address" class="article-header__authors-item-email">jeb@organ.su.se</a></li>
+               </ul>
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Department of Organic Chemistry, Arrhenius Laboratory, Stockholm University, Stockholm, Sweden</li>
+               </ol>
+               <ul class="article-header__authors-item-corresp-addr">
+                <li><i class="icon icon__authors-corresp-addr"></i></li>
+               </ul>
+               <span class="after-author-correspondence" data-author-name="Prof. Dr. Jan‐E. Bäckvall"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Prof.%E2%80%85Dr.%20Jan%E2%80%90E.%20B%C3%A4ckvall%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Prof. Dr. Jan‐E. Bäckvall"></span>
+              </div></li>
+            </ul>
+           </div>
+           <div class="article-header__meta-info-container">
+            <ul id="header-meta-info-container" class="article-header__meta-info-list">
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label">First published: </span><time class="article-header__meta-info-data" datetime="2016-04-08" id="first-published-date">8 April 2016</time><a href="#publication-history" class="article-header__meta-info-2nd-data js-publication-history">Full publication history</a></li>
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label" id="header-section-doi">DOI: </span><span class="article-header__meta-info-data">10.1002/anie.201601505</span><a href="/enhanced/exportCitation/doi/10.1002/anie.201601505" class="article-header__meta-info-2nd-data analytics-view-citation js-module" data-module="fragment">View/save citation</a></li>
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label">Cited by: </span><span class="article-header__meta-info-data"><span id="js-citations__count">0</span> articles </span><a class="article-header__meta-info-2nd-data citations__control js-module" href="http://onlinelibrary.wiley.com/enhanced/refreshCitedBy?doi=10.1002/anie.201601505&amp;refreshCitedByCounter=true" data-module="citations">Check for new citations</a><a href="#footer-citing" class="js-scrollto article-header__meta-info-2nd-data citations__link">Citing literature</a></li>
+             <li class="article-header__meta-info-item">
+              <div data-module="alt-metrics" class="js-module altmetric-embed" data-badge-type="1" data-doi="10.1002/anie.201601505" data-badge-popover="bottom" data-link-target="_blank"></div></li>
+             <li class="article-header__meta-info-item"><a href="#funding-information" class="article-header__meta-info-2nd-data js-funding-info">Funding Information</a></li>
+            </ul>
+           </div>
+          </div>
+          <hr>
+         </header>
+         <section id="abstract" class="article-section article-section--abstract">
+          <div id="en_main_abstract" class="article-section__content mainAbstract" lang="en">
+           <h2 class="article-section__header">Abstract</h2>
+           <p>An efficient one-pot method for the enzyme- and ruthenium-catalyzed enantioselective transformation of α-allenic alcohols into 2,3-dihydrofurans has been developed. The method involves an enzymatic kinetic resolution and a subsequent ruthenium-catalyzed cycloisomerization, which provides 2,3-dihydrofurans with excellent enantioselectivity (up to &gt;99 % <em>ee</em>). A ruthenium carbene species was proposed as a key intermediate in the cycloisomerization.</p>
+          </div>
+         </section>
+         <span id="after-abstract"></span>
+         <div id="js-feedback" class="feedback feedback--maximised js-module" data-module="feedback">
+          <a href="https://wileyonlinelibrary.uservoice.com/" class="feedback__content-link feedback__content-link--open" target="_blank">Provide feedback or get help</a>
+          <div class="feedback__content">
+           <span class="feedback__content-title">You are viewing our new enhanced HTML article.</span> 
+           <p class="feedback__content-paragraph"> If you can't find a tool you're looking for, please click the link at the top of the page to "Go to old article view". Alternatively, view our <a href="https://wileyonlinelibrary.uservoice.com" class="feedback__content-link" target="_blank"> Knowledge Base articles </a> for additional help. Your feedback is important to us, so please <a href="https://wileyonlinelibrary.uservoice.com" class="feedback__content-link" target="_blank"> let us know </a> if you have comments or ideas for improvement. </p>
+          </div>
+         </div>
+         <section id="pdf-section" class="article-section article-section__pdf-container js-pdf-content">
+          <ul class="box-actions__wrapper">
+           <li class="box-actions box-actions--readcube"><a href="http://onlinelibrary.wiley.com/doi/10.1002/anie.201601505/epdf" class="js-article-section__pdf-container-link article-section__pdf-container-link"><span class="icon icon__readcube"></span><span class="js-article-section__pdf-container-title box-actions__title">Enhanced PDF</span></a></li>
+           <li class="box-actions"><a href="http://onlinelibrary.wiley.com/doi/10.1002/anie.201601505/pdf" class="js-article-section__pdf-container-link article-section__pdf-container-link"><span class="icon icon__pdf"></span><span class="js-article-section__pdf-container-title box-actions__title">Standard PDF</span><span class="js-article-section__pdf-container-size box-actions__meta"> (764.1 KB) </span></a></li>
+          </ul>
+         </section>
+         <section class="article-section article-body-section" id="anie201601505-sec-0001">
+          <p>Allenes, a class of compounds with a unique substructure of two cumulative carbon–carbon double bonds, have been proven to be powerful building blocks for the construction of complicated skeletons.[<a href="#anie201601505-bib-0001" rel="references:#anie201601505-bib-0001 #anie201601505-bib-0002" class="link__reference js-link__reference" title="Link to bibliographic citations">1, 2</a>] Thus, much attention has been focused on the transition metal-catalyzed cyclization of allenes[<a href="#anie201601505-bib-0003" rel="references:#anie201601505-bib-0003 #anie201601505-bib-0004 #anie201601505-bib-0005" class="link__reference js-link__reference" title="Link to bibliographic citations">3-5</a>] with a nucleophilic functionality to synthesize a variety of potentially useful heterocycles.[<a href="#anie201601505-bib-0006" rel="references:#anie201601505-bib-0006 #anie201601505-bib-0007 #anie201601505-bib-0008 #anie201601505-bib-0009 #anie201601505-bib-0010" class="link__reference js-link__reference" title="Link to bibliographic citations">6-10</a>] For example, α-allenic alcohols with a stereogenic center provide ready access to chiral oxocycles. In the past few decades, a number of methods have been reported for the synthesis of chiral α-allenic alcohols.[<a href="#anie201601505-bib-0007" rel="references:#anie201601505-bib-0007 #anie201601505-bib-0010 #anie201601505-bib-0011" class="link__reference js-link__reference" title="Link to bibliographic citations">7, 10, 11</a>] However, these methods either require stoichiometric chiral reagents or a complicated chiral ligand, the multiple-step synthesis of which would limit their practical application. Therefore, new methodologies for efficient access to optically pure α-allenic alcohols with broad compatibility and excellent enantioselectivity are still highly desired.</p>
+          <p>Enzymatic kinetic resolution (KR)[<a href="#anie201601505-bib-0012" rel="references:#anie201601505-bib-0012" class="link__reference js-link__reference" title="Link to bibliographic citation">12</a>] of racemates is an efficient and powerful method to produce enantiomerically enriched compounds.[<a href="#anie201601505-bib-0013a" rel="references:#anie201601505-bib-0013a" class="link__reference js-link__reference" title="Link to bibliographic citation">13a</a>] Enzymatic KR would give excellent enantioselectivity for those substrates that conform to the Kazlauskas rule[<a href="#anie201601505-bib-0013b" rel="references:#anie201601505-bib-0013b" class="link__reference js-link__reference" title="Link to bibliographic citation">13b</a>] (Figure <a href="#anie201601505-fig-0001" rel="references:#anie201601505-fig-0001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a> a), such as aryl-substituted propargylic alcohols (Figure <a href="#anie201601505-fig-0001" rel="references:#anie201601505-fig-0001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a> b). However, enzymatic transformations of α-allenic alcohols are still challenging, as the allene unit did not fit well as the medium-sized group into the active site of typical lipases, thus leading to low enantioselectivity (Figure <a href="#anie201601505-fig-0001" rel="references:#anie201601505-fig-0001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a> c).[<a href="#anie201601505-bib-0011" rel="references:#anie201601505-bib-0011" class="link__reference js-link__reference" title="Link to bibliographic citation">11</a>] Therefore, synthetically efficient enzymatic kinetic resolution of chiral α-allenic alcohols is still a problem.[<a href="#anie201601505-bib-0014" rel="references:#anie201601505-bib-0014" class="link__reference js-link__reference" title="Link to bibliographic citation">14</a>] Furthermore, dynamic kinetic resolution (DKR), which could overcome the theoretical maximum yield of 50 % of KR, would enable the desired enantiomer to be obtained in up to 100 % yield by coupling of the KR with a suitable racemization reaction (Scheme <a href="#anie201601505-fig-5001" rel="references:#anie201601505-fig-5001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a>).[<a href="#anie201601505-bib-0015" rel="references:#anie201601505-bib-0015" class="link__reference js-link__reference" title="Link to bibliographic citation">15</a>] However, we were surprised to find that the racemization catalyst <b>C1</b> (Scheme <a href="#anie201601505-fig-5002" rel="references:#anie201601505-fig-5002" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">2</a>) did not racemize allenic alcohols, but instead promoted their cyclization in an unexpected way. On the basis of this observation, we developed a one-pot process for the enantioselective synthesis of 2-substituted 2,3-dihydrofurans with the highest <em>ee</em> values observed for these compounds among all existing methods. </p>
+          <section id="anie201601505-fig-0001" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-0001-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dMMOfvUPzCLNZ%0AD%2F2inA7Prb3aMcIb7G9X&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="anie201601505-fig-0001" title="Open Figure&nbsp;1. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Figure&nbsp;1. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-0001.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaio8%2BeIXrYFG4K%0AqJk%2B0YATTQ%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Figure&nbsp;1. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-0001.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaio8%2BeIXrYFG4K%0AqJk%2B0YATTQ%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Figure&nbsp;1. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-0001-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dMMOfvUPzCLNZ%0AD%2F2inA7Prb3aMcIb7G9X&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/powerpoint/image_n%2Fanie201601505-fig-0001.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaio8%2BeIXrYFG4K%0AqJk%2B0YATTQ%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>Kazlauskas rule for the enzymatic kinetic resolution of secondary alcohols.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <section id="anie201601505-fig-5001" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5001-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8djSNwPX41jjbG%0AJTO83xfHZluTsLEaeDV7&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="anie201601505-fig-5001" title="Open Scheme&nbsp;1. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Scheme&nbsp;1. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5001.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaiKOP9s0%2FNuw%2B0%0AVClxccPd%2FA%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Scheme&nbsp;1. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5001.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaiKOP9s0%2FNuw%2B0%0AVClxccPd%2FA%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Scheme&nbsp;1. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5001-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8djSNwPX41jjbG%0AJTO83xfHZluTsLEaeDV7&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/powerpoint/image_n%2Fanie201601505-fig-5001.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaiKOP9s0%2FNuw%2B0%0AVClxccPd%2FA%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>Envisioned dynamic kinetic resolution (DKR) of α-allenic alcohols and observed outcome.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>We screened a series of biocatalysts for the enantioselective transacylation of allenic alcohols <b>1</b> in organic solvents (for details, see Table S1 in the Supporting Information). CALA gave relatively low enantioselectivity and a low reaction rate. By control of the reaction time and temperature with substrate <b>1 a</b>, the CALB family (CALB wild type and a CALB mutant[<a href="#anie201601505-bib-0016" rel="references:#anie201601505-bib-0016" class="link__reference js-link__reference" title="Link to bibliographic citation">16</a>]) afforded moderate <em>E</em> values (ranging from 32 to 44 depending on the variant and the solid support). To our delight, lipase PS on different solid supports displayed excellent enantioselectivity; IL1-PS (IL1-supported lipase PS) showed the best enantioselectivity and highest reaction rate. After this preliminary screening (see Table S1) we next investigated the substrate scope for the enzymatic kinetic resolution under the optimal reaction conditions. Although the <em>E</em> values were low for the two starting materials (<em>rac</em>)-<b>1 c</b> and (<em>rac</em>)-<b>1 l</b> (with 2-methoxyphenyl and cyclohexyl R substituents), probably owing to steric hindrance, IL1-PS showed excellent enantioselectivity for a wide range of substrates, in which the allene was tolerated as the medium-sized group (see Table S2). The calculated <em>E</em> values for these substrates ranged from 100 to 780.</p>
+          <p>With a high <em>E</em> value, both the allenic alcohol and the allenic acetate can be obtained with high <em>ee</em> values in the KR. The KR of (<em>rac</em>)-<b>1 f</b> under optimal conditions gave (<em>S</em>)-<b>1 f</b> with 99.9 % <em>ee</em> in 43 % yield and (<em>R</em>)-<b>3 f</b> with 95.2 % <em>ee</em> in 47 % yield within 8 h [Eq. <a href="#anie201601505-disp-0001" rel="references:#anie201601505-disp-0001">(1)</a>].</p>
+          <div class="inline-equation" id="anie201601505-disp-0001">
+           <img class="inline-equation__image" alt="original image" src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-gra-0001.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqne4pOaUgJDt5663HOdke67q%0AawJROVNZzA%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">
+          </div>
+          <p>Having established this highly enantioselective KR method, we attempted to develop a DKR method by combining the KR with the Shvo catalyst (<b>C1</b>).[<a href="#anie201601505-bib-0017" rel="references:#anie201601505-bib-0017 #anie201601505-bib-0018" class="link__reference js-link__reference" title="Link to bibliographic citations">17, 18</a>] On the basis of previous research within our research group on the dynamic kinetic resolution (DKR)[<a href="#anie201601505-bib-0015" rel="references:#anie201601505-bib-0015" class="link__reference js-link__reference" title="Link to bibliographic citation">15</a>] of secondary alcohols, in which biocatalysts are combined with a transition-metal catalyst, we tested racemization catalysts <b>C1</b> and <b>C2</b> (Scheme <a href="#anie201601505-fig-5002" rel="references:#anie201601505-fig-5002" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">2</a>) with 1-phenylbuta-2,3-dien-1-ol ((<em>rac</em>)-<b>1 a</b>) as the standard substrate. When (<em>rac</em>)-<b>1 a</b> was treated with catalyst <b>C1</b>, isopropenyl acetate, and IL1-PS in the presence of Na<sub>2</sub>CO<sub>3</sub> in toluene at 70 °C overnight, the desired product was not observed. Surprisingly, the cyclized product <b>2 a</b> (see Table <a href="#anie201601505-tbl-0001" rel="references:#anie201601505-tbl-0001" class="tableLink link__table js-link__table js-scrollto" title="Link to table">1</a>) was obtained in 83 % yield as a single product. In contrast, catalyst <b>C2</b> was inactive toward the allenic alcohol (<em>rac</em>)-<b>1 a</b>.</p>
+          <section id="anie201601505-fig-5002" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5002-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dnPEMFvncZd55%0AqBdi9yXzUlotqhQJYVUw&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="anie201601505-fig-5002" title="Open Scheme&nbsp;2. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Scheme&nbsp;2. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5002.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTai7p6UALrdciBG%0AhWsMachwmQ%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Scheme&nbsp;2. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5002.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTai7p6UALrdciBG%0AhWsMachwmQ%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Scheme&nbsp;2. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5002-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dnPEMFvncZd55%0AqBdi9yXzUlotqhQJYVUw&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/powerpoint/image_n%2Fanie201601505-fig-5002.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTai7p6UALrdciBG%0AhWsMachwmQ%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>Ruthenium-based racemization catalysts.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>We next set out to optimize the reaction conditions for the ruthenium-catalyzed cyclization with <b>C1</b> by using (<em>rac</em>)-<b>1 a</b> as the substrate (for details, see Table S3). Toluene, THF, DCE, acetone, dioxane, MeOH, and MeCN were tested as the solvent, and all gave (<em>rac</em>)-<b>2 a</b> as a single product. The best result was found with toluene, which afforded (<em>rac</em>)-<b>2 a</b> in 83 % yield (Table <a href="#anie201601505-tbl-0001" rel="references:#anie201601505-tbl-0001" class="tableLink link__table js-link__table js-scrollto" title="Link to table">1</a>, entry 1). The reaction still proceeded well with a catalyst loading of 2 mol %. </p>
+          <div data-module="Table" class="table__overflow js-module">
+           <table class="table table--article-section" id="anie201601505-tbl-0001">
+            <caption class="table__caption">
+             <span class="table__caption-label">Table&nbsp;1.&nbsp;</span>Ruthenium-catalyzed cycloisomerization of (
+             <em>rac</em>)-
+             <b>1</b>.
+             <sup>[a]</sup> 
+             <img alt="image" src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-gra-0003.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqne4pOaUgJDtdjBTQvoe7iYf%0AwJH48arEhw%3D%3D" class="inlineGraphic">
+            </caption>
+            <thead class="table__header table__header-data--top">
+             <tr class="table__row">
+              <th class="table__header-data">Entry</th>
+              <th class="table__header-data">R</th>
+              <th class="table__header-data"><em>t</em> [h]</th>
+              <th class="table__header-data">Yield of <b>2</b> [%]<sup>[b]</sup></th>
+             </tr>
+            </thead>
+            <tfoot class="table__footer">
+             <tr class="table__row">
+              <td colspan="4" class="table__data">
+               <ol>
+                <li id="anie201601505-tnote-0001"><p>[a] The starting alcohol (<em>rac</em>)-<b>1</b> (0.5 mmol) was dissolved toluene (1 mL) in the presence of the Shvo catalyst <b>C1</b> (2 mol %). [b] Yield of the isolated product. Bn=benzyl, Np=naphthyl.</p></li>
+               </ol></td>
+             </tr>
+            </tfoot>
+            <tbody class="table__body table__data--top">
+             <tr class="table__row">
+              <td class="table__data">1</td>
+              <td class="table__data">Ph</td>
+              <td class="table__data">1.5</td>
+              <td class="table__data">83 ((<em>rac</em>)-<b>2 a</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">2</td>
+              <td class="table__data">4-Me-C<sub>6</sub>H<sub>4</sub></td>
+              <td class="table__data">1.5</td>
+              <td class="table__data">85 ((<em>rac</em>)-<b>2 b</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">3</td>
+              <td class="table__data">2-MeO-C<sub>6</sub>H<sub>4</sub></td>
+              <td class="table__data">1.5</td>
+              <td class="table__data">88 ((<em>rac</em>)-<b>2 c</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">4</td>
+              <td class="table__data">3-MeO-C<sub>6</sub>H<sub>4</sub></td>
+              <td class="table__data">1.5</td>
+              <td class="table__data">91 ((<em>rac</em>)-<b>2 d</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">5</td>
+              <td class="table__data">4-MeO-C<sub>6</sub>H<sub>4</sub></td>
+              <td class="table__data">1.5</td>
+              <td class="table__data">77 ((<em>rac</em>)-<b>2 e</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">6</td>
+              <td class="table__data">4-Br-C<sub>6</sub>H<sub>4</sub></td>
+              <td class="table__data">2</td>
+              <td class="table__data">93 ((<em>rac</em>)-<b>2 f</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">7</td>
+              <td class="table__data">4-Cl-C<sub>6</sub>H<sub>4</sub></td>
+              <td class="table__data">2</td>
+              <td class="table__data">92 ((<em>rac</em>)-<b>2 g</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">8</td>
+              <td class="table__data">4-F-C<sub>6</sub>H<sub>4</sub></td>
+              <td class="table__data">2</td>
+              <td class="table__data">84 ((<em>rac</em>)-<b>2 h</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">9</td>
+              <td class="table__data">4-CF<sub>3</sub>-C<sub>6</sub>H<sub>4</sub></td>
+              <td class="table__data">4</td>
+              <td class="table__data">85 ((<em>rac</em>)-<b>2 i</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">10</td>
+              <td class="table__data">2-Np</td>
+              <td class="table__data">4</td>
+              <td class="table__data">95 ((<em>rac</em>)-<b>2 j</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">11</td>
+              <td class="table__data">Bn</td>
+              <td class="table__data">1.5</td>
+              <td class="table__data">90 ((<em>rac</em>)-<b>2 k</b>)</td>
+             </tr>
+             <tr class="table__row">
+              <td class="table__data">12</td>
+              <td class="table__data">cyclohexyl</td>
+              <td class="table__data">1.5</td>
+              <td class="table__data">90 ((<em>rac</em>)-<b>2 l</b>)</td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <p>Under the optimal reaction conditions, we next investigated the scope of the cycloisomerization of allenic alcohols (<em>rac</em>)-<b>1</b>. A range of substituted 1-aryl buta-2,3-dien-1-ols were examined: Derivatives substituted with <em>p</em>-Me, <em>o</em>-MeO, <em>m</em>-MeO, <em>p</em>-MeO, <em>p</em>-Br, <em>p</em>-Cl, and <em>p</em>-F groups all reacted smoothly to afford the corresponding products (<em>rac</em>)-<b>2 b</b>–<b>h</b> as the only product in excellent yields (Table <a href="#anie201601505-tbl-0001" rel="references:#anie201601505-tbl-0001" class="tableLink link__table js-link__table js-scrollto" title="Link to table">1</a>, entries 2–8). However, substrates bearing an electron-deficient substituent, such as <em>p</em>-CF<sub>3</sub> (substrate (<em>rac</em>)-<b>1 i</b>) and 2-naphthyl (substrate (<em>rac</em>)-<b>1 j</b>), required a longer reaction time (4 h vs. 1.5 h; Table <a href="#anie201601505-tbl-0001" rel="references:#anie201601505-tbl-0001" class="tableLink link__table js-link__table js-scrollto" title="Link to table">1</a>, entries 9 and 10). The cycloisomerization reaction also proceeded well to give <b>2 k</b> and <b>2 l</b> in excellent yields when the R substituent was an alkyl group, such as benzyl (substrate (<em>rac</em>)-<b>1 k</b>) or cyclohexyl (substrate (<em>rac</em>)-<b>1 l</b>).</p>
+          <p>We next studied the cyclization of optically pure (<em>S</em>)-<b>1 a</b>. Since catalyst <b>C1</b> is utilized as a racemization catalyst in the DKR of secondary alcohols and primary amines, a drop in the <em>ee</em> value may occur during the cyclization. When optically pure (<em>S</em>)-<b>1 a</b> (obtained by KR with IL1-PS) was treated with catalyst <b>C1</b> (5 mol %) at 70 °C for 16 h, (<em>S</em>)-<b>2 a</b> was obtained with 97.3 % <em>ee</em> [Eq. <a href="#anie201601505-disp-0002" rel="references:#anie201601505-disp-0002">(2)</a>]. This result indicates that the cycloisomerization is about two orders of magnitude faster than racemization, which means that the configuration of the stereogenic center will be maintained in the <b>C1</b>-catalyzed cyclization.</p>
+          <div class="inline-equation" id="anie201601505-disp-0002">
+           <img class="inline-equation__image" alt="original image" src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-gra-0002.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqne4pOaUgJDtaUlaVk%2BVvTXm%0Aje7Qp%2FQAjQ%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">
+          </div>
+          <p>With these results in hand, we designed an enantioselective one-pot synthesis of 2,3-dihydrofurans by combining the enzymatic kinetic resolution with <b>C1</b>-catalyzed cycloisomerization (Scheme <a href="#anie201601505-fig-5003" rel="references:#anie201601505-fig-5003" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">3</a>). To our delight, for substrates with good <em>E</em> values in KR, the cycloisomerization products (<em>S</em>)-<b>2</b> were obtained in 37–45 % yield with excellent asymmetric induction (97.5–99.9 % <em>ee</em>). Furthermore, even substrate (<em>rac</em>)-<b>1 c</b>, which underwent slow KR with low selectivity, was converted into (<em>S</em>)-<b>2 c</b> in 29 % yield with 99.6 % <em>ee</em> with a longer reaction time.</p>
+          <section id="anie201601505-fig-5003" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5003-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dpa5aE8Q6bRaf%0AN0vB%2F%2FlwOYKKoPqnnKLp&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="anie201601505-fig-5003" title="Open Scheme&nbsp;3. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Scheme&nbsp;3. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5003.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaioWn0aRsn8ib1%0AOqjFsDCYWQ%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Scheme&nbsp;3. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5003.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaioWn0aRsn8ib1%0AOqjFsDCYWQ%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Scheme&nbsp;3. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5003-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dpa5aE8Q6bRaf%0AN0vB%2F%2FlwOYKKoPqnnKLp&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/powerpoint/image_n%2Fanie201601505-fig-5003.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaioWn0aRsn8ib1%0AOqjFsDCYWQ%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>Scope of the KR/cycloisomerization one-pot reaction. A solution of (<em>rac</em>)-<b>1</b> (0.5 mmol) in dry toluene (1 mL) was mixed with IL1-PS (10.0 mg) and dry Na<sub>2</sub>CO<sub>3</sub> (26.3 mg) in a reaction vial, and the resulting mixture was stirred for 5 min. Isopropenyl acetate (110 μL, 1 mmol, 2 equiv) was then added, and the reaction mixture was stirred at 50 °C. After 12–16 h, the Shvo catalyst <b>C1</b> (2 mol %) was added to the solution, and stirring was continued for another 4 h at 70 °C. The <em>ee</em> values of the products were determined by GC analysis on a chiral stationary phase (see the Supporting Information for details).</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>To demonstrate the synthetic utility of the products, we conducted an epoxide-formation–opening reaction to introduce two new chiral centers (Scheme <a href="#anie201601505-fig-5004" rel="references:#anie201601505-fig-5004" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">4</a>). Compound <b>4</b>, which can be isolated from its diastereomers, was produced in 65 % yield without loss of optical purity (97.5 % <em>ee</em>). Compound <b>4</b> can be used in the synthesis of optically pure (−)-3-deoxyisoaltholactone, the enantiomer of a natural product, by an existing method.[<a href="#anie201601505-bib-0019" rel="references:#anie201601505-bib-0019" class="link__reference js-link__reference" title="Link to bibliographic citation">19</a>]</p>
+          <section id="anie201601505-fig-5004" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5004-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8d9Fwqa%2Fkt7JaN%0AtEi%2FXGz41%2Fu%2BUQnndnAZ&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="anie201601505-fig-5004" title="Open Scheme&nbsp;4. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Scheme&nbsp;4. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5004.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTai8Pok98vPg28E%0ATYv14cj4VA%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Scheme&nbsp;4. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5004.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTai8Pok98vPg28E%0ATYv14cj4VA%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Scheme&nbsp;4. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5004-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8d9Fwqa%2Fkt7JaN%0AtEi%2FXGz41%2Fu%2BUQnndnAZ&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/powerpoint/image_n%2Fanie201601505-fig-5004.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTai8Pok98vPg28E%0ATYv14cj4VA%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>Formal synthesis of (−)-3-deoxyisoaltholactone from (<em>S</em>)-<b>2 a</b>. <em>m</em>CPBA=<em>m</em>-chloroperbenzoic acid.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>We further studied the mechanism of this ruthenium-catalyzed cycloisomerization. It was first investigated whether 2,5-dihydrofuran <b>5</b> could be an intermediate in this reaction (Scheme <a href="#anie201601505-fig-5005" rel="references:#anie201601505-fig-5005" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">5</a>). Compound <b>5</b>, synthesized by a known method,[<a href="#anie201601505-bib-0020" rel="references:#anie201601505-bib-0020" class="link__reference js-link__reference" title="Link to bibliographic citation">20</a>] was heated to 70 °C for 4 h in the presence of catalyst <b>C1</b> (2 mol %) in toluene. Surprisingly, instead of <b>2 f</b>, an unsaturated ketone <b>6</b> was formed in quantitative yield. This observation suggests that <b>5</b> is not an intermediate in the catalytic cycle.</p>
+          <section id="anie201601505-fig-5005" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5005-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dXa4MJB0lt8BD%0AV2JYbRDw2D5cP%2BKuhf2r&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="anie201601505-fig-5005" title="Open Scheme&nbsp;5. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Scheme&nbsp;5. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5005.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaifVGx2A82uz7i%0Ak3yhXCy99w%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Scheme&nbsp;5. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5005.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaifVGx2A82uz7i%0Ak3yhXCy99w%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Scheme&nbsp;5. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5005-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dXa4MJB0lt8BD%0AV2JYbRDw2D5cP%2BKuhf2r&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/powerpoint/image_n%2Fanie201601505-fig-5005.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaifVGx2A82uz7i%0Ak3yhXCy99w%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>Reaction to test whether <b>5</b> could be an intermediate in the ruthenium-catalyzed reaction.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>In an effort to gain deeper insight into the reaction mechanism, we performed deuterium-labeling experiments. The reaction was carried out with [D<sub>1</sub>]<b>1 f</b> as the starting material in the presence of catalyst <b>C1</b> (2 mol %) in toluene at 70 °C for 2 h (Scheme <a href="#anie201601505-fig-5006" rel="references:#anie201601505-fig-5006" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">6</a> a). Compound <b>2 fa</b> was formed with full conversion with a combined amount of 0.7 deuterium atoms in the position of the two allylic hydrogen atoms X<sup>1</sup>+X<sup>2</sup> and 19 % deuterium incorporation at the vinylic position X<sup>3</sup>. A cyclization reaction of [D<sub>2</sub>]<b>1 f</b> was carried out under the same reaction conditions to give <b>2 fb</b>. To our surprise, a very similar deuterium distribution at the allylic position (X<sup>1</sup>+X<sup>2</sup>) and vinylic position X<sup>3</sup> was observed (Scheme <a href="#anie201601505-fig-5006" rel="references:#anie201601505-fig-5006" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">6</a> b). The only difference was that instead of 0 % deuterium incorporation at the vinylic position X<sup>4</sup> as in <b>2 fa</b>, 100 % deuterium incorporation was found at the X<sup>4</sup> position of <b>2 fb</b>. The reaction of [D<sub>3</sub>]<b>1 f</b> (Scheme <a href="#anie201601505-fig-5006" rel="references:#anie201601505-fig-5006" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">6</a> c) afforded product <b>2 fc</b>, which had about twice the amount of deuterium in positions X<sup>1</sup>+X<sup>2</sup> and X<sup>3</sup> as compared to the previous products <b>2 fa</b> and <b>2 fb</b>.</p>
+          <section id="anie201601505-fig-5006" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5006-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dy%2BMIInghbmDx%0ACUlM%2BTQvnMoDzpfeNjU2&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="anie201601505-fig-5006" title="Open Scheme&nbsp;6. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Scheme&nbsp;6. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5006.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTai5OM7STEAmSN3%0AkLuIqzTIVA%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Scheme&nbsp;6. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5006.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTai5OM7STEAmSN3%0AkLuIqzTIVA%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Scheme&nbsp;6. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5006-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dy%2BMIInghbmDx%0ACUlM%2BTQvnMoDzpfeNjU2&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/powerpoint/image_n%2Fanie201601505-fig-5006.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTai5OM7STEAmSN3%0AkLuIqzTIVA%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>Transformation of deuterium-labeled allenic alcohols.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>On the basis of the deuterium-labeling experiments, we propose a possible mechanism for the cycloisomerization of substituted 2,3-allen-1-ols (Scheme <a href="#anie201601505-fig-5007" rel="references:#anie201601505-fig-5007" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">7</a>; see Scheme S2 in the Supporting Information for details about the nature of the metal complexes involved). Catalyst <b>C1</b> is known to split into two monomeric species on heating in solution (see the Supporting Information). Coordination of the terminal C=C bond of <b>1</b> to Ru would form <b>int-1</b>, and subsequent ring closure of <b>int-1</b> would give a vinyl–ruthenium intermediate <b>int-2</b>. Rearrangement of <b>int-2</b> would give the key intermediate ruthenium carbene <b>int-3</b>. Protonation of <b>int-3</b> to give <b>int-4</b> and subsequent deprotonation at the CH<sub>2</sub>O position would produce <b>int-5</b>. The reaction of <b>int-4</b> to give <b>int-5</b> is believed to be irreversible, since the cyclization of [D<sub>2</sub>]<b>1 f</b> to <b>2 fb</b> (Scheme <a href="#anie201601505-fig-5006" rel="references:#anie201601505-fig-5006" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">6</a> b) led to 100 % deuterium incorporation at the vinylic position X<sup>4</sup>. The equilibrium between <b>int-4</b> and <b>int-3</b> will lead to the observed deuterium content in the allylic (X<sup>1</sup>+X<sup>2</sup>) position of the product, which reflects the D<sup>+</sup>/H<sup>+</sup> ratio in the solvent.[<a href="#anie201601505-bib-0021" rel="references:#anie201601505-bib-0021" class="link__reference js-link__reference" title="Link to bibliographic citation">21</a>] The much lower deuterium content in the vinylic position X<sup>3</sup> is due to a kinetic isotope effect (<em>k</em><sub>H</sub>/<em>k</em><sub>D</sub>) in the protonation of <b>int-5</b>, since this step is irreversible.</p>
+          <section id="anie201601505-fig-5007" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5007-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dQM0xOU4dC1TP%0A%2B%2F3jJOesItYh7KpvWGoE&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="anie201601505-fig-5007" title="Open Scheme&nbsp;7. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Scheme&nbsp;7. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5007.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaiQOamN62xwrDT%0AYknRjSTjKg%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Scheme&nbsp;7. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_n%2Fanie201601505-fig-5007.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaiQOamN62xwrDT%0AYknRjSTjKg%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Scheme&nbsp;7. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/image_m%2Fanie201601505-fig-5007-m.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfxNFjIRqayZDWF0zZV12WFy4SNMEl%2FAV8dQM0xOU4dC1TP%0A%2B%2F3jJOesItYh7KpvWGoE&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/powerpoint/image_n%2Fanie201601505-fig-5007.png?l=SkaBT8QEx2qMKFzmpntImiIAfskyJsfx2HrfTRwGKyxCzrzRh9Bsqro%2FgMEDuTaiQOamN62xwrDT%0AYknRjSTjKg%3D%3D&amp;s=%2252878fdd0be44336bd9c7a9b51bf7bd7%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>Proposed mechanism for the ruthenium-catalyzed cycloisomerization of allenic alcohols. For monomeric [Ru] and [Ru]<sup>−</sup> species, see the Supporting Information.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>In conclusion, we have developed a novel synthesis of 2-substituted 2,3-dihydrofurans from readily available allenic alcohols through a ruthenium-catalyzed cycloisomerization. On the basis of this transformation, a one-pot enantioselective process combining KR and cycloisomerization was established. Oxygen-containing heterocycles were synthesized under mild reaction conditions with good functional-group tolerance. The products obtained can be further transformed into a variety of important derivatives. This method should be attractive for the pharmaceutical industry. A ruthenium carbene <b>int-4</b> is proposed as a key intermediate of the cyclization.</p>
+          <section class="article-section article-body-section" id="anie201601505-sec-0002">
+           <h3>Acknowledgements</h3>
+           <p>Financial support from the European Research Council (ERC AdG 247014), the Swedish Research Council (621-2013-4653), the Berzelii Center EXSELENT, and the Knut and Alice Wallenberg Foundation is gratefully acknowledged.</p>
+          </section>
+         </section>
+         <footer class="article-footer js-module" data-module="Footer">
+          <h2 class="is-accessible">Ancillary</h2>
+          <section id="footer-article-info" class="article-footer__section">
+           <h3 class="article-footer__section-title js-footer-title"><i class="icon icon__double-chevron"></i>Article Information</h3>
+           <div class="article-info__section-content js-footer-info js-article-info">
+            <div class="article-info__doi-container">
+             <h4 class="article-info__section-sub-title">DOI</h4>
+             <span class="article-info__section-doi-data">10.1002/anie.201601505</span>
+             <ul class="article-info__list u-list-plain">
+              <li class="article-info__citations-item"><a href="/enhanced/exportCitation/doi/10.1002/anie.201601505" class="article-header__meta-info-2nd-data analytics-view-citation js-module" data-module="fragment">View/save citation</a></li>
+             </ul>
+            </div>
+            <div class="article-info__format-container article-format">
+             <h4 class="article-info__section-sub-title">Format Available</h4>
+             <span class="article-info__section-format-data">Full text: HTML | PDF</span>
+            </div>
+            <footer class="article-info__copyright-container" id="copyright">
+             <p class="article-info__copyright">© 2016 The Authors. Published by Wiley-VCH Verlag GmbH &amp; Co. KGaA.</p>
+             <p class="article-info__copyright">This is an open access article under the terms of the <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" title="Link to external resource: http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs</a> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.</p>
+            </footer>
+            <p class="request-permissions"><a href="https://s100.copyright.com/AppDispatchServlet?publisherName=Wiley&amp;publication=ANIE&amp;title=Enzyme%E2%80%90%20and%20Ruthenium%E2%80%90Catalyzed%20Enantioselective%20Transformation%20of%20%CE%B1%E2%80%90Allenic%20Alcohols%20into%202%2C3%E2%80%90Dihydrofurans&amp;publicationDate=08%20APR%202016&amp;author=Bin%20Yang%2CCan%20Zhu%2CYouai%20Qiu%2CJan%E2%80%90E.%20B%C3%A4ckvall&amp;startPage=n%2Fa&amp;endPage=n%2Fa&amp;copyright=%C2%A9%202016%20The%20Authors.%20Published%20by%20Wiley-VCH%20Verlag%20GmbH%20%26%20Co.%20KGaA.&amp;contentID=10.1002%2Fanie.201601505&amp;orderSource=Wileyonline&amp;orderBeanReset=true" class="js-module" data-module="rights-link" target="_blank"><span class="icon-aa icon-aa__permission"></span> Request Permissions </a></p>
+            <div class="article-info__keywords-plus-wrapper">
+             <div class="article-info__keywords-container">
+              <h4 class="article-info__section-sub-title">Keywords</h4>
+              <ul class="article-info__keywords-list u-horizontal-list">
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">allenic alcohols; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">asymmetric catalysis; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">cycloisomerization; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">kinetic resolution; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">ruthenium</span></li>
+              </ul>
+             </div>
+             <span id="after-keywords"></span>
+            </div>
+            <div class="article-info__publication-history-container" id="publication-history">
+             <h4 class="article-info__section-sub-title">Publication History</h4>
+             <ul class="article-info__publication-history-list u-list-plain">
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Version of record online: </span><time datetime="2016-04-08" class="article-info__publication-history-data">8 April 2016</time></li>
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Manuscript Received: </span><time datetime="2016-02-11" class="article-info__publication-history-data">11 February 2016</time></li>
+             </ul>
+            </div>
+            <div id="funding-information" class="article-info__funded-by-container">
+             <h4 class="article-info__section-sub-title">Funded by</h4>
+             <ul class="article-info__funded-by-list">
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">European Research Council. Grant Number: ERC AdG 247014</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">Swedish Research Council. Grant Number: 621-2013-4653</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">Berzelii Center EXSELENT</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">Knut and Alice Wallenberg Foundation</span></li>
+             </ul>
+            </div>
+            <span id="after-funding-information"></span>
+           </div>
+          </section>
+          <section id="footer-support-info" class="article-footer__section">
+           <h3 class="article-footer__section-title js-footer-title"><i class="icon icon__double-chevron"></i>Supporting Information </h3>
+           <div class="article-supp-info__section-content js-footer-info" id="">
+            <p class="article-info__intro">As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p>
+            <div class="support-info__table-wrapper">
+             <table class="support-info__table">
+              <thead>
+               <tr>
+                <th id="article-filename">Filename</th>
+                <th id="article-description">Description</th>
+               </tr>
+              </thead>
+              <tbody>
+               <tr>
+                <td headers="article-filename"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fanie.201601505/asset/supinfo%2Fanie201601505-sup-0001-misc_information.pdf?l=SkaBT8QEx2qMKFzmpntImsKpd5WU5omUbrQ18pedO9lz8N6YpCWrrf3a3b%2FPdqAxOOeB%2F%2B5DmZy1%0AttZj2YnudjkoGQt3HG%2BGQLXe1Sz6R1TII%2B0qWD5AHw%3D%3D">anie201601505-sup-0001-misc_information.pdf</a><span class="support-info__file-ext">2875K</span></td>
+                <td headers="article-description">Supplementary</td>
+               </tr>
+              </tbody>
+             </table>
+            </div>
+            <p class="support-info__disclaimer">Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.</p>
+           </div>
+          </section>
+          <section class="article-footer__section article-section__references" id="references-section">
+           <div class="article-info__section-content">
+            <ul class="article-section__references-list">
+             <li id="anie201601505-bib-0001"><span class="bullet">1</span><cite id="anie201601505-cit-0001">&nbsp;</cite></li>
+             <li id="anie201601505-bib-0001a"><span class="bullet">1a</span><cite id="anie201601505-cit-0002"><span class="author">H. F. Schuster</span>, <span class="author">G. M. Coppola</span>, <span class="bookTitle">Allenes in Organic Synthesis</span>, Wiley, <span class="publisherLocation">New York</span>, <span class="pubYear">1984</span>;</cite></li>
+             <li id="anie201601505-bib-0001b"><span class="bullet">1b</span><cite id="anie201601505-cit-0003"><span class="author">S. Patai</span>, <span class="bookTitle">The Chemistry of Ketenes, Allenes, and Related Compounds, Part 1</span>, Wiley, <span class="publisherLocation">New York</span>, <span class="pubYear">1980</span>.</cite></li>
+             <li id="anie201601505-bib-0002"><span class="bullet">2</span><cite id="anie201601505-cit-0004">For reviews, see:</cite></li>
+             <li id="anie201601505-bib-0002a"><span class="bullet">2a</span><cite id="anie201601505-cit-0005"><span class="author">C. S. Adams</span>, <span class="author">C. D. Weatherly</span>, <span class="author">E. G. Burke</span>, <span class="author">J. M. Schomaker</span>, <span class="journalTitle">Chem. Soc. Rev.</span> <span class="pubYear">2014</span>, <span class="vol">43</span>, <span class="pageFirst">3136</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fc3cs60416k">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/24647416">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXls1Cqtb8%253D&amp;md5=a2afdec659e8fc4b07e900b0063b1f48">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000335012900012&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 11</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002b"><span class="bullet">2b</span><cite id="anie201601505-cit-0006"><span class="author">T. Lechel</span>, <span class="author">F. Pfrengle</span>, <span class="author">H.-U. Reissig</span>, <span class="author">R. Zimmer</span>, <span class="journalTitle">ChemCatChem</span> <span class="pubYear">2013</span>, <span class="vol">5</span>, <span class="pageFirst">2100</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/cctc.201200875">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/cctc.201200875">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXlsl2ntro%253D&amp;md5=5d94c9ae0ab5686657ec1ffab3fe6463">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000322240600007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 32</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002c"><span class="bullet">2c</span><cite id="anie201601505-cit-0007"><span class="author">R. Zimmer</span>, <span class="author">C. U. Dinesh</span>, <span class="author">E. Nandanan</span>, <span class="author">F. A. Khan</span>, <span class="journalTitle">Chem. Rev.</span> <span class="pubYear">2000</span>, <span class="vol">100</span>, <span class="pageFirst">3067</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fcr9902796">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/11749314">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3cXltVSitb4%253D&amp;md5=d356c80c31f5ffabe3ab6870224240a2">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000088838500012&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 569</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002d"><span class="bullet">2d</span><cite id="anie201601505-cit-0008"><span class="author">J. A. Marshall</span>, <span class="journalTitle">Chem. Rev.</span> <span class="pubYear">2000</span>, <span class="vol">100</span>, <span class="pageFirst">3163</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fcr000003u">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/11749316">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3cXksVaqtrk%253D&amp;md5=3a6c2dc0ab1aef260049b8e35a7a6de6">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000088838500014&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 336</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002e"><span class="bullet">2e</span><cite id="anie201601505-cit-0009"><span class="author">X. Lu</span>, <span class="author">C. Zhang</span>, <span class="author">Z. Xu</span>, <span class="journalTitle">Acc. Chem. Res.</span> <span class="pubYear">2001</span>, <span class="vol">34</span>, <span class="pageFirst">535</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Far000253x">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/11456471">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3MXjtlyqsL0%253D&amp;md5=46ddac3ef2661d73eb3323751d80f847">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000170173900002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 646</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002f"><span class="bullet">2f</span><cite id="anie201601505-cit-0010"><span class="author">R. W. Bates</span>, <span class="author">V. Satcharoen</span>, <span class="journalTitle">Chem. Soc. Rev.</span> <span class="pubYear">2002</span>, <span class="vol">31</span>, <span class="pageFirst">12</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb103904k">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/12108979">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD38Xhslenur0%253D&amp;md5=a65752f0a0b0332ad056b0f0036988b3">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000173909300002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 307</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002g"><span class="bullet">2g</span><cite id="anie201601505-cit-0011"><span class="author">J. Ye</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Org. Chem. Front.</span> <span class="pubYear">2014</span>, <span class="vol">1</span>, <span class="pageFirst">1210</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC4QO00208C">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000364430800013&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 15</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002h"><span class="bullet">2h</span><cite id="anie201601505-cit-0012"><span class="author">L.-L. Wei</span>, <span class="author">H. Xiong</span>, <span class="author">R. P. Hsung</span>, <span class="journalTitle">Acc. Chem. Res.</span> <span class="pubYear">2003</span>, <span class="vol">36</span>, <span class="pageFirst">773</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Far030029i">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/14567711">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3sXmtVCjtr8%253D&amp;md5=ea504714f6b65387d6b6b7fa6a134f36">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000186141300007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 210</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002i"><span class="bullet">2i</span><cite id="anie201601505-cit-0013"><span class="author">P. Rivera-Fuentes</span>, <span class="author">F. Diederich</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2012</span>, <span class="vol">51</span>, <span class="pageFirst">2818</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fanie.201108001">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC38XhslClt74%253D&amp;md5=4d62baf3b0fb96e71d7ec6996e9920c1">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000301430700004&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 56</a></li>
+              </ul><cite id="anie201601505-cit-0014"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2012</span>, <span class="vol">124</span>, <span class="pageFirst">2872</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fange.201108001">CrossRef</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002j"><span class="bullet">2j</span><cite id="anie201601505-cit-0015"><span class="author">S. Ma</span>, <span class="journalTitle">Acc. Chem. Res.</span> <span class="pubYear">2009</span>, <span class="vol">42</span>, <span class="pageFirst">1679</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Far900153r">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19603781">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXos1Sqt7w%253D&amp;md5=8f9fe8ad29a3bd0d0493cb09686b0066">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000271035200021&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 212</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002k"><span class="bullet">2k</span><cite id="anie201601505-cit-0016"><span class="author">B. Alcaide</span>, <span class="author">P. Almendros</span>, <span class="author">C. Aragoncillo</span>, <span class="journalTitle">Chem. Soc. Rev.</span> <span class="pubYear">2010</span>, <span class="vol">39</span>, <span class="pageFirst">783</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FB913749A">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/20111793">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3cXht1Wlur4%253D&amp;md5=4ee01140c04cf2bbe342da8f5beca042">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000274072100028&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 127</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002l"><span class="bullet">2l</span><cite id="anie201601505-cit-0017"><span class="author">S. Ma</span>, <span class="journalTitle">Aldrichimica Acta</span> <span class="pubYear">2007</span>, <span class="vol">40</span>, <span class="pageFirst">91</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000252685300001&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 198</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002m"><span class="bullet">2m</span><cite id="anie201601505-cit-0018"><span class="author">M. Jeganmohan</span>, <span class="author">C.-H. Cheng</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2008</span>, <span class="pageFirst">3101</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb800440d">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/18594713">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000257280500002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 55</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002n"><span class="bullet">2n</span><cite id="anie201601505-cit-0019"><span class="author">A. S. K. Hashmi</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2000</span>, <span class="vol">39</span>, <span class="pageFirst">3590</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/1521-3773(20001016)39:20<3590::AID-ANIE3590>3.0.CO;2-L">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/1521-3773(20001016)39:20<3590::AID-ANIE3590>3.0.CO;2-L">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3cXnsFGmsr0%253D&amp;md5=d892b5c62e9181a9350269ac78ab549a">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000090010000004&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 296</a></li>
+              </ul><cite id="anie201601505-cit-0020"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2000</span>, <span class="vol">112</span>, <span class="pageFirst">3737</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/1521-3757(20001016)112:20<3737::AID-ANGE3737>3.0.CO;2-S">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/1521-3757(20001016)112:20<3737::AID-ANGE3737>3.0.CO;2-S">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002o"><span class="bullet">2o</span><cite id="anie201601505-cit-0021"><span class="author">L. K. Sydnes</span>, <span class="journalTitle">Chem. Rev.</span> <span class="pubYear">2003</span>, <span class="vol">103</span>, <span class="pageFirst">1133</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fcr010025w">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/12683779">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3sXhsF2lsb8%253D&amp;md5=71ba98567873256c9b15bbaff7d423d2">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000182150900007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 263</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002p"><span class="bullet">2p</span><cite id="anie201601505-cit-0022"><span class="author">A. Hoffmann-Röder</span>, <span class="author">N. Krause</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2002</span>, <span class="vol">41</span>, <span class="pageFirst">2933</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/1521-3773(20020816)41:16<2933::AID-ANIE2933>3.0.CO;2-6">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/1521-3773(20020816)41:16<2933::AID-ANIE2933>3.0.CO;2-6">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/12203416">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD38XmslSrsb4%253D&amp;md5=cb62acb536e859f3f92e48a664de5d60">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000177597700004&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 101</a></li>
+              </ul><cite id="anie201601505-cit-0023"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2002</span>, <span class="vol">114</span>, <span class="pageFirst">3057</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/1521-3757(20020816)114:16<3057::AID-ANGE3057>3.0.CO;2-S">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/1521-3757(20020816)114:16<3057::AID-ANGE3057>3.0.CO;2-S">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002q"><span class="bullet">2q</span><cite id="anie201601505-cit-0024"><span class="author">C. Aubert</span>, <span class="author">L. Fensterbank</span>, <span class="author">P. Garcia</span>, <span class="author">M. Malacria</span>, <span class="author">A. Simonneau</span>, <span class="journalTitle">Chem. Rev.</span> <span class="pubYear">2011</span>, <span class="vol">111</span>, <span class="pageFirst">1954</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fcr100376w">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/21391568">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXivVShu7k%253D&amp;md5=5c8be8a6b2f91d28d9dd33c24733e3ee">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000288820600020&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 249</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002r"><span class="bullet">2r</span><cite id="anie201601505-cit-0025"><span class="author">N. Krause</span>, <span class="author">C. Winter</span>, <span class="journalTitle">Chem. Rev.</span> <span class="pubYear">2011</span>, <span class="vol">111</span>, <span class="pageFirst">1994</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fcr1004088">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/21314182">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXhvVWisbw%253D&amp;md5=d4ab645a21977c8ba270380ae70db0a4">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000288820600021&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 490</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002s"><span class="bullet">2s</span><cite id="anie201601505-cit-0026"><span class="author">F. López</span>, <span class="author">J. L. Mascareñas</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2011</span>, <span class="vol">17</span>, <span class="pageFirst">418</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fchem.201002366">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXitlOitA%253D%253D&amp;md5=37a233aa2b0f53fb4033d6d7c548a228">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000286954500002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 107</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002t"><span class="bullet">2t</span><cite id="anie201601505-cit-0027"><span class="author">S. Yu</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2012</span>, <span class="vol">51</span>, <span class="pageFirst">3074</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fanie.201101460">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC38XhtFaiurc%253D&amp;md5=606faccaf734b523b20874194e11597d">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000301792000005&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 218</a></li>
+              </ul><cite id="anie201601505-cit-0028"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2012</span>, <span class="vol">124</span>, <span class="pageFirst">3128</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fange.201101460">CrossRef</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002u"><span class="bullet">2u</span><cite id="anie201601505-cit-0029"><span class="author">S. Yu</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2011</span>, <span class="vol">47</span>, <span class="pageFirst">5384</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fc0cc05640e">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXlt1Clu7k%253D&amp;md5=1989a15f00504b64d30bdc4901630c1f">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000289899600003&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 150</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002v"><span class="bullet">2v</span><cite id="anie201601505-cit-0030"><span class="author">S. Ma</span>, <span class="journalTitle">Acc. Chem. Res.</span> <span class="pubYear">2003</span>, <span class="vol">36</span>, <span class="pageFirst">701</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Far020133k">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/12974653">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3sXks12nurw%253D&amp;md5=a7b730c66bf4e843793b669063bacc49">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000185430400007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 379</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002w"><span class="bullet">2w</span><cite id="anie201601505-cit-0031"><span class="author">J. Ye</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Acc. Chem. Res.</span> <span class="pubYear">2014</span>, <span class="vol">47</span>, <span class="pageFirst">989</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Far4002069">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/24479609">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXhs1WmsLk%253D&amp;md5=73913136c830ed56313edd78ffe99e1b">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000334658200002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 35</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0002x"><span class="bullet">2x</span><cite id="anie201601505-cit-0032"><span class="author">S. Ma</span>, <span class="journalTitle">Chem. Rev.</span> <span class="pubYear">2005</span>, <span class="vol">105</span>, <span class="pageFirst">2829</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fcr020024j">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/16011326">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000230522900005&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 672</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0003"><span class="bullet">3</span><cite id="anie201601505-cit-0033">For Ag, see: <span class="author">M. Harmata</span>, <span class="bookTitle">Silver in Organic Chemistry</span>, Wiley, <span class="publisherLocation">New York</span>, <span class="pubYear">2010</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2F9780470597521">CrossRef</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004"><span class="bullet">4</span><cite id="anie201601505-cit-0034">For Pd, see:</cite></li>
+             <li id="anie201601505-bib-0004a"><span class="bullet">4a</span><cite id="anie201601505-cit-0035"><span class="author">J. Piera</span>, <span class="author">K. Närhi</span>, <span class="author">J.-E. Bäckvall</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2006</span>, <span class="vol">45</span>, <span class="pageFirst">6914</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/anie.200602421">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.200602421">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/17001719">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD28XhtFOlurvI&amp;md5=a8d11ee7d28f7623bde2662b8ce147f0">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000241637500033&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 54</a></li>
+              </ul><cite id="anie201601505-cit-0036"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2006</span>, <span class="vol">118</span>, <span class="pageFirst">7068</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ange.200602421">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ange.200602421">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004b"><span class="bullet">4b</span><cite id="anie201601505-cit-0037"><span class="author">A. K. Å. Persson</span>, <span class="author">J.-E. Bäckvall</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2010</span>, <span class="vol">49</span>, <span class="pageFirst">4624</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fanie.201000726">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3cXnvVOku7Y%253D&amp;md5=e90573757c057bea2817d92afc2e27b3">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000279508500017&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 44</a></li>
+              </ul><cite id="anie201601505-cit-0038"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2010</span>, <span class="vol">122</span>, <span class="pageFirst">4728</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fange.201000726">CrossRef</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004c"><span class="bullet">4c</span><cite id="anie201601505-cit-0039"><span class="author">Y. Deng</span>, <span class="author">T. Bartholomeyzik</span>, <span class="author">J.-E. Bäckvall</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2013</span>, <span class="vol">52</span>, <span class="pageFirst">6283</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fanie.201301167">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXnvVOgtLw%253D&amp;md5=f6c32b685a8ea8cee47067fe002ee2c5">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000320375800028&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 13</a></li>
+              </ul><cite id="anie201601505-cit-0040"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2013</span>, <span class="vol">125</span>, <span class="pageFirst">6403</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fange.201301167">CrossRef</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004d"><span class="bullet">4d</span><cite id="anie201601505-cit-0041"><span class="author">C. Zhu</span>, <span class="author">B. Yang</span>, <span class="author">T. Jiang</span>, <span class="author">J.-E. Bäckvall</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2015</span>, <span class="vol">54</span>, <span class="pageFirst">9066</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fanie.201502924">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXhtVSju7vM&amp;md5=eb0249b09572ed8215b44c637c9bb42c">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000358501500035&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 4</a></li>
+              </ul><cite id="anie201601505-cit-0042"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2015</span>, <span class="vol">127</span>, <span class="pageFirst">9194</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fange.201502924">CrossRef</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004e"><span class="bullet">4e</span><cite id="anie201601505-cit-0043"><span class="author">C. Zhu</span>, <span class="author">X. Zhang</span>, <span class="author">X. Lian</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2012</span>, <span class="vol">51</span>, <span class="pageFirst">7817</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fanie.201202971">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC38Xpt12ltb4%253D&amp;md5=501b35c77fe1233f970e14cb0831759e">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000306757900038&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 15</a></li>
+              </ul><cite id="anie201601505-cit-0044"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2012</span>, <span class="vol">124</span>, <span class="pageFirst">7937</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fange.201202971">CrossRef</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004f"><span class="bullet">4f</span><cite id="anie201601505-cit-0045"><span class="author">C. Zhu</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Org. Lett.</span> <span class="pubYear">2013</span>, <span class="vol">15</span>, <span class="pageFirst">2782</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fol401115a">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/23713900">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXosVaqt70%253D&amp;md5=9f10a0860805dd970e43c8a7b1a841ed">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000320298900055&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 6</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004g"><span class="bullet">4g</span><cite id="anie201601505-cit-0046"><span class="author">C. Zhu</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Org. Lett.</span> <span class="pubYear">2014</span>, <span class="vol">16</span>, <span class="pageFirst">1542</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fol500119r">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/24617639">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXktF2msrs%253D&amp;md5=b4b4eea3eca7ef2545158623aa2eefbd">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000333477400002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 19</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004h"><span class="bullet">4h</span><cite id="anie201601505-cit-0047"><span class="author">C. Zhu</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Adv. Synth. Catal.</span> <span class="pubYear">2014</span>, <span class="vol">356</span>, <span class="pageFirst">3897</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/adsc.201400644">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/adsc.201400644">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXhvFWntLzI&amp;md5=efabb8ade7232187fcc0e84ea98b2d1a">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000346071600023&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 2</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004i"><span class="bullet">4i</span><cite id="anie201601505-cit-0048"><span class="author">C. Zhu</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2014</span>, <span class="vol">53</span>, <span class="pageFirst">13532</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fanie.201406959">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXitVCit7zF&amp;md5=ad34c0672b9386da107605e30d150c57">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000345590300040&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 2</a></li>
+              </ul><cite id="anie201601505-cit-0049"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2014</span>, <span class="vol">126</span>, <span class="pageFirst">13750</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fange.201406959">CrossRef</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004j"><span class="bullet">4j</span><cite id="anie201601505-cit-0050"><span class="author">C. Zhu</span>, <span class="author">B. Yang</span>, <span class="author">J.-E. Bäckvall</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2015</span>, <span class="vol">137</span>, <span class="pageFirst">11868</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fjacs.5b06828">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/26356201">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXhsVygsr%252FL&amp;md5=66416d3dc5221872c640fa530340e6a3">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000361930000004&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 2</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0004k"><span class="bullet">4k</span><cite id="anie201601505-cit-0051"><span class="author">C. Zhu</span>, <span class="author">B. Yang</span>, <span class="author">Y. Qiu</span>, <span class="author">J.-E. Bäckvall</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2016</span>, <span class="vol">22</span>, <span class="pageFirst">2939</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fchem.201505130">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC28Xhs12jsrc%253D&amp;md5=e736bf865adf5cd2a86e9d7114874445">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000370452300015&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science®</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0005"><span class="bullet">5</span><cite id="anie201601505-cit-0052">For Au, see:</cite></li>
+             <li id="anie201601505-bib-0005a"><span class="bullet">5a</span><cite id="anie201601505-cit-0053"><span class="author">D. J. Gorin</span>, <span class="author">F. D. Toste</span>, <span class="journalTitle">Nature</span> <span class="pubYear">2007</span>, <span class="vol">446</span>, <span class="pageFirst">395</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1038%2Fnature05592">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/17377576">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2sXjt1Wqs7k%253D&amp;md5=6e04fe443985dd76ae67786b4ddebcaa">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000245079500031&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 1028</a> | </li>
+               <li><a target="_blank" href="http://adsabs.harvard.edu/abs/2007Natur.446..395G">ADS</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0005b"><span class="bullet">5b</span><cite id="anie201601505-cit-0054"><span class="author">Y. Qiu</span>, <span class="author">D. Ma</span>, <span class="author">C. Fu</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Tetrahedron</span> <span class="pubYear">2013</span>, <span class="vol">69</span>, <span class="pageFirst">6305</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2Fj.tet.2013.04.099">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXosFWrtL8%253D&amp;md5=2149a7378663c7ffe8dbe3287dae4eb9">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000321474100038&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 6</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0005c"><span class="bullet">5c</span><cite id="anie201601505-cit-0055"><span class="author">Y. Qiu</span>, <span class="author">J. Zhou</span>, <span class="author">J. Li</span>, <span class="author">C. Fu</span>, <span class="author">Y. Guo</span>, <span class="author">H. Wang</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2015</span>, <span class="vol">21</span>, <span class="pageFirst">15939</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fchem.201503179">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXhsFaqs7vM&amp;md5=1605be1ea3123c01490a7c865cd8507c">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000363890700010&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 1</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0006"><span class="bullet">6</span><cite id="anie201601505-cit-0056"><span class="author">S. Ma</span>, <span class="author">S. Zhao</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">1999</span>, <span class="vol">121</span>, <span class="pageFirst">7943</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja9904888">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaK1MXkvF2qsLk%253D&amp;md5=6771bcde9c521acaeec2cdf3d5018deb">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000082471100029&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 101</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0007"><span class="bullet">7</span><cite id="anie201601505-cit-0057">&nbsp;</cite></li>
+             <li id="anie201601505-bib-0007a"><span class="bullet">7a</span><cite id="anie201601505-cit-0058"><span class="author">Y. Wang</span>, <span class="author">K. Zhang</span>, <span class="author">R. Hong</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2012</span>, <span class="vol">134</span>, <span class="pageFirst">4096</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja300453u">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/22329839">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC38XitF2nur8%253D&amp;md5=121869ccefd7453953e460a82eab7dcb">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000301550800043&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 35</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0007b"><span class="bullet">7b</span><cite id="anie201601505-cit-0059"><span class="author">S. Ma</span>, <span class="author">W. Gao</span>, <span class="journalTitle">J. Org. Chem.</span> <span class="pubYear">2002</span>, <span class="vol">67</span>, <span class="pageFirst">6104</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fjo0163997">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/12182649">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD38XlsFyns7g%253D&amp;md5=cfb6878f64434d5cd3f5c2b3749c0be5">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000177559800036&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 86</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0008"><span class="bullet">8</span><cite id="anie201601505-cit-0060">&nbsp;</cite></li>
+             <li id="anie201601505-bib-0008a"><span class="bullet">8a</span><cite id="anie201601505-cit-0061"><span class="author">E. Yoneda</span>, <span class="author">T. Kaneko</span>, <span class="author">S. Zhang</span>, <span class="author">K. Onitsuka</span>, <span class="author">S. Takahashi</span>, <span class="journalTitle">Org. Lett.</span> <span class="pubYear">2000</span>, <span class="vol">2</span>, <span class="pageFirst">441</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fol990377d">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/10814346">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3cXosVSjtg%253D%253D&amp;md5=3b4c876a013f8e0fd89cef86673e8965">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000085416400007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 95</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0008b"><span class="bullet">8b</span><cite id="anie201601505-cit-0062"><span class="author">E. Yoneda</span>, <span class="author">S. Zhang</span>, <span class="author">D. Zhao</span>, <span class="author">K. Onitsuka</span>, <span class="author">S. Takahashi</span>, <span class="journalTitle">J. Org. Chem.</span> <span class="pubYear">2003</span>, <span class="vol">68</span>, <span class="pageFirst">8571</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fjo0350615">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/14575487">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3sXnvV2nt70%253D&amp;md5=9649a1f096926f74e5fed76d9f41b293">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000186156700037&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 41</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0009"><span class="bullet">9</span><cite id="anie201601505-cit-0063"><span class="author">A. S. Dudnik</span>, <span class="author">A. W. Sromek</span>, <span class="author">M. Rubina</span>, <span class="author">J. T. Kim</span>, <span class="author">A. V. Kel'in</span>, <span class="author">V. Gevorgyan</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2008</span>, <span class="vol">130</span>, <span class="pageFirst">1440</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja0773507">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/18173272">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1cXivF2itQ%253D%253D&amp;md5=c133f069b94c481eb137ec54f5b2d00c">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000252634600056&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 181</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0010"><span class="bullet">10</span><cite id="anie201601505-cit-0064">&nbsp;</cite></li>
+             <li id="anie201601505-bib-0010a"><span class="bullet">10a</span><cite id="anie201601505-cit-0065"><span class="author">G. P. Boldrini</span>, <span class="author">L. Lodi</span>, <span class="author">E. Tagliavini</span>, <span class="author">C. Tarasco</span>, <span class="author">C. Trombini</span>, <span class="author">A. Umani-Ronchi</span>, <span class="journalTitle">J. Org. Chem.</span> <span class="pubYear">1987</span>, <span class="vol">52</span>, <span class="pageFirst">5447</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fjo00233a027">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaL2sXmtlKjsb4%253D&amp;md5=8ed29020aaa887ee3ec3adde5dd77de7">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=A1987L073300027&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 63</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0010b"><span class="bullet">10b</span><cite id="anie201601505-cit-0066"><span class="author">E. J. Corey</span>, <span class="author">C.-M. Yu</span>, <span class="author">D.-H. Lee</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">1990</span>, <span class="vol">112</span>, <span class="pageFirst">878</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja00158a064">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaK3cXlsFWhtA%253D%253D&amp;md5=ebab2bc3d28e3f1bd527d32b37ab0c60">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=A1990CJ66500064&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 149</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0010c"><span class="bullet">10c</span><cite id="anie201601505-cit-0067"><span class="author">H. C. Brown</span>, <span class="author">U. R. Khire</span>, <span class="author">G.  </span> <span class="journalTitle">J.</span> Narla, <span class="vol">Org. Chem.</span> <b>1995</b>, <span class="pageFirst">60</span>, 8130;</cite></li>
+             <li id="anie201601505-bib-0010d"><span class="bullet">10d</span><cite id="anie201601505-cit-0068"><span class="author">K. Iseki</span>, <span class="author">Y. Kuroki</span>, <span class="author">Y. Kobayashi</span>, <span class="journalTitle">Tetrahedron: Asymmetry</span> <span class="pubYear">1998</span>, <span class="vol">9</span>, <span class="pageFirst">2889</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2FS0957-4166%2898%2900290-0">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaK1cXmsV2qs7s%253D&amp;md5=025d8927fd21e8173bb8406adb70b602">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000076005600023&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 44</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0010e"><span class="bullet">10e</span><cite id="anie201601505-cit-0069"><span class="author">M. Nakajima</span>, <span class="author">M. Saito</span>, <span class="author">S. Hashimoto</span>, <span class="journalTitle">Tetrahedron: Asymmetry</span> <span class="pubYear">2002</span>, <span class="vol">13</span>, <span class="pageFirst">2449</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2FS0957-4166%2802%2900640-7">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD38XoslyksbY%253D&amp;md5=d7169d28734f8dcc88483b1e0cf1eba2">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000179567000008&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 60</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0010f"><span class="bullet">10f</span><cite id="anie201601505-cit-0070"><span class="author">C.-M. Yu</span>, <span class="author">S.-K. Yoon</span>, <span class="author">K. Baek</span>, <span class="author">J.-Y. Lee</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">1998</span>, <span class="vol">37</span>, <span class="pageFirst">2392</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/(SICI)1521-3773(19980918)37:17<2392::AID-ANIE2392>3.0.CO;2-D">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/(SICI)1521-3773(19980918)37:17<2392::AID-ANIE2392>3.0.CO;2-D">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaK1cXmsFWqt7g%253D&amp;md5=2e4439f2358ab32cbdd6fcadcc2b46aa">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000076192000026&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 76</a></li>
+              </ul><cite id="anie201601505-cit-0071"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">1998</span>, <span class="vol">110</span>, <span class="pageFirst">2504</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/(SICI)1521-3757(19980904)110:17<2504::AID-ANGE2504>3.0.CO;2-R">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/(SICI)1521-3757(19980904)110:17<2504::AID-ANGE2504>3.0.CO;2-R">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0010g"><span class="bullet">10g</span><cite id="anie201601505-cit-0072"><span class="author">M. Inoue</span>, <span class="author">M. Nakada</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2006</span>, <span class="vol">45</span>, <span class="pageFirst">252</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/anie.200502871">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.200502871">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD28Xlslymuw%253D%253D&amp;md5=b3a804a58ef93ff10c02d112ddce7c10">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000234441900013&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 53</a></li>
+              </ul><cite id="anie201601505-cit-0073"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2006</span>, <span class="vol">118</span>, <span class="pageFirst">258</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ange.200502871">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ange.200502871">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0010h"><span class="bullet">10h</span><cite id="anie201601505-cit-0074"><span class="author">G. Xia</span>, <span class="author">H. Yamamoto</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2007</span>, <span class="vol">129</span>, <span class="pageFirst">496</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja0679578">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/17227005">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD28Xhtleiu7bE&amp;md5=0081c8d5890f4455170aeda418784fd4">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000243503700022&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 48</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0011"><span class="bullet">11</span><cite id="anie201601505-cit-0075"><span class="author">D. Xu</span>, <span class="author">Z. Li</span>, <span class="author">S. Ma</span>, <span class="journalTitle">Chin. J. Org. Chem.</span> <span class="pubYear">2004</span>, <span class="vol">22</span>, <span class="pageFirst">310</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/cjoc.20040220319">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/cjoc.20040220319">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2cXisFWnu7g%253D&amp;md5=2906932d7cc5f2abb92e98343a292199">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000220337700018&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 2</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0012"><span class="bullet">12</span><cite id="anie201601505-cit-0076"><span class="author">M. Breuer</span>, <span class="author">K. Ditrich</span>, <span class="author">T. Habicher</span>, <span class="author">B. Hauer</span>, <span class="author">M. Kesseler</span>, <span class="author">R. Stürmer</span>, <span class="author">T. Zelinski</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2004</span>, <span class="vol">43</span>, <span class="pageFirst">788</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/anie.200300599">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.200300599">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/14767950">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2cXhsFyhurY%253D&amp;md5=28cdff318779e12024fb89a4c2873715">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000189101500005&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 658</a></li>
+              </ul><cite id="anie201601505-cit-0077"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2004</span>, <span class="vol">116</span>, <span class="pageFirst">806</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ange.200300599">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ange.200300599">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0013"><span class="bullet">13</span><cite id="anie201601505-cit-0078">&nbsp;</cite></li>
+             <li id="anie201601505-bib-0013a"><span class="bullet">13a</span><cite id="anie201601505-cit-0079"><span class="author">U. T. Bornscheuer</span>, <span class="author">R. J. Kazlauskas</span> in <span class="bookTitle">Hydrolases in Organic Synthesis: Regio- and Stereoselective Biotransformations</span>, <span class="edition">1</span>st ed., Wiley-VCH, <span class="publisherLocation">Weinheim</span>, <span class="pubYear">1999</span>, pp. <span class="pageFirst">65</span>–<span class="pageLast">129</span>;</cite></li>
+             <li id="anie201601505-bib-0013b"><span class="bullet">13b</span><cite id="anie201601505-cit-0080"><span class="author">R. J. Kazlauskas</span>, <span class="author">A. Weissfloh</span>, <span class="author">A. T. Rappaport</span>, <span class="journalTitle">J. Org. Chem.</span> <span class="pubYear">1991</span>, <span class="vol">56</span>, <span class="pageFirst">2656</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fjo00008a016">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaK3MXhsF2lsLs%253D&amp;md5=a4e75c45ed07ae64a326d0273909197b">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=A1991FH23800016&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 762</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0014"><span class="bullet">14</span><cite id="anie201601505-cit-0081">After the completion of this study, a KR of allenic alcohols was reported that gave good enantioselectivity in 1–5 days: <span class="author">W. Li</span>, <span class="author">Z. Lin</span>, <span class="author">L. Chen</span>, <span class="author">X. Tian</span>, <span class="author">Y. Wang</span>, <span class="author">S.-H Huang</span>, <span class="author">R. Hong</span>, <span class="journalTitle">Tetrahedron Lett.</span> <span class="pubYear">2016</span>, <span class="vol">57</span>, <span class="pageFirst">603</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2Fj.tetlet.2015.12.098">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC28XitFSrsQ%253D%253D&amp;md5=93a9d333f3c631851fcc9791ba01bc0c">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000369557300024&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science®</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0015"><span class="bullet">15</span><cite id="anie201601505-cit-0082"><span class="author">O. Verho</span>, <span class="author">J.-E. Bäckvall</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2015</span>, <span class="vol">137</span>, <span class="pageFirst">3996</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fjacs.5b01031">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/25730714">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXjs1Gju7g%253D&amp;md5=e4f414f09e7d649c0536e45d135cc009">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000352244800001&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 8</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0016"><span class="bullet">16</span><cite id="anie201601505-cit-0083"><span class="author">B. Yang</span>, <span class="author">R. Lihammar</span>, <span class="author">J.-E. Bäckvall</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2014</span>, <span class="vol">20</span>, <span class="pageFirst">13517</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2Fchem.201404233">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXhsFSjsL7L&amp;md5=8b6f99c1bbfafa9ca97cbf72691e78dc">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000342797500010&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 1</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0017"><span class="bullet">17</span><cite id="anie201601505-cit-0084">&nbsp;</cite></li>
+             <li id="anie201601505-bib-0017a"><span class="bullet">17a</span><cite id="anie201601505-cit-0085"><span class="author">Y. Blum</span>, <span class="author">Y. Shvo</span>, <span class="journalTitle">Isr. J. Chem.</span> <span class="pubYear">1984</span>, <span class="vol">24</span>, <span class="pageFirst">144</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ijch.198400024">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ijch.198400024">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaL2MXnvFWjtw%253D%253D&amp;md5=270d260fd1b23c4dc360e35884531522">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=A1984TG60600015&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 37</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0017b"><span class="bullet">17b</span><cite id="anie201601505-cit-0086"><span class="author">Y. Shvo</span>, <span class="author">D. Czarkie</span>, <span class="author">Y. Rahamim</span>, <span class="author">D. F. Chodosh</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">1986</span>, <span class="vol">108</span>, <span class="pageFirst">7400</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja00283a041">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaL28XlvFOksLc%253D&amp;md5=4cd43bfd57c960e4586539f625c7f730">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=A1986E845900041&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 280</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0018"><span class="bullet">18</span><cite id="anie201601505-cit-0087">&nbsp;</cite></li>
+             <li id="anie201601505-bib-0018a"><span class="bullet">18a</span><cite id="anie201601505-cit-0088"><span class="author">R. Karvembu</span>, <span class="author">R. Prabhakaran</span>, <span class="author">K. Natarajan</span>, <span class="journalTitle">Coord. Chem. Rev.</span> <span class="pubYear">2005</span>, <span class="vol">249</span>, <span class="pageFirst">911</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2Fj.ccr.2004.09.025">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2MXivVKnt70%253D&amp;md5=0fe740ebae8024cc28ffa00ab641b789">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000228676500004&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 91</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0018b"><span class="bullet">18b</span><cite id="anie201601505-cit-0089"><span class="author">B. L. Conley</span>, <span class="author">M. K. Pennington-Boggio</span>, <span class="author">E. Boz</span>, <span class="author">T. J. Williams</span>, <span class="journalTitle">Chem. Rev.</span> <span class="pubYear">2010</span>, <span class="vol">110</span>, <span class="pageFirst">2294</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fcr9003133">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/20095576">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3cXptlOmtw%253D%253D&amp;md5=4da04522cd31aa9eaf18a49cbfda39e3">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000277073100011&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 142</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0018c"><span class="bullet">18c</span><cite id="anie201601505-cit-0090"><span class="author">J. S. M. Samec</span>, <span class="author">J. E. Bäckvall</span>, <span class="bookTitle">Encyclopedia of Reagents for Organic Synthesis</span>, <span class="edition">2</span>nd ed., Wiley Interscience, <span class="pubYear">2009</span>.</cite></li>
+             <li id="anie201601505-bib-0019"><span class="bullet">19</span><cite id="anie201601505-cit-0091"><span class="author">S. P. Fearnley</span>, <span class="author">P. Lory</span>, <span class="journalTitle">Tetrahedron Lett.</span> <span class="pubYear">2014</span>, <span class="vol">55</span>, <span class="pageFirst">5207</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2Fj.tetlet.2014.07.081">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXht1GktLbO&amp;md5=42a7e3ea5a4b71cefda409966591c5b3">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000341476400023&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science®</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0020"><span class="bullet">20</span><cite id="anie201601505-cit-0092"><span class="author">G. Leandri</span>, <span class="author">H. Monti</span>, <span class="author">M. Bertrand</span>, <span class="journalTitle">Tetrahedron</span> <span class="pubYear">1974</span>, <span class="vol">30</span>, <span class="pageFirst">289</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2FS0040-4020%2801%2991459-0">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaE2cXks1aku7s%253D&amp;md5=ed098cf34d7e19f29bd43ae3cbad4193">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=A1974S364300010&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 25</a></li>
+              </ul></li>
+             <li id="anie201601505-bib-0021"><span class="bullet">21</span><cite id="anie201601505-cit-0093">The protonation of <b>int-3</b> is reversible and therefore there will be only an equilibrium deuterium isotope effect, which is very small.</cite></li>
+            </ul>
+           </div>
+          </section>
+          <section id="footer-citing" class="article-footer__section citations__section">
+           <h3 class="article-footer__section-title js-footer-title"><span class="icon icon__double-chevron"></span>Citing Literature </h3>
+           <div id="js-citations__section" class="article-info__section-content js-footer-info">
+            <div class="modal__header">
+             <ul class="cited-info__list u-horizontal-list">
+              <li class="cited-info__item"><span class="cited-info__text">Number of times cited</span>: <span id="js-citations__counter">0</span></li>
+             </ul>
+            </div>
+            <div class="modal__scrollable">
+             <ol class="article-section__citation-list"></ol>
+            </div>
+           </div>
+          </section>
+         </footer>
+        </article> 
+       </article> 
+      </article> 
+      <div class="l-article-support"> 
+       <div class="skyscraper--left"> 
+        <div id="skyscraper" class="skyscraper"> 
+         <aside id="advert-skyscraper" class="advert-skyscraper" role="complementary"> 
+          <div class="skyscraper__title">
+           Advertisement
+          </div> 
+          <script>
+                googletag.cmd.push ( function () {
+                    googletag.display ( 'advert-skyscraper' );
+                });
+            </script> 
+          <noscript> 
+           <a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/2215/wly.chemistry_000033/angew-chemie-intl-ed_2002&amp;sz=160x600|160x320|160x160|120x600&amp;tile=2&amp;c=202201380" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/2215/wly.chemistry_000033/angew-chemie-intl-ed_2002&amp;sz=160x600|160x320|160x160|120x600&amp;tile=2&amp;c=202201380"> </a> 
+          </noscript> 
+         </aside> 
+        </div> 
+       </div> 
+       <div class="article-support js-article-support js-module" data-module="infopane"> 
+        <div class="article-support__links js-article-support-links"> 
+         <nav class="article-support__list-wrapper js-article-support-list-wrapper"> 
+          <ul class="article-support__list js-article-support-list u-list-plain"> 
+           <li class="article-support__item--pdf "> <a href="http://onlinelibrary.wiley.com/doi/10.1002/anie.201601505/pdf" class="article-support__item-link js-infopane-pdf " data-support-type="PDF_options"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--pdf"></span> <span class="article-support__item-text">PDF</span> </a> </li> 
+           <li class="article-support__item--epdf"> <a href="http://onlinelibrary.wiley.com/doi/10.1002/anie.201601505/epdf" class="article-support__item-link js-infopane-epdf"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--pdf"></span> <span class="article-support__item-text">PDF</span> </a> </li> 
+           <li> <a href="#footer-article-info" class="article-support__item-link js-infopane-toggle" data-support-type="Information"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--info"></span> <span class="article-support__item-text">Info</span> </a> </li> 
+           <li> <a href="#references-section" class="article-support__item-link js-infopane-toggle" data-support-type="References" data-target-scroll="false"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--ref"></span> <span class="article-support__item-text">References</span> </a> </li> 
+           <li class="article-support__item-figure-viewer"> <a href="http://onlinelibrary.wiley.com/enhanced/figures/doi/10.1002/anie.201601505" data-module="figure-viewer-modal" class="js-module article-support__item-link" id="js-figure-viewer__link" target="figureViewer"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--fig"></span> <span class="article-support__item-text">Figures</span> </a> </li> 
+          </ul> 
+         </nav> 
+        </div> 
+        <div class="article-support__pane js-article-support-pane is-hidden"> 
+         <div class="article-support__pane-title-bar"> 
+          <div class="article-support__pane-title js-article-support-title"></div> 
+          <div class="article-support__pane-close js-article-support-close"> 
+           <a href="#" class="article-support__pane-close__link" data-close="close" title="Close article support pane"> <span class="icon icon__infopane-close"></span> <span class="is-accessible">Close article support pane</span> </a> 
+          </div> 
+         </div> 
+         <div class="article-support__pane-content js-article-support-content"></div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- START: Footer --> 
+   <div class="stripe"> 
+    <div class="fill fill--1"></div> 
+    <div class="fill fill--2"></div> 
+    <div class="fill fill--3"></div> 
+    <div class="fill fill--4"></div> 
+   </div> 
+   <footer class="footer footer--wiley" role="contentinfo"> 
+    <nav class="footer__nav" role="navigation"> 
+     <ul class="footer__list footer__list--logo"> 
+      <li> <h2 class="footer__logo"> <a href="http://onlinelibrary.wiley.com"> <img src="http://onlinelibrary.wiley.com:80/enhanced/static/common/images/brand/wiley/footer-logo.png?version=1.11.2" alt="Wiley"> </a> </h2> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/browse/publications"> <b>Browse Publications</b> </a> </li> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/browse/subjects"> <b>Browse by Subject</b> </a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390229.html"> <b>Resources</b> </a> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://journalshelp.wiley.com/">Help &amp; Support</a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-813473.html">Cookies</a> &amp; <a class="footer__link" href="http://onlinelibrary.wiley.com/privacyPolicy">Privacy</a> </li> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/termsAndConditions">Terms &amp; Conditions</a> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390001.html">About Us</a> </li> 
+      <li> <a class="footer__link" href="http://www.wileyjobnetwork.com/">Wiley Job Network</a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390236.html">Advertisers</a> &amp; <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390243.html">Agents</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="footer__copy"> 
+     <p class="footer__text footer__text--slogan">Powered by <a href="http://onlinelibrary.wiley.com" class="footer__link footer__link--active">Wiley Online Library</a></p> 
+     <p class="footer__text">Copyright © 1999 - 2016 <a href="http://www.wiley.com" class="footer__link footer__link--active">John Wiley &amp; Sons, Inc.</a> All Rights Reserved</p> 
+    </div> 
+   </footer> 
+   <script>
+        Modernizr.load('http://content.readcube.com/wiley/epdf_linker.js');
+    </script> 
+   <script>
+//<![CDATA[
+    
+    Modernizr.load([
+        {
+            load    : 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/wiley-require-2.1.6.js',
+            callback: function() {
+
+                
+                var interval = setInterval(function() {
+                    if ( typeof WILEY !== 'undefined' && WILEY.requirejs ) {
+
+                        WILEY.requirejs([
+                                'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/wiley-common.js?version=1.11.2',
+                                'http://onlinelibrary.wiley.com:80/enhanced/static/js/wiley-article.js?version=1.11.2'
+                            ], function() {
+                            WILEY.requirejs([
+                                'common/modules/main',
+                                'modules/main-article'
+
+                                                            ]);
+                        });
+
+                        clearInterval(interval);
+                    }
+                }, 100 );
+            }
+        }
+        ]);
+//]]>
+</script> 
+  </div> 
+  <script type="text/javascript">_satellite.pageBottom();</script>  
+ </body>
+</html>
