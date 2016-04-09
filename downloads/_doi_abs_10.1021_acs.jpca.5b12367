@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5a90fcd5-1185-437c-9890-f32f601884f4">
+<html lang="en" class="pb-page" data-request-id="4fcbdd12-a9e1-470a-afb5-6130f2a7c099">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jpca.5b12367;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12367%3Fprg140729%3Da03661d8-cc9a-4e8b-9b96-af06d518c994" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12367?prg140729=a03661d8-cc9a-4e8b-9b96-af06d518c994&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12367?prg140729=a03661d8-cc9a-4e8b-9b96-af06d518c994">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12367%3Fprg140729%3Deaf2492d-da75-4a04-9d1f-1f1900b9d101" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12367?prg140729=eaf2492d-da75-4a04-9d1f-1f1900b9d101&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12367?prg140729=eaf2492d-da75-4a04-9d1f-1f1900b9d101">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -998,6 +998,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">EvArnoldi: A New Algorithm for Large-Scale Eigenvalue Problems</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tal-Ezer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Eigenvalues and eigenvectors are an essential theme in numerical linear algebra. Their study is mainly motivated by their high importance in a wide range of applications. Knowledge of eigenvalues is essential in quantum molecular science. Solutions of the ...<span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b00814?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00814?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b00814?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b10667?src=recsys">New Approach for Investigating Reaction Dynamics and Rates with Ab Initio Calculations</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1013,21 +1029,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpca.5b10667?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b10667?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b10667?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">Evarnoldi - A New Algorithm for Large Scale Eigenvalue Problems</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tal-Ezer</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Eigenvalues and eigenvectors are an essential theme in numerical linear algebra. Their study is mainly motivated by its high importance in a wide range of applications. The knowledge of eigenvalues is essential in quantum molecular science. The ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00814?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00814?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b10135?src=recsys">Prediction of Kinetic Isotope Effects for Various Hydride Transfer Reactions Using a New Kinetic Model</a>
                             <div class="achsLabel">
@@ -1061,21 +1062,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b12664?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b12664?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b10472?src=recsys">Forming NCO<sup>–</sup> in Dense Molecular Clouds: Possible Gas-Phase Chemical Paths From Quantum Calculations</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b07914?src=recsys">Heterogeneous Oxidation of Catechol</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yurtsever</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gianturco</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wester</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pillar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Guzman</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2015</span> <em>119</em> (41), pp 10349–10359</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The existence of NCO<sup>–</sup> anions in the interstellar medium (ISM) has been suggested and searched for over the years but without any formal definitive sighting of that molecule. We discuss in this work the possible formation of either NCO<sup>–</sup> directly or of NCO ...<sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Natural and anthropogenic emissions of aromatic hydrocarbons from biomass burning, agro-industrial settings, and fossil fuel combustion contribute precursors to secondary aerosol formation (SOA). How these compounds are processed under humid tropospheric ...<sub></sub><sub><sub></sub></sub><sup></sup><sub></sub><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b10472?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b10472?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b10472?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b10472?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.5b07914?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b07914?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b07914?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b07914?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b12335?src=recsys">Insights into the Electronic Structure of Molecules from Generalized Valence Bond Theory</a>
                             <div class="achsLabel">
@@ -1177,9 +1178,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.5b12367" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12367%3Fprg140729%3Dff7bd017-146b-4479-8816-09973e49375c&amp;doi=10.1021%2Facs.jpca.5b12367" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12367%3Fprg140729%3Dfab95713-c063-4807-846a-a251730f2363&amp;doi=10.1021%2Facs.jpca.5b12367" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12367%3Fprg140729%3Da03661d8-cc9a-4e8b-9b96-af06d518c994&amp;title=Cations+or+Radicals%3F+Inherent+Reactivity+of+Biosynthetic+Intermediates+in+the+B-Ring+Formation+of+Rotenoid+Natural+Products&amp;doi=10.1021%2Facs.jpca.5b12367" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12367%3Fprg140729%3Deaf2492d-da75-4a04-9d1f-1f1900b9d101&amp;title=Cations+or+Radicals%3F+Inherent+Reactivity+of+Biosynthetic+Intermediates+in+the+B-Ring+Formation+of+Rotenoid+Natural+Products&amp;doi=10.1021%2Facs.jpca.5b12367" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

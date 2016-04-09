@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="00b8173b-82f3-40a9-a092-2ea355d20627">
+<html lang="en" class="pb-page" data-request-id="f3e800ec-a440-48c9-bdb9-1f238372c561">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;article:article:10.1021/acs.biomac.5b01668;issue:issue:10.1021/bomaf6.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:bomaf6">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.5b01668%3Fprg140729%3D00ea6dab-f209-43e6-a8c8-e74d530c556e" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.5b01668?prg140729=00ea6dab-f209-43e6-a8c8-e74d530c556e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.5b01668?prg140729=00ea6dab-f209-43e6-a8c8-e74d530c556e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.5b01668%3Fprg140729%3D6d3000c4-8dd6-4972-a637-c5a23e3eb88d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.5b01668?prg140729=6d3000c4-8dd6-4972-a637-c5a23e3eb88d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.5b01668?prg140729=6d3000c4-8dd6-4972-a637-c5a23e3eb88d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1085,22 +1085,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biomac.5b01727?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biomac.5b01727?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00040?src=recsys">pH-Triggered Release of Hydrophobic Molecules from Self-Assembling Hybrid Nanoscaffolds</a>
-                            <div class="achsLabel">
-                             Biomacromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lu</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Unsworth</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Self-assembling peptide based hydrogels have a wide range of applications in the field of tissue repair and tissue regeneration. Because of its physicochemical properties, (RADA)<sub>4</sub> has been studied as a potential platform for 3D cell culture, drug delivery,...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biomac.6b00040?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biomac.6b00040?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00040?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biomac.6b00040?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acssensors.6b00011?src=recsys">Ratiometric Method for Rapid Monitoring of Biological Processes Using Bioresponsive MRI Contrast Agents</a>
                             <div class="achsLabel">
                              ACS Sensors
@@ -1116,6 +1100,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acssensors.6b00011?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acssensors.6b00011?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acssensors.6b00011?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00040?src=recsys">pH-Triggered Release of Hydrophobic Molecules from Self-Assembling Hybrid Nanoscaffolds</a>
+                            <div class="achsLabel">
+                             Biomacromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lu</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Unsworth</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Self-assembling peptide based hydrogels have a wide range of applications in the field of tissue repair and tissue regeneration. Because of its physicochemical properties, (RADA)<sub>4</sub> has been studied as a potential platform for 3D cell culture, drug delivery,...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biomac.6b00040?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.6b00040?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00040?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.6b00040?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.biomac.5b01742?src=recsys">Enzymatic Degradation of Polysaccharide-Based Layer-by-Layer Structures</a>
                             <div class="achsLabel">
@@ -1133,21 +1133,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biomac.5b01742?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biomac.5b01742?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00164?src=recsys">Size-Limited Penetration of Nanoparticles into Porcine Respiratory Mucus after Aerosol Deposition</a>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00005?src=recsys">A Route to Aliphatic Poly(ester)s with Thiol Pendant Groups: From Monomer Design to Editable Porous Scaffolds</a>
                             <div class="achsLabel">
                              Biomacromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Murgia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pawelzyk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schaefer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wagner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Willenbacher</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lehr</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fuoco</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Finne-Wistrand</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Pappalardo</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We investigated the rheological properties and the penetration of differently sized carboxylated nanoparticles in pig pulmonary mucus, on different distance and time scales. Nanoparticles were either mechanically mixed into the mucus samples or deposited ...</span>
+                             <span><span class="bold">Abstract:</span> Biodegradable aliphatic polyesters such as poly(lactide) and poly(ε-caprolactone), largely used in tissue engineering applications, lack suitable functional groups and biological cues to enable interactions with cells. Because of the ubiquity of thiol ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biomac.6b00164?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biomac.6b00164?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00164?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biomac.6b00164?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.biomac.6b00005?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.6b00005?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00005?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.6b00005?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1233,9 +1233,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.biomac.5b01668" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.5b01668%3Fprg140729%3D316e7c4d-a324-4f24-8471-5106bd89a5d1&amp;doi=10.1021%2Facs.biomac.5b01668" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.5b01668%3Fprg140729%3D0d7a6427-1761-42ea-b0b8-02281c8ca1fc&amp;doi=10.1021%2Facs.biomac.5b01668" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.5b01668%3Fprg140729%3D00ea6dab-f209-43e6-a8c8-e74d530c556e&amp;title=Innovative+Design+of+Ca-Sensitive+Paramagnetic+Liposomes+Results+in+an+Unprecedented+Increase+in+Longitudinal+Relaxivity&amp;doi=10.1021%2Facs.biomac.5b01668" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.5b01668%3Fprg140729%3D6d3000c4-8dd6-4972-a637-c5a23e3eb88d&amp;title=Innovative+Design+of+Ca-Sensitive+Paramagnetic+Liposomes+Results+in+an+Unprecedented+Increase+in+Longitudinal+Relaxivity&amp;doi=10.1021%2Facs.biomac.5b01668" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1258,9 +1258,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrcYCRvPKx_uLVg90H21EOLACvtfcHk0liWRPPH6UXXvQ&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGLdjkhIhIC7_tQwD9OmoEd0eSk6gataSlkraQ61tWQ-r&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQZEkygZbCsAtrnDmCxc-CThi25Vg2O3Mgcv7_fugH7n&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrcYCRvPKx_uLVg90H21EOLACvtfcHk0li5vn4C2Js9NQ&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGLdjkhIhIC7_tQwD9OmoEd3_CDxzdVt_0nW39JYsv6JV&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQZEkygZbCsAtrnDmCxc-CThi25Vg2O3MiBwMJkTGkuL&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

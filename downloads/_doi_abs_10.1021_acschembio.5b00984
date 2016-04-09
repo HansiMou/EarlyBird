@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="dd31c9be-0389-4439-9713-a6bb8900715a">
+<html lang="en" class="pb-page" data-request-id="be6e16eb-c81c-4330-b594-5cfec1035aa3">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/acbcct.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:acbcct;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acschembio.5b00984">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00984%3Fprg140729%3D9e78b85a-926c-4739-993a-ee43e89f2e6b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00984?prg140729=9e78b85a-926c-4739-993a-ee43e89f2e6b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00984?prg140729=9e78b85a-926c-4739-993a-ee43e89f2e6b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00984%3Fprg140729%3D3efeac22-0066-4d50-a5d2-01d1031c8f31" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00984?prg140729=3efeac22-0066-4d50-a5d2-01d1031c8f31&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00984?prg140729=3efeac22-0066-4d50-a5d2-01d1031c8f31">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -981,17 +981,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i14"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i15"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i19"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1103,22 +1092,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acschembio.5b00658?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.5b00658?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b11380?src=recsys">Deciphering the Biosynthetic Origin of <span class="smallcaps">l</span>-<i>allo</i>-Isoleucine</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ju</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (1), pp 408–415</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The nonproteinogenic amino acid <span class="smallcaps">l</span>-<i>allo</i>-isoleucine (<span class="smallcaps">l</span>-<i>allo</i>-Ile) is featured in an assortment of life forms comprised of, but not limited to, bacteria, fungi, plants and mammalian systems including <i><i>Homo sapiens</i></i>. Despite its ubiquity and functional ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b11380?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b11380?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b11380?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b11380?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acschembio.5b00960?src=recsys">Structure and Function of Fusicoccadiene Synthase, a Hexameric Bifunctional Diterpene Synthase</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
@@ -1134,6 +1107,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acschembio.5b00960?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acschembio.5b00960?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.5b00960?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b11380?src=recsys">Deciphering the Biosynthetic Origin of <span class="smallcaps">l</span>-<i>allo</i>-Isoleucine</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ju</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (1), pp 408–415</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The nonproteinogenic amino acid <span class="smallcaps">l</span>-<i>allo</i>-isoleucine (<span class="smallcaps">l</span>-<i>allo</i>-Ile) is featured in an assortment of life forms comprised of, but not limited to, bacteria, fungi, plants and mammalian systems including <i><i>Homo sapiens</i></i>. Despite its ubiquity and functional ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b11380?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b11380?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b11380?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b11380?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acschembio.6b00014?src=recsys">Characterization of Polyketide Synthase Machinery from the <i>pks</i> Island Facilitates Isolation of a Candidate Precolibactin</a>
                             <div class="achsLabel">
@@ -1235,9 +1224,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facschembio.5b00984" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00984%3Fprg140729%3Dbd1f074b-8ef3-4d26-9cc6-73c6dcfacfaf&amp;doi=10.1021%2Facschembio.5b00984" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00984%3Fprg140729%3Db0516dd5-324f-468a-9b41-70edef2597e8&amp;doi=10.1021%2Facschembio.5b00984" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00984%3Fprg140729%3D9e78b85a-926c-4739-993a-ee43e89f2e6b&amp;title=Biochemical+and+Structural+Insights+into+the+Aminotransferase+CrmG+in+Caerulomycin+Biosynthesis&amp;doi=10.1021%2Facschembio.5b00984" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00984%3Fprg140729%3D3efeac22-0066-4d50-a5d2-01d1031c8f31&amp;title=Biochemical+and+Structural+Insights+into+the+Aminotransferase+CrmG+in+Caerulomycin+Biosynthesis&amp;doi=10.1021%2Facschembio.5b00984" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1272,9 +1261,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGriQcjEmH6zyLVg90H21EOLACvtfcHk0lg5hcaiqq15AA&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaMlmmX9C5q1YtQwD9OmoEd1Ak9VcLXV1HQ-2E5XRy3Rb&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUrigJ5Bd-iitrnDmCxc-CThi25Vg2O3Moy-WyTfnNuP&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGriQcjEmH6zyLVg90H21EOLACvtfcHk0ljhMgfWT9I4Pg&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaMlmmX9C5q1YtQwD9OmoEd3-UlHZ9C3d0OmoPv5IYHdf&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUrigJ5Bd-iitrnDmCxc-CThi25Vg2O3MsuB1tS707RI&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

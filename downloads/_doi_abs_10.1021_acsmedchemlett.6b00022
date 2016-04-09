@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="3c6ca199-a3ea-42f5-848a-ec39e149a706">
+<html lang="en" class="pb-page" data-request-id="536836f1-2990-4193-b1f8-720d40fd7a64">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acsmedchemlett.6b00022;website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -161,8 +161,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00022%3Fprg140729%3Da9c89412-3eda-4399-b86e-ada2db47e2bd" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00022?prg140729=a9c89412-3eda-4399-b86e-ada2db47e2bd&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00022?prg140729=a9c89412-3eda-4399-b86e-ada2db47e2bd">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00022%3Fprg140729%3D1cd58995-4078-4714-9806-007450c10b73" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00022?prg140729=1cd58995-4078-4714-9806-007450c10b73&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00022?prg140729=1cd58995-4078-4714-9806-007450c10b73">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1043,6 +1043,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i13"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1174,38 +1182,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00075?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsmedchemlett.6b00075?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Integrating Everything: The Molecule Selection Toolkit, a System for Compound Prioritization in Drug Discovery</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cummins</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Bell</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In recent years there have been numerous papers on the topic of multiattribute optimization in pharmaceutical discovery chemistry, applied to compound prioritization. Many solutions proposed are static in nature; fixed functions are proposed for general ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01338?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01338?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01338?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00018?src=recsys">Core Replacements in a Potent Series of VEGFR-2 Inhibitors and Their Impact on Potency, Solubility, and hERG</a>
-                            <div class="achsLabel">
-                             ACS Medicinal Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mainolfi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Powers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meredith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Elliott</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gunderson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Anderson</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Anti-VEGF therapy has been a clinically validated treatment of age-related macular degeneration (AMD). We have recently reported the discovery of indole based oral VEGFR-2 inhibitors that provide sustained ocular retention and efficacy in models of wet-...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsmedchemlett.6b00018?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsmedchemlett.6b00018?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00018?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsmedchemlett.6b00018?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01898?src=recsys">DNA-Encoded Library Screening Identifies Benzo[<i>b</i>][1,4]oxazepin-4-ones as Highly Potent and Monoselective Receptor Interacting Protein 1 Kinase Inhibitors</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1221,6 +1197,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jmedchem.5b01898?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01898?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01898?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lassalas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lasfargeas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">James</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vijayendran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brunden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kozlowski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huryn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ballatore</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The replacement of a carboxylic acid with a surrogate structure, or (bio)-isostere, is a classical strategy in medicinal chemistry. The general underlying principle is that by maintaining the features of the carboxylic acid critical for biological ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01963?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Integrating Everything: The Molecule Selection Toolkit, a System for Compound Prioritization in Drug Discovery</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cummins</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Bell</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In recent years there have been numerous papers on the topic of multiattribute optimization in pharmaceutical discovery chemistry, applied to compound prioritization. Many solutions proposed are static in nature; fixed functions are proposed for general ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01338?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01338?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01338?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1306,9 +1314,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.6b00022" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00022%3Fprg140729%3D379d628c-3fa9-4f91-8e48-968ac9c56628&amp;doi=10.1021%2Facsmedchemlett.6b00022" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00022%3Fprg140729%3D812f4c41-e3ae-413e-b6b1-c3c1c9212c93&amp;doi=10.1021%2Facsmedchemlett.6b00022" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00022%3Fprg140729%3Da9c89412-3eda-4399-b86e-ada2db47e2bd&amp;title=2%2C8-Disubstituted-1%2C6-Naphthyridines+and+4%2C6-Disubstituted-Isoquinolines+with+Potent%2C+Selective+Affinity+for+CDK8%2F19&amp;doi=10.1021%2Facsmedchemlett.6b00022" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00022%3Fprg140729%3D1cd58995-4078-4714-9806-007450c10b73&amp;title=2%2C8-Disubstituted-1%2C6-Naphthyridines+and+4%2C6-Disubstituted-Isoquinolines+with+Potent%2C+Selective+Affinity+for+CDK8%2F19&amp;doi=10.1021%2Facsmedchemlett.6b00022" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="92d42afe-8b30-4622-826c-0e588e26d40a">
+<html lang="en" class="pb-page" data-request-id="7a4bf4f0-ee62-45c6-ae16-dabdac32804a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.molpharmaceut.5b00935;issue:issue:10.1021/mpohbp.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:mpohbp;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -148,8 +148,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00935%3Fprg140729%3D8708ab52-1831-45d7-98b9-0c5545603dc7" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00935?prg140729=8708ab52-1831-45d7-98b9-0c5545603dc7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00935?prg140729=8708ab52-1831-45d7-98b9-0c5545603dc7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00935%3Fprg140729%3Df22ca900-b115-40fe-89e9-6f10d936f82b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00935?prg140729=f22ca900-b115-40fe-89e9-6f10d936f82b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00935?prg140729=f22ca900-b115-40fe-89e9-6f10d936f82b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -982,6 +982,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i16"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i21"><span>Conclusion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i27"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1052,6 +1064,70 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.6b00015?src=recsys">Drug Delivery Research: The Invention Cycle</a>
+                            <div class="achsLabel">
+                             Molecular Pharmaceutics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Park</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Controlled drug delivery systems have been successful in introducing improved formulations for better use of existing drugs and novel delivery of biologicals. The initial success of producing many oral products and some injectable depot formulations, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.molpharmaceut.6b00015?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.molpharmaceut.6b00015?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.6b00015?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.6b00015?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.6b00158?src=recsys">pH-Triggered Surface Charge Reversed Nanoparticle with Active Targeting To Enhance the Antitumor Activity of Doxorubicin</a>
+                            <div class="achsLabel">
+                             Molecular Pharmaceutics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Du</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Teng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> PLGA nanoparticles are widely used in tumor targeting drug delivery systems. However, the naked PLGA nanoparticles (NNPs) not only have low drug loading but also can be rapidly removed from blood circulation by the immune system. The aim of this study was ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.molpharmaceut.6b00158?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.molpharmaceut.6b00158?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.6b00158?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.6b00158?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00992?src=recsys">Effects of the Microparticle Shape on Cellular Uptake</a>
+                            <div class="achsLabel">
+                             Molecular Pharmaceutics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">He</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Park</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Physical forms of microparticles and nanoparticles, such as the size, charge, and shape, are known to affect endocytosis. Improving the physical designs of the drug carriers can increase the drug uptake efficiency and the subsequent drug efficacy. Simple ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.molpharmaceut.5b00992?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.molpharmaceut.5b00992?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00992?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00992?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.6b00096?src=recsys">Amorphous Formulation and <i>in Vitro</i> Performance Testing of Instantly Disintegrating Buccal Tablets for the Emergency Delivery of Naloxone</a>
+                            <div class="achsLabel">
+                             Molecular Pharmaceutics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Alqurshi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kumar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McDonald</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Strang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Buanz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahmed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Allen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cameron</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rickard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sandhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Holt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stansfield</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Taylor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Forbes</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Royall</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The aim of this study was to develop a freeze-dried buccal tablet for the rapid delivery of naloxone in opioid overdose. The tablet composition was optimized to produce an amorphous matrix, which was confirmed by the absence of peaks associated with ...<sub></sub><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.molpharmaceut.6b00096?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.molpharmaceut.6b00096?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.6b00096?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.6b00096?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.molpharmaceut.6b00147?src=recsys">Formulation of Acid-Sensitive Micelles for Delivery of Cabazitaxel into Prostate Cancer Cells</a>
                             <div class="achsLabel">
                              Molecular Pharmaceutics
@@ -1083,70 +1159,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.molpharmaceut.5b00879?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00879?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00879?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00992?src=recsys">Effects of the Microparticle Shape on Cellular Uptake</a>
-                            <div class="achsLabel">
-                             Molecular Pharmaceutics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">He</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Park</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Physical forms of microparticles and nanoparticles, such as the size, charge, and shape, are known to affect endocytosis. Improving the physical designs of the drug carriers can increase the drug uptake efficiency and the subsequent drug efficacy. Simple ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.molpharmaceut.5b00992?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.molpharmaceut.5b00992?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00992?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00992?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.6b00158?src=recsys">pH-Triggered Surface Charge Reversed Nanoparticle with Active Targeting To Enhance the Antitumor Activity of Doxorubicin</a>
-                            <div class="achsLabel">
-                             Molecular Pharmaceutics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Du</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Teng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> PLGA nanoparticles are widely used in tumor targeting drug delivery systems. However, the naked PLGA nanoparticles (NNPs) not only have low drug loading but also can be rapidly removed from blood circulation by the immune system. The aim of this study was ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.molpharmaceut.6b00158?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.molpharmaceut.6b00158?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.6b00158?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.6b00158?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.6b00015?src=recsys">Drug Delivery Research: The Invention Cycle</a>
-                            <div class="achsLabel">
-                             Molecular Pharmaceutics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Park</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Controlled drug delivery systems have been successful in introducing improved formulations for better use of existing drugs and novel delivery of biologicals. The initial success of producing many oral products and some injectable depot formulations, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.molpharmaceut.6b00015?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.molpharmaceut.6b00015?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.6b00015?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.6b00015?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00771?src=recsys">Synthesis and Antitumor Properties of BQC-Glucuronide, a Camptothecin Prodrug for Selective Tumor Activation</a>
-                            <div class="achsLabel">
-                             Molecular Pharmaceutics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Prijovich</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Burnouf</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Roffler</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>13</em> (4), pp 1242–1250</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Major limitations of camptothecin anticancer drugs (toxicity, nonselectivity, water insolubility, inactivation by human serum albumin) may be improved by creating glucuronide prodrugs that rely on beta-glucuronidase for their activation. We found that the ...<sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.molpharmaceut.5b00771?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.molpharmaceut.5b00771?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00771?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00771?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1232,9 +1244,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.molpharmaceut.5b00935" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00935%3Fprg140729%3D62e5261c-77ff-483e-94c4-a933f46c09ba&amp;doi=10.1021%2Facs.molpharmaceut.5b00935" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00935%3Fprg140729%3D94215df7-9222-46d5-b121-df762f26856d&amp;doi=10.1021%2Facs.molpharmaceut.5b00935" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00935%3Fprg140729%3D8708ab52-1831-45d7-98b9-0c5545603dc7&amp;title=Cyclic+RGDfK+Peptide+Functionalized+Polymeric+Nanocarriers+for+Targeting+Gemcitabine+to+Ovarian+Cancer+Cells&amp;doi=10.1021%2Facs.molpharmaceut.5b00935" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00935%3Fprg140729%3Df22ca900-b115-40fe-89e9-6f10d936f82b&amp;title=Cyclic+RGDfK+Peptide+Functionalized+Polymeric+Nanocarriers+for+Targeting+Gemcitabine+to+Ovarian+Cancer+Cells&amp;doi=10.1021%2Facs.molpharmaceut.5b00935" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1257,8 +1269,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrlvyCMEguFYbVg90H21EOLACvtfcHk0liJMtqaLRKfTQ&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGMfR2EQYJAxntQwD9OmoEd00ZbEhC6ux4weyjxFg-23Y&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrlvyCMEguFYbVg90H21EOLACvtfcHk0lgxgEmVJ3b3FQ&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGMfR2EQYJAxntQwD9OmoEd2jMWp_C5zEdPVRcMJHzuFZ&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8368fd14-fd5f-40d0-91bd-37dc1122f92c">
+<html lang="en" class="pb-page" data-request-id="aa108f08-f9b8-4252-93ce-01cdeca76b85">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;issue:issue:10.1021/jceda8.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.jchemed.5b00625;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00625%3Fprg140729%3D01c6f3bf-5ca0-4eb8-a649-bd34673eccf6" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00625?prg140729=01c6f3bf-5ca0-4eb8-a649-bd34673eccf6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00625?prg140729=01c6f3bf-5ca0-4eb8-a649-bd34673eccf6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00625%3Fprg140729%3De9fa8aef-8286-4fdc-8441-b5a10aa104ff" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00625?prg140729=e9fa8aef-8286-4fdc-8441-b5a10aa104ff&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00625?prg140729=e9fa8aef-8286-4fdc-8441-b5a10aa104ff">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -669,6 +669,16 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
+                       <div class="issueNavigator"> 
+                        <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jchemed.5b00923" title="Previous Article"> Previous Article </a> </span> 
+                        </div> 
+                        <div class="journalNavRightTd"> 
+                         <div class="next"> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00893" title="Next Article"> Next Article </a> 
+                         </div> 
+                        </div> 
+                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceda8/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -998,22 +1008,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00844?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00844?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00847?src=recsys">A Biphasic Ligand Exchange Reaction on CdSe Nanoparticles: Introducing Undergraduates to Functionalizing Nanoparticles for Solar Cells</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zemke</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Franz</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Semiconductor nanoparticles, including cadmium selenide (CdSe) particles, are attractive as light harvesting materials for solar cells. In the undergraduate laboratory, the size-tunable optical and electronic properties can be easily investigated; however,...<sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00847?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00847?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00847?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00847?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00941?src=recsys">Determination of Sulfate by Conductometric Titration: An Undergraduate Laboratory Experiment</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
@@ -1029,22 +1023,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jchemed.5b00941?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00941?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00941?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00634?src=recsys">Solving Simple Kinetics without Integrals</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hernández de la Peña</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The solution of simple kinetic equations is analyzed without referencing any topic from differential equations or integral calculus. Guided by the physical meaning of the rate equation, a systematic procedure is used to generate an approximate solution ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00634?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00634?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00634?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00634?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00784?src=recsys">Big Atoms for Small Children: Building Atomic Models from Common Materials To Better Visualize and Conceptualize Atomic Structure</a>
                             <div class="achsLabel">
@@ -1062,21 +1040,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00784?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00784?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00697?src=recsys">A Two-Week Guided Inquiry Protein Separation and Detection Experiment for Undergraduate Biochemistry</a>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00847?src=recsys">A Biphasic Ligand Exchange Reaction on CdSe Nanoparticles: Introducing Undergraduates to Functionalizing Nanoparticles for Solar Cells</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Carolan</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Nolta</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zemke</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Franz</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A laboratory experiment for teaching protein separation and detection in an undergraduate biochemistry laboratory course is described. This experiment, performed in two, 4 h laboratory periods, incorporates guided inquiry principles to introduce students ...</span>
+                             <span><span class="bold">Abstract:</span> Semiconductor nanoparticles, including cadmium selenide (CdSe) particles, are attractive as light harvesting materials for solar cells. In the undergraduate laboratory, the size-tunable optical and electronic properties can be easily investigated; however,...<sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00697?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00697?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00697?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00697?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00847?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00847?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00847?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00847?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00923?src=recsys">Using ChemDuino, Excel, and PowerPoint as Tools for Real-Time Measurement Representation in Class</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Education
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Walkowiak</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Nehring</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> To easily implement digital data collection methods in class, devices like the low-cost solution “Chemduino” have been proposed earlier in this <i>Journal</i>. In this paper, we demonstrate how to apply the Excel spreadsheet PLX-DAQ in order to visualize the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00923?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00923?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00923?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00923?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00634?src=recsys">Solving Simple Kinetics without Integrals</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Education
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hernández de la Peña</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The solution of simple kinetic equations is analyzed without referencing any topic from differential equations or integral calculus. Guided by the physical meaning of the rate equation, a systematic procedure is used to generate an approximate solution ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00634?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00634?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00634?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00634?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1162,9 +1172,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00625" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00625%3Fprg140729%3D68834758-b4c8-42b2-9fb0-649fe81b0437&amp;doi=10.1021%2Facs.jchemed.5b00625" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00625%3Fprg140729%3Da82922a4-77de-41c3-bdd9-6af45588d2a7&amp;doi=10.1021%2Facs.jchemed.5b00625" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00625%3Fprg140729%3D01c6f3bf-5ca0-4eb8-a649-bd34673eccf6&amp;title=Peptide+Mass+Fingerprinting+of+Egg+White+Proteins&amp;doi=10.1021%2Facs.jchemed.5b00625" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00625%3Fprg140729%3De9fa8aef-8286-4fdc-8441-b5a10aa104ff&amp;title=Peptide+Mass+Fingerprinting+of+Egg+White+Proteins&amp;doi=10.1021%2Facs.jchemed.5b00625" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1187,9 +1197,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoLh7v7dQ8ru7Vg90H21EOLACvtfcHk0lju1m3_u_BaZw&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGNtNaDQ3fU9gtQwD9OmoEd1Ak9VcLXV1HZZcVPHrtR6k&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQHX-VJcGbbktrnDmCxc-CThi25Vg2O3Mi2dseTHhkib&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoLh7v7dQ8ru7Vg90H21EOLACvtfcHk0liLce5c5Jw8Vw&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGNtNaDQ3fU9gtQwD9OmoEd3-UlHZ9C3d0A-p4tPBv5qi&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQHX-VJcGbbktrnDmCxc-CThi25Vg2O3Ml-YfsM24Kyv&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

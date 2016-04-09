@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="4d085e19-11a9-43ec-b1f8-ac38c399cbd9">
+<html lang="en" class="pb-page" data-request-id="96d9a251-9e13-45ae-bf77-299ed3ed0ffc">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acsmedchemlett.5b00309;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -151,8 +151,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00309%3Fprg140729%3Dd9f11d1e-4b73-4ac6-b1ae-0f36d46f3ebf" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00309?prg140729=d9f11d1e-4b73-4ac6-b1ae-0f36d46f3ebf&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00309?prg140729=d9f11d1e-4b73-4ac6-b1ae-0f36d46f3ebf">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00309%3Fprg140729%3D5935b7c8-afc6-404b-aee7-c09b196a22af" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00309?prg140729=5935b7c8-afc6-404b-aee7-c09b196a22af&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00309?prg140729=5935b7c8-afc6-404b-aee7-c09b196a22af">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -693,16 +693,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acsmedchemlett.5b00479" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acsmedchemlett.6b00004" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/amclct/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1082,22 +1072,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00040?src=recsys">Interaction Analysis of FABP4 Inhibitors by X-ray Crystallography and Fragment Molecular Orbital Analysis</a>
-                            <div class="achsLabel">
-                             ACS Medicinal Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tagami</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Igarashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ejima</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yoshida</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takeshita</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miyanaga</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sugiki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tokumasu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hatanaka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kashiwagi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ishikawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miyano</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mizukoshi</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> X-ray crystal structural determination of FABP4 in complex with four inhibitors revealed the complex binding modes, and the resulting observations led to improvement of the inhibitory potency of FABP4 inhibitors. However, the detailed structure–activity ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsmedchemlett.6b00040?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsmedchemlett.6b00040?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00040?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsmedchemlett.6b00040?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00005?src=recsys">Discovery of Clinical Development Candidate GDC-0084, a Brain Penetrant Inhibitor of PI3K and mTOR</a>
                             <div class="achsLabel">
                              ACS Medicinal Chemistry Letters
@@ -1113,6 +1087,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsmedchemlett.6b00005?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00005?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsmedchemlett.6b00005?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00040?src=recsys">Interaction Analysis of FABP4 Inhibitors by X-ray Crystallography and Fragment Molecular Orbital Analysis</a>
+                            <div class="achsLabel">
+                             ACS Medicinal Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tagami</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Igarashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ejima</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yoshida</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takeshita</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miyanaga</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sugiki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tokumasu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hatanaka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kashiwagi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ishikawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miyano</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mizukoshi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> X-ray crystal structural determination of FABP4 in complex with four inhibitors revealed the complex binding modes, and the resulting observations led to improvement of the inhibitory potency of FABP4 inhibitors. However, the detailed structure–activity ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsmedchemlett.6b00040?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmedchemlett.6b00040?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00040?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmedchemlett.6b00040?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00004?src=recsys">Development of Novel 1,2,3,4-Tetrahydroquinoline Scaffolds as Potent NF-κB Inhibitors and Cytotoxic Agents</a>
                             <div class="achsLabel">
@@ -1229,7 +1219,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acsmedchemlett.5b00309" title="High-Res PDF: 3902 KB" target="_blank"> PDF <span class="details">(3902 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsmedchemlett.5b00309" title="Low-Res PDF: 424 KB" target="_blank"> PDF w/ Links <span class="details">(424 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsmedchemlett.5b00309" title="Low-Res PDF: 412 KB" target="_blank"> PDF w/ Links <span class="details">(412 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acsmedchemlett.5b00309" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1262,9 +1252,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.5b00309" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00309%3Fprg140729%3D35c26c69-c432-4d38-8f6e-fd7610c42b5e&amp;doi=10.1021%2Facsmedchemlett.5b00309" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00309%3Fprg140729%3D4ab70196-52e4-492f-b028-d7263cefa7b0&amp;doi=10.1021%2Facsmedchemlett.5b00309" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00309%3Fprg140729%3Dd9f11d1e-4b73-4ac6-b1ae-0f36d46f3ebf&amp;title=11C+and+18F+Radiolabeling+of+Tetra-+and+Pentathiophenes+as+PET-Ligands+for+Amyloid+Protein+Aggregates&amp;doi=10.1021%2Facsmedchemlett.5b00309" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00309%3Fprg140729%3D5935b7c8-afc6-404b-aee7-c09b196a22af&amp;title=11C+and+18F+Radiolabeling+of+Tetra-+and+Pentathiophenes+as+PET-Ligands+for+Amyloid+Protein+Aggregates&amp;doi=10.1021%2Facsmedchemlett.5b00309" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

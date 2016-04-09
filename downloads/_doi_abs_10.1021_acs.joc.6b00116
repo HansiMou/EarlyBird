@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="be04a8fc-ebce-4634-a40b-8b79a6d2fd74">
+<html lang="en" class="pb-page" data-request-id="72cdf53c-c341-43b4-8009-92170eb4a7f6">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.joc.6b00116;issue:issue:10.1021/joceah.ahead-of-print;journal:journal:joceah;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00116%3Fprg140729%3D1b44e2f2-357c-4875-9bca-b6d138618dd6" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00116?prg140729=1b44e2f2-357c-4875-9bca-b6d138618dd6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00116?prg140729=1b44e2f2-357c-4875-9bca-b6d138618dd6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00116%3Fprg140729%3De9442ee8-92dd-412e-9e75-094dd29aaa09" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00116?prg140729=e9442ee8-92dd-412e-9e75-094dd29aaa09&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00116?prg140729=e9442ee8-92dd-412e-9e75-094dd29aaa09">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -935,6 +935,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i2"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i5"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i12"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i13"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i54"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1024,22 +1036,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b01349?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b01349?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.joc.6b00186?src=recsys">Copper(II)-Catalyzed Oxidative Cross-Coupling of Anilines, Primary Alkyl Amines, and Sodium Azide Using TBHP: A Route to 2-Substituted Benzimidazoles</a>
-                            <div class="achsLabel">
-                             The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mahesh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sadhu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Punniyamurthy</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Copper(II)-catalyzed oxidative cross-coupling of anilines, primary alkyl amines, and sodium azide is described in the presence of TBHP at moderate temperature. This one-pot multicomponent protocol involves a domino C–H functionalization, transimination, <i>...</i></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.6b00186?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.6b00186?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00186?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.6b00186?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.orglett.6b00677?src=recsys">Phosphine-Catalyzed Vicinal Acylcyanation of Alkynoates</a>
                             <div class="achsLabel">
                              Organic Letters
@@ -1055,6 +1051,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.orglett.6b00677?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.orglett.6b00677?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.orglett.6b00677?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.joc.6b00186?src=recsys">Copper(II)-Catalyzed Oxidative Cross-Coupling of Anilines, Primary Alkyl Amines, and Sodium Azide Using TBHP: A Route to 2-Substituted Benzimidazoles</a>
+                            <div class="achsLabel">
+                             The Journal of Organic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mahesh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sadhu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Punniyamurthy</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Copper(II)-catalyzed oxidative cross-coupling of anilines, primary alkyl amines, and sodium azide is described in the presence of TBHP at moderate temperature. This one-pot multicomponent protocol involves a domino C–H functionalization, transimination, <i>...</i></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.joc.6b00186?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.6b00186?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00186?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.6b00186?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.joc.5b02516?src=recsys">Metal-Free Tandem Oxidative Coupling of Primary Alcohols with Azoles for the Synthesis of Hemiaminal Ethers</a>
                             <div class="achsLabel">
@@ -1072,21 +1084,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.joc.5b02516?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.joc.5b02516?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b10945?src=recsys">Aerobic Copper-Promoted Radical-Type Cleavage of Coordinated Cyanide Anion: Nitrogen Transfer to Aldehydes To Form Nitriles</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00976?src=recsys">Enantioselective Aminomethylamination of Conjugated Dienes with Aminals Enabled by Chiral Palladium Complex-Catalyzed C–N Bond Activation</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lei</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">You</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2885–2888</span>
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4314–4317</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We have disclosed for the first time the copper-promoted C≡N triple bond cleavage of coordinated cyanide anion under a dioxygen atmosphere, which enables a nitrogen transfer to various aldehydes. Mechanistic study of this unprecedented transformation ...</span>
+                             <span><span class="bold">Abstract:</span> A novel highly enantioselective aminomethylamination of conjugated dienes with aminals catalyzed by a chiral palladium complex ligated with BINOL-derived chiral diphosphinite has been successfully developed. This reaction proceeds via a Pd-catalyzed ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b10945?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b10945?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b10945?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b10945?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b00976?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00976?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00976?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00976?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1172,9 +1184,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.joc.6b00116" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00116%3Fprg140729%3Db6d9b0d0-550c-424c-b103-8282877eef23&amp;doi=10.1021%2Facs.joc.6b00116" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00116%3Fprg140729%3Defdc3ca6-f7ce-4ec2-95e0-529723cf8530&amp;doi=10.1021%2Facs.joc.6b00116" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00116%3Fprg140729%3D1b44e2f2-357c-4875-9bca-b6d138618dd6&amp;title=Conversion+of+3%2C3%2C3-Trisubstituted+Prop-1-ynes+with+tert-Butylhydrazine+into+3%2C3%2C3-Trisubstituted+Propionitriles+Catalyzed+by+TpRh%28C2H4%292%2FP%282-furyl%293&amp;doi=10.1021%2Facs.joc.6b00116" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00116%3Fprg140729%3De9442ee8-92dd-412e-9e75-094dd29aaa09&amp;title=Conversion+of+3%2C3%2C3-Trisubstituted+Prop-1-ynes+with+tert-Butylhydrazine+into+3%2C3%2C3-Trisubstituted+Propionitriles+Catalyzed+by+TpRh%28C2H4%292%2FP%282-furyl%293&amp;doi=10.1021%2Facs.joc.6b00116" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1197,8 +1209,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpaB20n8CZuhrVg90H21EOLACvtfcHk0lj0h1mAoCyROQ&amp;loc=%2FControllerServlet&amp;pubId=40026046" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXttOgxy03VbtrnDmCxc-CThi25Vg2O3MiLtHSYOCW5o&amp;loc=%2FControllerServlet&amp;pubId=40026046" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpaB20n8CZuhrVg90H21EOLACvtfcHk0lg4ztA95KGTFw&amp;loc=%2FControllerServlet&amp;pubId=40026046" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXttOgxy03VbtrnDmCxc-CThi25Vg2O3Mgb_2ZZ_FNsw&amp;loc=%2FControllerServlet&amp;pubId=40026046" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

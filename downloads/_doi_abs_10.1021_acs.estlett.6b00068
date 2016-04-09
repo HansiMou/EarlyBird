@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b08fbcbb-2e16-457f-b716-a8195c36cf4a">
+<html lang="en" class="pb-page" data-request-id="e5e712bd-8d6a-4f6e-a9a7-732ddae82038">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.estlett.6b00068;pageGroup:string:Publication Pages;issue:issue:10.1021/estlcu.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:estlcu;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00068%3Fprg140729%3D39a3a18a-aa00-4324-942d-a81e0bcae5b4" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00068?prg140729=39a3a18a-aa00-4324-942d-a81e0bcae5b4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00068?prg140729=39a3a18a-aa00-4324-942d-a81e0bcae5b4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00068%3Fprg140729%3Dddb97947-bb8a-49ed-83d1-86ec308aedef" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00068?prg140729=ddb97947-bb8a-49ed-83d1-86ec308aedef&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00068?prg140729=ddb97947-bb8a-49ed-83d1-86ec308aedef">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -682,16 +682,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.estlett.6b00066" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.estlett.6b00041" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/estlcu/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1048,6 +1038,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acssensors.6b00093?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acssensors.6b00093?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.estlett.6b00064?src=recsys">Rare-Earth Separation Using Bacteria</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bonificio</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Clarke</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The rare-earth elements are critical to many green energy technologies but are difficult to separate from one another because of their chemical similarity. We demonstrate an alternative, biogenic method based on the adsorption of lanthanide to the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.estlett.6b00064?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.estlett.6b00064?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.estlett.6b00064?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.estlett.6b00064?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.estlett.6b00041?src=recsys">Assessing Dicofol Concentrations in Air: Retrospective Analysis of Global Atmospheric Passive Sampling Network Samples from Agricultural Sites in India</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology Letters
@@ -1063,22 +1069,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.estlett.6b00041?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.estlett.6b00041?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.estlett.6b00041?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.estlett.6b00044?src=recsys">Observation of Fullerene Soot in Eastern China</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Onasch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ge</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Collier</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prévôt</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Worsnop</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> This work reports the observation of a series of fullerene ions, indicating the occurrence of fullerene soot (FS) in ambient air for the first time using an Aerodyne soot particle-aerosol mass spectrometer (SP-AMS) deployed in eastern China. We found the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.estlett.6b00044?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.estlett.6b00044?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.estlett.6b00044?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.estlett.6b00044?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1163,9 +1153,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.estlett.6b00068" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00068%3Fprg140729%3D0a9ddb98-ef93-411c-9586-8b00b51f9415&amp;doi=10.1021%2Facs.estlett.6b00068" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00068%3Fprg140729%3D4d264fa2-284e-4cb0-9bbe-946243f7ac57&amp;doi=10.1021%2Facs.estlett.6b00068" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00068%3Fprg140729%3D39a3a18a-aa00-4324-942d-a81e0bcae5b4&amp;title=Life-Cycle+Assumptions+of+Landfilled+Polylactic+Acid+Underpredict+Methane+Generation&amp;doi=10.1021%2Facs.estlett.6b00068" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00068%3Fprg140729%3Dddb97947-bb8a-49ed-83d1-86ec308aedef&amp;title=Life-Cycle+Assumptions+of+Landfilled+Polylactic+Acid+Underpredict+Methane+Generation&amp;doi=10.1021%2Facs.estlett.6b00068" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1188,8 +1178,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGovYjeRSKOharVg90H21EOLACvtfcHk0liTiGxTGGYSPA&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSR42QyJm5pF2trnDmCxc-CThi25Vg2O3MhpKArGAhe-6&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGovYjeRSKOharVg90H21EOLACvtfcHk0lhq49jXD5PY7A&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSR42QyJm5pF2trnDmCxc-CThi25Vg2O3MnDYlCUSPnHE&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

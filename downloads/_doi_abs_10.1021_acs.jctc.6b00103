@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="0f3914ea-f7f3-442e-befb-5d471f7b2b4a">
+<html lang="en" class="pb-page" data-request-id="f0a13ab0-af6f-44f5-aa44-72179150657a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jctc.6b00103">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00103%3Fprg140729%3D3e898eca-166d-4d42-8a35-062aea8221b5" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00103?prg140729=3e898eca-166d-4d42-8a35-062aea8221b5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00103?prg140729=3e898eca-166d-4d42-8a35-062aea8221b5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00103%3Fprg140729%3Dc901499b-5cde-4781-b01e-dffb4d00eb06" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00103?prg140729=c901499b-5cde-4781-b01e-dffb4d00eb06&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00103?prg140729=c901499b-5cde-4781-b01e-dffb4d00eb06">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -970,6 +970,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00137?src=recsys">Black-Box Description of Electron Correlation with the Spin-Extended Configuration Interaction Model: Implementation and Assessment</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tsuchimochi</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Ten-no</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In our recent Communication (<i>J. Chem. Phys.</i><b>2016</b>, <i>144</i>, 011101), we proposed Wick’s theorem for nonorthogonal determinants and applied it to spin-extended configuration interaction with singles and doubles (ECISD) based on spin-projected unrestricted ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.6b00137?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.6b00137?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00137?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.6b00137?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.6b00156?src=recsys">Automated Selection of Active Orbital Spaces</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -985,22 +1001,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.6b00156?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.6b00156?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.6b00156?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00138?src=recsys">Correct Quantum Chemistry in a Minimal Basis from Effective Hamiltonians</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Watson</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (2), pp 512–522</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We describe how to create ab initio effective Hamiltonians that qualitatively describe correct chemistry even when used with a minimal basis. The Hamiltonians are obtained by folding correlation down from a large parent basis into a small, or minimal, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b00138?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b00138?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00138?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b00138?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01040?src=recsys">How Much Can Density Functional Approximations (DFA) Fail? The Extreme Case of the FeO<sub>4</sub> Species</a>
                             <div class="achsLabel">
@@ -1018,22 +1018,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01040?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01040?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01082?src=recsys">MN15-L: A New Local Exchange-Correlation Functional for Kohn–Sham Density Functional Theory with Broad Accuracy for Atoms, Molecules, and Solids</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Truhlar</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (3), pp 1280–1293</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Kohn–Sham density functional theory is widely used for applications of electronic structure theory in chemistry, materials science, and condensed-matter physics, but the accuracy depends on the quality of the exchange-correlation functional. Here, we ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01082?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01082?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01082?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01082?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01163?src=recsys">Troubles in the Systematic Prediction of Transition Metal Thermochemistry with Contemporary Out-of-the-Box Methods</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1050,21 +1034,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01163?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01163?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00137?src=recsys">Black-Box Description of Electron Correlation with the Spin-Extended Configuration Interaction Model: Implementation and Assessment</a>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01234?src=recsys">Spin-State Energetics of Fe(III) and Ru(III) Aqua Complexes: Accurate ab Initio Calculations and Evidence for Huge Solvation Effects</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tsuchimochi</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Ten-no</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Radoń</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gąssowska</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Szklarzewicz</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Broclawik</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In our recent Communication (<i>J. Chem. Phys.</i><b>2016</b>, <i>144</i>, 011101), we proposed Wick’s theorem for nonorthogonal determinants and applied it to spin-extended configuration interaction with singles and doubles (ECISD) based on spin-projected unrestricted ...</span>
+                             <span><span class="bold">Abstract:</span> Aqua complexes of transition metals are useful models for understanding the electronic structure of metal-oxide species relevant in photocatalytic water splitting. Moreover, spin-forbidden d–d transitions of aqua complexes provide valuable experimental ...<sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.6b00137?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.6b00137?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00137?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.6b00137?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01234?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01234?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01234?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01234?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00138?src=recsys">Correct Quantum Chemistry in a Minimal Basis from Effective Hamiltonians</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Watson</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>12</em> (2), pp 512–522</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We describe how to create ab initio effective Hamiltonians that qualitatively describe correct chemistry even when used with a minimal basis. The Hamiltonians are obtained by folding correlation down from a large parent basis into a small, or minimal, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b00138?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b00138?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00138?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b00138?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1150,9 +1150,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.6b00103" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00103%3Fprg140729%3Df0a30963-2ce6-4b57-9224-24bded092a86&amp;doi=10.1021%2Facs.jctc.6b00103" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00103%3Fprg140729%3Dda1aea4d-1fba-4f79-a504-cb34db7334cf&amp;doi=10.1021%2Facs.jctc.6b00103" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00103%3Fprg140729%3D3e898eca-166d-4d42-8a35-062aea8221b5&amp;title=Electronic+Structures+of+Anti-Ferromagnetic+Tetraradicals%3A+Ab+Initio+and+Semi-Empirical+Studies&amp;doi=10.1021%2Facs.jctc.6b00103" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00103%3Fprg140729%3Dc901499b-5cde-4781-b01e-dffb4d00eb06&amp;title=Electronic+Structures+of+Anti-Ferromagnetic+Tetraradicals%3A+Ab+Initio+and+Semi-Empirical+Studies&amp;doi=10.1021%2Facs.jctc.6b00103" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

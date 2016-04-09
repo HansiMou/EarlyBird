@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1d2ba105-40fd-4865-a5cf-d227337387bd">
+<html lang="en" class="pb-page" data-request-id="fe9244d5-e2d2-40a0-8327-8442fd9fe5fb">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.nanolett.6b00429">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00429%3Fprg140729%3D411ab893-afaf-42ee-a437-2eb058d08711" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00429?prg140729=411ab893-afaf-42ee-a437-2eb058d08711&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00429?prg140729=411ab893-afaf-42ee-a437-2eb058d08711">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00429%3Fprg140729%3D95e69bb9-946d-4842-b7ae-094e73b86172" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00429?prg140729=95e69bb9-946d-4842-b7ae-094e73b86172&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00429?prg140729=95e69bb9-946d-4842-b7ae-094e73b86172">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -673,16 +673,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.nanolett.6b00390" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.nanolett.5b04014" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/nalefd/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1059,6 +1049,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04709?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.5b04709?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04014?src=recsys">Phonon Scattering Dynamics of Thermophoretic Motion in Carbon Nanotube Oscillators</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Prasad</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Bhattacharya</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Using phonon wave packet molecular dynamics simulations, we find that anomalous longitudinal acoustic (LA) mode phonon scattering in low to moderate energy ranges is responsible for initiating thermophoretic motion in carbon nanotube oscillators. The ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b04014?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b04014?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04014?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04014?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.6b00144?src=recsys">Probing Out-of-Plane Charge Transport in Black Phosphorus with Graphene-Contacted Vertical Field-Effect Transistors</a>
                             <div class="achsLabel">
                              Nano Letters
@@ -1074,22 +1080,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.nanolett.6b00144?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00144?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00144?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00477?src=recsys">Visualizing the Motion of Graphene Nanodrums</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Davidovikj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Slim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cartamil-Bueno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van der Zant</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Steeneken</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Venstra</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Membranes of suspended two-dimensional materials show a large variability in mechanical properties, in part due to static and dynamic wrinkles. As a consequence, experiments typically show a multitude of nanomechanical resonance peaks, which make an ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.6b00477?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.6b00477?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00477?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00477?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1174,9 +1164,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.6b00429" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00429%3Fprg140729%3Dd05a8d71-a2ae-42ce-bd51-954e1c7318af&amp;doi=10.1021%2Facs.nanolett.6b00429" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00429%3Fprg140729%3Dbd882935-7a31-4d86-846f-c2c67f3d41b1&amp;doi=10.1021%2Facs.nanolett.6b00429" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00429%3Fprg140729%3D411ab893-afaf-42ee-a437-2eb058d08711&amp;title=Interplay+between+Nanochannel+and+Microchannel+Resistances&amp;doi=10.1021%2Facs.nanolett.6b00429" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00429%3Fprg140729%3D95e69bb9-946d-4842-b7ae-094e73b86172&amp;title=Interplay+between+Nanochannel+and+Microchannel+Resistances&amp;doi=10.1021%2Facs.nanolett.6b00429" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

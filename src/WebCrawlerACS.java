@@ -26,8 +26,8 @@ import org.openqa.selenium.WebDriver;
 public class WebCrawlerACS extends WebCrawler {
 	HashSet<URL> tmpnewURLs = new HashSet<URL>();
 
-	public void run(String path, StartingUrl s, boolean d, Config c, WebDriver wd) {
-		initialize(path, s, d, c, wd);
+	public void run(String path, StartingUrl s, boolean d, Config c, WebDriver wd, HashSet<String> cache) {
+		initialize(path, s, d, c, wd, cache);
 		while (this.lv < this.LEVEL_LIMIT) {
 			URL url = newURLs.poll();
 			this.curNum--;

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1e646aa6-1597-4e13-876b-25a0ed2ab4be">
+<html lang="en" class="pb-page" data-request-id="1e94b125-ff40-4af4-804f-c4afad8b320b">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsmedchemlett.6b00025;pageGroup:string:Publication Pages;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00025%3Fprg140729%3D42d8b19e-51d0-4e7e-abd9-46f3208da23c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00025?prg140729=42d8b19e-51d0-4e7e-abd9-46f3208da23c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00025?prg140729=42d8b19e-51d0-4e7e-abd9-46f3208da23c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00025%3Fprg140729%3D6c602f4a-28df-4b32-aec3-b72a6b2d905f" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00025?prg140729=6c602f4a-28df-4b32-aec3-b72a6b2d905f&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00025?prg140729=6c602f4a-28df-4b32-aec3-b72a6b2d905f">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -690,7 +690,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acsmedchemlett.6b00018" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acsmedchemlett.6b00031" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -980,6 +980,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i14"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1080,22 +1088,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00075?src=recsys">Fragment-Based Discovery of a Selective and Cell-Active Benzodiazepinone CBP/EP300 Bromodomain Inhibitor (CPI-637)</a>
-                            <div class="achsLabel">
-                             ACS Medicinal Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Taylor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Côté</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hewitt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pastor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leblanc</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nasveschuk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Romero</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Crawford</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cantone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jayaram</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Setser</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Murray</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Beresini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">de Leon Boenig</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Conery</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cummings</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dakin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Flynn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaufman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Keller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kiefer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pardo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tsui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zawadzke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sims</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cochran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bellon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Audia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Magnuson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Albrecht</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> CBP and EP300 are highly homologous, bromodomain-containing transcription coactivators involved in numerous cellular pathways relevant to oncology. As part of our effort to explore the potential therapeutic implications of selectively targeting ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsmedchemlett.6b00075?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsmedchemlett.6b00075?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00075?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsmedchemlett.6b00075?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">How Beyond Rule of 5 Drugs and Clinical Candidates Bind to Their Targets</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1112,37 +1104,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01286?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01286?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00014?src=recsys">Identification of a Potent and Selective GPR4 Antagonist as a Drug Lead for the Treatment of Myocardial Infarction</a>
+                           <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00075?src=recsys">Fragment-Based Discovery of a Selective and Cell-Active Benzodiazepinone CBP/EP300 Bromodomain Inhibitor (CPI-637)</a>
                             <div class="achsLabel">
                              ACS Medicinal Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fukuda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ito</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Watari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mogi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Arisawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Okajima</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kurose</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shuto</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Taylor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Côté</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hewitt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pastor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leblanc</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nasveschuk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Romero</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Crawford</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cantone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jayaram</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Setser</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Murray</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Beresini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">de Leon Boenig</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Conery</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cummings</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dakin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Flynn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaufman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Keller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kiefer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pardo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tsui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zawadzke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sims</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cochran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bellon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Audia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Magnuson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Albrecht</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> GPR4, a pH-sensing G protein-coupled receptor, is highly expressed in endothelial cells and may be activated in myocardial infarction due the decreased tissue pH. We are interested in GPR4 antagonists as potential effective pharmacologic tools and/or drug ...</span>
+                             <span><span class="bold">Abstract:</span> CBP and EP300 are highly homologous, bromodomain-containing transcription coactivators involved in numerous cellular pathways relevant to oncology. As part of our effort to explore the potential therapeutic implications of selectively targeting ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsmedchemlett.6b00014?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsmedchemlett.6b00014?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00014?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsmedchemlett.6b00014?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsmedchemlett.6b00075?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmedchemlett.6b00075?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00075?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmedchemlett.6b00075?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.6b00176?src=recsys">Identification and in Vivo Evaluation of Liver X Receptor β-Selective Agonists for the Potential Treatment of Alzheimer’s Disease</a>
+                           <li><a href="/doi/abs/10.1021/acsmedchemlett.5b00284?src=recsys">Structure-Based Design of 1,4-Dibenzoylpiperazines as β-Catenin/B-Cell Lymphoma 9 Protein–Protein Interaction Inhibitors</a>
+                            <div class="achsLabel">
+                             ACS Medicinal Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wisniewski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Teuscher</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ji</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A small-molecule inhibitor with a 1,4-dibenzoylpiperazine scaffold was designed to match the critical binding elements in the β-catenin/B-cell lymphoma 9 (BCL9) protein–protein interaction interface. Inhibitor optimization led to a potent inhibitor that ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsmedchemlett.5b00284?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmedchemlett.5b00284?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.5b00284?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmedchemlett.5b00284?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">A Real-World Perspective on Molecular Design</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Stachel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zerbinatti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudd</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cosden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nanda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wessner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">DiMuzio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maxwell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Uslaner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Michener</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Szczerba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brnardic</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rada</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meissner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wuelfing</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ballard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Holahan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Klein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fradera</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Parthasarathy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Uebele</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cooke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bennett</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bilodeau</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Renger</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kuhn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bissantz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ceccarelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haap</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Körner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuglstatter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lerner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mattei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neidhart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pinard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudolph</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schulz-Gasch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Woltering</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stahl</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Herein, we describe the development of a functionally selective liver X receptor β (LXRβ) agonist series optimized for Emax selectivity, solubility, and physical properties to allow efficacy and safety studies in vivo. Compound <b>9</b> showed central ...</span>
+                             <span><span class="bold">Abstract:</span> We present a series of small molecule drug discovery case studies where computational methods were prospectively employed to impact Roche research projects, with the aim of highlighting those methods that provide real added value. Our brief accounts ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.6b00176?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.6b00176?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00176?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.6b00176?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01875?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01875?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01875?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1228,9 +1236,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.6b00025" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00025%3Fprg140729%3D8457a6a6-d88c-422b-b8e3-6219b3afe7b4&amp;doi=10.1021%2Facsmedchemlett.6b00025" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00025%3Fprg140729%3D6245a760-3147-439a-b8a8-7d4887ce5c16&amp;doi=10.1021%2Facsmedchemlett.6b00025" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00025%3Fprg140729%3D42d8b19e-51d0-4e7e-abd9-46f3208da23c&amp;title=Design+and+Synthesis+of+2-Alkylpyrimidine-4%2C6-diol+and+6-Alkylpyridine-2%2C4-diol+as+Potent+GPR84+Agonists&amp;doi=10.1021%2Facsmedchemlett.6b00025" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00025%3Fprg140729%3D6c602f4a-28df-4b32-aec3-b72a6b2d905f&amp;title=Design+and+Synthesis+of+2-Alkylpyrimidine-4%2C6-diol+and+6-Alkylpyridine-2%2C4-diol+as+Potent+GPR84+Agonists&amp;doi=10.1021%2Facsmedchemlett.6b00025" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

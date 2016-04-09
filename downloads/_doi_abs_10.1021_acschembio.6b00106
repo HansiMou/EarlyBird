@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2a6feed9-83bd-414b-a5e3-b761ad8d0512">
+<html lang="en" class="pb-page" data-request-id="3f205f8a-20e3-464c-82e7-25b4bb19814a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acschembio.6b00106;pageGroup:string:Publication Pages;issue:issue:10.1021/acbcct.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:acbcct;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00106%3Fprg140729%3D3cdb70c2-3522-427d-af7c-7b974e413e61" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00106?prg140729=3cdb70c2-3522-427d-af7c-7b974e413e61&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00106?prg140729=3cdb70c2-3522-427d-af7c-7b974e413e61">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00106%3Fprg140729%3Dba6ea2ea-e212-42fa-b6e7-954153e68d3e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00106?prg140729=ba6ea2ea-e212-42fa-b6e7-954153e68d3e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00106?prg140729=ba6ea2ea-e212-42fa-b6e7-954153e68d3e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -950,6 +950,16 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i3"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Methods" href="#_i12"><span>Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i19"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1008,21 +1018,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acschembio.5b01034?src=recsys">Six Biophysical Screening Methods Miss a Large Proportion of Crystallographically Discovered Fragment Hits: A Case Study</a>
-                            <div class="achsLabel">
-                             ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schiebel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Radeva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krimmer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stieler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ehrmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Metz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huschmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weiss</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mueller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heine</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Klebe</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Fragment-based lead discovery (FBLD) has become a pillar in drug development. Typical applications of this method comprise at least two biophysical screens as pre-filter and a follow-up crystallographic experiment on a subset of fragments. Clearly, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.5b01034?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.5b01034?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.5b01034?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acschembio.6b00103?src=recsys">Synchronous Bioimaging of Intracellular pH and Chloride Based on LSS Fluorescent Protein</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
@@ -1038,6 +1033,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acschembio.6b00103?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acschembio.6b00103?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.6b00103?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acschembio.5b01034?src=recsys">Six Biophysical Screening Methods Miss a Large Proportion of Crystallographically Discovered Fragment Hits: A Case Study</a>
+                            <div class="achsLabel">
+                             ACS Chemical Biology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schiebel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Radeva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krimmer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stieler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ehrmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Metz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huschmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weiss</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mueller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heine</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Klebe</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Fragment-based lead discovery (FBLD) has become a pillar in drug development. Typical applications of this method comprise at least two biophysical screens as prefilter and a follow-up crystallographic experiment on a subset of fragments. Clearly, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acschembio.5b01034?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.5b01034?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acschembio.5b01034?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acschembio.5b01034?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b06806?src=recsys">Harnessing Redox Cross-Reactivity To Profile Distinct Cysteine Modifications</a>
                             <div class="achsLabel">
@@ -1055,22 +1066,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b06806?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b06806?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acschembio.6b00095?src=recsys">Traceless Production of Cyclic Peptide Libraries in <i>E. coli</i></a>
-                            <div class="achsLabel">
-                             ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Townend</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Tavassoli</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Split intein circular ligation of peptides and proteins (SICLOPPS) is a genetically encoded method for the intracellular production of cyclic peptide libraries of around 100 million (10<sup>8</sup>) members that utilizes the <i>Synechocystis sp</i> PCC6803 (<i>Ssp</i>) DnaE split ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.6b00095?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acschembio.6b00095?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.6b00095?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.6b00095?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acschembio.5b00856?src=recsys">Naphthalimide Scaffold Provides Versatile Platform for Selective Thiol Sensing and Protein Labeling</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
@@ -1087,21 +1082,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acschembio.5b00856?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.5b00856?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acschembio.6b00031?src=recsys">Why Nature Chose Selenium</a>
+                           <li><a href="/doi/abs/10.1021/acschembio.6b00095?src=recsys">Traceless Production of Cyclic Peptide Libraries in <i>E. coli</i></a>
                             <div class="achsLabel">
                              ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Reich</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hondal</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Townend</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Tavassoli</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The authors were asked by the Editors of <i>ACS Chemical Biology</i> to write an article titled “Why Nature Chose Selenium” for the occasion of the upcoming bicentennial of the discovery of selenium by the Swedish chemist Jöns Jacob Berzelius in 1817 and styled ...</span>
+                             <span><span class="bold">Abstract:</span> Split intein circular ligation of peptides and proteins (SICLOPPS) is a genetically encoded method for the intracellular production of cyclic peptide libraries of around 100 million (10<sup>8</sup>) members that utilizes the <i>Synechocystis sp</i> PCC6803 (<i>Ssp</i>) DnaE split ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.6b00031?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acschembio.6b00031?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.6b00031?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.6b00031?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acschembio.6b00095?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.6b00095?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acschembio.6b00095?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acschembio.6b00095?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12848?src=recsys">Real-Time Discrimination and Versatile Profiling of Spontaneous Reactive Oxygen Species in Living Organisms with a Single Fluorescent Probe</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3769–3778</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Fluorescent probes are powerful tools for the investigations of reactive oxygen species (ROS) in living organisms by visualization and imaging. However, the multiparallel assays of several ROS with multiple probes are often limited by the available number ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12848?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12848?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12848?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12848?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1187,9 +1198,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facschembio.6b00106" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00106%3Fprg140729%3D18b9d24e-7c6d-4d93-a816-3d126c0d12ef&amp;doi=10.1021%2Facschembio.6b00106" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00106%3Fprg140729%3D5a3822bd-f5b6-49b1-90ad-a55b748bcb18&amp;doi=10.1021%2Facschembio.6b00106" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00106%3Fprg140729%3D3cdb70c2-3522-427d-af7c-7b974e413e61&amp;title=Benzothiazole+Sulfinate%3A+a+Water-Soluble+and+Slow-Releasing+Sulfur+Dioxide+Donor&amp;doi=10.1021%2Facschembio.6b00106" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00106%3Fprg140729%3Dba6ea2ea-e212-42fa-b6e7-954153e68d3e&amp;title=Benzothiazole+Sulfinate%3A+a+Water-Soluble+and+Slow-Releasing+Sulfur+Dioxide+Donor&amp;doi=10.1021%2Facschembio.6b00106" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

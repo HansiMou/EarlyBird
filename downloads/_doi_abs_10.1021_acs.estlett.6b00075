@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="55e2dd4e-c862-4f4e-94c5-dc7e89a4baf7">
+<html lang="en" class="pb-page" data-request-id="24998a88-c7b1-44b2-b453-666a6a51b628">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.estlett.6b00075;pageGroup:string:Publication Pages;issue:issue:10.1021/estlcu.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:estlcu;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00075%3Fprg140729%3D28fab7bd-4731-4182-9a97-14488475791b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00075?prg140729=28fab7bd-4731-4182-9a97-14488475791b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00075?prg140729=28fab7bd-4731-4182-9a97-14488475791b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00075%3Fprg140729%3D10088d87-a2ea-4334-8df2-e056e5d713c0" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00075?prg140729=10088d87-a2ea-4334-8df2-e056e5d713c0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00075?prg140729=10088d87-a2ea-4334-8df2-e056e5d713c0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -686,11 +686,10 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.estlett.6b00064" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.estlett.6b00066" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.estlett.6b00074" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1061,6 +1060,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b04970?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b04970?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b02818?src=recsys">Quantitative Survey and Structural Classification of Hydraulic Fracturing Chemicals Reported in Unconventional Gas Production</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Elsner</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hoelzer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>50</em> (7), pp 3290–3314</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Much interest is directed at the chemical structure of hydraulic fracturing (HF) additives in unconventional gas exploitation. To bridge the gap between existing alphabetical disclosures by function/CAS number and emerging scientific contributions on fate ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b02818?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b02818?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b02818?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b02818?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.estlett.6b00064?src=recsys">Rare-Earth Separation Using Bacteria</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bonificio</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Clarke</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The rare-earth elements are critical to many green energy technologies but are difficult to separate from one another because of their chemical similarity. We demonstrate an alternative, biogenic method based on the adsorption of lanthanide to the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.estlett.6b00064?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.estlett.6b00064?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.estlett.6b00064?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.estlett.6b00064?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.estlett.5b00354?src=recsys">Wood-Derived Black Carbon (Biochar) as a Microbial Electron Donor and Acceptor</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology Letters
@@ -1076,38 +1107,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.estlett.5b00354?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.estlett.5b00354?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.estlett.5b00354?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.estlett.6b00023?src=recsys">Beyond the Pipeline: Assessing the Efficiency Limits of Advanced Technologies for Solar Water Disinfection</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Loeb</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hofmann</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>3</em> (3), pp 73–80</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> This critical review analyzes and compares the efficiency of select technologies that harness solar energy for point-of-use water disinfection, including photocatalysts, photosensitizing chromophores, UVC light-emitting diodes, and visible-to-UVC ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.estlett.6b00023?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.estlett.6b00023?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.estlett.6b00023?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.estlett.6b00023?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.estlett.6b00030?src=recsys">Bacterial Nanocellulose Aerogel Membranes: Novel High-Porosity Materials for Membrane Distillation</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Leitch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ikkala</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mauter</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lowry</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>3</em> (3), pp 85–91</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We fabricated, characterized, and tested novel fibrous aerogel membranes in direct contact membrane distillation (MD) to elucidate the effects of a model high-porosity membrane material on MD performance. Unsupported bacterial nanocellulose aerogels ...<sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.estlett.6b00030?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.estlett.6b00030?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.estlett.6b00030?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.estlett.6b00030?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1193,9 +1192,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.estlett.6b00075" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00075%3Fprg140729%3Dd1764eb5-8d8f-441f-8ea9-747a864aebf8&amp;doi=10.1021%2Facs.estlett.6b00075" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00075%3Fprg140729%3D509dc77d-17d4-40a5-9f1b-fe796bffc732&amp;doi=10.1021%2Facs.estlett.6b00075" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00075%3Fprg140729%3D28fab7bd-4731-4182-9a97-14488475791b&amp;title=Biogenic+versus+Thermogenic+H2S+Source+Determination+in+Bakken+Wells%3A+Considerations+for+Biocide+Application&amp;doi=10.1021%2Facs.estlett.6b00075" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00075%3Fprg140729%3D10088d87-a2ea-4334-8df2-e056e5d713c0&amp;title=Biogenic+versus+Thermogenic+H2S+Source+Determination+in+Bakken+Wells%3A+Considerations+for+Biocide+Application&amp;doi=10.1021%2Facs.estlett.6b00075" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

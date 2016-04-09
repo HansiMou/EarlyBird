@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="7a12e3a6-1500-49be-8a88-573f422bd175">
+<html lang="en" class="pb-page" data-request-id="7f7c585c-3891-451c-979d-4e8a3c6952c7">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/iecred.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:iecred;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.iecr.5b03355">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b03355%3Fprg140729%3D713f92f4-7f07-42c4-bb4b-c4bf89975f6a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b03355?prg140729=713f92f4-7f07-42c4-bb4b-c4bf89975f6a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b03355?prg140729=713f92f4-7f07-42c4-bb4b-c4bf89975f6a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b03355%3Fprg140729%3Decb2246e-9d1c-44e6-9890-eae7ef312453" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b03355?prg140729=ecb2246e-9d1c-44e6-9890-eae7ef312453&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b03355?prg140729=ecb2246e-9d1c-44e6-9890-eae7ef312453">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1073,6 +1073,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.iecr.5b03981?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.iecr.5b03981?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.5b03212?src=recsys">Synthesis of Naphthalimidedioxime Ligand-Containing Fibers for Uranium Adsorption from Seawater</a>
+                            <div class="achsLabel">
+                             Industrial &amp; Engineering Chemistry Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chatterjee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bryantsev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brown</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Johnson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grant</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mayes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Saito</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A novel ligand-functionalized adsorbent material was prepared using a combination of radiation-induced graft polymerization (RIGP) and click chemistry (1,3 cycloaddition reaction). The design of the ligand-containing amidoxime functionality is based on ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.iecr.5b03212?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.5b03212?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b03212?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.5b03212?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.iecr.5b03008?src=recsys">Coprocessing of Catalytic-Pyrolysis-Derived Bio-Oil with VGO in a Pilot-Scale FCC Riser</a>
                             <div class="achsLabel">
                              Industrial &amp; Engineering Chemistry Research
@@ -1104,22 +1120,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.iecr.5b03649?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.iecr.5b03649?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.iecr.5b03649?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.iecr.5b03212?src=recsys">Synthesis of Naphthalimidedioxime Ligand-Containing Fibers for Uranium Adsorption from Seawater</a>
-                            <div class="achsLabel">
-                             Industrial &amp; Engineering Chemistry Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chatterjee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bryantsev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brown</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Johnson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grant</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mayes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Saito</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A novel ligand-functionalized adsorbent material was prepared using a combination of radiation-induced graft polymerization (RIGP) and click chemistry (1,3 cycloaddition reaction). The design of the ligand-containing amidoxime functionality is based on ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.iecr.5b03212?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.iecr.5b03212?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b03212?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.iecr.5b03212?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.iecr.5b03650?src=recsys">Nanostructured Metal Oxide Sorbents for the Collection and Recovery of Uranium from Seawater</a>
                             <div class="achsLabel">
@@ -1221,9 +1221,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.iecr.5b03355" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b03355%3Fprg140729%3D433b68fa-a936-45e5-be62-7ef472890bc1&amp;doi=10.1021%2Facs.iecr.5b03355" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b03355%3Fprg140729%3D1bb51830-b4b7-4587-8419-70b658b3fdb7&amp;doi=10.1021%2Facs.iecr.5b03355" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b03355%3Fprg140729%3D713f92f4-7f07-42c4-bb4b-c4bf89975f6a&amp;title=Uranium+Adsorbent+Fibers+Prepared+by+Atom-Transfer+Radical+Polymerization+%28ATRP%29+from+Poly%28vinyl+chloride%29-co-chlorinated+Poly%28vinyl+chloride%29+%28PVC-co-CPVC%29+Fiber&amp;doi=10.1021%2Facs.iecr.5b03355" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b03355%3Fprg140729%3Decb2246e-9d1c-44e6-9890-eae7ef312453&amp;title=Uranium+Adsorbent+Fibers+Prepared+by+Atom-Transfer+Radical+Polymerization+%28ATRP%29+from+Poly%28vinyl+chloride%29-co-chlorinated+Poly%28vinyl+chloride%29+%28PVC-co-CPVC%29+Fiber&amp;doi=10.1021%2Facs.iecr.5b03355" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1246,9 +1246,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq3nkjmja568LVg90H21EOLACvtfcHk0lg-SpopDn1P9g&amp;loc=%2FControllerServlet&amp;pubId=40026024" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGDlr6bjy0ZhwtQwD9OmoEd1uFl3r3x2FotVKZCsgJv9b&amp;loc=%2FControllerServlet&amp;pubId=40026024" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSTEi_HArMoFEtrnDmCxc-CThi25Vg2O3MmsNDrnlo4O7&amp;loc=%2FControllerServlet&amp;pubId=40026024" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq3nkjmja568LVg90H21EOLACvtfcHk0lhGf6tIR3eQOQ&amp;loc=%2FControllerServlet&amp;pubId=40026024" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGDlr6bjy0ZhwtQwD9OmoEd0-H6RguGUfiPhiWq12eeqo&amp;loc=%2FControllerServlet&amp;pubId=40026024" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSTEi_HArMoFEtrnDmCxc-CThi25Vg2O3MliCi8CQ-JNh&amp;loc=%2FControllerServlet&amp;pubId=40026024" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b58935f8-2397-44f6-8328-31fc337a774a">
+<html lang="en" class="pb-page" data-request-id="8b282f09-2612-4cac-9bfd-84accf385e97">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/cmatex.ahead-of-print;journal:journal:cmatex;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.chemmater.6b00277">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00277%3Fprg140729%3Dae026ec2-ef98-4153-847f-873cd9b3856f" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00277?prg140729=ae026ec2-ef98-4153-847f-873cd9b3856f&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00277?prg140729=ae026ec2-ef98-4153-847f-873cd9b3856f">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00277%3Fprg140729%3D28532995-622a-4ac4-80d4-169bf4c57491" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00277?prg140729=28532995-622a-4ac4-80d4-169bf4c57491&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00277?prg140729=28532995-622a-4ac4-80d4-169bf4c57491">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -674,16 +674,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.chemmater.6b00120" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.chemmater.6b00505" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/cmatex/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -958,13 +948,17 @@ function addFlashMovie(id, flv, image) {
                              <span class="phone">+86 20 87114204</span>. E-mail: 
                              <a href="mailto:pengmingying@scut.edu.cn">pengmingying@scut.edu.cn</a>.
                             </div>
+                            <div class="articleNote">
+                             <h4><span></span>&nbsp; Note</h4>
+                             <p class="first last">This paper was published ASAP on April 7, 2016, with panels c, d, e, and f missing from Figure 1. The corrected version was reposted on April 8, 2016.</p>
+                            </div>
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
-                               <img alt="Abstract Image" src="/appl/literatum/publisher/achs/journals/content/cmatex/0/cmatex.ahead-of-print/acs.chemmater.6b00277/20160407/images/medium/cm-2016-00277e_0009.gif">
+                               <img alt="Abstract Image" src="/appl/literatum/publisher/achs/journals/content/cmatex/0/cmatex.ahead-of-print/acs.chemmater.6b00277/20160408/images/medium/cm-2016-00277e_0009.gif">
                               </div>
                               <p class="articleBody_abstractText">The use of rare-earth (RE) (<i>e.g.</i>, Eu<sup>2+</sup>/Ce<sup>3+</sup>) ions as single luminescent centers in phosphors with tailorable emission properties has been extensively studied for their potential use in white LEDs. However, significant limitations remain, in particular, for red-emitting phosphors due to the inherently broad excitation bands which result from the underlying d–f transitions and span large parts of the visible spectral region. Guided by density functional theory calculations on the ligand structure of the non-RE Bi<sup>3+</sup> ion, we report here on an alternative class of phosphors, [(Y,Sc)(Nb,V)O<sub>4</sub>:Bi<sup>3+</sup>], which exhibit homogeneous Bi<sup>3+</sup> luminescence. In these materials, adjustment of the cation fractions enables dedicated tailoring of the excitation scheme within the spectral range of ∼340–420 nm and, in the meanwhile, allows for tunable emission spanning from about 450 nm (blue) to 647 nm (orange-red). The practical absence of any overlap between the emission and excitation spectra addresses the issues of emission color purity and visible reabsorption. Tailoring through band-gap modulation is achieved by single or parallel substitution of Nb by V and Y by Sc. Such topochemical design of the ligand configuration enables modulation of the electronic band gap and thus provides a new path toward tunable phosphors, exemplarily based on Bi<sup>3+</sup> single doping.</p>
                              </div>
@@ -1046,22 +1040,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04989?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.5b04989?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b03570?src=recsys">Color Manipulation of Intense Multiluminescence from CaZnOS:Mn<sup>2+</sup> by Mn<sup>2+</sup> Concentration Effect</a>
-                            <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>27</em> (21), pp 7481–7489</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Color manipulation of intense multiluminescence from CaZnOS:Mn<sup>2+</sup> has been realized by adjusting Mn<sup>2+</sup> concentration. Not only the photoluminescence (PL) of Mn<sup>2+</sup> emission from <sup>4</sup>T<sub>1</sub>(<sup>4</sup>G) to <sup>6</sup>A<sub>1</sub>(<sup>6</sup>S) shows a red shift from yellow to red with increasing Mn<sup>2+</sup> ...<sup></sup><sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.5b03570?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.5b03570?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b03570?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.5b03570?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpclett.5b02433?src=recsys">Critical Red Components for Next-Generation White LEDs</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry Letters
@@ -1078,21 +1056,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpclett.5b02433?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpclett.5b02433?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12501?src=recsys">Spectroscopy and Luminescence Dynamics of Ce<sup>3+</sup> and Sm<sup>3+</sup> in LiYSiO<sub>4</sub></a>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b03570?src=recsys">Color Manipulation of Intense Multiluminescence from CaZnOS:Mn<sup>2+</sup> by Mn<sup>2+</sup> Concentration Effect</a>
                             <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span> 
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (8), pp 4529–4537</span>
+                             <span><span class="bold">2015</span> <em>27</em> (21), pp 7481–7489</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The lithium yttrium silicate series of LiY<sub>1–<i>x</i></sub>Ln<sub><i>x</i></sub>SiO<sub>4</sub> exhibits superb chemical and optical properties, and with Ln = Ce<sup>3+</sup>, Sm<sup>3+</sup>, its spectroscopic characteristics and luminescence dynamics are investigated in the present work. Energy transfer and ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Color manipulation of intense multiluminescence from CaZnOS:Mn<sup>2+</sup> has been realized by adjusting Mn<sup>2+</sup> concentration. Not only the photoluminescence (PL) of Mn<sup>2+</sup> emission from <sup>4</sup>T<sub>1</sub>(<sup>4</sup>G) to <sup>6</sup>A<sub>1</sub>(<sup>6</sup>S) shows a red shift from yellow to red with increasing Mn<sup>2+</sup> ...<sup></sup><sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12501?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b12501?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12501?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12501?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.chemmater.5b03570?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.5b03570?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b03570?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.5b03570?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemmater.6b00353?src=recsys">Energy Migration Up-conversion of Tb<sup>3+</sup> in Yb<sup>3+</sup> and Nd<sup>3+</sup> Codoped Active-Core/Active-Shell Colloidal Nanoparticles</a>
                             <div class="achsLabel">
@@ -1109,6 +1087,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.chemmater.6b00353?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00353?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.6b00353?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04542?src=recsys">Ab Initio Structure Determination and Photoluminescent Properties of an Efficient, Thermally Stable Blue Phosphor, Ba<sub>2</sub>Y<sub>5</sub>B<sub>5</sub>O<sub>17</sub>:Ce<sup>3+</sup></a>
+                            <div class="achsLabel">
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hermus</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Phan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Brgoch</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>28</em> (4), pp 1121–1127</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The crystal structure of a novel barium yttrium borate, Ba<sub>2</sub>Y<sub>5</sub>B<sub>5</sub>O<sub>17</sub>, was determined using a combination of ab initio global optimization algorithms and density functional theory calculations along with Rietveld refinement of high-resolution synchrotron X-...<sub></sub><sup></sup><sup></sup><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemmater.5b04542?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.5b04542?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04542?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04542?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1159,9 +1153,9 @@ function addFlashMovie(id, flv, image) {
                              <div class="details">
                               Hi-Res Print, Annotate, Reference QuickView
                              </div> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.chemmater.6b00277" title="High-Res PDF: 3073 KB" target="_blank"> PDF <span class="details">(3073 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.chemmater.6b00277" title="High-Res PDF: 3401 KB" target="_blank"> PDF <span class="details">(3401 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00277" title="Low-Res PDF: 1108 KB" target="_blank"> PDF w/ Links <span class="details">(1108 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00277" title="Low-Res PDF: 1203 KB" target="_blank"> PDF w/ Links <span class="details">(1203 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.chemmater.6b00277" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1193,9 +1187,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.chemmater.6b00277" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00277%3Fprg140729%3Dd4abaf88-cf71-4e87-bf18-eea86d947ecd&amp;doi=10.1021%2Facs.chemmater.6b00277" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00277%3Fprg140729%3D434e29e2-1822-4591-a152-2917ce4872fd&amp;doi=10.1021%2Facs.chemmater.6b00277" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00277%3Fprg140729%3Dae026ec2-ef98-4153-847f-873cd9b3856f&amp;title=Band-Gap+Modulation+in+Single+Bi3%2B-Doped+Yttrium%E2%80%93Scandium%E2%80%93Niobium+Vanadates+for+Color+Tuning+over+the+Whole+Visible+Spectrum&amp;doi=10.1021%2Facs.chemmater.6b00277" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00277%3Fprg140729%3D28532995-622a-4ac4-80d4-169bf4c57491&amp;title=Band-Gap+Modulation+in+Single+Bi3%2B-Doped+Yttrium%E2%80%93Scandium%E2%80%93Niobium+Vanadates+for+Color+Tuning+over+the+Whole+Visible+Spectrum&amp;doi=10.1021%2Facs.chemmater.6b00277" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

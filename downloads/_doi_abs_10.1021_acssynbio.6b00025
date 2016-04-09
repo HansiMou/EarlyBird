@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="43285fa0-6bab-48ac-bcf7-c02b56d201f1">
+<html lang="en" class="pb-page" data-request-id="b70e799e-51ec-43ce-bbc0-765790ac7d12">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acssynbio.6b00025;issue:issue:10.1021/asbcd6.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:asbcd6;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssynbio.6b00025%3Fprg140729%3D2d0474ac-1683-4d2c-9b30-a070c8a20288" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssynbio.6b00025?prg140729=2d0474ac-1683-4d2c-9b30-a070c8a20288&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssynbio.6b00025?prg140729=2d0474ac-1683-4d2c-9b30-a070c8a20288">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssynbio.6b00025%3Fprg140729%3Dd7978c2a-2fb3-4595-a20c-097a05b491e7" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssynbio.6b00025?prg140729=d7978c2a-2fb3-4595-a20c-097a05b491e7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssynbio.6b00025?prg140729=d7978c2a-2fb3-4595-a20c-097a05b491e7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1046,6 +1046,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acssynbio.5b00216?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acssynbio.5b00216?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acssynbio.5b00240?src=recsys">Combinatorial Evolution of Enzymes and Synthetic Pathways Using One-Step PCR</a>
+                            <div class="achsLabel">
+                             ACS Synthetic Biology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Du</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>5</em> (3), pp 259–268</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> DNA engineering is the fundamental motive driving the rapid development of modern biotechnology. Here, we present a versatile evolution method termed “rapidly efficient combinatorial oligonucleotides for directed evolution” (RECODE) for rapidly ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acssynbio.5b00240?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acssynbio.5b00240?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acssynbio.5b00240?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acssynbio.5b00240?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acssynbio.6b00011?src=recsys">A Droplet Microfluidic Platform for Automating Genetic Engineering</a>
                             <div class="achsLabel">
                              ACS Synthetic Biology
@@ -1078,21 +1094,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acssynbio.5b00161?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acssynbio.5b00161?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acssynbio.5b00240?src=recsys">Combinatorial Evolution of Enzymes and Synthetic Pathways Using One-Step PCR</a>
+                           <li><a href="/doi/abs/10.1021/acssynbio.5b00296?src=recsys">The All <i>E. coli</i> TX-TL Toolbox 2.0: A Platform for Cell-Free Synthetic Biology</a>
                             <div class="achsLabel">
                              ACS Synthetic Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Du</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Garamella</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marshall</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rustad</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Noireaux</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>5</em> (3), pp 259–268</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> DNA engineering is the fundamental motive driving the rapid development of modern biotechnology. Here, we present a versatile evolution method termed “rapidly efficient combinatorial oligonucleotides for directed evolution” (RECODE) for rapidly ...<sup></sup></span>
+                             <span><span class="bold">Abstract:</span> We report on and provide a detailed characterization of the performance and properties of a recently developed, all <i><i>Escherichia coli</i></i>, cell-free transcription and translation system. Gene expression is entirely based on the endogenous translation ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acssynbio.5b00240?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acssynbio.5b00240?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acssynbio.5b00240?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acssynbio.5b00240?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acssynbio.5b00296?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acssynbio.5b00296?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acssynbio.5b00296?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acssynbio.5b00296?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acssynbio.5b00153?src=recsys">Engineering a Polyketide Synthase for <i>In Vitro</i> Production of Adipic Acid</a>
                             <div class="achsLabel">
@@ -1109,22 +1125,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acssynbio.5b00153?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acssynbio.5b00153?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acssynbio.5b00153?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acssynbio.5b00296?src=recsys">The All <i>E. coli</i> TX-TL Toolbox 2.0: A Platform for Cell-Free Synthetic Biology</a>
-                            <div class="achsLabel">
-                             ACS Synthetic Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Garamella</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marshall</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rustad</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Noireaux</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We report on and provide a detailed characterization of the performance and properties of a recently developed, all <i><i>Escherichia coli</i></i>, cell-free transcription and translation system. Gene expression is entirely based on the endogenous translation ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acssynbio.5b00296?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acssynbio.5b00296?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acssynbio.5b00296?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acssynbio.5b00296?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1210,9 +1210,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facssynbio.6b00025" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssynbio.6b00025%3Fprg140729%3D9ddd9503-4d76-41e1-bee6-923e043fddfb&amp;doi=10.1021%2Facssynbio.6b00025" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssynbio.6b00025%3Fprg140729%3Df5c67f2c-c769-4ceb-b067-7e8993496c40&amp;doi=10.1021%2Facssynbio.6b00025" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssynbio.6b00025%3Fprg140729%3D2d0474ac-1683-4d2c-9b30-a070c8a20288&amp;title=Metabolic+Engineering+of+Pseudomonas+putida+KT2440+for+Complete+Mineralization+of+Methyl+Parathion+and+%CE%B3-Hexachlorocyclohexane&amp;doi=10.1021%2Facssynbio.6b00025" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssynbio.6b00025%3Fprg140729%3Dd7978c2a-2fb3-4595-a20c-097a05b491e7&amp;title=Metabolic+Engineering+of+Pseudomonas+putida+KT2440+for+Complete+Mineralization+of+Methyl+Parathion+and+%CE%B3-Hexachlorocyclohexane&amp;doi=10.1021%2Facssynbio.6b00025" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1235,9 +1235,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGr-5SLFgmuwpLVg90H21EOLACvtfcHk0lgMpoEjuDSojA&amp;loc=%2FControllerServlet&amp;pubId=358312976" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGOdi_jEO_SJttQwD9OmoEd33X8oq3VWJmbbvB30uxRqc&amp;loc=%2FControllerServlet&amp;pubId=358312976" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSdZm3Cvi0BYNtrnDmCxc-CThi25Vg2O3MuXdcnl_VP4-&amp;loc=%2FControllerServlet&amp;pubId=358312976" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGr-5SLFgmuwpLVg90H21EOLACvtfcHk0ljiHkF2JJgvQA&amp;loc=%2FControllerServlet&amp;pubId=358312976" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGOdi_jEO_SJttQwD9OmoEd0pj8Lr2aRDRWGHOyylxoyB&amp;loc=%2FControllerServlet&amp;pubId=358312976" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSdZm3Cvi0BYNtrnDmCxc-CThi25Vg2O3MtyjIvg6enzQ&amp;loc=%2FControllerServlet&amp;pubId=358312976" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

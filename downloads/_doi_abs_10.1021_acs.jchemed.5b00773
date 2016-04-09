@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="88ae13d4-8550-4742-97d9-e4a41ca17b3e">
+<html lang="en" class="pb-page" data-request-id="117e0eb0-7477-46b0-84f6-7320ef68d307">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;issue:issue:10.1021/jceda8.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.jchemed.5b00773;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00773%3Fprg140729%3D6d41c564-f493-4cd5-a3dc-ccf6a91717c1" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00773?prg140729=6d41c564-f493-4cd5-a3dc-ccf6a91717c1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00773?prg140729=6d41c564-f493-4cd5-a3dc-ccf6a91717c1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00773%3Fprg140729%3Dcffb84fd-09db-4ec4-9ce2-7c7aac412e0c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00773?prg140729=cffb84fd-09db-4ec4-9ce2-7c7aac412e0c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00773?prg140729=cffb84fd-09db-4ec4-9ce2-7c7aac412e0c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1030,22 +1030,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00748?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00748?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00160?src=recsys">Deducing Reaction Mechanism: A Guide for Students, Researchers, and Instructors</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Meek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pitman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Miller</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>93</em> (2), pp 275–286</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> An introductory guide to deducing the mechanism of chemical reactions is presented. Following a typical workflow for probing reaction mechanism, the guide introduces a wide range of kinetic and mechanistic tools. In addition to serving as a broad ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00160?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00160?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00160?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00160?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00900?src=recsys">Strategies of Successful Synthesis Solutions: Mapping, Mechanisms, and More</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
@@ -1062,21 +1046,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00900?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00900?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00634?src=recsys">Solving Simple Kinetics without Integrals</a>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00160?src=recsys">Deducing Reaction Mechanism: A Guide for Students, Researchers, and Instructors</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hernández de la Peña</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Meek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pitman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Miller</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>93</em> (2), pp 275–286</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> An introductory guide to deducing the mechanism of chemical reactions is presented. Following a typical workflow for probing reaction mechanism, the guide introduces a wide range of kinetic and mechanistic tools. In addition to serving as a broad ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00160?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00160?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00160?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00160?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00841?src=recsys">Comment on “An Alternative Presentation of the Second Law of Thermodynamics”</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Education
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">DeVoe</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The solution of simple kinetic equations is analyzed without referencing any topic from differential equations or integral calculus. Guided by the physical meaning of the rate equation, a systematic procedure is used to generate an approximate solution ...</span>
+                             <span><span class="bold">Abstract:</span> This letter points out flaws in a derivation of the inequality d<i>S</i> &gt; δ<i>q</i><sub>irrev</sub>/<i>T</i> as presented in a recent article in this <i>Journal</i> (Lee, S.; Lee, K.; Lee, J. <i>J. Chem. Educ.</i><b>2015</b>, <i>92</i>, 771–773).</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00634?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00634?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00634?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00634?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00841?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00841?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00841?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00841?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1160,9 +1160,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00773" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00773%3Fprg140729%3D8953b1d1-ef55-4078-9865-9ccfa60efa39&amp;doi=10.1021%2Facs.jchemed.5b00773" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00773%3Fprg140729%3Da383419e-929b-4eab-bba7-47bd01aa67d4&amp;doi=10.1021%2Facs.jchemed.5b00773" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00773%3Fprg140729%3D6d41c564-f493-4cd5-a3dc-ccf6a91717c1&amp;title=My+Dear+Buret%2C+Your+Time+Has+Indeed+Come%21&amp;doi=10.1021%2Facs.jchemed.5b00773" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00773%3Fprg140729%3Dcffb84fd-09db-4ec4-9ce2-7c7aac412e0c&amp;title=My+Dear+Buret%2C+Your+Time+Has+Indeed+Come%21&amp;doi=10.1021%2Facs.jchemed.5b00773" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

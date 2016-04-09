@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="214a877e-5e76-4c81-8daa-68de71811e1c">
+<html lang="en" class="pb-page" data-request-id="186488a2-c679-45f8-a3d6-eadba4eda8a9">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsami.6b00706;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00706%3Fprg140729%3Dd58d665b-95ba-42ab-9ee8-f398b8ae2944" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00706?prg140729=d58d665b-95ba-42ab-9ee8-f398b8ae2944&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00706?prg140729=d58d665b-95ba-42ab-9ee8-f398b8ae2944">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00706%3Fprg140729%3D4a3114b5-87ea-417f-8c02-17423d4dddc1" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00706?prg140729=4a3114b5-87ea-417f-8c02-17423d4dddc1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00706?prg140729=4a3114b5-87ea-417f-8c02-17423d4dddc1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -678,7 +678,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acsami.6b00487" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acsami.6b00286" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1031,52 +1031,37 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04538?src=recsys">Hydrogen Storage in the Expanded Pore Metal–Organic Frameworks M<sub>2</sub>(dobpdc) (M = Mg, Mn, Fe, Co, Ni, Zn)</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01233?src=recsys">A Titanium–Organic Framework as an Exemplar of Combining the Chemistry of Metal– and Covalent–Organic Frameworks</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nguyen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gándara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Furukawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cordova</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yaghi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4330–4333</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A crystalline material with a two-dimensional structure, termed metal–organic framework-901 (MOF-901), was prepared using a strategy that combines the chemistry of MOFs and covalent–organic frameworks (COFs). This strategy involves <i>in situ</i> generation of ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01233?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01233?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01233?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01233?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00443?src=recsys">Selective Hysteretic Sorption of Light Hydrocarbons in a Flexible Metal–Organic Framework Material</a>
                             <div class="achsLabel">
                              Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gygi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bloch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mason</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hudson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gonzalez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Siegelman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Darwish</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Queen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brown</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Long</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morris</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Godfrey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Murray</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schröder</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>28</em> (4), pp 1128–1138</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The hydrogen storage properties of a new family of isostructural metal–organic frameworks are reported. The frameworks M<sub>2</sub>(dobpdc) (M = Mg, Mn, Fe, Co, Ni, Zn; dobpdc<sup>4–</sup> = 4,4′-dioxidobiphenyl-3,3′-dicarboxylate) are analogous to the widely studied M<sub>2</sub>(dobdc)...<sup></sup><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Porous MFM-202a (MFM = Manchester Framework Material, replacing the NOTT designation) shows an exceptionally high uptake of acetylene, 18.3 mmol g<sup>–1</sup> (47.6 wt %) at 195 K and 1.0 bar, representing the highest value reported to date for a framework ...<sub></sub><sub></sub><sup></sup><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.5b04538?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.5b04538?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04538?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04538?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b12688?src=recsys">Thermal Stabilization of Metal–Organic Framework-Derived Single-Site Catalytic Clusters through Nanocasting</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Malonzo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shaker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ren</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prinslow</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Platero-Prats</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gallington</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Borycz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thompson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Farha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hupp</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chapman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Myers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Penn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gagliardi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tsapatsis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stein</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (8), pp 2739–2748</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Metal–organic frameworks (MOFs) provide convenient systems for organizing high concentrations of single catalytic sites derived from metallic or oxo-metallic nodes. However, high-temperature processes cause agglomeration of these nodes, so that the single-...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b12688?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b12688?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b12688?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b12688?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01414?src=recsys">Seed-Mediated Synthesis of Metal-Organic Frameworks</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The synthesis of phase-pure metal-organic frameworks (MOFs) is of prime importance but remains a significant challenge, due to the flexible and diversified coordination modes between metal ions and organic linkers. In this work, we report the synthesis of ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01414?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01414?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01414?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.chemmater.6b00443?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.6b00443?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00443?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00443?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00007?src=recsys">Size-Controlled Synthesis of Porphyrinic Metal–Organic Framework and Functionalization for Targeted Photodynamic Therapy</a>
                             <div class="achsLabel">
@@ -1094,37 +1079,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00007?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00007?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01233?src=recsys">A Titanium–Organic Framework as an Exemplar of Combining the Chemistry of Metal– and Covalent–Organic Frameworks</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12688?src=recsys">Thermal Stabilization of Metal–Organic Framework-Derived Single-Site Catalytic Clusters through Nanocasting</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nguyen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gándara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Furukawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cordova</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yaghi</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Malonzo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shaker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ren</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prinslow</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Platero-Prats</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gallington</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Borycz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thompson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Farha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hupp</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chapman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Myers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Penn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gagliardi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tsapatsis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stein</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4330–4333</span>
+                             <span><span class="bold">2016</span> <em>138</em> (8), pp 2739–2748</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A crystalline material with a two-dimensional structure, termed metal–organic framework-901 (MOF-901), was prepared using a strategy that combines the chemistry of MOFs and covalent–organic frameworks (COFs). This strategy involves <i>in situ</i> generation of ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Metal–organic frameworks (MOFs) provide convenient systems for organizing high concentrations of single catalytic sites derived from metallic or oxo-metallic nodes. However, high-temperature processes cause agglomeration of these nodes, so that the single-...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01233?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01233?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01233?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01233?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b12688?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12688?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12688?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12688?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b11797?src=recsys">Porous Organic Cages for Sulfur Hexafluoride Separation</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00069?src=recsys">Structural Transitions of the Metal-Oxide Nodes within Metal–Organic Frameworks: On the Local Structures of NU-1000 and UiO-66</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hasell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miklitz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stephenson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Little</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Clowes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Holden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tribello</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jelfs</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cooper</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Platero-Prats</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mavrandonakis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gallington</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hupp</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Farha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cramer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chapman</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (5), pp 1653–1659</span>
+                             <span><span class="bold">2016</span> <em>138</em> (12), pp 4178–4185</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A series of porous organic cages is examined for the selective adsorption of sulfur hexafluoride (SF<sub>6</sub>) over nitrogen. Despite lacking any metal sites, a porous cage, <b>CC3</b>, shows the highest SF<sub>6</sub>/N<sub>2</sub> selectivity reported for any material at ambient ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> In situ pair distribution function (PDF) analyses and density functional theory (DFT) computations are used to probe local structural transitions of M<sub>6</sub>O<sub>8</sub> nodes found in two metal organic frameworks (MOFs), NU-1000 and UiO-66, for M = Zr, Hf. Such ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b11797?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b11797?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b11797?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b11797?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b00069?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00069?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00069?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00069?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00652?src=recsys">A Pyrene-Based, Fluorescent Three-Dimensional Covalent Organic Framework</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (10), pp 3302–3305</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The targeted synthesis of 3D COFs has been considered challenging, especially adopting new topologies and bearing photoelectric units. Herein, for the first time, we report the synthesis and characterization of a novel 3D pyrene-based COF (3D-Py-COF), by ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b00652?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00652?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00652?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00652?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1210,9 +1211,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b00706" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00706%3Fprg140729%3D0122d9dd-4591-4c9a-988f-34bc7e53e78f&amp;doi=10.1021%2Facsami.6b00706" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00706%3Fprg140729%3Da3f0a009-cb06-4e09-8170-c0811ab72970&amp;doi=10.1021%2Facsami.6b00706" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00706%3Fprg140729%3Dd58d665b-95ba-42ab-9ee8-f398b8ae2944&amp;title=Water-Stable+Anionic+Metal%E2%80%93Organic+Framework+for+Highly+Selective+Separation+of+Methane+from+Natural+Gas+and+Pyrolysis+Gas&amp;doi=10.1021%2Facsami.6b00706" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00706%3Fprg140729%3D4a3114b5-87ea-417f-8c02-17423d4dddc1&amp;title=Water-Stable+Anionic+Metal%E2%80%93Organic+Framework+for+Highly+Selective+Separation+of+Methane+from+Natural+Gas+and+Pyrolysis+Gas&amp;doi=10.1021%2Facsami.6b00706" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

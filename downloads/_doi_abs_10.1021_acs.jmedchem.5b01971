@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="bca4f691-1033-4aae-8e32-ccf934cce575">
+<html lang="en" class="pb-page" data-request-id="6d72a437-a424-4391-872a-01ef0ccbdad5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jmedchem.5b01971;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jmcmar;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01971%3Fprg140729%3D805263db-ed34-4a41-bf39-7f3dc565f6f8" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01971?prg140729=805263db-ed34-4a41-bf39-7f3dc565f6f8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01971?prg140729=805263db-ed34-4a41-bf39-7f3dc565f6f8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01971%3Fprg140729%3Da19527d5-2956-45c1-b8ef-32cb586cd489" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01971?prg140729=a19527d5-2956-45c1-b8ef-32cb586cd489&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01971?prg140729=a19527d5-2956-45c1-b8ef-32cb586cd489">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -973,6 +973,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i12"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i13"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i34"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1115,21 +1127,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00007?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.6b00007?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.6b00023?src=recsys">Identification of a Human Toll-Like Receptor (TLR) 8-Specific Agonist and a Functional Pan-TLR Inhibitor in 2-Aminoimidazoles</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">A Real-World Perspective on Molecular Design</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Beesu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Caruso</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Salyer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shukla</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Khetani</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fox</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tanji</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ohto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shimizu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">David</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kuhn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bissantz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ceccarelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haap</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Körner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuglstatter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lerner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mattei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neidhart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pinard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudolph</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schulz-Gasch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Woltering</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stahl</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Activation of human toll-like receptor-8 (TLR8), expressed in myeloid dendritic cells, monocytes, and monocyte-derived dendritic cells, evokes a distinct cytokine profile which favors the development of Type 1 helper T cells. Part-structures of the 2-...</span>
+                             <span><span class="bold">Abstract:</span> We present a series of small molecule drug discovery case studies where computational methods were prospectively employed to impact Roche research projects, with the aim of highlighting those methods that provide real added value. Our brief accounts ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.6b00023?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.6b00023?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00023?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.6b00023?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01875?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01875?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01875?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1215,9 +1227,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.5b01971" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01971%3Fprg140729%3Dac4e213e-3b49-4907-9298-9348ea406400&amp;doi=10.1021%2Facs.jmedchem.5b01971" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01971%3Fprg140729%3D0662961e-5009-4413-abd6-051e7df785f6&amp;doi=10.1021%2Facs.jmedchem.5b01971" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01971%3Fprg140729%3D805263db-ed34-4a41-bf39-7f3dc565f6f8&amp;title=Far-Red+Light-Activatable+Prodrug+of+Paclitaxel+for+the+Combined+Effects+of+Photodynamic+Therapy+and+Site-Specific+Paclitaxel+Chemotherapy&amp;doi=10.1021%2Facs.jmedchem.5b01971" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01971%3Fprg140729%3Da19527d5-2956-45c1-b8ef-32cb586cd489&amp;title=Far-Red+Light-Activatable+Prodrug+of+Paclitaxel+for+the+Combined+Effects+of+Photodynamic+Therapy+and+Site-Specific+Paclitaxel+Chemotherapy&amp;doi=10.1021%2Facs.jmedchem.5b01971" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1240,9 +1252,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqdz08NHXz38rVg90H21EOLACvtfcHk0liIDJmnGWVC6A&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGL3p1Bg9lCVOtQwD9OmoEd0MtWLACMShZPaXZAP0lTLL&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXMdAdDnDG6utrnDmCxc-CThi25Vg2O3MgJvGEi2tHvA&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqdz08NHXz38rVg90H21EOLACvtfcHk0lhvs6jSSEmw7A&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGL3p1Bg9lCVOtQwD9OmoEd3zdgcJloeJcwxYHOm2taGa&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXMdAdDnDG6utrnDmCxc-CThi25Vg2O3MpLtakDqwCIQ&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

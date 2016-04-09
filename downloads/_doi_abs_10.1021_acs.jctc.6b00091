@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c56b921a-a2c1-40e2-81a8-02ea839bafca">
+<html lang="en" class="pb-page" data-request-id="ab1dddc6-f6b8-4f3c-8337-09d37ef8ee72">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;article:article:10.1021/acs.jctc.6b00091;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00091%3Fprg140729%3D6cef49c5-e24e-479a-a338-72d27807c0bc" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00091?prg140729=6cef49c5-e24e-479a-a338-72d27807c0bc&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00091?prg140729=6cef49c5-e24e-479a-a338-72d27807c0bc">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00091%3Fprg140729%3D5c033481-f457-48e8-8956-9daa7b80148f" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00091?prg140729=5c033481-f457-48e8-8956-9daa7b80148f&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00091?prg140729=5c033481-f457-48e8-8956-9daa7b80148f">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1032,22 +1032,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01040?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01040?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00156?src=recsys">Automated Selection of Active Orbital Spaces</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Stein</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Reiher</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> One of the key challenges of quantum-chemical multi-configuration methods is the necessity to manually select orbitals for the active space. This selection requires both expertise and experience and can therefore impose severe limitations on the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.6b00156?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.6b00156?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00156?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.6b00156?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.6b00034?src=recsys">Potential Energy Surface of the Chromium Dimer Re-re-revisited with Multiconfigurational Perturbation Theory</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1064,37 +1048,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.6b00034?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.6b00034?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01190?src=recsys">Combining the Complete Active Space Self-Consistent Field Method and the Full Configuration Interaction Quantum Monte Carlo within a Super-CI Framework, with Application to Challenging Metal-Porphyrins</a>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00156?src=recsys">Automated Selection of Active Orbital Spaces</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li Manni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smart</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Alavi</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (3), pp 1245–1258</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A novel stochastic Complete Active Space Self-Consistent Field (CASSCF) method has been developed and implemented in the Molcas software package. A two-step procedure is used, in which the CAS configuration interaction secular equations are solved ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01190?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01190?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01190?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01190?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01000?src=recsys">Averaged Solvent Embedding Potential Parameters for Multiscale Modeling of Molecular Properties</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Beerepoot</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Steindal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">List</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kongsted</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Olsen</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Stein</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Reiher</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We derive and validate averaged solvent parameters for embedding potentials to be used in polarizable embedding quantum mechanics/molecular mechanics (QM/MM) molecular property calculations of solutes in organic solvents. The parameters are solvent-...</span>
+                             <span><span class="bold">Abstract:</span> One of the key challenges of quantum-chemical multi-configuration methods is the necessity to manually select orbitals for the active space. This selection requires both expertise and experience and can therefore impose severe limitations on the ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01000?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01000?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01000?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01000?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jctc.6b00156?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.6b00156?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00156?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.6b00156?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00782?src=recsys">Evaluation of the Performance of the B3LYP, PBE0, and M06 DFT Functionals, and DBLOC-Corrected Versions, in the Calculation of Redox Potentials and Spin Splittings for Transition Metal Containing Systems</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Coskun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jerome</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Friesner</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>12</em> (3), pp 1121–1128</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We have evaluated the performance of the M06 and PBE0 functionals in their ability to calculate spin splittings and redox potentials for octahedral complexes containing a first transition metal series atom. The mean unsigned errors (MUEs) for these two ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b00782?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b00782?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00782?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b00782?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00008?src=recsys">Potential Energy Curves in the CASSCF/CASPT2 and FS-MR-CC Methods: The Role of Relativistic Effects</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Barysz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Ab initio CASSCF/CASPT2 calculations for the electronic ground and for a wide range of excited states of Li<sub>2</sub> and Na<sub>2</sub> dimers are presented. The computed spectroscopic parameters agree very well with the experimental data. This indicates that the old CASSCF/...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.6b00008?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.6b00008?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00008?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.6b00008?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1180,9 +1180,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.6b00091" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00091%3Fprg140729%3Dd03bc7bc-1c77-4cf9-ad04-4ae63c052e42&amp;doi=10.1021%2Facs.jctc.6b00091" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00091%3Fprg140729%3D4ab75ff6-5a38-4fe7-bb29-0abd347660ce&amp;doi=10.1021%2Facs.jctc.6b00091" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00091%3Fprg140729%3D6cef49c5-e24e-479a-a338-72d27807c0bc&amp;title=Influence+of+Electron+Correlation+on+the+Electronic+Structure+and+Magnetism+of+Transition-Metal+Phthalocyanines&amp;doi=10.1021%2Facs.jctc.6b00091" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00091%3Fprg140729%3D5c033481-f457-48e8-8956-9daa7b80148f&amp;title=Influence+of+Electron+Correlation+on+the+Electronic+Structure+and+Magnetism+of+Transition-Metal+Phthalocyanines&amp;doi=10.1021%2Facs.jctc.6b00091" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1205,9 +1205,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpRx3EKnX-ZV7Vg90H21EOLACvtfcHk0lih_d0C7YwJhg&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGJkUrJPFCoAZtQwD9OmoEd0cVSZTFEBqiD1pXU0JfwTq&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQNB4_TDBsYVtrnDmCxc-CThi25Vg2O3Mt7Y1F7DX0Zp&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpRx3EKnX-ZV7Vg90H21EOLACvtfcHk0lj_8P-q9rJSDg&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGJkUrJPFCoAZtQwD9OmoEd1DVgg-8IK4PuNNw4B-YctS&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQNB4_TDBsYVtrnDmCxc-CThi25Vg2O3MgyguWU8MwUm&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5b6632b3-49e6-4ecd-8b9e-dc15acfcc5ad">
+<html lang="en" class="pb-page" data-request-id="3f04d7a1-9a6f-4381-afe4-bf804c8ca4dd">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.nanolett.5b05319;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05319%3Fprg140729%3D2d1748f1-d05a-4e15-8f1c-8d2ee4f103d8" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05319?prg140729=2d1748f1-d05a-4e15-8f1c-8d2ee4f103d8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05319?prg140729=2d1748f1-d05a-4e15-8f1c-8d2ee4f103d8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05319%3Fprg140729%3D1bd4d977-4f2e-4cdc-b1f7-7cf7494c1b71" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05319?prg140729=1bd4d977-4f2e-4cdc-b1f7-7cf7494c1b71&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05319?prg140729=1bd4d977-4f2e-4cdc-b1f7-7cf7494c1b71">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -964,14 +964,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i6"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1105,22 +1097,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04540?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.5b04540?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00292?src=recsys">Shape-Controlled Deterministic Assembly of Nanowires</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mankin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lieber</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Large-scale, deterministic assembly of nanowires and nanotubes with rationally controlled geometries could expand the potential applications of one-dimensional nanomaterials in bottom-up integrated nanodevice arrays and circuits. Control of the positions ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.6b00292?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.6b00292?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00292?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00292?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.5b04319?src=recsys">Templated Self-Assembly of Ultrathin Gold Nanowires by Nanoimprinting for Transparent Flexible Electronics</a>
                             <div class="achsLabel">
                              Nano Letters
@@ -1136,6 +1112,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.nanolett.5b04319?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04319?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.5b04319?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00292?src=recsys">Shape-Controlled Deterministic Assembly of Nanowires</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mankin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lieber</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Large-scale, deterministic assembly of nanowires and nanotubes with rationally controlled geometries could expand the potential applications of one-dimensional nanomaterials in bottom-up integrated nanodevice arrays and circuits. Control of the positions ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00292?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00292?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00292?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00292?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1188,7 +1180,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.nanolett.5b05319" title="High-Res PDF: 3659 KB" target="_blank"> PDF <span class="details">(3659 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05319" title="Low-Res PDF: 403 KB" target="_blank"> PDF w/ Links <span class="details">(403 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05319" title="Low-Res PDF: 404 KB" target="_blank"> PDF w/ Links <span class="details">(404 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.nanolett.5b05319" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1221,9 +1213,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.5b05319" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05319%3Fprg140729%3Dcd61be2d-1386-4cef-bf05-5b38a2981ba2&amp;doi=10.1021%2Facs.nanolett.5b05319" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05319%3Fprg140729%3D0bb1e4ff-a313-48d4-a1f8-8d08fc420ff3&amp;doi=10.1021%2Facs.nanolett.5b05319" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05319%3Fprg140729%3D2d1748f1-d05a-4e15-8f1c-8d2ee4f103d8&amp;title=Heterogeneity+in+the+Small-Scale+Deformation+Behavior+of+Disordered+Nanoparticle+Packings&amp;doi=10.1021%2Facs.nanolett.5b05319" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05319%3Fprg140729%3D1bd4d977-4f2e-4cdc-b1f7-7cf7494c1b71&amp;title=Heterogeneity+in+the+Small-Scale+Deformation+Behavior+of+Disordered+Nanoparticle+Packings&amp;doi=10.1021%2Facs.nanolett.5b05319" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1246,8 +1238,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrRJRUiOWQzhbVg90H21EOLACvtfcHk0lid6Ja9KJZjlg&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSSOBwPe-0d0WtrnDmCxc-CThi25Vg2O3MmktkoME1buq&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrRJRUiOWQzhbVg90H21EOLACvtfcHk0li0i4WRQlcCyQ&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSSOBwPe-0d0WtrnDmCxc-CThi25Vg2O3Ms19umnXUIKg&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

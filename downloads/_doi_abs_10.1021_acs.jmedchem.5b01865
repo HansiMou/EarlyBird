@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="315450e2-4b18-46a5-b815-75e7b815a369">
+<html lang="en" class="pb-page" data-request-id="78eabdd9-89a2-436c-a4f2-2ec9e0d4c5b9">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jmcmar.ahead-of-print;article:article:10.1021/acs.jmedchem.5b01865;pageGroup:string:Publication Pages;journal:journal:jmcmar;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -163,8 +163,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01865%3Fprg140729%3D6bbf22fc-bd34-436c-9931-9ec5040c079e" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01865?prg140729=6bbf22fc-bd34-436c-9931-9ec5040c079e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01865?prg140729=6bbf22fc-bd34-436c-9931-9ec5040c079e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01865%3Fprg140729%3Dbea97eb0-2b77-47c9-8bb3-cf09de7daf5a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01865?prg140729=bea97eb0-2b77-47c9-8bb3-cf09de7daf5a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01865?prg140729=bea97eb0-2b77-47c9-8bb3-cf09de7daf5a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1078,6 +1078,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i2"><span>Results</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i14"><span>Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i15"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i27"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1222,22 +1234,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01874?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01874?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01760?src=recsys">Potent and Selective Inhibitors of MTH1 Probe Its Role in Cancer Cell Survival</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kettle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alwan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bista</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Breed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Davies</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Eckersley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fillery</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Foote</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Goodwin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jones</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Käck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nissink</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Read</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Scott</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Taylor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Walker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wissler</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wylot</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>59</em> (6), pp 2346–2361</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Recent literature has claimed that inhibition of the enzyme MTH1 can eradicate cancer. MTH1 is one of the “housekeeping” enzymes that are responsible for hydrolyzing damaged nucleotides in cells and thus prevent them from being incorporated into DNA. We ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01760?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01760?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01760?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01760?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01921?src=recsys">Avoiding Missed Opportunities by Analyzing the Sensitivity of Our Decisions</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1253,6 +1249,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jmedchem.5b01921?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01921?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01921?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Integrating Everything: The Molecule Selection Toolkit, a System for Compound Prioritization in Drug Discovery</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cummins</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Bell</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In recent years there have been numerous papers on the topic of multiattribute optimization in pharmaceutical discovery chemistry, applied to compound prioritization. Many solutions proposed are static in nature; fixed functions are proposed for general ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01338?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01338?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01338?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1338,9 +1350,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.5b01865" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01865%3Fprg140729%3Dc3709696-b228-4245-a103-e3752077428b&amp;doi=10.1021%2Facs.jmedchem.5b01865" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01865%3Fprg140729%3De87b2a92-e40d-4bf0-80b0-800df158768d&amp;doi=10.1021%2Facs.jmedchem.5b01865" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01865%3Fprg140729%3D6bbf22fc-bd34-436c-9931-9ec5040c079e&amp;title=Structure-Based+Design+of+an+in+Vivo+Active+Selective+BRD9+Inhibitor&amp;doi=10.1021%2Facs.jmedchem.5b01865" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01865%3Fprg140729%3Dbea97eb0-2b77-47c9-8bb3-cf09de7daf5a&amp;title=Structure-Based+Design+of+an+in+Vivo+Active+Selective+BRD9+Inhibitor&amp;doi=10.1021%2Facs.jmedchem.5b01865" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1379,9 +1391,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoWHs4hA8bijbVg90H21EOLACvtfcHk0lgmG2YdOk5I4w&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGC0r2ukLJIUktQwD9OmoEd0k_MPQEXFeD3svsa2NPQQ8&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSYsKlunAGfTOtrnDmCxc-CThi25Vg2O3Mq31xdZh047r&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoWHs4hA8bijbVg90H21EOLACvtfcHk0li9ORnurAOTIQ&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGC0r2ukLJIUktQwD9OmoEd24mbAdycOu_rjmnlk76X2X&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSYsKlunAGfTOtrnDmCxc-CThi25Vg2O3MmIVhDB39fSD&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

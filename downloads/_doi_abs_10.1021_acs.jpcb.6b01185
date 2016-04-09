@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="bda8d915-b4d7-4da6-a56b-eb2851d31f88">
+<html lang="en" class="pb-page" data-request-id="bb0ab258-99a9-4ed1-b27c-0f933db6f5a5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jpcbfk;pageGroup:string:Publication Pages;issue:issue:10.1021/jpcbfk.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpcb.6b01185;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01185%3Fprg140729%3Da828013f-3fbd-45af-a8eb-0a7fcb37df8b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01185?prg140729=a828013f-3fbd-45af-a8eb-0a7fcb37df8b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01185?prg140729=a828013f-3fbd-45af-a8eb-0a7fcb37df8b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01185%3Fprg140729%3D7bc4bca1-a698-4b6c-9e4f-6259a48700a9" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01185?prg140729=7bc4bca1-a698-4b6c-9e4f-6259a48700a9&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01185?prg140729=7bc4bca1-a698-4b6c-9e4f-6259a48700a9">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -689,7 +689,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcb.6b00381" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcb.6b01890" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1014,22 +1014,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.chemrev.5b00609?src=recsys">Confined Water as Model of Supercooled Water</a>
-                            <div class="achsLabel">
-                             Chemical Reviews
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cerveny</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mallamace</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Swenson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vogel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Water in confined geometries has obvious relevance in biology, geology, and other areas where the material properties are strongly dependent on the amount and behavior of water in these types of materials. Another reason to restrict the size of water ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemrev.5b00609?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemrev.5b00609?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00609?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemrev.5b00609?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcb.6b01789?src=recsys">Ordered Self-Similar Patterns in Anisotropic Stochastic Growth</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry B
@@ -1045,6 +1029,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcb.6b01789?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01789?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.6b01789?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b00381?src=recsys"><i>Ab Initio</i> Molecular Dynamics Simulations and GIPAW NMR Calculations of a Lithium Borate Glass Melt</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ohkubo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tsuchida</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Iwadate</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The atomic structure of a molten 0.3Li<sub>2</sub>O–0.7B<sub>2</sub>O<sub>3</sub> glass at 1250 K was investigated using <i>ab initio</i> molecular dynamics (AIMD) simulations. The gauge including projector augmented wave (GIPAW) method was then employed for computing the chemical shift and ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b00381?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b00381?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b00381?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b00381?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b12371?src=recsys">First-Principles United Atom Force Field for the Ionic Liquid BMIM<sup>+</sup>BF<sub>4</sub><sup>–</sup>: An Alternative to Charge Scaling</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Son</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McDaniel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schmidt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cui</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yethiraj</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Molecular dynamics study of ionic liquids (ILs) is a challenging task. While accurate fully polarizable atomistic models exist, they are computationally too demanding for routine use. Most nonpolarizable atomistic models predict diffusion constants that ...<sup></sup><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.5b12371?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.5b12371?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12371?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.5b12371?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcb.5b12375?src=recsys">Understanding the Thermodynamics of Hydrogen Bonding in Alcohol-Containing Mixtures: Cross-Association</a>
                             <div class="achsLabel">
@@ -1062,36 +1078,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12375?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.5b12375?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.5b02430?src=recsys">Why Is MP2-Water “Cooler” and “Denser” than DFT-Water?</a>
+                           <li><a href="/doi/abs/10.1021/acs.chemrev.5b00609?src=recsys">Confined Water as Model of Supercooled Water</a>
                             <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Willow</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zeng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xantheas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hirata</span> 
+                             Chemical Reviews
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cerveny</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mallamace</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Swenson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vogel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (4), pp 680–684</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Density functional theory (DFT) with a dispersionless generalized gradient approximation (GGA) needs much higher temperature and pressure than the ambient conditions to maintain water in the liquid phase at the correct (1 g/cm<sup>3</sup>) density during first-...</span>
+                             <span><span class="bold">Abstract:</span> Water in confined geometries has obvious relevance in biology, geology, and other areas where the material properties are strongly dependent on the amount and behavior of water in these types of materials. Another reason to restrict the size of water ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.5b02430?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.5b02430?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.5b02430?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.5b02430?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01012?src=recsys">Molecular Modeling of Water Interfaces: From Molecular Spectroscopy to Thermodynamics</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nagata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ohto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Backus</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bonn</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Understanding aqueous interfaces at the molecular level is not only of fundamental importance, but also highly relevant for a variety of disciplines. For instance, electrode-water interfaces are relevant for electrochemistry; mineral-water interfaces for ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.6b01012?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01012?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01012?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.chemrev.5b00609?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemrev.5b00609?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00609?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemrev.5b00609?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpclett.5b02861?src=recsys">Changing Hydrogen-Bond Structure during an Aqueous Liquid–Liquid Transition Investigated with Time-Resolved and Two-Dimensional Vibrational Spectroscopy</a>
                             <div class="achsLabel">
@@ -1193,9 +1194,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcb.6b01185" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01185%3Fprg140729%3D894c876b-d591-4dfd-85b5-2376e3e9bedd&amp;doi=10.1021%2Facs.jpcb.6b01185" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01185%3Fprg140729%3D2b42fb23-6014-44cc-aebd-31ca52837f4f&amp;doi=10.1021%2Facs.jpcb.6b01185" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01185%3Fprg140729%3Da828013f-3fbd-45af-a8eb-0a7fcb37df8b&amp;title=Low-Density+Water+Structure+Observed+in+a+Nanosegregated+Cryoprotectant+Solution+at+Low+Temperatures+from+285+to+238+K&amp;doi=10.1021%2Facs.jpcb.6b01185" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01185%3Fprg140729%3D7bc4bca1-a698-4b6c-9e4f-6259a48700a9&amp;title=Low-Density+Water+Structure+Observed+in+a+Nanosegregated+Cryoprotectant+Solution+at+Low+Temperatures+from+285+to+238+K&amp;doi=10.1021%2Facs.jpcb.6b01185" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

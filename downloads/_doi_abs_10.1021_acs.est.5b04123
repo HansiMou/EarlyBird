@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d79efd04-6798-407e-a6ac-7d40238db8b4">
+<html lang="en" class="pb-page" data-request-id="6cfd300d-0c69-4486-8776-11c42e90679e">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.est.5b04123">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04123%3Fprg140729%3De50e9be8-e723-4f66-bbfd-cd4d868be50c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04123?prg140729=e50e9be8-e723-4f66-bbfd-cd4d868be50c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04123?prg140729=e50e9be8-e723-4f66-bbfd-cd4d868be50c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04123%3Fprg140729%3D96b0dc10-6526-4030-bfb1-bf7ef977aa85" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04123?prg140729=96b0dc10-6526-4030-bfb1-bf7ef977aa85&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04123?prg140729=96b0dc10-6526-4030-bfb1-bf7ef977aa85">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1047,6 +1047,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.6b01454?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.6b01454?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b03747?src=recsys">Using UCST Ionic Liquid as a Draw Solute in Forward Osmosis to Treat High-Salinity Water</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gnanou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lai</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>50</em> (2), pp 1039–1045</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The concept of using a thermoresponsive ionic liquid (IL) with an upper critical solution temperature (UCST) as a draw solute in forward osmosis (FO) was successfully demonstrated here experimentally. A 3.2 M solution of protonated betaine bis(...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b03747?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b03747?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b03747?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b03747?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.6b00255?src=recsys">Coagulation Behavior of Graphene Oxide on Nanocrystallined Mg/Al Layered Double Hydroxides: Batch Experimental and Theoretical Calculation Study</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1094,22 +1110,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.5b05976?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.5b05976?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b05976?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.6b00037?src=recsys">Oxidative Dissolution of Silver Nanoparticles by Chlorine: Implications to Silver Nanoparticle Fate and Toxicity</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Garg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miller</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Waite</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>50</em> (7), pp 3890–3896</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The kinetics of oxidative dissolution of silver nanoparticles (AgNPs) by chlorine is investigated in this work, with results showing that AgNPs are oxidized in the presence of chlorine at a much faster rate than observed in the presence of dioxygen and/or ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.6b00037?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.6b00037?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.6b00037?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.6b00037?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1195,9 +1195,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.5b04123" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04123%3Fprg140729%3D00ee960a-cb03-4f1e-9d9e-4168f9207352&amp;doi=10.1021%2Facs.est.5b04123" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04123%3Fprg140729%3D7dd01b33-3618-421c-8559-79c104fea2d1&amp;doi=10.1021%2Facs.est.5b04123" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04123%3Fprg140729%3De50e9be8-e723-4f66-bbfd-cd4d868be50c&amp;title=Thermoresponsive+Acidic+Microgels+as+Functional+Draw+Agents+for+Forward+Osmosis+Desalination&amp;doi=10.1021%2Facs.est.5b04123" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04123%3Fprg140729%3D96b0dc10-6526-4030-bfb1-bf7ef977aa85&amp;title=Thermoresponsive+Acidic+Microgels+as+Functional+Draw+Agents+for+Forward+Osmosis+Desalination&amp;doi=10.1021%2Facs.est.5b04123" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

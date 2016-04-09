@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1c224963-329a-4cc1-a63a-010032b6b6bc">
+<html lang="en" class="pb-page" data-request-id="93bd3be0-14be-4aad-a8f4-f4aa355d42c8">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.nanolett.6b00323;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00323%3Fprg140729%3Daff05485-163f-48cc-a709-8380a1ad1473" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00323?prg140729=aff05485-163f-48cc-a709-8380a1ad1473&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00323?prg140729=aff05485-163f-48cc-a709-8380a1ad1473">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00323%3Fprg140729%3D44856267-fd8f-409c-87cc-ef680ccc43eb" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00323?prg140729=44856267-fd8f-409c-87cc-ef680ccc43eb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00323?prg140729=44856267-fd8f-409c-87cc-ef680ccc43eb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -675,16 +675,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.nanolett.6b00070" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.nanolett.6b00916" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/nalefd/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1061,6 +1051,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00310?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00310?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00706?src=recsys">A Nanowire-Based Plasmonic Quantum Dot Laser</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ho</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tatebayashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sergent</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ota</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Iwamoto</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Arakawa</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Quantum dots enable strong carrier confinement and exhibit a delta-function like density of states, offering significant improvements to laser performance and high-temperature stability when used as a gain medium. However, quantum dot lasers have been ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00706?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00706?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00706?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00706?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.6b01108?src=recsys">Hot Carrier Extraction with Plasmonic Broadband Absorbers</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1108,22 +1114,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.nanolett.6b00618?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00618?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00618?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00916?src=recsys">Geometrical Effects on the Magnetic Properties of Nanoparticles</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Di Paola</span>, <span class="entryAuthor normal hlFld-ContribAuthor">D’Agosta</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Baletto</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Elucidating the connection between shape and properties is a challenging but essential task for a rational design of nanoparticles at the atomic level. As a paradigmatic example we investigate how geometry can influence the magnetic properties of ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.6b00916?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.6b00916?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00916?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00916?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1209,9 +1199,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.6b00323" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00323%3Fprg140729%3D9b2c0392-0292-4603-ad06-2a8712d3e9b7&amp;doi=10.1021%2Facs.nanolett.6b00323" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00323%3Fprg140729%3Dbc204c82-30e9-4624-bda2-874e5671b2e8&amp;doi=10.1021%2Facs.nanolett.6b00323" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00323%3Fprg140729%3Daff05485-163f-48cc-a709-8380a1ad1473&amp;title=Electromechanically+Tunable+Suspended+Optical+Nanoantenna&amp;doi=10.1021%2Facs.nanolett.6b00323" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00323%3Fprg140729%3D44856267-fd8f-409c-87cc-ef680ccc43eb&amp;title=Electromechanically+Tunable+Suspended+Optical+Nanoantenna&amp;doi=10.1021%2Facs.nanolett.6b00323" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

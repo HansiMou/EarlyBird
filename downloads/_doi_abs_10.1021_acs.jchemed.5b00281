@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="3653ac5d-6210-4622-a6a4-4d4d6e4dd9c1">
+<html lang="en" class="pb-page" data-request-id="d1681ed3-c61a-4c8f-9e6b-4060174cfb88">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;issue:issue:10.1021/jceda8.ahead-of-print;article:article:10.1021/acs.jchemed.5b00281;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00281%3Fprg140729%3Ddb244168-5128-4e97-bb4e-f2e44ebe8cb3" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00281?prg140729=db244168-5128-4e97-bb4e-f2e44ebe8cb3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00281?prg140729=db244168-5128-4e97-bb4e-f2e44ebe8cb3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00281%3Fprg140729%3Db75acad0-7d7b-487f-872b-27f574aab43c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00281?prg140729=b75acad0-7d7b-487f-872b-27f574aab43c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00281?prg140729=b75acad0-7d7b-487f-872b-27f574aab43c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -670,6 +670,16 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
+                       <div class="issueNavigator"> 
+                        <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jchemed.5b00830" title="Previous Article"> Previous Article </a> </span> 
+                        </div> 
+                        <div class="journalNavRightTd"> 
+                         <div class="next"> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00697" title="Next Article"> Next Article </a> 
+                         </div> 
+                        </div> 
+                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceda8/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -928,15 +938,15 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">Although much of the scientific community concerns itself with ideas of a sustainable future, very little of this interest and motivation has reached the classroom experience of the average chemistry major, and therefore, it is imperative to expose students to these ideas early in their careers. The focus of most undergraduate chemistry curricula rests on the preparation of the next generation of researchers, ensuring that students are capable and effective in the laboratory. A majority of laboratory experiences focus on building basic technical skill sets for chemists. However, little time is spent ensuring that students are aware of the impacts of their research, as it pertains to chemical waste and the sustainability of research, in general. At Villanova, an existing first-year undergraduate inorganic chemistry laboratory course was modified to promote novel ideas in research with an emphasis on life-cycle thinking and analysis in terms of sustainability. Initial results are reported, as well as an outline of the novel aspects of the course.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=First-year+Undergraduate&amp;qsSearchArea=AllField">First-Year Undergraduate</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Curriculum&amp;qsSearchArea=AllField">Curriculum</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Inorganic+Chemistry&amp;qsSearchArea=AllField">Inorganic Chemistry</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Instruction&amp;qsSearchArea=AllField">Laboratory Instruction</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Inquiry-based%2Fdiscovery+Learning&amp;qsSearchArea=AllField">Inquiry-Based/Discovery Learning</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Problem+Solving%2Fdecision-making&amp;qsSearchArea=AllField">Problem Solving/Decision-Making</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Coordination+Compounds&amp;qsSearchArea=AllField">Coordination Compounds</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Undergraduate+Research&amp;qsSearchArea=AllField">Undergraduate Research</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Green+Chemistry&amp;qsSearchArea=AllField">Green Chemistry</a>
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=First-year+Undergraduate&amp;qsSearchArea=AllField">First-Year Undergraduate</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Curriculum&amp;qsSearchArea=AllField">Curriculum</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Inorganic+Chemistry&amp;qsSearchArea=AllField">Inorganic Chemistry</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Instruction&amp;qsSearchArea=AllField">Laboratory Instruction</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Inquiry-based%2Fdiscovery+Learning&amp;qsSearchArea=AllField">Inquiry-Based/Discovery Learning</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Problem+Solving%2Fdecision-making&amp;qsSearchArea=AllField">Problem Solving/Decision-Making</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Coordination+Compounds&amp;qsSearchArea=AllField">Coordination Compounds</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Undergraduate+Research&amp;qsSearchArea=AllField">Undergraduate Research</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Green+Chemistry&amp;qsSearchArea=AllField">Green Chemistry</a>
                               </div>
                              </div>
                             </div>
@@ -1171,9 +1181,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00281" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00281%3Fprg140729%3D518a7236-28d0-4d16-9dcf-f2455f52d485&amp;doi=10.1021%2Facs.jchemed.5b00281" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00281%3Fprg140729%3D42a949d8-8c4e-4fcb-8d3a-45ffc7256988&amp;doi=10.1021%2Facs.jchemed.5b00281" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00281%3Fprg140729%3Ddb244168-5128-4e97-bb4e-f2e44ebe8cb3&amp;title=Incorporating+Sustainability+and+Life+Cycle+Assessment+into+First-Year+Inorganic+Chemistry+Major+Laboratories&amp;doi=10.1021%2Facs.jchemed.5b00281" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00281%3Fprg140729%3Db75acad0-7d7b-487f-872b-27f574aab43c&amp;title=Incorporating+Sustainability+and+Life+Cycle+Assessment+into+First-Year+Inorganic+Chemistry+Major+Laboratories&amp;doi=10.1021%2Facs.jchemed.5b00281" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1196,8 +1206,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpXeZLZyKnj87Vg90H21EOLACvtfcHk0lgtn4bjg68rcw&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSRT1c31sni6HtrnDmCxc-CThi25Vg2O3Mr5yGBVqUI_t&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpXeZLZyKnj87Vg90H21EOLACvtfcHk0liqiFS3bp3EkA&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSRT1c31sni6HtrnDmCxc-CThi25Vg2O3MoM8MvpCR-4V&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="45e357e2-74a9-456a-9ac8-b2d22b4b6133">
+<html lang="en" class="pb-page" data-request-id="08891fc7-1864-4439-910e-ee72662aed37">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsami.6b00847;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00847%3Fprg140729%3D07969ceb-f75b-4c2a-92fe-1c941e491916" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00847?prg140729=07969ceb-f75b-4c2a-92fe-1c941e491916&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00847?prg140729=07969ceb-f75b-4c2a-92fe-1c941e491916">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00847%3Fprg140729%3D4d5d3c95-2a3c-4a6a-afbc-c5996a968140" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00847?prg140729=4d5d3c95-2a3c-4a6a-afbc-c5996a968140&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00847?prg140729=4d5d3c95-2a3c-4a6a-afbc-c5996a968140">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -959,18 +959,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i8"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i9"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i13"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1054,22 +1042,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.5b04889?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.5b04889?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00381?src=recsys">Design and Synthesis of Triangulated DNA Origami Trusses</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Matthies</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Agarwal</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schmidt</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>16</em> (3), pp 2108–2113</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> DNA nanotechnology offers unique control over matter on the nanoscale. Here, we extend the DNA origami method to cover a range of wireframe truss structures composed of equilateral triangles, which use less material per volume than standard multiple-helix ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.6b00381?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.6b00381?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00381?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00381?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.6b00789?src=recsys">DNAzyme-Controlled Cleavage of Dimer and Trimer Origami Tiles</a>
                             <div class="achsLabel">
                              Nano Letters
@@ -1086,22 +1058,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00789?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00789?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b07102?src=recsys">Enzyme-Powered Three-Dimensional DNA Nanomachine for DNA Walking, Payload Release, and Biosensing</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mason</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (2), pp 2324–2330</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Herein, we report a DNA nanomachine, built from a DNA-functionalized gold nanoparticle (DNA–AuNP), which moves a DNA walker along a three-dimensional (3-D) DNA–AuNP track and executes the task of releasing payloads. The movement of the DNA walker is ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b07102?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b07102?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b07102?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b07102?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00751?src=recsys">Engineering the Structure and Properties of DNA-Nanoparticle Superstructures Using Polyvalent Counterions</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1117,6 +1073,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.6b00751?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.6b00751?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00751?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00381?src=recsys">Design and Synthesis of Triangulated DNA Origami Trusses</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Matthies</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Agarwal</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schmidt</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>16</em> (3), pp 2108–2113</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> DNA nanotechnology offers unique control over matter on the nanoscale. Here, we extend the DNA origami method to cover a range of wireframe truss structures composed of equilateral triangles, which use less material per volume than standard multiple-helix ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00381?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00381?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00381?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00381?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07102?src=recsys">Enzyme-Powered Three-Dimensional DNA Nanomachine for DNA Walking, Payload Release, and Biosensing</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mason</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>10</em> (2), pp 2324–2330</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Herein, we report a DNA nanomachine, built from a DNA-functionalized gold nanoparticle (DNA–AuNP), which moves a DNA walker along a three-dimensional (3-D) DNA–AuNP track and executes the task of releasing payloads. The movement of the DNA walker is ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b07102?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07102?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07102?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07102?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b07664?src=recsys">Characterizing DNA Star-Tile-Based Nanostructures Using a Coarse-Grained Model</a>
                             <div class="achsLabel">
@@ -1185,7 +1173,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acsami.6b00847" title="High-Res PDF: 3242 KB" target="_blank"> PDF <span class="details">(3242 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsami.6b00847" title="Low-Res PDF: 433 KB" target="_blank"> PDF w/ Links <span class="details">(433 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsami.6b00847" title="Low-Res PDF: 434 KB" target="_blank"> PDF w/ Links <span class="details">(434 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acsami.6b00847" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1218,9 +1206,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b00847" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00847%3Fprg140729%3D210de09c-2b3a-483d-ad65-9e1808ebeb8c&amp;doi=10.1021%2Facsami.6b00847" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00847%3Fprg140729%3D1fe11f17-aad1-4db0-a68a-1e425d9927c3&amp;doi=10.1021%2Facsami.6b00847" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00847%3Fprg140729%3D07969ceb-f75b-4c2a-92fe-1c941e491916&amp;title=DNA+Sequential+Logic+Gate+Using+Two-Ring+DNA&amp;doi=10.1021%2Facsami.6b00847" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00847%3Fprg140729%3D4d5d3c95-2a3c-4a6a-afbc-c5996a968140&amp;title=DNA+Sequential+Logic+Gate+Using+Two-Ring+DNA&amp;doi=10.1021%2Facsami.6b00847" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

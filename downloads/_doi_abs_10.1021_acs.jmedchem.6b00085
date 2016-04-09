@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="de02e7d1-8667-44da-a532-982800a39817">
+<html lang="en" class="pb-page" data-request-id="8a71d197-4b1b-4204-8fca-2b9a183adc4c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jmcmar;wgroup:string:ACHS website Group;article:article:10.1021/acs.jmedchem.6b00085;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -149,8 +149,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00085%3Fprg140729%3Dd1b15134-3116-4dc0-b905-2fe9d5c23da5" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00085?prg140729=d1b15134-3116-4dc0-b905-2fe9d5c23da5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00085?prg140729=d1b15134-3116-4dc0-b905-2fe9d5c23da5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00085%3Fprg140729%3D1ab36037-7736-4e82-8d07-bcf699c9f167" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00085?prg140729=1ab36037-7736-4e82-8d07-bcf699c9f167&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00085?prg140729=1ab36037-7736-4e82-8d07-bcf699c9f167">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1000,6 +1000,21 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Grp94-Selective Inhibitor Design, Synthesis, and Biochemical Screening" href="#_i2"><span>Grp94-Selective Inhibitor Design, Synthesis, and Biochemical Screening</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Co-Crystallization of Grp94 with a Grp94-Selective Inhibitor" href="#_i6"><span>Co-Crystallization of Grp94 with a Grp94-Selective Inhibitor</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Grp94-Selective Inhibition in Cancer" href="#_i7"><span>Grp94-Selective Inhibition in Cancer</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Primary Open Angle Glaucoma and Grp94-Selective Inhibition" href="#_i8"><span>Primary Open Angle Glaucoma and Grp94-Selective Inhibition</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i9"><span>Conclusion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i10"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i117"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1066,22 +1081,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.6b00276?src=recsys">Synthesis of α,β-Unsaturated Carbonyl-Based Compounds, Oxime and Oxime Ether Analogs as Potential Anticancer Agents for Overcoming Cancer Multidrug Resistance by Modulation of Efflux Pumps in Tumor Cells</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Qin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jantan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amjad</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sher</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Naeem-ul-Hassan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hussain</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bukhari</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Sixty-nine novel α,β-unsaturated carbonyl based compounds, including cyclohexanone, tetralone, oxime, and oxime ether analogs, were synthesized. The antiproliferative activity determined by using seven different human cancer cell lines provided a ...<sub></sub><sup></sup><sup></sup><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.6b00276?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.6b00276?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00276?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.6b00276?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1098,21 +1097,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01657?src=recsys">Discovery of a Selective and Potent Inhibitor of Mitogen-Activated Protein Kinase-Interacting Kinases 1 and 2 (MNK1/2) Utilizing Structure-Based Drug Design</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.6b00276?src=recsys">Synthesis of α,β-Unsaturated Carbonyl-Based Compounds, Oxime and Oxime Ether Analogs as Potential Anticancer Agents for Overcoming Cancer Multidrug Resistance by Modulation of Efflux Pumps in Tumor Cells</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pfister</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Warne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doyle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Aikawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amiri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Appleton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stuart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fanidi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shafer</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Qin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jantan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amjad</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sher</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Naeem-ul-Hassan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hussain</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bukhari</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The discovery of a highly potent and selective small molecule inhibitor <b>9</b> for in vitro target validation of MNK1/2 kinases is described. The aminopyrazine benzimidazole series was derived from an HTS hit and optimized by utilization of a docking model, ...</span>
+                             <span><span class="bold">Abstract:</span> Sixty-nine novel α,β-unsaturated carbonyl based compounds, including cyclohexanone, tetralone, oxime, and oxime ether analogs, were synthesized. The antiproliferative activity determined by using seven different human cancer cell lines provided a ...<sub></sub><sup></sup><sup></sup><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01657?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01657?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01657?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01657?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.6b00276?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.6b00276?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00276?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.6b00276?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.6b00064?src=recsys">Discovery of Entrectinib: A New 3-Aminoindazole As a Potent Anaplastic Lymphoma Kinase (ALK), c-ros Oncogene 1 Kinase (ROS1), and Pan-Tropomyosin Receptor Kinases (Pan-TRKs) inhibitor</a>
                             <div class="achsLabel">
@@ -1130,6 +1129,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00064?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.6b00064?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01349?src=recsys">Ten Years of Medicinal Chemistry (2005–2014) in the <i>Journal of Medicinal Chemistry</i>: Country of Contributors, Topics, and Public–Private Partnerships</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Costantino</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Barlocco</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> This review analyzes the articles that have appeared during the past 10 years in the <i>Journal of Medicinal Chemistry</i>, the leading journal in the field of medicinal chemistry, to provide a picture of the changing trends in this research area. Our analysis ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01349?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01349?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01349?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01349?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01657?src=recsys">Discovery of a Selective and Potent Inhibitor of Mitogen-Activated Protein Kinase-Interacting Kinases 1 and 2 (MNK1/2) Utilizing Structure-Based Drug Design</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pfister</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Warne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doyle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Aikawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amiri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Appleton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stuart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fanidi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shafer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The discovery of a highly potent and selective small molecule inhibitor <b>9</b> for in vitro target validation of MNK1/2 kinases is described. The aminopyrazine benzimidazole series was derived from an HTS hit and optimized by utilization of a docking model, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01657?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01657?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01657?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01657?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">A Real-World Perspective on Molecular Design</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1145,22 +1176,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jmedchem.5b01875?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01875?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01875?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Integrating Everything: The Molecule Selection Toolkit, a System for Compound Prioritization in Drug Discovery</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cummins</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Bell</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In recent years there have been numerous papers on the topic of multiattribute optimization in pharmaceutical discovery chemistry, applied to compound prioritization. Many solutions proposed are static in nature; fixed functions are proposed for general ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01338?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01338?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01338?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1246,9 +1261,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.6b00085" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00085%3Fprg140729%3D2b7fc1a6-02f6-421d-916d-5021bbc60412&amp;doi=10.1021%2Facs.jmedchem.6b00085" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00085%3Fprg140729%3D524e2ede-5632-42f2-8def-d8ab1e49b1c1&amp;doi=10.1021%2Facs.jmedchem.6b00085" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00085%3Fprg140729%3Dd1b15134-3116-4dc0-b905-2fe9d5c23da5&amp;title=Development+of+Glucose+Regulated+Protein+94-Selective+Inhibitors+Based+on+the+BnIm+and+Radamide+Scaffold&amp;doi=10.1021%2Facs.jmedchem.6b00085" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00085%3Fprg140729%3D1ab36037-7736-4e82-8d07-bcf699c9f167&amp;title=Development+of+Glucose+Regulated+Protein+94-Selective+Inhibitors+Based+on+the+BnIm+and+Radamide+Scaffold&amp;doi=10.1021%2Facs.jmedchem.6b00085" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="21eae9e5-814b-44c4-b0b5-3e20e0071cf0">
+<html lang="en" class="pb-page" data-request-id="9ff929f6-8b4b-4b92-b18c-1b2b690232d0">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/jacs.6b01697;issue:issue:10.1021/jacsat.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jacsat;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01697%3Fprg140729%3D5b016f76-583a-4bf8-82ec-9b21c857dbb8" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01697?prg140729=5b016f76-583a-4bf8-82ec-9b21c857dbb8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01697?prg140729=5b016f76-583a-4bf8-82ec-9b21c857dbb8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01697%3Fprg140729%3D1c7c9381-fd37-4be9-b9e7-83f13573c851" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01697?prg140729=1c7c9381-fd37-4be9-b9e7-83f13573c851&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01697?prg140729=1c7c9381-fd37-4be9-b9e7-83f13573c851">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -675,9 +675,6 @@ $(function(){
                          <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.6b01188" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/jacs.6b02203" title="Next Article"> Next Article </a> 
-                         </div> 
                         </div> 
                        </div> 
                        <div class="journalNavCenterTd"> 
@@ -990,7 +987,105 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/So%2C+Soonyong">Soonyong So</a></li>
                            <li><a href="/author/Lodge%2C+Timothy+P">Timothy P. Lodge</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01089?src=recsys">Construction of Smart Supramolecular Polymeric Hydrogels Cross-linked by Discrete Organoplatinum(II) Metallacycles via Post-Assembly Polymerization</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Postassembly modification strategy has been successfully employed in the construction of discrete metallosupramolecular assemblies. However, the most known reports have been limited to the simple structural conversion through the easy covalent reactions, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01089?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01089?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01089?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01089?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00712?src=recsys">Flexibility Coexists with Shape-Persistence in Cyanostar Macrocycles</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Singharoy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mayne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sengupta</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Raghavachari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schulten</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Flood</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Shape-persistent macrocycles are attractive functional targets for synthesis, molecular recognition, and hierarchical self-assembly. Such macrocycles are noncollapsible and geometrically well-defined, and they are traditionally characterized by having ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b00712?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00712?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00712?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00712?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01244?src=recsys">Construction of Covalent Organic Frameworks Bearing Three Different Kinds of Pores through the Heterostructural Mixed Linker Strategy</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> It is very important to create novel topologies and improve structural complexity for covalent organic frameworks (COFs) that might lead to unprecedented properties and applications. Despite the progress achieved over the past decade, the structural ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01244?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01244?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01244?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01244?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b11831?src=recsys">A New Methodology for Assessing Macromolecular Click Reactions and Its Application to Amine–Tertiary Isocyanate Coupling for Polymer Ligation</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gody</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roberts</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maschmeyer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Perrier</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (12), pp 4061–4068</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Click reactions have provided access to an array of remarkably complex polymer architectures. However, the term “click” is often applied inaccurately to polymer ligation reactions that fail to respect the criteria that typify a true “click” reaction. With ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b11831?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b11831?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b11831?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b11831?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b13416?src=recsys">Monodisperse Cylindrical Micelles and Block Comicelles of Controlled Length in Aqueous Media</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nazemi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boott</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lunn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gwyther</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hayward</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Richardson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Winnik</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Manners</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4484–4493</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Cylindrical block copolymer micelles have shown considerable promise in various fields of biomedical research. However, unlike spherical micelles and vesicles, control over their dimensions in biologically relevant solvents has posed a key challenge that ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b13416?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b13416?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b13416?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b13416?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12735?src=recsys">“Cross” Supermicelles via the Hierarchical Assembly of Amphiphilic Cylindrical Triblock Comicelles</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boott</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hayward</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Harniman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Whittell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Richardson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Winnik</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Manners</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (12), pp 4087–4095</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Self-assembled “cross” architectures are well-known in biological systems (as illustrated by chromosomes, for example); however, comparable synthetic structures are extremely rare. Herein we report an in depth study of the hierarchical assembly of the ...<sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12735?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12735?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12735?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12735?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1041,7 +1136,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/jacs.6b01697" title="High-Res PDF: 1609 KB" target="_blank"> PDF <span class="details">(1609 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b01697" title="Low-Res PDF: 252 KB" target="_blank"> PDF w/ Links <span class="details">(252 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b01697" title="Low-Res PDF: 238 KB" target="_blank"> PDF w/ Links <span class="details">(238 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/jacs.6b01697" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1074,9 +1169,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.6b01697" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01697%3Fprg140729%3D469e45b9-d64c-43e4-9c4c-8c2992277892&amp;doi=10.1021%2Fjacs.6b01697" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01697%3Fprg140729%3D62372751-1046-400f-b1e7-ad344baa10be&amp;doi=10.1021%2Fjacs.6b01697" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01697%3Fprg140729%3D5b016f76-583a-4bf8-82ec-9b21c857dbb8&amp;title=Oil-in-Oil+Emulsions+Stabilized+by+Asymmetric+Polymersomes+Formed+by+AC+%2B+BC+Block+Polymer+Co-Assembly&amp;doi=10.1021%2Fjacs.6b01697" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01697%3Fprg140729%3D1c7c9381-fd37-4be9-b9e7-83f13573c851&amp;title=Oil-in-Oil+Emulsions+Stabilized+by+Asymmetric+Polymersomes+Formed+by+AC+%2B+BC+Block+Polymer+Co-Assembly&amp;doi=10.1021%2Fjacs.6b01697" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

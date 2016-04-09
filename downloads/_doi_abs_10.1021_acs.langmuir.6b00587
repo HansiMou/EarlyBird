@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="138f885f-ee64-4ea7-8862-8b2a1283bf51">
+<html lang="en" class="pb-page" data-request-id="14fe74de-8c74-4ffd-b69f-37812e43b085">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/langd5.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:langd5;article:article:10.1021/acs.langmuir.6b00587;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00587%3Fprg140729%3Ddc0041df-c28d-41e2-b6e7-63e0911a5ae1" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00587?prg140729=dc0041df-c28d-41e2-b6e7-63e0911a5ae1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00587?prg140729=dc0041df-c28d-41e2-b6e7-63e0911a5ae1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00587%3Fprg140729%3D903d0ccf-9f92-425d-8349-4f9b1c42d487" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00587?prg140729=903d0ccf-9f92-425d-8349-4f9b1c42d487&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00587?prg140729=903d0ccf-9f92-425d-8349-4f9b1c42d487">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -942,6 +942,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i10"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i15"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i18"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1032,38 +1044,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04706?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.langmuir.5b04706?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00082?src=recsys">Regulation of Sticholysin II-Induced Pore Formation by Lipid Bilayer Composition, Phase State, and Interfacial Properties</a>
-                            <div class="achsLabel">
-                             Langmuir
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Palacios-Ortega</span>, <span class="entryAuthor normal hlFld-ContribAuthor">García-Linares</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Åstrand</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Al Sazzad</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gavilanes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Martínez-del-Pozo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Slotte</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Sticholysin II (StnII) is a pore-forming toxin that uses sphingomyelin (SM) as the recognition molecule in targeting membranes. After StnII monomers bind to SM, several toxin monomers act in concert to oligomerize into a functional pore. The regulation of ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.langmuir.6b00082?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.langmuir.6b00082?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00082?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00082?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00478?src=recsys">A Blue-Light-Emitting BODIPY Probe for Lipid Membranes</a>
-                            <div class="achsLabel">
-                             Langmuir
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bacalum</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boodts</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smisdom</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fron</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Knippenberg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fabre</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Trouillas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Beljonne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dehaen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boens</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ameloot</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Here we describe a new BODIPY-based membrane probe (<b>1</b>) that provides an alternative to dialkylcarbocyanine dyes, such as DiI-C<sub>18</sub>, that can be excited in the blue spectral region. Compound <b>1</b> has unbranched octadecyl chains at the 3,5-positions and a <i>meso</i>-...<sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.langmuir.6b00478?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.langmuir.6b00478?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00478?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00478?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.langmuir.6b00386?src=recsys">Molecular Understanding and Structural-Based Design of Polyacrylamides and Polyacrylates as Antifouling Materials</a>
                             <div class="achsLabel">
                              Langmuir
@@ -1080,6 +1060,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00386?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.langmuir.6b00386?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00082?src=recsys">Regulation of Sticholysin II-Induced Pore Formation by Lipid Bilayer Composition, Phase State, and Interfacial Properties</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Palacios-Ortega</span>, <span class="entryAuthor normal hlFld-ContribAuthor">García-Linares</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Åstrand</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Al Sazzad</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gavilanes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Martínez-del-Pozo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Slotte</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Sticholysin II (StnII) is a pore-forming toxin that uses sphingomyelin (SM) as the recognition molecule in targeting membranes. After StnII monomers bind to SM, several toxin monomers act in concert to oligomerize into a functional pore. The regulation of ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.6b00082?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.6b00082?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00082?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00082?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.langmuir.6b00335?src=recsys">Near-Infrared Light-Stimulus-Responsive Film as a Sacrificial Layer for the Preparation of Free-Standing Films</a>
                             <div class="achsLabel">
                              Langmuir
@@ -1095,6 +1091,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.langmuir.6b00335?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00335?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.langmuir.6b00335?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00478?src=recsys">A Blue-Light-Emitting BODIPY Probe for Lipid Membranes</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bacalum</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boodts</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smisdom</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fron</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Knippenberg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fabre</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Trouillas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Beljonne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dehaen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boens</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ameloot</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Here we describe a new BODIPY-based membrane probe (<b>1</b>) that provides an alternative to dialkylcarbocyanine dyes, such as DiI-C<sub>18</sub>, that can be excited in the blue spectral region. Compound <b>1</b> has unbranched octadecyl chains at the 3,5-positions and a <i>meso</i>-...<sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.6b00478?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.6b00478?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00478?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00478?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1180,9 +1192,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.langmuir.6b00587" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00587%3Fprg140729%3D108215f4-1ce1-4684-9e57-42906fe9402b&amp;doi=10.1021%2Facs.langmuir.6b00587" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00587%3Fprg140729%3D6c2d03b7-ef09-4fb3-a4ba-747d1c612a2e&amp;doi=10.1021%2Facs.langmuir.6b00587" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00587%3Fprg140729%3Ddc0041df-c28d-41e2-b6e7-63e0911a5ae1&amp;title=Real-Time+Monitoring+of+Chemical+and+Topological+Rearrangements+in+Solidifying+Amphiphilic+Polymer+Co-Networks%3A+Understanding+Surface+Demixing&amp;doi=10.1021%2Facs.langmuir.6b00587" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00587%3Fprg140729%3D903d0ccf-9f92-425d-8349-4f9b1c42d487&amp;title=Real-Time+Monitoring+of+Chemical+and+Topological+Rearrangements+in+Solidifying+Amphiphilic+Polymer+Co-Networks%3A+Understanding+Surface+Demixing&amp;doi=10.1021%2Facs.langmuir.6b00587" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

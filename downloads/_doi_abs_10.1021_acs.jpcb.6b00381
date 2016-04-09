@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ea8bbee1-0548-4d3c-bd4d-c4e5e4d9719a">
+<html lang="en" class="pb-page" data-request-id="ae833a77-d70f-4e35-94fe-5ca841e0f94b">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jpcbfk;article:article:10.1021/acs.jpcb.6b00381;pageGroup:string:Publication Pages;issue:issue:10.1021/jpcbfk.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b00381%3Fprg140729%3Dbbe64e97-f944-42eb-9be5-2fa681bcaea6" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b00381?prg140729=bbe64e97-f944-42eb-9be5-2fa681bcaea6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b00381?prg140729=bbe64e97-f944-42eb-9be5-2fa681bcaea6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b00381%3Fprg140729%3D274ddcfa-d5ab-4981-a51c-e0b576d15949" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b00381?prg140729=274ddcfa-d5ab-4981-a51c-e0b576d15949&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b00381?prg140729=274ddcfa-d5ab-4981-a51c-e0b576d15949">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -688,16 +688,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcb.6b02229" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcb.6b01185" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpcbfk/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1037,21 +1027,69 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12371?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.5b12371?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b00830?src=recsys">Aggregation of Chameleon Peptides: Implications of α-Helicity in Fibril Formation</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01185?src=recsys">Low-Density Water Structure Observed in a Nanosegregated Cryoprotectant Solution at Low Temperatures from 285 to 238 K</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Do</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hayden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Teplow</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bowers</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shea</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Towey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Soper</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dougan</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We investigate the relationship between the inherent secondary structure and aggregation propensity of peptides containing chameleon sequences (i.e., sequences that can adopt either α or β structure depending on context) using a combination of replica ...</span>
+                             <span><span class="bold">Abstract:</span> The structure of liquid water is defined by its molecular association through hydrogen bonding. Two different structures have been proposed for liquid water at low temperatures: low-density liquid (LDL) and high-density liquid (HDL) water. Here, we ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.6b00830?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.6b00830?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b00830?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.6b00830?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b01185?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b01185?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01185?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01185?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01789?src=recsys">Ordered Self-Similar Patterns in Anisotropic Stochastic Growth</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yao</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Olvera de la Cruz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We propose an anisotropic stochastic growth model to rationalize the anisotropic self-assembly of supramolecules to form elongated two-dimensional ribbon structures in a recent experiment. The model exhibits distinct growth scenarios that are critically ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b01789?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b01789?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01789?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01789?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01347?src=recsys">Interchannel Hopping in Single Crystalline Lithium Triborate Probed by <sup>7</sup>Li NMR: Spin Relaxation, Line Shape Analysis, Selective-Inversion Spin Alignment, and Two-Dimensional Exchange Spectra</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Storek</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Böhmer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The ion dynamics of single crystalline lithium triborate, LiB<sub>3</sub>O<sub>5</sub>, an important material in nonlinear optics, is studied using various <sup>7</sup>Li and <sup>11</sup>B nuclear magnetic resonance (NMR) techniques at temperatures from about 480 to 780 K in order to elucidate the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01347?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01347?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01347?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01347?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00249?src=recsys">Application of <sup>119</sup>Sn CPMG MAS NMR for Fast Characterization of Sn Sites in Zeolites with Natural <sup>119</sup>Sn Isotope Abundance</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kolyagin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yakimov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tolborg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vennestrøm</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ivanova</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>7</em> (7), pp 1249–1253</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> <sup>119</sup>Sn CPMG MAS NMR is demonstrated to be a fast and efficient method for characterization of Sn-sites in Sn-containing zeolites. Tuning of the CPMG echo-train sequence decreases the experimental time by a factor of 5–40 in the case of as-synthesized and ...<sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.6b00249?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.6b00249?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00249?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00249?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcb.5b11461?src=recsys">Effect of the Titanium Nanoparticle on the Quantum Chemical Characterization of the Liquid Sodium Nanofluid</a>
                             <div class="achsLabel">
@@ -1068,54 +1106,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcb.5b11461?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.5b11461?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.5b11461?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b00894?src=recsys">Path Integral Simulation of the H/D Kinetic Isotope Effect in Monoamine Oxidase B Catalyzed Decomposition of Dopamine</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mavri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Matute</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Vianello</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Brain monoamines regulate many centrally mediated body functions, and can cause adverse symptoms when they are out of balance. A starting point to address challenges raised by the increasing burden of brain diseases is to understand, at atomistic level, ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.6b00894?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.6b00894?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b00894?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.6b00894?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b12748?src=recsys">The Effect of Molecular Conformation on the Accuracy of Theoretical <sup>1</sup>H and <sup>13</sup>C Chemical Shifts Calculated by Ab Initio Methods for Metabolic Mixture Analysis</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chikayama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shimbo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Komatsu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kikuchi</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> NMR spectroscopy is a powerful method for analyzing metabolic mixtures. The information obtained from an NMR spectrum is in the form of physical parameters, such as chemical shifts, and construction of databases for many metabolites will be useful for ...<sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.5b12748?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.5b12748?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12748?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.5b12748?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b00472?src=recsys">Complexation of Trivalent Metal Cations to Mannuronate Type Alginate Models from a Density Functional Study</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Menakbi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Quignard</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mineva</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Complexation of alginate models, built of β-<span class="smallcaps">d</span>-mannuronic units (M) linked by a 1–4 glycosidic bridge, to Al<sup>3+</sup>, Sc<sup>3+</sup>, Cr<sup>3+</sup>, Fe<sup>3+</sup>, Ga<sup>3+</sup>, and La<sup>3+</sup> cations was studied by applying the quantum chemical density functional theory (DFT) based method. The binding ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.6b00472?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.6b00472?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b00472?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.6b00472?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1201,9 +1191,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcb.6b00381" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b00381%3Fprg140729%3D29ea4577-4e51-44e3-8c57-1fe556e66407&amp;doi=10.1021%2Facs.jpcb.6b00381" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b00381%3Fprg140729%3D682d76dd-7566-48f6-8e0a-cbb03024bedf&amp;doi=10.1021%2Facs.jpcb.6b00381" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b00381%3Fprg140729%3Dbbe64e97-f944-42eb-9be5-2fa681bcaea6&amp;title=Ab+Initio+Molecular+Dynamics+Simulations+and+GIPAW+NMR+Calculations+of+a+Lithium+Borate+Glass+Melt&amp;doi=10.1021%2Facs.jpcb.6b00381" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b00381%3Fprg140729%3D274ddcfa-d5ab-4981-a51c-e0b576d15949&amp;title=Ab+Initio+Molecular+Dynamics+Simulations+and+GIPAW+NMR+Calculations+of+a+Lithium+Borate+Glass+Melt&amp;doi=10.1021%2Facs.jpcb.6b00381" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

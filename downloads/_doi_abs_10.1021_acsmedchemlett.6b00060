@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="aee8b33b-e6cc-4c2d-b5fd-cd9a55099a7f">
+<html lang="en" class="pb-page" data-request-id="d6a18c26-2ddc-46b5-adba-532dafe80a87">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acsmedchemlett.6b00060;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -150,8 +150,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00060%3Fprg140729%3Dc6166791-2d7b-4507-af77-e9144d49ee2a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00060?prg140729=c6166791-2d7b-4507-af77-e9144d49ee2a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00060?prg140729=c6166791-2d7b-4507-af77-e9144d49ee2a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00060%3Fprg140729%3De9c39065-6964-4a2e-aff6-a14e91ce19e5" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00060?prg140729=e9c39065-6964-4a2e-aff6-a14e91ce19e5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00060?prg140729=e9c39065-6964-4a2e-aff6-a14e91ce19e5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1000,6 +1000,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i9"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1250,9 +1258,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.6b00060" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00060%3Fprg140729%3D2f25176f-cc9e-4b84-81b0-acb115d3979e&amp;doi=10.1021%2Facsmedchemlett.6b00060" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00060%3Fprg140729%3D18d1a6ba-f2eb-4da7-aa7e-dc847a2b5957&amp;doi=10.1021%2Facsmedchemlett.6b00060" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00060%3Fprg140729%3Dc6166791-2d7b-4507-af77-e9144d49ee2a&amp;title=Allosteric+Glutaminase+Inhibitors+Based+on+a+1%2C4-Di%285-amino-1%2C3%2C4-thiadiazol-2-yl%29butane+Scaffold&amp;doi=10.1021%2Facsmedchemlett.6b00060" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00060%3Fprg140729%3De9c39065-6964-4a2e-aff6-a14e91ce19e5&amp;title=Allosteric+Glutaminase+Inhibitors+Based+on+a+1%2C4-Di%285-amino-1%2C3%2C4-thiadiazol-2-yl%29butane+Scaffold&amp;doi=10.1021%2Facsmedchemlett.6b00060" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1287,8 +1295,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpvSab9P2v_OLVg90H21EOLACvtfcHk0ljPlwKJVZ26uQ&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSbnEEQWjGc99trnDmCxc-CThi25Vg2O3MqvJ-agiVGBy&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpvSab9P2v_OLVg90H21EOLACvtfcHk0lhDG8I2vTZ8aA&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSbnEEQWjGc99trnDmCxc-CThi25Vg2O3MrzRTjUC8yS4&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

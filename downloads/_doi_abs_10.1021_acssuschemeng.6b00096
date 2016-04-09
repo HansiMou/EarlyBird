@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ae7d3eff-0c4b-43e5-8dfe-13a6d9d08507">
+<html lang="en" class="pb-page" data-request-id="e2e1c37f-8eb1-4cd8-a7fd-d77a94d20e82">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/ascecg.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acssuschemeng.6b00096;wgroup:string:ACHS website Group;journal:journal:ascecg;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00096%3Fprg140729%3D34c19c23-617c-43c6-a0d4-a4c9ee4866fc" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00096?prg140729=34c19c23-617c-43c6-a0d4-a4c9ee4866fc&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00096?prg140729=34c19c23-617c-43c6-a0d4-a4c9ee4866fc">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00096%3Fprg140729%3Dbe2e0044-1752-4a86-a33e-eff67fdd5856" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00096?prg140729=be2e0044-1752-4a86-a33e-eff67fdd5856&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00096?prg140729=be2e0044-1752-4a86-a33e-eff67fdd5856">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1040,6 +1040,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acssuschemeng.6b00275?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acssuschemeng.6b00275?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acssuschemeng.5b00550?src=recsys">Life Cycle Assessment of Catechols from Lignin Depolymerization</a>
+                            <div class="achsLabel">
+                             ACS Sustainable Chemistry &amp; Engineering
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Montazeri</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Eckelman</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>4</em> (3), pp 708–718</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Lignin is the second most abundant natural polymer on Earth. The aromatic structure of lignin makes it a promising platform for biobased chemicals. Catalytic depolymerization of lignin has been demonstrated with high yields and selectivity, resulting in ...Life cycle environmental impacts of catechol production from catalytic depolymerization of lignin were assessed with recommendations for improved synthesis options.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acssuschemeng.5b00550?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acssuschemeng.5b00550?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acssuschemeng.5b00550?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acssuschemeng.5b00550?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acssuschemeng.5b01776?src=recsys">Total Utilization of Miscanthus Biomass, Lignin and Carbohydrates, Using Earth Abundant Nickel Catalyst</a>
                             <div class="achsLabel">
                              ACS Sustainable Chemistry &amp; Engineering
@@ -1088,35 +1104,24 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acscatal.6b00189?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscatal.6b00189?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acssuschemeng.5b00550?src=recsys">Life Cycle Assessment of Catechols from Lignin Depolymerization</a>
-                            <div class="achsLabel">
-                             ACS Sustainable Chemistry &amp; Engineering
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Montazeri</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Eckelman</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>4</em> (3), pp 708–718</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Lignin is the second most abundant natural polymer on Earth. The aromatic structure of lignin makes it a promising platform for biobased chemicals. Catalytic depolymerization of lignin has been demonstrated with high yields and selectivity, resulting in ...Life cycle environmental impacts of catechol production from catalytic depolymerization of lignin were assessed with recommendations for improved synthesis options.</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acssuschemeng.5b00550?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acssuschemeng.5b00550?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acssuschemeng.5b00550?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acssuschemeng.5b00550?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemrev.5b00155?src=recsys">Catalytic Transformation of Lignin for the Production of Chemicals and Fuels</a>
-                            <div class="achsLabel">
-                             Chemical Reviews
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huber</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>115</em> (21), pp 11559–11624</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemrev.5b00155?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemrev.5b00155?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00155?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemrev.5b00155?src=recsys">Hi-Res PDF</a>
-                            </div></li>
+                           <li><a href="/doi/abs/10.1021/bk-2006-STYG.ch014?src=recsys">References</a><cite>ACS Style Guide The</cite>
+                            <ul>
+                             <li><h3>References</h3>
+                              <div>
+                               <span class="entryAuthor normal hlFld-ContribAuthor">Dodd</span>, 
+                               <span class="entryAuthor normal hlFld-ContribAuthor">Solla</span>, 
+                               <span class="entryAuthor normal hlFld-ContribAuthor">Bérard</span>
+                              </div>
+                              <div>
+                               <cite>ACS Style Guide The</cite> 
+                               <strong></strong> 
+                               <em></em>, pp 287–341
+                              </div><p><strong>Abstract:</strong> This chapter presents style conventions for citing references within a manuscript and for listing complete reference citations. Many of the references in the examples were created to illustrate a style point under discussion; they may not be real ...</p>
+                              <div class="linkbar">
+                               <a href="/doi/abs/10.1021/bk-2006-STYG.ch014?src=recsys">Abstract</a> | 
+                               <a href="/doi/pdf/10.1021/bk-2006-STYG.ch014?src=recsys">Hi-Res PDF</a>
+                              </div></li>
+                            </ul></li>
                           </ul>
                          </div>
                         </div>
@@ -1201,9 +1206,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facssuschemeng.6b00096" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00096%3Fprg140729%3D632948da-6c0e-457a-9cdf-3c72042e5364&amp;doi=10.1021%2Facssuschemeng.6b00096" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00096%3Fprg140729%3D4733dbac-b41e-437c-b207-36f5dafd1a04&amp;doi=10.1021%2Facssuschemeng.6b00096" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00096%3Fprg140729%3D34c19c23-617c-43c6-a0d4-a4c9ee4866fc&amp;title=Separation+in+Biorefineries+by+Liquid+Phase+Adsorption%3A+Itaconic+Acid+as+Case+Study&amp;doi=10.1021%2Facssuschemeng.6b00096" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00096%3Fprg140729%3Dbe2e0044-1752-4a86-a33e-eff67fdd5856&amp;title=Separation+in+Biorefineries+by+Liquid+Phase+Adsorption%3A+Itaconic+Acid+as+Case+Study&amp;doi=10.1021%2Facssuschemeng.6b00096" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

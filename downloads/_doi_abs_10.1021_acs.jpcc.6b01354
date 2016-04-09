@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d8a6ddb0-d590-45cd-82c0-77eb7a811091">
+<html lang="en" class="pb-page" data-request-id="6f241eca-e1a6-425e-a468-514c0e592360">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jpcc.6b01354;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01354%3Fprg140729%3Dc588b54b-318b-4909-ba12-b5f48ce03b1b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01354?prg140729=c588b54b-318b-4909-ba12-b5f48ce03b1b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01354?prg140729=c588b54b-318b-4909-ba12-b5f48ce03b1b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01354%3Fprg140729%3D43480531-af43-4bdc-8417-cfbe7d32d699" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01354?prg140729=43480531-af43-4bdc-8417-cfbe7d32d699&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01354?prg140729=43480531-af43-4bdc-8417-cfbe7d32d699">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -688,16 +688,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b00954" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.6b01356" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1007,7 +997,105 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Zhevnenko%2C+Sergey">Sergey Zhevnenko</a></li>
                            <li><a href="/author/Protsenko%2C+Pavel">Pavel Protsenko</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12779?src=recsys">Oxygen and Hydrogen Peroxide Reduction on Polycrystalline Platinum in Acid Electrolytes: Effects of Bromide Adsorption</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jebaraj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Georgescu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Scherson</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Changes in the electrocatalytic activity of Pt for the oxygen and hydrogen peroxide reduction reactions (ORR and HPRR, respectively) in an aqueous acidic electrolyte induced by the adsorption of bromide, as a model impurity, have been investigated using ...<sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub><sup></sup></sub><sub></sub><sub></sub><sub><sup></sup></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b12779?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b12779?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12779?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12779?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12288?src=recsys">Structural Characterization, Optical Properties, and Phase Transitions of In<sub>1–<i>x</i></sub>Sn<sub><i>x</i></sub> Alloy Thin Films</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In<sub>1–<i>x</i></sub>Sn<sub><i>x</i></sub> (<i>x</i> = 0.06–0.51) alloy films were deposited on Si substrates by electron beam evaporation and characterized by X-ray diffraction, field-emission scanning electron microscopy, atomic force microscopy, and spectroscopic ellipsometry. The dielectric ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b12288?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b12288?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12288?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12288?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00954?src=recsys">Bay-Extended, Distorted Perylene Esters Showing Visible Luminescence after Ultraviolet Excitation: Photophysical and Electrochemical Analysis</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Vollbrecht</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wiebeler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neuba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bock</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schumacher</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kitzerow</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Perylene derivatives with a unilaterally and bilaterally extended core show luminescence in the visible wavelength range (500–600 nm) that can be excited by absorption in the ultraviolet range (360–370 nm). This unusual behavior is investigated by means ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b00954?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b00954?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00954?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00954?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b10910?src=recsys">Explicit Detection of the Mechanism of Platinum Nanoparticle Shape Control by Polyvinylpyrrolidone</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Attard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brew</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morgan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Willock</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The irreversible adsorption of polyvinylpyrrolidone (PVP) on a series of well-defined platinum single crystal electrode surfaces has been investigated using voltammetry, ex situ XPS and DFT calculations. It is found that the adsorption of PVP is highly ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b10910?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b10910?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b10910?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b10910?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b10628?src=recsys">Thermal Evolution and Instability of CO-Induced Platinum Clusters on the Pt(557) Surface at Ambient Pressure</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Noh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doh</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Park</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (4), pp 1110–1113</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Carbon monoxide (CO) is one of the most-studied molecules among the many modern industrial chemical reactions available. Following the Langmuir–Hinshelwood mechanism, CO conversion starts with adsorption on a catalyst surface, which is a crucially ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b10628?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b10628?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b10628?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b10628?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b08212?src=recsys">Metal–Organic Frameworks for Electrocatalytic Reduction of Carbon Dioxide</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kornienko</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yaghi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>137</em> (44), pp 14129–14135</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A key challenge in the field of electrochemical carbon dioxide reduction is the design of catalytic materials featuring high product selectivity, stability, and a composition of earth-abundant elements. In this work, we introduce thin films of nanosized ...<sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b08212?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b08212?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b08212?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b08212?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1058,7 +1146,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.6b01354" title="High-Res PDF: 1908 KB" target="_blank"> PDF <span class="details">(1908 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01354" title="Low-Res PDF: 385 KB" target="_blank"> PDF w/ Links <span class="details">(385 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01354" title="Low-Res PDF: 365 KB" target="_blank"> PDF w/ Links <span class="details">(365 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.6b01354" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1090,9 +1178,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b01354" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01354%3Fprg140729%3Dd74c7bc9-4816-4359-9756-36ae1d08beba&amp;doi=10.1021%2Facs.jpcc.6b01354" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01354%3Fprg140729%3Dd6821bf0-8e05-4c7b-b833-19ab68027d7b&amp;doi=10.1021%2Facs.jpcc.6b01354" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01354%3Fprg140729%3Dc588b54b-318b-4909-ba12-b5f48ce03b1b&amp;title=Adsorption+Effect+on+Wetting+in+a+Copper%2FLead+System&amp;doi=10.1021%2Facs.jpcc.6b01354" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01354%3Fprg140729%3D43480531-af43-4bdc-8417-cfbe7d32d699&amp;title=Adsorption+Effect+on+Wetting+in+a+Copper%2FLead+System&amp;doi=10.1021%2Facs.jpcc.6b01354" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

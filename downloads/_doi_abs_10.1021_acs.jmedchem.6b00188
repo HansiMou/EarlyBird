@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="3a515a78-23e4-4cc9-92f6-8a1e764eff2c">
+<html lang="en" class="pb-page" data-request-id="97d00c31-77c9-4b9a-b6f4-09c5938fc7be">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jmedchem.6b00188;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jmcmar;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00188%3Fprg140729%3D64139b3d-632e-46c5-8a6a-f78f56b3d21c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00188?prg140729=64139b3d-632e-46c5-8a6a-f78f56b3d21c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00188?prg140729=64139b3d-632e-46c5-8a6a-f78f56b3d21c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00188%3Fprg140729%3D6e0c105b-8825-4a4a-b084-f883bc8af19a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00188?prg140729=6e0c105b-8825-4a4a-b084-f883bc8af19a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00188?prg140729=6e0c105b-8825-4a4a-b084-f883bc8af19a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -993,6 +993,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i9"><span>Conclusion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i10"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i32"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1073,22 +1085,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01840?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01840?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01644?src=recsys">Pyrrolopyrimidine Derivatives as Novel Inhibitors of Multidrug Resistance-Associated Protein 1 (MRP1, ABCC1)</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schmitt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stefan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wiese</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Five series of pyrrolo[3,2-<i>d</i>]pyrimidines were synthesized and evaluated with respect to potency and selectivity toward multidrug resistance-associated protein 1 (MRP1, ABCC1). This transport protein is a major target to overcome multidrug resistance in ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01644?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01644?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01644?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01644?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.6b00101?src=recsys">Novel Combretastatin-2-aminoimidazole Analogues as Potent Tubulin Assembly Inhibitors: Exploration of Unique Pharmacophoric Impact of Bridging Skeleton and Aryl Moiety</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1104,6 +1100,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jmedchem.6b00101?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00101?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.6b00101?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01644?src=recsys">Pyrrolopyrimidine Derivatives as Novel Inhibitors of Multidrug Resistance-Associated Protein 1 (MRP1, ABCC1)</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schmitt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stefan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wiese</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Five series of pyrrolo[3,2-<i>d</i>]pyrimidines were synthesized and evaluated with respect to potency and selectivity toward multidrug resistance-associated protein 1 (MRP1, ABCC1). This transport protein is a major target to overcome multidrug resistance in ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01644?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01644?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01644?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01644?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01528?src=recsys">Discovery of 5-Chloro-1-(5-chloro-2-(methylsulfonyl)benzyl)-2-imino-1,2-dihydropyridine-3-carboxamide (TAK-259) as a Novel, Selective, and Orally Active α<sub>1D</sub> Adrenoceptor Antagonist with Antiurinary Frequency Effects: Reducing Human Ether-a-go-go-Related Gene (hERG) Liabilities</a>
                             <div class="achsLabel">
@@ -1237,9 +1249,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.6b00188" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00188%3Fprg140729%3D94767f6e-1265-4c7b-807e-a1e8a1e1295d&amp;doi=10.1021%2Facs.jmedchem.6b00188" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00188%3Fprg140729%3D443bba54-835f-4152-8c03-e5422d66d9d6&amp;doi=10.1021%2Facs.jmedchem.6b00188" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00188%3Fprg140729%3D64139b3d-632e-46c5-8a6a-f78f56b3d21c&amp;title=Characterizing+the+Epothilone+Binding+Site+on+%CE%B2-Tubulin+by+Photoaffinity+Labeling%3A+Identification+of+%CE%B2-Tubulin+Peptides+TARGSQQY+and+TSRGSQQY+as+Targets+of+an+Epothilone+Photoprobe+for+Polymerized+Tubulin&amp;doi=10.1021%2Facs.jmedchem.6b00188" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00188%3Fprg140729%3D6e0c105b-8825-4a4a-b084-f883bc8af19a&amp;title=Characterizing+the+Epothilone+Binding+Site+on+%CE%B2-Tubulin+by+Photoaffinity+Labeling%3A+Identification+of+%CE%B2-Tubulin+Peptides+TARGSQQY+and+TSRGSQQY+as+Targets+of+an+Epothilone+Photoprobe+for+Polymerized+Tubulin&amp;doi=10.1021%2Facs.jmedchem.6b00188" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1277,9 +1289,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqTCq0Ub8L4h7Vg90H21EOLACvtfcHk0lgEKOwTz8fyIQ&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGPCAQTR_HvM3tQwD9OmoEd1alLdYMSoQ3e7N4-7iNnw7&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSesDu13aWDQhtrnDmCxc-CThi25Vg2O3Mr0T8PRimMNK&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqTCq0Ub8L4h7Vg90H21EOLACvtfcHk0lgNbHnU51aoFA&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGPCAQTR_HvM3tQwD9OmoEd3H7I0w0dEybGvZa-kRCP_Y&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSesDu13aWDQhtrnDmCxc-CThi25Vg2O3Mvmv1AYrzxmT&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

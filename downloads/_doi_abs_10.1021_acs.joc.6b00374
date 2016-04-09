@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="08d4c4b4-dc4d-45a5-a3c8-b21be33d9f28">
+<html lang="en" class="pb-page" data-request-id="67655bd2-d78e-4582-8b5b-d7a8613abb1f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/joceah.ahead-of-print;journal:journal:joceah;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.joc.6b00374;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00374%3Fprg140729%3D21ddb5d4-e89b-48c7-ad43-fcd21c76d9af" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00374?prg140729=21ddb5d4-e89b-48c7-ad43-fcd21c76d9af&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00374?prg140729=21ddb5d4-e89b-48c7-ad43-fcd21c76d9af">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00374%3Fprg140729%3Da33283b5-bb0d-4045-8b49-646cf1c9fb36" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00374?prg140729=a33283b5-bb0d-4045-8b49-646cf1c9fb36&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00374?prg140729=a33283b5-bb0d-4045-8b49-646cf1c9fb36">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -936,6 +936,17 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i3"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i10"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i39"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -994,38 +1005,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.joc.6b00236?src=recsys">Cu(I)-Catalyzed Synthesis of Furan-Substituted Allenes by Use of Conjugated Ene-yne Ketones as Carbene Precursors</a>
-                            <div class="achsLabel">
-                             The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The synthesis of furan-substituted allenes using conjugated ene-yne ketones as carbene source has been developed. For this reaction, bases play vital roles in controlling the reaction pathways, allowing for access to two types of allene products through ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.6b00236?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.6b00236?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00236?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.6b00236?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.orglett.6b00459?src=recsys">Organocatalytic Enantioselective Michael–Michael–Henry Reaction Cascade. An Entry to Highly Functionalized Hajos–Parrish-Type Ketones with Five to Six Contiguous Stereogenic Centers and Two Quaternary Carbons</a>
-                            <div class="achsLabel">
-                             Organic Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Raja</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> An organocatalytic enantioselective reaction of 2-methylcyclopentane-1,3-dione, nitroalkene, and α,β-unsaturated aldehyde with the diphenylprolinol catalyst was developed to give the highly functionalized Hajos–Parrish-type ketones with five to six ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.orglett.6b00459?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.orglett.6b00459?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.orglett.6b00459?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.orglett.6b00459?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b13501?src=recsys">Enantioselective Intermolecular Enamide–Aldehyde Cross-Coupling Catalyzed by Chiral <i>N</i>-Heterocyclic Carbenes</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1042,6 +1021,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b13501?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b13501?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.joc.6b00236?src=recsys">Cu(I)-Catalyzed Synthesis of Furan-Substituted Allenes by Use of Conjugated Ene-yne Ketones as Carbene Precursors</a>
+                            <div class="achsLabel">
+                             The Journal of Organic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The synthesis of furan-substituted allenes using conjugated ene-yne ketones as carbene source has been developed. For this reaction, bases play vital roles in controlling the reaction pathways, allowing for access to two types of allene products through ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.joc.6b00236?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.6b00236?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00236?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.6b00236?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00207?src=recsys">Regio- and Enantioselective Synthesis of Azole Hemiaminal Esters by Lewis Base Catalyzed Dynamic Kinetic Resolution</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1057,6 +1052,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.6b00207?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.6b00207?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00207?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.orglett.6b00459?src=recsys">Organocatalytic Enantioselective Michael–Michael–Henry Reaction Cascade. An Entry to Highly Functionalized Hajos–Parrish-Type Ketones with Five to Six Contiguous Stereogenic Centers and Two Quaternary Carbons</a>
+                            <div class="achsLabel">
+                             Organic Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Raja</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> An organocatalytic enantioselective reaction of 2-methylcyclopentane-1,3-dione, nitroalkene, and α,β-unsaturated aldehyde with the diphenylprolinol catalyst was developed to give the highly functionalized Hajos–Parrish-type ketones with five to six ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.orglett.6b00459?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.orglett.6b00459?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.orglett.6b00459?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.orglett.6b00459?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.joc.5b02443?src=recsys">Intramolecular Functionalization of Benzylic Methylene Adjacent to the Ring Nitrogen Atom in <i>N</i>-Aryltetrahydroisoquinoline Derivatives</a>
                             <div class="achsLabel">
@@ -1174,9 +1185,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.joc.6b00374" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00374%3Fprg140729%3Dd1863434-d7a7-44f4-ab0d-01ae00ad1f72&amp;doi=10.1021%2Facs.joc.6b00374" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00374%3Fprg140729%3Ddef55477-9662-4390-828a-44a94b70239a&amp;doi=10.1021%2Facs.joc.6b00374" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00374%3Fprg140729%3D21ddb5d4-e89b-48c7-ad43-fcd21c76d9af&amp;title=Asymmetric+Three-Component+Coupling+Reaction+of+Alkyne%2C+Enone%2C+and+Aldehyde+Catalyzed+by+Chiral+Phebox+Ruthenium+Catalysts&amp;doi=10.1021%2Facs.joc.6b00374" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00374%3Fprg140729%3Da33283b5-bb0d-4045-8b49-646cf1c9fb36&amp;title=Asymmetric+Three-Component+Coupling+Reaction+of+Alkyne%2C+Enone%2C+and+Aldehyde+Catalyzed+by+Chiral+Phebox+Ruthenium+Catalysts&amp;doi=10.1021%2Facs.joc.6b00374" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

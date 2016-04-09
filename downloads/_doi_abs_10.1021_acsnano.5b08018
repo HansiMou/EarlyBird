@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="f318d477-3b8d-4944-b9e9-5b6b1948befb">
+<html lang="en" class="pb-page" data-request-id="1ca4195b-ff4e-4d49-993f-15b2f40a0006">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/ancac3.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acsnano.5b08018;wgroup:string:ACHS website Group;journal:journal:ancac3;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b08018%3Fprg140729%3Dc702d72e-32c3-4a8a-b483-e0e11e8a1223" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b08018?prg140729=c702d72e-32c3-4a8a-b483-e0e11e8a1223&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b08018?prg140729=c702d72e-32c3-4a8a-b483-e0e11e8a1223">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b08018%3Fprg140729%3D6140ebcc-aabc-46a4-93a8-6c5b6e3fc464" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b08018?prg140729=6140ebcc-aabc-46a4-93a8-6c5b6e3fc464&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b08018?prg140729=6140ebcc-aabc-46a4-93a8-6c5b6e3fc464">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1018,6 +1018,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07533?src=recsys">Protein-Assisted Assembly of Modular 3D Plasmonic Raspberry-like Core/Satellite Nanoclusters: Correlation of Structure and Optical Properties</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Höller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dulle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomä</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mayer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Steiner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Förster</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fery</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuttner</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chanana</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We present a bottom-up assembly route for a large-scale organization of plasmonic nanoparticles (NPs) into three-dimensional (3D) modular assemblies with core/satellite structure. The protein-assisted assembly of small spherical gold or silver NPs with a ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b07533?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07533?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07533?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07533?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b12124?src=recsys">Solution Synthesis Approach to Colloidal Cesium Lead Halide Perovskite Nanoplatelets with Monolayer-Level Thickness Control</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1033,22 +1049,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.5b12124?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.5b12124?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b12124?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b11199?src=recsys">Highly Luminescent Colloidal Nanoplates of Perovskite Cesium Lead Halide and Their Oriented Assemblies</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bekenstein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koscher</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Eaton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Alivisatos</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>137</em> (51), pp 16008–16011</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Anisotropic colloidal quasi-two-dimensional nanoplates (NPLs) hold great promise as functional materials due to their combination of low dimensional optoelectronic properties and versatility through colloidal synthesis. Recently, lead-halide perovskites ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b11199?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b11199?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b11199?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b11199?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b13235?src=recsys">Supracrystalline Colloidal Eggs: Epitaxial Growth and Freestanding Three-Dimensional Supracrystals in Nanoscaled Colloidosomes</a>
                             <div class="achsLabel">
@@ -1066,53 +1066,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b13235?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b13235?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b13470?src=recsys">Synthesis and Optical Properties of Lead-Free Cesium Tin Halide Perovskite Nanocrystals</a>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07901?src=recsys">Colloidal Recycling: Reconfiguration of Random Aggregates into Patchy Particles</a>
                             <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jellicoe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Richter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Glass</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tabachnyk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brady</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dutton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Friend</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Credgington</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Greenham</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Böhm</span> 
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Meester</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Verweij</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van der Wel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kraft</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2941–2944</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Metal halide perovskite crystal structures have emerged as a class of optoelectronic materials, which combine the ease of solution processability with excellent optical absorption and emission qualities. Restricting the physical dimensions of the ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> The key ingredients to the successful bottom-up construction of complex materials are believed to be colloids with anisotropic shapes and directional, or patchy, interactions. We present an approach for creating such anisotropic patchy particles based on ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b13470?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b13470?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b13470?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b13470?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsnano.5b07901?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07901?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07901?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07901?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/nl5048779?src=recsys">Nanocrystals of Cesium Lead Halide Perovskites (CsPbX<sub>3</sub>, X = Cl, Br, and I): Novel Optoelectronic Materials Showing Bright Emission with Wide Color Gamut</a>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00221?src=recsys">Oleic Acid-Induced Atomic Alignment of ZnS Polyhedral Nanocrystals</a>
                             <div class="achsLabel">
                              Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Protesescu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yakunin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bodnarchuk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krieg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Caputo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hendon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Walsh</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kovalenko</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">van der Stam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rabouw</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vonk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Geuchies</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ligthart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Petukhov</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">de Mello Donega</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>15</em> (6), pp 3692–3696</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Metal halides perovskites, such as hybrid organic–inorganic CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>, are newcomer optoelectronic materials that have attracted enormous attention as solution-deposited absorbing layers in solar cells with power conversion efficiencies reaching 20%. ...<sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Ordered two-dimensional (2D) superstructures of colloidal nanocrystals (NCs) can be tailored by the size, shape, composition, and surface chemistry of the NC building blocks, which can give directionality to the resulting superstructure geometry. The ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/nl5048779?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/nl5048779?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/nl5048779?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/nl5048779?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00221?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00221?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00221?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00221?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04981?src=recsys">Synthesis of Cesium Lead Halide Perovskite Nanocrystals in a Droplet-Based Microfluidic Platform: Fast Parametric Space Mapping</a>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00730?src=recsys">Entropic Ligands for Nanocrystals: From Unexpected Solution Properties to Outstanding Processability</a>
                             <div class="achsLabel">
                              Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lignos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stavrakis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nedelcu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Protesescu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">deMello</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kovalenko</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Niu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Peng</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>16</em> (3), pp 1869–1877</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Prior to this work, fully inorganic nanocrystals of cesium lead halide perovskite (CsPbX<sub>3</sub>, X = Br, I, Cl and Cl/Br and Br/I mixed halide systems), exhibiting bright and tunable photoluminescence, have been synthesized using conventional batch (flask-...<sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Solution processability of nanocrystals coated with a stable monolayer of organic ligands (nanocrystal–ligands complexes) is the starting point for their applications, which is commonly measured by their solubility in media. A model described in the other ...<sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b04981?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b04981?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04981?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04981?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00730?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00730?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00730?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00730?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1198,9 +1198,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsnano.5b08018" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b08018%3Fprg140729%3Da24615e9-af90-439f-b487-be6a15a7edbc&amp;doi=10.1021%2Facsnano.5b08018" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b08018%3Fprg140729%3Da7741c81-44a1-4d3d-b96d-212e0c6f69ab&amp;doi=10.1021%2Facsnano.5b08018" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b08018%3Fprg140729%3Dc702d72e-32c3-4a8a-b483-e0e11e8a1223&amp;title=Tic-Tac-Toe+Binary+Lattices+from+the+Interfacial+Self-Assembly+of+Branched+and+Spherical+Nanocrystals&amp;doi=10.1021%2Facsnano.5b08018" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b08018%3Fprg140729%3D6140ebcc-aabc-46a4-93a8-6c5b6e3fc464&amp;title=Tic-Tac-Toe+Binary+Lattices+from+the+Interfacial+Self-Assembly+of+Branched+and+Spherical+Nanocrystals&amp;doi=10.1021%2Facsnano.5b08018" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

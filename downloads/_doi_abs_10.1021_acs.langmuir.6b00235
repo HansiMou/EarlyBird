@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="48c6b380-f344-4fc9-8539-524b45025924">
+<html lang="en" class="pb-page" data-request-id="905d078a-05ef-49b9-b1f4-33d0a58024b0">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/langd5.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:langd5;wgroup:string:ACHS website Group;article:article:10.1021/acs.langmuir.6b00235;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00235%3Fprg140729%3D508eaa3e-184a-4777-baff-b637ce4dc513" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00235?prg140729=508eaa3e-184a-4777-baff-b637ce4dc513&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00235?prg140729=508eaa3e-184a-4777-baff-b637ce4dc513">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00235%3Fprg140729%3De6b71cb0-1337-4595-a5d9-f1b99e98f745" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00235?prg140729=e6b71cb0-1337-4595-a5d9-f1b99e98f745&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00235?prg140729=e6b71cb0-1337-4595-a5d9-f1b99e98f745">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1003,22 +1003,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/jacs.5b12600?src=recsys">Design of Synthetic Polymer Nanoparticles That Facilitate Resolubilization and Refolding of Aggregated Positively Charged Lysozyme</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nakamoto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nonaka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shea</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miura</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hoshino</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4282–4285</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Designed polymer hydrogel nanoparticles (NPs) capable of facilitating resolubilization and refolding of an aggregated protein, positively charged lysozyme, are prepared. NPs designed to interact strongly with denatured lysozyme and relatively weakly with ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b12600?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b12600?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b12600?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b12600?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.langmuir.6b00267?src=recsys">Surfactant Behavior of Amphiphilic Polymer-Tethered Nanoparticles</a>
                             <div class="achsLabel">
                              Langmuir
@@ -1035,37 +1019,85 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00267?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.langmuir.6b00267?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04748?src=recsys">Encapsulation of Antioxidant Gallate Derivatives in Biocompatible Poly(ε-caprolactone)-<i>b</i>-Pluronic-<i>b</i>-Poly(ε-caprolactone) Micelles</a>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04762?src=recsys">Leucocyte Membrane-Coated Janus Microcapsules for Enhanced Photothermal Cancer Treatment</a>
                             <div class="achsLabel">
                              Langmuir
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fuentes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Blanco-Fernandez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alvarado</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leiva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Radić</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alvarez-Lorenzo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Concheiro</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Frueh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">He</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Formulation of antioxidant agents is still a challenge that limits their application in the biomedical field. Pentablock copolymers obtained through modification of two common PEO–PPO–PEO copolymers (Pluronic F127 and F68) with poly(ε-carprolactone) (PCL) ...</span>
+                             <span><span class="bold">Abstract:</span> Polyelectrolyte multilayer (PEM) capsules are promising candidates for many kinds of cancer detection and treatment but are usually intended to deliver cargo to specific sites or to destroy cancer cells based on photothermal effects from the outside. In ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.langmuir.5b04748?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.langmuir.5b04748?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04748?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04748?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.langmuir.5b04762?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.5b04762?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04762?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04762?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b10304?src=recsys">Dissecting Electrostatic Contributions to Folding and Self-Assembly Using Designed Multicomponent Peptide Systems</a>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00373?src=recsys">Polystyrene Core–Silica Shell Particles with Defined Nanoarchitectures as a Versatile Platform for Suspension Array Technology</a>
                             <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Parmar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">James</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grisham</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pike</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nanda</span> 
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sarma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gawlitza</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Rurack</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4362–4367</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We investigate formation of nano- to microscale peptide fibers and sheets where assembly requires association of two distinct collagen mimetic peptides (CMPs). The multicomponent nature of these designs allows the decoupling of amino acid contributions to ...</span>
+                             <span><span class="bold">Abstract:</span> The need for rapid and high-throughput screening in analytical laboratories has led to significant growth in interest in suspension array technologies (SATs), especially with regard to cytometric assays targeting a low to medium number of analytes. Such ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b10304?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b10304?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b10304?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b10304?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.langmuir.6b00373?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.6b00373?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00373?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00373?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00392?src=recsys">Unusual Phase Transition Behavior of Poly(<i>N</i>-isopropylacrylamide)-<i>co</i>-Poly(tetrabutylphosphonium styrenesulfonate) in Water: Mild and Linear Changes in the Poly(<i>N</i>-isopropylacrylamide) Part</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In this paper, one LCST-type thermoresponsive poly(ionic liquid) (PIL), poly(tetrabutylphosphonium styrenesulfonate) (P[P<sub>4,4,4,4</sub>][SS]), was introduced to poly(<i>N</i>-isopropylacrylamide) (PNIPAM) by two different ways, mixing and copolymerization. ...<sup></sup><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.6b00392?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.6b00392?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00392?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00392?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04706?src=recsys">Construction of Compact Polyelectrolyte Multilayers Inspired by Marine Mussel: Effects of Salt Concentration and pH As Observed by QCM-D and AFM</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Backes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Micciulla</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kayitmazer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">von Klitzing</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Biomimetic multilayers based on layer-by-layer (LbL) assembly were prepared as functional films with compact structure by incorporating the mussel-inspired catechol cross-linking. Dopamine-modified poly(acrylic acid) (PAADopa) was synthesized as a ...<sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.5b04706?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.5b04706?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04706?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04706?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04277?src=recsys">Molecular Dynamics Simulation of Atomic Force Microscopy at the Water–Muscovite Interface: Hydration Layer Structure and Force Analysis</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kobayashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Murata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Matsuoka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nishi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sakka</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> With the development of atomic force microscopy (AFM), it is now possible to detect the buried liquid–solid interfacial structure in three dimensions at the atomic scale. One of the model surfaces used for AFM is the muscovite surface because it is ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.5b04277?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.5b04277?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04277?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04277?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1151,9 +1183,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.langmuir.6b00235" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00235%3Fprg140729%3D8120c1bb-0824-429e-a37b-b4d90e2cd3a9&amp;doi=10.1021%2Facs.langmuir.6b00235" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00235%3Fprg140729%3Db005427a-d5f6-4051-ba0a-691ce5f45492&amp;doi=10.1021%2Facs.langmuir.6b00235" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00235%3Fprg140729%3D508eaa3e-184a-4777-baff-b637ce4dc513&amp;title=Folding+Behaviors+of+Protein+%28Lysozyme%29+Confined+in+Polyelectrolyte+Complex+Micelle&amp;doi=10.1021%2Facs.langmuir.6b00235" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00235%3Fprg140729%3De6b71cb0-1337-4595-a5d9-f1b99e98f745&amp;title=Folding+Behaviors+of+Protein+%28Lysozyme%29+Confined+in+Polyelectrolyte+Complex+Micelle&amp;doi=10.1021%2Facs.langmuir.6b00235" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

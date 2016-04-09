@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1f457cb8-e44d-4785-a578-80dd0721817d">
+<html lang="en" class="pb-page" data-request-id="f6f411d8-6966-4fce-912a-f795ffe441bb">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.est.6b00096;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00096%3Fprg140729%3Dd1a1114f-c866-4d12-81c4-59cda417cf6f" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00096?prg140729=d1a1114f-c866-4d12-81c4-59cda417cf6f&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00096?prg140729=d1a1114f-c866-4d12-81c4-59cda417cf6f">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00096%3Fprg140729%3Deffc17f1-cbb4-422a-9da2-eec35c49cdf5" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00096?prg140729=effc17f1-cbb4-422a-9da2-eec35c49cdf5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00096?prg140729=effc17f1-cbb4-422a-9da2-eec35c49cdf5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -689,10 +689,11 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.est.6b00066" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.est.5b04123" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.est.6b00218" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1084,20 +1085,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b04491?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b04491?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b06247?src=recsys">Intermediate Volatility Organic Compound Emissions from On-road Gasoline Vehicles and Small Off-road Gasoline Engines</a>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b05134?src=recsys">Method for Fusing Observational Data and Chemical Transport Model Simulations To Estimate Spatiotemporally Resolved Ambient Air Pollution</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nguyen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Presto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hennigan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">May</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Robinson</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Friberg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Holmes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Strickland</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sarnat</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tolbert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Russell</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mulholland</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold">2016</span> <em>50</em> (7), pp 3695–3705</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Dynamometer experiments were conducted to characterize the intermediate volatility organic compound (IVOC) emissions from a fleet of on-road gasoline vehicles and small off-road gasoline engines. IVOCs were quantified through gas chromatography/mass ...</span>
+                             <span><span class="bold">Abstract:</span> Investigations of ambient air pollution health effects rely on complete and accurate spatiotemporal air pollutant estimates. Three methods are developed for fusing ambient monitor measurements and 12 km resolution chemical transport model (CMAQ) ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b06247?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b06247?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b06247?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.est.5b05134?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b05134?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b05134?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b05134?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1183,9 +1185,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.6b00096" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00096%3Fprg140729%3Dc06e53c5-1bce-42a3-8dfe-7c1bf88b324d&amp;doi=10.1021%2Facs.est.6b00096" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00096%3Fprg140729%3D0ef6623f-81a6-44d0-8df8-021244ebf57e&amp;doi=10.1021%2Facs.est.6b00096" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00096%3Fprg140729%3Dd1a1114f-c866-4d12-81c4-59cda417cf6f&amp;title=Bayesian+Maximum+Entropy+Integration+of+Ozone+Observations+and+Model+Predictions%3A+A+National+Application&amp;doi=10.1021%2Facs.est.6b00096" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00096%3Fprg140729%3Deffc17f1-cbb4-422a-9da2-eec35c49cdf5&amp;title=Bayesian+Maximum+Entropy+Integration+of+Ozone+Observations+and+Model+Predictions%3A+A+National+Application&amp;doi=10.1021%2Facs.est.6b00096" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

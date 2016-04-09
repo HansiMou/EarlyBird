@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="717727ea-df79-4642-bed1-e720e5235acc">
+<html lang="en" class="pb-page" data-request-id="a5faec81-6375-470d-af9d-18e11daf682c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;article:article:10.1021/acsami.6b01607;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01607%3Fprg140729%3D2dbc83da-76f7-4f8f-a636-0d01105cecd4" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01607?prg140729=2dbc83da-76f7-4f8f-a636-0d01105cecd4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01607?prg140729=2dbc83da-76f7-4f8f-a636-0d01105cecd4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01607%3Fprg140729%3Dcb722e54-1ac1-42da-83ad-45feaf5ced98" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01607?prg140729=cb722e54-1ac1-42da-83ad-45feaf5ced98&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01607?prg140729=cb722e54-1ac1-42da-83ad-45feaf5ced98">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1095,6 +1095,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00298?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.6b00298?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04339?src=recsys">More than Conformational “Twisting” or “Coplanarity”: Molecular Strategies for Designing High-Efficiency Nonfullerene Organic Solar Cells</a>
+                            <div class="achsLabel">
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhan</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Yao</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The power conversion efficiencies (PCEs) of organic solar cells are lower than that of recently emerging perovskite solar cells. Can a PCE of &gt;12% be achieved with single-junction organic solar cells? To achieve a high PCE, much effort has been focused on ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemmater.5b04339?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.5b04339?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04339?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04339?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.5b12050?src=recsys">D–A<sub>1</sub>–D–A<sub>2</sub> Copolymer Based on Pyridine-Capped Diketopyrrolopyrrole with Fluorinated Benzothiadiazole for High-Performance Ambipolar Organic Thin-Film Transistors</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1111,37 +1127,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.5b12050?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b12050?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04551?src=recsys">Electron-Accepting π-Conjugated Systems for Organic Photovoltaics: Influence of Structural Modification on Molecular Orientation at Donor–Acceptor Interfaces</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b10445?src=recsys">Side-Chain-Induced Rigid Backbone Organization of Polymer Semiconductors through Semifluoroalkyl Side Chains</a>
                             <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jinnai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Karakawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Aernouts</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nakajima</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mori</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Aso</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kwon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cho</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>28</em> (6), pp 1705–1713</span>
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3679–3686</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In organic photovoltaics (OPVs) using nonfullerene acceptors, the fine-tuning of interfaces between donor and acceptor in the bulk-heterojunction (BHJ) structure has become an important factor to improve the performance. A series of electron-accepting π-...<sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> While high-mobility p-type conjugated polymers have been widely reported, high-mobility n-type conjugated polymers are still rare. In the present work, we designed semifluorinated alkyl side chains and introduced them into naphthalene diimide-based ...<sup></sup><sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.5b04551?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.5b04551?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04551?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04551?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04339?src=recsys">More than Conformational “Twisting” or “Coplanarity”: Molecular Strategies for Designing High-Efficiency Nonfullerene Organic Solar Cells</a>
-                            <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhan</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Yao</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The power conversion efficiencies (PCEs) of organic solar cells are lower than that of recently emerging perovskite solar cells. Can a PCE of &gt;12% be achieved with single-junction organic solar cells? To achieve a high PCE, much effort has been focused on ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.5b04339?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.5b04339?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04339?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04339?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b10445?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b10445?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b10445?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b10445?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1227,9 +1227,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b01607" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01607%3Fprg140729%3Dd1a6705c-6289-4d74-a5a1-0b049f4805e7&amp;doi=10.1021%2Facsami.6b01607" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01607%3Fprg140729%3D0452b73f-5efd-4a38-8167-0f55a84702bb&amp;doi=10.1021%2Facsami.6b01607" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01607%3Fprg140729%3D2dbc83da-76f7-4f8f-a636-0d01105cecd4&amp;title=Direct+Uniaxial+Alignment+of+a+Donor%E2%80%93Acceptor+Semiconducting+Polymer+Using+Single-Step+Solution+Shearing&amp;doi=10.1021%2Facsami.6b01607" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01607%3Fprg140729%3Dcb722e54-1ac1-42da-83ad-45feaf5ced98&amp;title=Direct+Uniaxial+Alignment+of+a+Donor%E2%80%93Acceptor+Semiconducting+Polymer+Using+Single-Step+Solution+Shearing&amp;doi=10.1021%2Facsami.6b01607" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

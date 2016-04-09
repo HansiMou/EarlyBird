@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ca345c3a-dea9-45be-bb4a-8207cda2d852">
+<html lang="en" class="pb-page" data-request-id="c8ce2707-c1c8-4afb-a7e3-a69defe249a5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jnprdf;pageGroup:string:Publication Pages;article:article:10.1021/acs.jnatprod.5b01029;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jnprdf.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b01029%3Fprg140729%3D9b776523-8917-4d6d-a57d-23ca3ce8310c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b01029?prg140729=9b776523-8917-4d6d-a57d-23ca3ce8310c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b01029?prg140729=9b776523-8917-4d6d-a57d-23ca3ce8310c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b01029%3Fprg140729%3D643f0aea-953b-4beb-b7ff-169414f69b02" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b01029?prg140729=643f0aea-953b-4beb-b7ff-169414f69b02&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b01029?prg140729=643f0aea-953b-4beb-b7ff-169414f69b02">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -956,6 +956,17 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i7"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i8"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i24"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1013,7 +1024,105 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Feng%2C+Yunjiang">Yunjiang Feng</a></li>
                            <li><a href="/author/Davis%2C+Rohan+A">Rohan A. Davis</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00950?src=recsys">Laxitextines A and B, Cyathane Xylosides from the Tropical Fungus <i>Laxitextum incrustatum</i></a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mudalungu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Richter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wittstein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abdalla</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Matasyoh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stadler</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Süssmuth</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Bioassay-guided fractionation of the mycelial extract of a basidiomycete culture collected in Kenya led to the isolation of two new cyathane diterpenoids named laxitextines A (<b>1</b>) and B (<b>2</b>). The producer strain was characterized by detailed taxonomic ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b00950?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b00950?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00950?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b00950?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00799?src=recsys">Naphthochromenes and Related Constituents from the Tubers of <i>Sinningia allagophylla</i></a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Scharf</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Verdan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ribeiro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Simionatto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sá</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Salvador</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barison</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stefanello</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Chemical investigation of the tubers of <i>Sinningia allagophylla</i> led to the isolation of two new chromenes, (2<i>S</i>)-12-hydroxylapachenole (<b>1</b>) and (3<i>R</i>)-3,4-dihydro-3-hydroxy-4-oxo-8-methoxylapachenole (<b>2</b>), and three new dimeric chromenes, allagophylldimers A–C (...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b00799?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b00799?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00799?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b00799?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.6b00095?src=recsys">Haliclonadiamine Derivatives and 6-<i>epi</i>-Monanchorin from the Marine Sponge <i>Halichondria panicea</i> Collected at Iriomote Island</a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Abdjul</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yamazaki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kanno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kirikoshi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ukai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Namikoshi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Four new haliclonadiamine analogues, (10<i>Z</i>,12<i>E</i>)-haliclonadiamine (<b>1</b>), (10<i>E</i>,12<i>Z</i>)-haliclonadiamine (<b>2</b>), and halichondriamines A (<b>3</b>) and B (<b>4</b>), were isolated from the Okinawan marine sponge <i>Halichondria panicea</i> together with haliclonadiamine (<b>5</b>) and papuamine ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.6b00095?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.6b00095?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.6b00095?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.6b00095?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b01055?src=recsys">Natural Products as Sources of New Drugs from 1981 to 2014</a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Newman</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Cragg</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>79</em> (3), pp 629–661</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> This contribution is a completely updated and expanded version of the four prior analogous reviews that were published in this journal in 1997, 2003, 2007, and 2012. In the case of all approved therapeutic agents, the time frame has been extended to cover ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b01055?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b01055?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b01055?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b01055?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00932?src=recsys">Variochelins, Lipopeptide Siderophores from <i>Variovorax boronicumulans</i> Discovered by Genome Mining</a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kurth</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schieferdecker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Athanasopoulou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Seccareccia</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nett</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Photoreactive siderophores have a major impact on the growth of planktonic organisms. To date, these molecules have mainly been reported from marine bacteria, although evidence is now accumulating that some terrestrial bacteria also harbor the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b00932?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b00932?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00932?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b00932?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00942?src=recsys">Pelianthinarubins A and B, Red Pyrroloquinoline Alkaloids from the Fruiting Bodies of the Mushroom <i>Mycena pelianthina</i></a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pulte</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wagner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kogler</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Spiteller</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Pelianthinarubin A (<b>1</b>) and pelianthinarubin B (<b>2</b>), two previously unknown pyrroloquinoline alkaloids, have been isolated from fruiting bodies of <i>Mycena pelianthina</i>. The structures of these alkaloids have been deduced from their HR-(+)-ESIMS and 2D NMR ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b00942?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b00942?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00942?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b00942?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1097,9 +1206,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jnatprod.5b01029" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b01029%3Fprg140729%3D20fa3174-d5e0-4790-8472-74253d8c8772&amp;doi=10.1021%2Facs.jnatprod.5b01029" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b01029%3Fprg140729%3D0dd0a498-75d2-4afb-bae0-e80bcbe4affa&amp;doi=10.1021%2Facs.jnatprod.5b01029" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b01029%3Fprg140729%3D9b776523-8917-4d6d-a57d-23ca3ce8310c&amp;title=Rhodocomatulin-Type+Anthraquinones+from+the+Australian+Marine+Invertebrates+Clathria+hirsuta+and+Comatula+rotalaria&amp;doi=10.1021%2Facs.jnatprod.5b01029" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b01029%3Fprg140729%3D643f0aea-953b-4beb-b7ff-169414f69b02&amp;title=Rhodocomatulin-Type+Anthraquinones+from+the+Australian+Marine+Invertebrates+Clathria+hirsuta+and+Comatula+rotalaria&amp;doi=10.1021%2Facs.jnatprod.5b01029" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

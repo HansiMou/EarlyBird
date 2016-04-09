@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d2e3d272-1329-4752-b63a-0ec7b3bf0644">
+<html lang="en" class="pb-page" data-request-id="38e13ed1-de29-40e4-99ac-c70bdfe0ac5d">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.jpca.6b02926;website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02926%3Fprg140729%3D9122d2de-2d02-4ce8-9a15-cca9b9868020" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02926?prg140729=9122d2de-2d02-4ce8-9a15-cca9b9868020&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02926?prg140729=9122d2de-2d02-4ce8-9a15-cca9b9868020">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02926%3Fprg140729%3Dd807f175-7b20-4032-a33c-405dde17918e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02926?prg140729=d807f175-7b20-4032-a33c-405dde17918e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02926?prg140729=d807f175-7b20-4032-a33c-405dde17918e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1024,22 +1024,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b02883?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b02883?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00543?src=recsys">Molecular Structure and Bonding in Plutonium Carbides: A Theoretical Study of PuC<sub>3</sub></a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Molpeceres</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rayón</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barrientos</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Largo</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The most relevant species of plutonium tricarbide were characterized using theoretical methods. The global minimum is predicted to be a fan structure where the plutonium atom is bonded to a quasi-linear C<sub>3</sub> unit. A rhombic isomer, shown to be a bicyclic ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00543?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00543?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00543?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00543?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b00308?src=recsys">A Gaussian Wave Packet Propagation Approach to Vibrationally Resolved Optical Spectra at Non Zero Temperatures</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1070,36 +1054,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b12392?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b12392?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b02052?src=recsys">Photodissociation of Cerium Oxide Nanocluster Cations</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00543?src=recsys">Molecular Structure and Bonding in Plutonium Carbides: A Theoretical Study of PuC<sub>3</sub></a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Akin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schaefer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Duncan</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Cerium oxide cluster cations, CexOy+, are produced via laser vaporization in a pulsed nozzle source and detected with time-of-flight mass spectrometry. The mass spectrum displays a strongly preferred oxide stoichiometry for each cluster with a specific ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b02052?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b02052?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b02052?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00677?src=recsys">The Effect of Water and Bases on the Clustering of a Cyclohexene Autoxidation Product C<sub>6</sub>H<sub>8</sub>O<sub>7</sub> with Sulfuric Acid</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Elm</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Myllys</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kurtén</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Vehkamäki</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Molpeceres</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rayón</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barrientos</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Largo</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We investigate the molecular interaction between sulfuric acid and a C<sub>6</sub>H<sub>8</sub>O<sub>7</sub> ketodiperoxy acid compound (a proxy for highly oxidized products of, e.g., monoterpene autoxidation) in the presence of water, ammonia, or dimethylamine. The molecular geometries ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> The most relevant species of plutonium tricarbide were characterized using theoretical methods. The global minimum is predicted to be a fan structure where the plutonium atom is bonded to a quasi-linear C<sub>3</sub> unit. A rhombic isomer, shown to be a bicyclic ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00677?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00677?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00677?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00677?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.6b00543?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b00543?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00543?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b00543?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b02052?src=recsys">Photodissociation of Cerium Oxide Nanocluster Cations</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Akin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schaefer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Duncan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Cerium oxide cluster cations, Ce<sub><i>x</i></sub>O<sub><i>y</i></sub><sup>+</sup>, are produced via laser vaporization in a pulsed nozzle source and detected with time-of-flight mass spectrometry. The mass spectrum displays a strongly preferred oxide stoichiometry for each cluster with a specific ...<sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.6b02052?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b02052?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b02052?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b02052?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b11025?src=recsys">Excitonic Coupling and Femtosecond Relaxation of Zinc Porphyrin Oligomers Linked with Triazole Bridge: Dynamics and Modeling</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bukreev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mikhailov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shelaev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gostev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Polevaya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tyurin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Beletskaya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Umansky</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nadtochenko</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (12), pp 1961–1970</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The synthesis of new zinc porphyrin oligomers linked by a triazole bridge was carried out via “click” reaction. A split in the porphyrin oligomer B-band was observed. It was considered as evidence of exciton–excitonic coupling. The relaxation of excited ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.5b11025?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b11025?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b11025?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b11025?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1185,9 +1186,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.6b02926" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02926%3Fprg140729%3D8081d78f-4e42-49d8-9e66-a0fb9f63fc42&amp;doi=10.1021%2Facs.jpca.6b02926" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02926%3Fprg140729%3D243308c5-5ead-4e73-be95-f217d28f2f64&amp;doi=10.1021%2Facs.jpca.6b02926" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02926%3Fprg140729%3D9122d2de-2d02-4ce8-9a15-cca9b9868020&amp;title=Ligand+Influence+on+the+Electronic+Spectra+of+Dicationic+Ruthenium-Bipyridine-Terpyridine+Complexes&amp;doi=10.1021%2Facs.jpca.6b02926" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02926%3Fprg140729%3Dd807f175-7b20-4032-a33c-405dde17918e&amp;title=Ligand+Influence+on+the+Electronic+Spectra+of+Dicationic+Ruthenium-Bipyridine-Terpyridine+Complexes&amp;doi=10.1021%2Facs.jpca.6b02926" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

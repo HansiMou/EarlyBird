@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a64470f2-9ecc-44db-af22-515d4749266d">
+<html lang="en" class="pb-page" data-request-id="db68c7ae-bd0d-4419-aaae-061d316dc5dc">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jacsat.ahead-of-print;article:article:10.1021/jacs.6b01244;pageGroup:string:Publication Pages;journal:journal:jacsat;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01244%3Fprg140729%3Dd36e37d6-e88b-44a9-978e-b9b1b6630e85" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01244?prg140729=d36e37d6-e88b-44a9-978e-b9b1b6630e85&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01244?prg140729=d36e37d6-e88b-44a9-978e-b9b1b6630e85">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01244%3Fprg140729%3Dcac3354d-7429-4db6-b835-02c75a66f6ad" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01244?prg140729=cac3354d-7429-4db6-b835-02c75a66f6ad&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01244?prg140729=cac3354d-7429-4db6-b835-02c75a66f6ad">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -673,16 +673,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.5b13501" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/jacs.6b02755" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jacsat/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1004,85 +994,21 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01089?src=recsys">Construction of Smart Supramolecular Polymeric Hydrogels Cross-linked by Discrete Organoplatinum(II) Metallacycles via Post-Assembly Polymerization</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01005?src=recsys">Metallo-Supramolecular Self-Assembly of a Multicomponent Ditrigon Based on Complementary Terpyridine Ligand Pairing</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3651–3654</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Postassembly modification strategy has been successfully employed in the construction of discrete metallosupramolecular assemblies. However, the most known reports have been limited to the simple structural conversion through the easy covalent reactions, ...</span>
+                             <span><span class="bold">Abstract:</span> Predesigned complementary complexation of two 2,2′:6′,2″-terpyridine-based ligands was established by installing 2,6-dimethoxyphenyl substituents at the terpyridyl 6,6″-positions, which provided ancillary ion–dipole interactions in the coordination ...<sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01089?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01089?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01089?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01089?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b10754?src=recsys">Thioether-Based Fluorescent Covalent Organic Framework for Selective Detection and Facile Removal of Mercury(II)</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Su</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (9), pp 3031–3037</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Heavy metal ions are highly toxic and widely spread as environmental pollutants. New strategies are being developed to simultaneously detect and remove these toxic ions. Herein, we take the intrinsic advantage of covalent organic frameworks (COFs) and ...<sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b10754?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b10754?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b10754?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b10754?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00846?src=recsys">Light-Emitting Superstructures with Anion Effect: Coordination-Driven Self-Assembly of Pure Tetraphenylethylene Metallacycles and Metallacages</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cook</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4580–4588</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Herein, we describe the synthesis of tetraphenylethylene (TPE)-based di-Pt(II) acceptors as shown by X-ray analysis, which are subsequently used to construct pure TPE-based 2D hexagonal metallacycles and 3D drumlike metallacages with three different ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00846?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00846?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00846?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00846?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b10708?src=recsys">From Highly Crystalline to Outer Surface-Functionalized Covalent Organic Frameworks—A Modulation Approach</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Calik</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sick</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dogru</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Döblinger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Datz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Budde</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hartschuh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Auras</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bein</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (4), pp 1234–1239</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Crystallinity and porosity are of central importance for many properties of covalent organic frameworks (COFs), including adsorption, diffusion, and electronic transport. We have developed a new method for strongly enhancing both aspects through the ...<sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b10708?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b10708?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b10708?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b10708?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00564?src=recsys">Self-Assembled Pyridine-Dipyrrolate Cages</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lammer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brewster</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lynch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sessler</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4573–4579</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> An inherently nonlinear pyridine dipyrrolate ligand, namely 2,6-bis(3,4-diethyl-5-carboxy-1<i>H</i>-pyrrol-2yl)pyridine (compound <b>1</b>), is able to distinguish between different zinc(II) cation sources, namely Zn(acac)<sub>2</sub> and Zn(OAc)<sub>2</sub>, respectively. This ...<sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00564?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00564?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00564?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00564?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b01005?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01005?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01005?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01005?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00007?src=recsys">Size-Controlled Synthesis of Porphyrinic Metal–Organic Framework and Functionalization for Targeted Photodynamic Therapy</a>
                             <div class="achsLabel">
@@ -1099,6 +1025,70 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.6b00007?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.6b00007?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00007?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b13501?src=recsys">Enantioselective Intermolecular Enamide–Aldehyde Cross-Coupling Catalyzed by Chiral <i>N</i>-Heterocyclic Carbenes</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The unprecedented <i>N</i>-heterocyclic carbene (NHC)-catalyzed intermolecular cross-coupling of enamides and aldehydes is described. Upon exposure of enamides to aldehydes in the presence of a NHC catalyst, catalytic C–C bond formation occurs, providing highly ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b13501?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b13501?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b13501?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b13501?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12189?src=recsys">Encapsulation of a Metal–Organic Polyhedral in the Pores of a Metal–Organic Framework</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Qiu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (4), pp 1138–1141</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A new and efficient hydrophilicity-directed approach (HDA) is developed to encapsulate large guest molecules beyond the aperture size limitation in the nanospace of metal–organic frameworks (MOFs), as exemplified by the self-assembly of a metal–organic ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12189?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12189?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12189?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12189?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b10484?src=recsys">Driving the Oxygen Evolution Reaction by Nonlinear Cooperativity in Bimetallic Coordination Catalysts</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wurster</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grumelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hötger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gutzler</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kern</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3623–3626</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Developing efficient catalysts for electrolysis, in particular for the oxygen evolution in the anodic half cell reaction, is an important challenge in energy conversion technologies. By taking inspiration from the catalytic properties of single-atom ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b10484?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b10484?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b10484?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b10484?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01976?src=recsys">Adding Four Extra K-Regions to Hexa-<i>peri</i>-hexabenzocoronene</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dumslaff</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maghsoumi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Velpula</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mali</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Castiglioni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">De Feyter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tommasini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Narita</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Müllen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A multistep synthesis of hexa-<i>peri</i>-hexabenzocoronene (HBC) with four additional K-regions was developed through a precursor based on two benzotetraphene units bridged with <i>p</i>-phenylene, featuring preinstalled zigzag moieties. Characterization by laser ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01976?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01976?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01976?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01976?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1151,7 +1141,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/jacs.6b01244" title="High-Res PDF: 1554 KB" target="_blank"> PDF <span class="details">(1554 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b01244" title="Low-Res PDF: 358 KB" target="_blank"> PDF w/ Links <span class="details">(358 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b01244" title="Low-Res PDF: 339 KB" target="_blank"> PDF w/ Links <span class="details">(339 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/jacs.6b01244" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1184,9 +1174,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.6b01244" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01244%3Fprg140729%3Dcc0c6ae4-bbd6-4857-9d95-a331d7db76e6&amp;doi=10.1021%2Fjacs.6b01244" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01244%3Fprg140729%3D621fe812-d1bc-421f-8fd4-1dc23174bb58&amp;doi=10.1021%2Fjacs.6b01244" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01244%3Fprg140729%3Dd36e37d6-e88b-44a9-978e-b9b1b6630e85&amp;title=Construction+of+Covalent+Organic+Frameworks+Bearing+Three+Different+Kinds+of+Pores+through+the+Heterostructural+Mixed+Linker+Strategy&amp;doi=10.1021%2Fjacs.6b01244" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01244%3Fprg140729%3Dcac3354d-7429-4db6-b835-02c75a66f6ad&amp;title=Construction+of+Covalent+Organic+Frameworks+Bearing+Three+Different+Kinds+of+Pores+through+the+Heterostructural+Mixed+Linker+Strategy&amp;doi=10.1021%2Fjacs.6b01244" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

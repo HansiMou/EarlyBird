@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ba1ed610-9b25-4ac3-929d-2dc8d427c6c1">
+<html lang="en" class="pb-page" data-request-id="eae2258d-0710-4ecd-b9f2-6e7c83ec6602">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsphotonics.6b00037;issue:issue:10.1021/apchd5.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:apchd5">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00037%3Fprg140729%3Dff80cbaa-3cad-456d-9070-dac62ff651fb" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.6b00037?prg140729=ff80cbaa-3cad-456d-9070-dac62ff651fb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.6b00037?prg140729=ff80cbaa-3cad-456d-9070-dac62ff651fb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00037%3Fprg140729%3D0cb1d4a3-74c5-4530-b8bb-036e0675bc20" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.6b00037?prg140729=0cb1d4a3-74c5-4530-b8bb-036e0675bc20&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.6b00037?prg140729=0cb1d4a3-74c5-4530-b8bb-036e0675bc20">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1039,22 +1039,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsphotonics.5b00667?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsphotonics.5b00667?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsphotonics.5b00499?src=recsys">Electrodynamic Modeling of Quantum Dot Luminescence in Plasmonic Metamaterials</a>
-                            <div class="achsLabel">
-                             ACS Photonics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koschny</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Soukoulis</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A self-consistent approach is proposed to simulate a coupled system of quantum dots (QDs) and metallic metamaterials. Using a four-level atomic system, an artificial source is introduced to simulate the spontaneous emission process in the QDs. We ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsphotonics.5b00499?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsphotonics.5b00499?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsphotonics.5b00499?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsphotonics.5b00499?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsphotonics.5b00637?src=recsys">The Role of Plasmon-Generated Near Fields for Enhanced Circular Dichroism Spectroscopy</a>
                             <div class="achsLabel">
                              ACS Photonics
@@ -1070,6 +1054,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsphotonics.5b00637?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsphotonics.5b00637?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsphotonics.5b00637?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsphotonics.5b00499?src=recsys">Electrodynamic Modeling of Quantum Dot Luminescence in Plasmonic Metamaterials</a>
+                            <div class="achsLabel">
+                             ACS Photonics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koschny</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Soukoulis</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A self-consistent approach is proposed to simulate a coupled system of quantum dots (QDs) and metallic metamaterials. Using a four-level atomic system, an artificial source is introduced to simulate the spontaneous emission process in the QDs. We ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsphotonics.5b00499?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsphotonics.5b00499?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsphotonics.5b00499?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsphotonics.5b00499?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsphotonics.5b00586?src=recsys">Noble Metal Alloys for Plasmonics</a>
                             <div class="achsLabel">
@@ -1087,22 +1087,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsphotonics.5b00586?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsphotonics.5b00586?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b07400?src=recsys">Silver Nanoshell Plasmonically Controlled Emission of Semiconductor Quantum Dots in the Strong Coupling Regime</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Strong coupling between semiconductor excitons and localized surface plasmons (LSPs) giving rise to hybridized plexciton states in which energy is coherently and reversibly exchanged between the components is vital, especially in the area of quantum ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b07400?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b07400?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b07400?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b07400?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsphotonics.5b00575?src=recsys">Optical Trapping and Two-Photon Excitation of Colloidal Quantum Dots Using Bowtie Apertures</a>
                             <div class="achsLabel">
                              ACS Photonics
@@ -1118,6 +1102,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsphotonics.5b00575?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsphotonics.5b00575?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsphotonics.5b00575?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b00287?src=recsys">Coupling Emitters and Silver Nanowires to Achieve Long-Range Plasmon-Mediated Fluorescence Energy Transfer</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">de Torres</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ferrand</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Colas des Francs</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wenger</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The development of quantum plasmonic circuitry requires efficient coupling between quantum emitters and plasmonic waveguides. A major experimental challenge is to simultaneously maximize the surface plasmon propagation length, the coupling efficiency into ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.6b00287?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.6b00287?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b00287?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b00287?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1203,9 +1203,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsphotonics.6b00037" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00037%3Fprg140729%3D1cdbeffa-007c-4bbc-8be7-5e0d76d9a081&amp;doi=10.1021%2Facsphotonics.6b00037" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00037%3Fprg140729%3Da927d1d6-888a-472c-8cc6-bb0db19c684f&amp;doi=10.1021%2Facsphotonics.6b00037" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00037%3Fprg140729%3Dff80cbaa-3cad-456d-9070-dac62ff651fb&amp;title=Plasmon-Enhanced+Two-Photon+Absorption+in+Photoluminescent+Semiconductor+Nanocrystals&amp;doi=10.1021%2Facsphotonics.6b00037" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00037%3Fprg140729%3D0cb1d4a3-74c5-4530-b8bb-036e0675bc20&amp;title=Plasmon-Enhanced+Two-Photon+Absorption+in+Photoluminescent+Semiconductor+Nanocrystals&amp;doi=10.1021%2Facsphotonics.6b00037" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

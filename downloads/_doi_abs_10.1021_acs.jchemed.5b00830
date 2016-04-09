@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5dc84139-3deb-4ba6-b92b-1e436b4dae51">
+<html lang="en" class="pb-page" data-request-id="d6940733-4456-4ddf-98ee-a5a43408ec67">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;issue:issue:10.1021/jceda8.ahead-of-print;article:article:10.1021/acs.jchemed.5b00830;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00830%3Fprg140729%3D762567f2-6070-4b79-8be8-517ffd7f7d9b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00830?prg140729=762567f2-6070-4b79-8be8-517ffd7f7d9b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00830?prg140729=762567f2-6070-4b79-8be8-517ffd7f7d9b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00830%3Fprg140729%3Dd7703634-fb44-4195-b5c6-f74bc2acbd2b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00830?prg140729=d7703634-fb44-4195-b5c6-f74bc2acbd2b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00830?prg140729=d7703634-fb44-4195-b5c6-f74bc2acbd2b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -671,6 +671,16 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
+                       <div class="issueNavigator"> 
+                        <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jchemed.5b00710" title="Previous Article"> Previous Article </a> </span> 
+                        </div> 
+                        <div class="journalNavRightTd"> 
+                         <div class="next"> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00281" title="Next Article"> Next Article </a> 
+                         </div> 
+                        </div> 
+                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceda8/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -938,12 +948,12 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">Gas chromatography–mass spectrometry (GC–MS) and GC–tandem MS (GC–MS/MS) are useful in many separation and characterization procedures. GC–MS is now a common tool in industry and research, and increasingly, GC–MS/MS is applied to the measurement of trace components in complex mixtures. This report describes an upper-level undergraduate experiment to understand aspects of GC–MS analysis for a mixture of compounds, carry out a protocol for selected ion monitoring, and then determine a number of kerosene component classes using GC–MS. The first exercise analyzes a standard solution containing different compounds by using GC–MS, obtains characteristic ions, conducts library searching, calculates retention indices, and displays various extracted ion plots. Selected ion monitoring is then conducted based on retention time windows and characteristic ions for this sample. Kerosene is then analyzed by GC–MS to identify various classes of compounds using extracted ion plots to support compound class monitoring. The methods described in this report may be readily adapted to other kerosene components and other samples such as pesticides, essential oils, or other samples of interest.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Upper-division+Undergraduate&amp;qsSearchArea=AllField">Upper-Division Undergraduate</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Analytical+Chemistry&amp;qsSearchArea=AllField">Analytical Chemistry</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Instruction&amp;qsSearchArea=AllField">Laboratory Instruction</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Hands-on+Learning%2Fmanipulatives&amp;qsSearchArea=AllField">Hands-On Learning/Manipulatives</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Gas+Chromatography&amp;qsSearchArea=AllField">Gas Chromatography</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Mass+Spectrometry&amp;qsSearchArea=AllField">Mass Spectrometry</a>
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Upper-division+Undergraduate&amp;qsSearchArea=AllField">Upper-Division Undergraduate</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Analytical+Chemistry&amp;qsSearchArea=AllField">Analytical Chemistry</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Instruction&amp;qsSearchArea=AllField">Laboratory Instruction</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Hands-on+Learning%2Fmanipulatives&amp;qsSearchArea=AllField">Hands-On Learning/Manipulatives</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Gas+Chromatography&amp;qsSearchArea=AllField">Gas Chromatography</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Mass+Spectrometry&amp;qsSearchArea=AllField">Mass Spectrometry</a>
                               </div>
                              </div>
                             </div>
@@ -1176,9 +1186,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00830" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00830%3Fprg140729%3D9c42c5e3-f557-4b9a-a79d-a94782cce565&amp;doi=10.1021%2Facs.jchemed.5b00830" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00830%3Fprg140729%3D5935069f-0244-40f8-9cfa-d3e3fed38c70&amp;doi=10.1021%2Facs.jchemed.5b00830" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00830%3Fprg140729%3D762567f2-6070-4b79-8be8-517ffd7f7d9b&amp;title=Introducing+Students+to+Gas+Chromatography%E2%80%93Mass+Spectrometry+Analysis+and+Determination+of+Kerosene+Components+in+a+Complex+Mixture&amp;doi=10.1021%2Facs.jchemed.5b00830" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00830%3Fprg140729%3Dd7703634-fb44-4195-b5c6-f74bc2acbd2b&amp;title=Introducing+Students+to+Gas+Chromatography%E2%80%93Mass+Spectrometry+Analysis+and+Determination+of+Kerosene+Components+in+a+Complex+Mixture&amp;doi=10.1021%2Facs.jchemed.5b00830" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1201,9 +1211,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqYU3i6oNcbL7Vg90H21EOLACvtfcHk0lgWpL21ESYtpQ&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGFMx-rVy2obHtQwD9OmoEd1uFl3r3x2Fog75j_VASBs_&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQ-5SEcXx9OltrnDmCxc-CThi25Vg2O3MpUtytBXDDEz&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqYU3i6oNcbL7Vg90H21EOLACvtfcHk0lga9QcKXqC3Jg&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGFMx-rVy2obHtQwD9OmoEd0-H6RguGUfiKFIDIHWcGed&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQ-5SEcXx9OltrnDmCxc-CThi25Vg2O3Mpmd_nCKvFye&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,13 +1,13 @@
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
@@ -29,17 +29,19 @@ public class FlashChemLit {
 	static HashSet<String> exception = new HashSet<String>();
 	static Config config = new Config();
 	static ArrayList<String> startings = new ArrayList<String>();
+	static HashSet<String> cache = new HashSet<String>();
 
 	public static void main(String[] args) throws Exception {
+		GetCache();
 		CheckFolder();
 
 		// get all the starting urls and set-up
 		GetUrls();
 		// System.out.println(startings);
-//		 for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
-//		 System.out.println("Key = " + entry.getKey() + "\n"
-//		 + entry.getValue().print()+"\n");
-//		 }
+		// for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
+		// System.out.println("Key = " + entry.getKey() + "\n"
+		// + entry.getValue().print()+"\n");
+		// }
 		System.setProperty("webdriver.chrome.driver", config.cdp);
 		// WebDriver driver = new FirefoxDriver();
 		WebDriver driver = new ChromeDriver();
@@ -47,31 +49,36 @@ public class FlashChemLit {
 
 		for (int i = 0; i < startings.size(); i++) {
 			if (startings.get(i).contains(".acs.")) {
-				// WebCrawlerACS wc = new WebCrawlerACS();
-				// wc.run(config.folder, urls.get(startings.get(i)), false,
-				// config, driver);
+				WebCrawlerACS wc = new WebCrawlerACS();
+				wc.run(config.folder, urls.get(startings.get(i)), false,
+						config, driver, cache);
+				wc.updateCache();
 			} else if (startings.get(i).contains("science.sciencemag.org")) {
-				// WebCrawlerSci wc = new WebCrawlerSci();
-				// wc.run(config.folder, urls.get(startings.get(i)), false,
-				// config, driver);
+				WebCrawlerSci wc = new WebCrawlerSci();
+				wc.run(config.folder, urls.get(startings.get(i)), false,
+						config, driver, cache);
+				wc.updateCache();
 			} else if (startings.get(i).contains("/nature/")) {
-				// WebCrawlerNature wc = new WebCrawlerNature();
-				// wc.run(config.folder, urls.get(startings.get(i)), false,
-				// config, driver);
+				WebCrawlerNature wc = new WebCrawlerNature();
+				wc.run(config.folder, urls.get(startings.get(i)), false,
+						config, driver, cache);
+				wc.updateCache();
 			} else if (startings.get(i).contains(".nature.")) {
-//				WebCrawlerNatureXX wc = new WebCrawlerNatureXX();
-//				wc.run(config.folder, urls.get(startings.get(i)), false,
-//						config, driver);
+				WebCrawlerNatureXX wc = new WebCrawlerNatureXX();
+				wc.run(config.folder, urls.get(startings.get(i)), false,
+						config, driver, cache);
+				wc.updateCache();
 			} else if (startings.get(i).contains("wiley")) {
 				WebCrawlerWiley wc = new WebCrawlerWiley();
 				wc.run(config.folder, urls.get(startings.get(i)), false,
-						config, driver);
+						config, driver, cache);
+				wc.updateCache();
 			}
 		}
 
 		// WebCrawlerNature wc = new WebCrawlerNature();
 		// wc.run(config.folder, urls.get(startings.get(0)), false,
-		// config, driver);
+		// config, driver, cache);
 		// try {
 		// wc.DownloadPages(new URL(
 		// "http://www.nature.com/nature/research/chemical-sciences.html?code=npg_subject_638&year=2016&month=04"));
@@ -81,6 +88,31 @@ public class FlashChemLit {
 		// }
 
 		driver.close();
+	}
+
+	/**
+	 * Description: get the cache file
+	 */
+	private static void GetCache() {
+		File file = new File(config.cachepath);
+		BufferedReader reader = null;
+		try {
+			reader = new BufferedReader(new FileReader(file));
+			String tempString = null;
+			while ((tempString = reader.readLine()) != null) {
+				cache.add(tempString);
+			}
+			reader.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			if (reader != null) {
+				try {
+					reader.close();
+				} catch (IOException e1) {
+				}
+			}
+		}
 	}
 
 	/**
@@ -250,14 +282,18 @@ public class FlashChemLit {
 			file.mkdir();
 		} else {
 			// check date
-			// File[] files = file.listFiles();
-			// for (File file2 : files) {
-			// // create time
-			// long modifiedTime = file.lastModified();
-			//
-			// Date d = new Date();
-			// System.out.println(format.format(d));
-			// }
+			File[] files = file.listFiles();
+			for (File file2 : files) {
+				// create time
+				long modifiedTime = file.lastModified();
+				// current time
+				long now = new Date().getTime();
+				
+				//threshold
+				long threshold = config.weeknum*7*24*3600*1000;
+				if (now-modifiedTime > threshold)
+					file2.delete();
+			}
 		}
 	}
 }

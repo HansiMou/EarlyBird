@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="015eeae6-e419-4548-bcc1-f8cedf38b0fd">
+<html lang="en" class="pb-page" data-request-id="b47ca3fd-0640-4e09-97d0-12324df0d96f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/acscii.ahead-of-print;article:article:10.1021/acscentsci.5b00364;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:acscii;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -126,8 +126,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscentsci.5b00364%3Fprg140729%3D17603074-4ecc-4204-934b-c9bfc1c4150f" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscentsci.5b00364?prg140729=17603074-4ecc-4204-934b-c9bfc1c4150f&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscentsci.5b00364?prg140729=17603074-4ecc-4204-934b-c9bfc1c4150f">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscentsci.5b00364%3Fprg140729%3Dee23942f-f0ff-4d66-871a-2fd28452f6b2" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscentsci.5b00364?prg140729=ee23942f-f0ff-4d66-871a-2fd28452f6b2&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscentsci.5b00364?prg140729=ee23942f-f0ff-4d66-871a-2fd28452f6b2">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -932,6 +932,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i14"><span>Conclusion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i15"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i24"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1006,38 +1018,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acscentsci.5b00345?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscentsci.5b00345?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b08707?src=recsys">Evolution of C–H Bond Functionalization from Methane to Methodology</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hartwig</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (1), pp 2–24</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> This Perspective presents the fundamental principles, the elementary reactions, the initial catalytic systems, and the contemporary catalysts that have converted C–H bond functionalization from a curiosity to a reality for synthetic chemists. Many classes ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b08707?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b08707?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b08707?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b08707?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00764?src=recsys">Asymmetric Total Syntheses of Aspidodasycarpine, Lonicerine, and the Proposed Structure of Lanciferine</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (12), pp 3982–3985</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Aspidodasycarpine and lonicerine are a pair of epimeric aspidophylline-type alkaloids bearing vicinal quaternary C7 and C16. The first and enantioselective total syntheses of these molecules are described here. A Ru-catalyzed asymmetric transfer ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00764?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00764?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00764?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00764?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acscentsci.5b00360?src=recsys">An Expeditious Synthesis of Sialic Acid Derivatives by Copper(I)-Catalyzed Stereodivergent Propargylation of Unprotected Aldoses</a>
                             <div class="achsLabel">
                              ACS Central Science
@@ -1054,21 +1034,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acscentsci.5b00360?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscentsci.5b00360?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acscentsci.6b00002?src=recsys">Beyond Protecting Groups in Metal Catalyzed C–C Coupling: Direct Anomeric Propargylation of Aldoses</a>
+                           <li><a href="/doi/abs/10.1021/acscentsci.6b00023?src=recsys">Electrolyte-Mediated Assembly of Charged Nanoparticles</a>
                             <div class="achsLabel">
                              ACS Central Science
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hong</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Krische</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kewalramani</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guerrero-García</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moreau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zwanikken</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mirkin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Olvera de la Cruz</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bedzyk</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>2</em> (1), pp 12–13</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Krische and Hong explain the unique features of Shimizu and Kanai’s protecting-group-free methodology for modifying carbohydrates.</span>
+                             <span><span class="bold">Abstract:</span> Solutions at high salt concentrations are used to crystallize or segregate charged colloids, including proteins and polyelectrolytes via a complex mechanism referred to as “salting-out”. Here, we combine small-angle X-ray scattering (SAXS), molecular ...<sub></sub>The electrolyte-mediated crystallization of highly charged nanoparticles is driven by long-range attractions with a spatial extension of ∼4 nm from the nanoparticle surface.</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acscentsci.6b00002?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acscentsci.6b00002?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acscentsci.6b00002?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acscentsci.6b00002?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acscentsci.6b00023?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscentsci.6b00023?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscentsci.6b00023?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscentsci.6b00023?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acscentsci.5b00340?src=recsys">Ultrasensitive Antibody Detection by Agglutination-PCR (ADAP)</a>
+                            <div class="achsLabel">
+                             ACS Central Science
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tsai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Robinson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Spencer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bertozzi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>2</em> (3), pp 139–147</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Antibodies are widely used biomarkers for the diagnosis of many diseases. Assays based on solid-phase immobilization of antigens comprise the majority of clinical platforms for antibody detection, but can be undermined by antigen denaturation and epitope ...We have developed a qPCR assay to ultrasensitively detect antibodies using antigen−DNA conjugates. The multivalency and agglutination propensity of antibodies drive a proximity effect to facilitate generation of DNA amplicons upon ligation.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acscentsci.5b00340?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscentsci.5b00340?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscentsci.5b00340?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscentsci.5b00340?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acscentsci.6b00019?src=recsys">“Zipped Synthesis” by Cross-Metathesis Provides a Cystathionine β-Synthase Inhibitor that Attenuates Cellular H<sub>2</sub>S Levels and Reduces Neuronal Infarction in a Rat Ischemic Stroke Model</a>
+                            <div class="achsLabel">
+                             ACS Central Science
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">McCune</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Beio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chung</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Szczesniak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wong</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Berkowitz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The gaseous neuromodulator H<sub>2</sub>S is associated with neuronal cell death pursuant to cerebral ischemia. As cystathionine β-synthase (CBS) is the primary mediator of H<sub>2</sub>S biogenesis in the brain, it has emerged as a potential target for the treatment of ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acscentsci.6b00019?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscentsci.6b00019?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscentsci.6b00019?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscentsci.6b00019?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acscentsci.5b00312?src=recsys">Remote <i>Meta</i>-C–H Activation Using a Pyridine-Based Template: Achieving Site-Selectivity via the Recognition of Distance and Geometry</a>
                             <div class="achsLabel">
@@ -1170,9 +1182,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facscentsci.5b00364" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscentsci.5b00364%3Fprg140729%3D8e84378d-f13e-4ab3-8f90-eb660b5a08d7&amp;doi=10.1021%2Facscentsci.5b00364" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscentsci.5b00364%3Fprg140729%3Dbf988425-9495-45fe-990a-7b1864e67d65&amp;doi=10.1021%2Facscentsci.5b00364" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscentsci.5b00364%3Fprg140729%3D17603074-4ecc-4204-934b-c9bfc1c4150f&amp;title=Fully+Synthetic+Self-Adjuvanting+%CE%B1-2%2C9-Oligosialic+Acid+Based+Conjugate+Vaccines+against+Group+C+Meningitis&amp;doi=10.1021%2Facscentsci.5b00364" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscentsci.5b00364%3Fprg140729%3Dee23942f-f0ff-4d66-871a-2fd28452f6b2&amp;title=Fully+Synthetic+Self-Adjuvanting+%CE%B1-2%2C9-Oligosialic+Acid+Based+Conjugate+Vaccines+against+Group+C+Meningitis&amp;doi=10.1021%2Facscentsci.5b00364" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

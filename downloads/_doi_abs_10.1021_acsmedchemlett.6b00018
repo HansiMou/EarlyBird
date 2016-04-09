@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="566d8c59-e6f0-4b1b-a23b-b98d3d5e7982">
+<html lang="en" class="pb-page" data-request-id="b21f0725-1df9-4bcc-a702-976d32405d25">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsmedchemlett.6b00018;pageGroup:string:Publication Pages;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00018%3Fprg140729%3D6350f6be-5535-4db0-9e20-d473437861e9" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00018?prg140729=6350f6be-5535-4db0-9e20-d473437861e9&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00018?prg140729=6350f6be-5535-4db0-9e20-d473437861e9">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00018%3Fprg140729%3D5bd7dee4-746e-4b98-841f-fa2609cbba13" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00018?prg140729=5bd7dee4-746e-4b98-841f-fa2609cbba13&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00018?prg140729=5bd7dee4-746e-4b98-841f-fa2609cbba13">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -689,16 +689,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acsmedchemlett.6b00031" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acsmedchemlett.6b00025" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/amclct/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -977,6 +967,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i12"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1054,38 +1052,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acsmedchemlett.5b00486?src=recsys">Evolution of a New Class of VEGFR-2 Inhibitors from Scaffold Morphing and Redesign</a>
-                            <div class="achsLabel">
-                             ACS Medicinal Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mainolfi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Karki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Anderson</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Anti-VEGF therapy is a clinically validated treatment for age-related macular degeneration (AMD). We have recently reported the discovery of oral VEGFR-2 inhibitors that are selectively distributed to the ocular tissues. Herein we report a further ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsmedchemlett.5b00486?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsmedchemlett.5b00486?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.5b00486?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsmedchemlett.5b00486?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">A Real-World Perspective on Molecular Design</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kuhn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bissantz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ceccarelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haap</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Körner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuglstatter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lerner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mattei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neidhart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pinard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudolph</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schulz-Gasch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Woltering</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stahl</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We present a series of small molecule drug discovery case studies where computational methods were prospectively employed to impact Roche research projects, with the aim of highlighting those methods that provide real added value. Our brief accounts ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01875?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01875?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01875?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1102,6 +1068,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsmedchemlett.5b00486?src=recsys">Evolution of a New Class of VEGFR-2 Inhibitors from Scaffold Morphing and Redesign</a>
+                            <div class="achsLabel">
+                             ACS Medicinal Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mainolfi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Karki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Anderson</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Anti-VEGF therapy is a clinically validated treatment for age-related macular degeneration (AMD). We have recently reported the discovery of oral VEGFR-2 inhibitors that are selectively distributed to the ocular tissues. Herein we report a further ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsmedchemlett.5b00486?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmedchemlett.5b00486?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.5b00486?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmedchemlett.5b00486?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">How Beyond Rule of 5 Drugs and Clinical Candidates Bind to Their Targets</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1117,6 +1099,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jmedchem.5b01286?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01286?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01286?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">A Real-World Perspective on Molecular Design</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kuhn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bissantz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ceccarelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haap</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Körner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuglstatter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lerner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mattei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neidhart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pinard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudolph</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schulz-Gasch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Woltering</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stahl</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We present a series of small molecule drug discovery case studies where computational methods were prospectively employed to impact Roche research projects, with the aim of highlighting those methods that provide real added value. Our brief accounts ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01875?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01875?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01875?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Integrating Everything: The Molecule Selection Toolkit, a System for Compound Prioritization in Drug Discovery</a>
                             <div class="achsLabel">
@@ -1201,7 +1199,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acsmedchemlett.6b00018" title="High-Res PDF: 1133 KB" target="_blank"> PDF <span class="details">(1133 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00018" title="Low-Res PDF: 371 KB" target="_blank"> PDF w/ Links <span class="details">(371 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00018" title="Low-Res PDF: 359 KB" target="_blank"> PDF w/ Links <span class="details">(359 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acsmedchemlett.6b00018" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1234,9 +1232,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.6b00018" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00018%3Fprg140729%3D822d9e49-a754-4994-9db0-a86ff90ba26f&amp;doi=10.1021%2Facsmedchemlett.6b00018" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00018%3Fprg140729%3D0364b014-d468-4941-9812-86de1c64f7ea&amp;doi=10.1021%2Facsmedchemlett.6b00018" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00018%3Fprg140729%3D6350f6be-5535-4db0-9e20-d473437861e9&amp;title=Core+Replacements+in+a+Potent+Series+of+VEGFR-2+Inhibitors+and+Their+Impact+on+Potency%2C+Solubility%2C+and+hERG&amp;doi=10.1021%2Facsmedchemlett.6b00018" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00018%3Fprg140729%3D5bd7dee4-746e-4b98-841f-fa2609cbba13&amp;title=Core+Replacements+in+a+Potent+Series+of+VEGFR-2+Inhibitors+and+Their+Impact+on+Potency%2C+Solubility%2C+and+hERG&amp;doi=10.1021%2Facsmedchemlett.6b00018" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

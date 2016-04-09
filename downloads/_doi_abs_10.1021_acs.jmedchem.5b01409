@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2c843f71-2211-42ee-b359-b4a2ddac9237">
+<html lang="en" class="pb-page" data-request-id="2cef4db6-2202-45b8-9b42-30e3a5dcd7af">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.jmedchem.5b01409;journal:journal:jmcmar;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01409%3Fprg140729%3Dbd2531e8-4f41-403c-9cfb-72ca8e088ec9" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01409?prg140729=bd2531e8-4f41-403c-9cfb-72ca8e088ec9&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01409?prg140729=bd2531e8-4f41-403c-9cfb-72ca8e088ec9">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01409%3Fprg140729%3D5734bf07-b9b6-49e1-bcf9-071ea2e0ab03" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01409?prg140729=5734bf07-b9b6-49e1-bcf9-071ea2e0ab03&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01409?prg140729=5734bf07-b9b6-49e1-bcf9-071ea2e0ab03">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -949,14 +949,28 @@ function addFlashMovie(id, flv, image) {
                              <a class="textDecorationNone" href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</a>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.
                             </div>
                             <div id="authorBio">
-                             <span class="title" id="d33136e1284">Biography</span>
+                             <span class="title" id="d25e1284">Biography</span>
                              <p class="last"><b>Dean G. Brown</b> is currently Director of Discovery and Preclinical Sciences at AstraZeneca within the Neurosciences group. He obtained a B.S. in Chemistry at Abilene Christian University (Abilene, TX) and a Ph.D at the University of Minnesota (Minneapolis) in Organic Chemistry. He has over 18 years experience in the industry with AstraZeneca. Dean has been responsible for building many new scientific programs in both neuroscience and infection, several of which have resulted in successful transition to clinical trials. His scientific interests are in lead generation, library design, synthetic chemistry, and applications of computational chemistry. Dean is listed as an author or coauthor on more than 40 publications and patent applications in medicinal chemistry and drug design, including granted patents on clinical candidates.</p>
-                             <span class="title" id="d33136e1291">Biography</span>
+                             <span class="title" id="d25e1291">Biography</span>
                              <p class="last"><b>Jonas Boström</b> is an Associate Professor at the University of Gothenburg (Sweden), currently holding a Principal Scientist position at AstraZeneca in the CVMD iMed. He obtained a M.S. in Chemistry at the University of Gothenburg in 1996 and a Ph.D. in Computational Medicinal Chemistry in 2000 at the Royal Danish School of Pharmacy (Copenhagen, Denmark). After a short spell at H. Lundbeck A/S he joined AstraZeneca. Jonas has gained knowledge of most aspects of preclinical drug discovery from his 15 years in the pharmaceutical industry. Among other things, this has resulted in 15 patent specifications, including 10 candidate drugs. Current research interest includes combining new technology, informatics, and science in innovative ways to tackle the challenging tasks in drug discovery.</p>
                             </div>
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Methods" href="#_i2"><span>Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i3"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i16"><span>Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i17"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="General Experimental Section" href="#_i18"><span>General Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i26"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1009,6 +1023,68 @@ function addFlashMovie(id, flv, image) {
                           <a id="citing" name="citing"></a>
                           <p>Citation data is made available by participants in <a href="http://www.crossref.org">CrossRef's</a> Cited-by Linking service. For a more comprehensive list of citations to this article, users are encouraged to perform a search in <a href="http://scifinder.cas.org">SciFinder</a>. </p>
                           <ul id="citedBy">
+                           <li><img src="/appl/literatum/publisher/achs/journals/covergifs/jmcmar/0/cover.jpg" alt="Cover Image" class="cover"><h2>
+                             <div class="art_title linkable">
+                              <a class="ref nowrap" href="/doi/abs/10.1021/acs.jmedchem.6b00153"></a>
+                              <a href="/doi/abs/10.1021/acs.jmedchem.6b00153">Big Data from Pharmaceutical Patents: A Computational Analysis of Medicinal Chemists’ Bread and Butter</a>
+                             </div></h2>
+                            <div class="contributors">
+                             <span class="hlFld-ContribAuthor ">Nadine<span class="NLM_x"> </span>Schneider</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Daniel M.<span class="NLM_x"> </span>Lowe</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Roger A.<span class="NLM_x"> </span>Sayle</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Michael A.<span class="NLM_x"> </span>Tarselli</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve">
+                               , and 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Gregory A.<span class="NLM_x"> </span>Landrum</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve"> 
+                              </x></span>
+                            </div>
+                            <div>
+                             <cite><span class="NLM_source">Journal of Medicinal Chemistry</span></cite>
+                             <strong>2016</strong> Article ASAP
+                            </div>
+                            <div class="deliverFormatsLinks">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.6b00153">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.6b00153" title="View the Full Text HTML">Full Text HTML</a> | 
+                             <a target="_blank" title="Full-Text PDF" href="/doi/pdf/10.1021/acs.jmedchem.6b00153">PDF</a> | 
+                             <a title="Full-Text Enhanced PDF" target="_blank" href="/doi/pdfplus/10.1021/acs.jmedchem.6b00153">PDF w/ Links</a>
+                            </div></li>
+                           <li><img src="/appl/literatum/publisher/achs/journals/covergifs/crtoec/0/cover.jpg" alt="Cover Image" class="cover"><h2>
+                             <div class="art_title linkable">
+                              <a class="ref nowrap" href="/doi/abs/10.1021/acs.chemrestox.6b00043"></a>
+                              <a href="/doi/abs/10.1021/acs.chemrestox.6b00043">Improving Drug Design: An Update on Recent Applications of Efficiency Metrics, Strategies for Replacing Problematic Elements, and Compounds in Nontraditional Drug Space</a>
+                             </div></h2>
+                            <div class="contributors">
+                             <span class="hlFld-ContribAuthor ">Nicholas A.<span class="NLM_x"> </span>Meanwell</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve"> 
+                              </x></span>
+                            </div>
+                            <div>
+                             <cite><span class="NLM_source">Chemical Research in Toxicology</span></cite>
+                             <strong>2016</strong> Article ASAP
+                            </div>
+                            <div class="deliverFormatsLinks">
+                             <a href="/doi/abs/10.1021/acs.chemrestox.6b00043">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemrestox.6b00043" title="View the Full Text HTML">Full Text HTML</a> | 
+                             <a target="_blank" title="Full-Text PDF" href="/doi/pdf/10.1021/acs.chemrestox.6b00043">PDF</a> | 
+                             <a title="Full-Text Enhanced PDF" target="_blank" href="/doi/pdfplus/10.1021/acs.chemrestox.6b00043">PDF w/ Links</a>
+                            </div></li>
                            <li><img src="/appl/literatum/publisher/achs/journals/covergifs/jmcmar/0/cover.jpg" alt="Cover Image" class="cover"><h2>
                              <div class="art_title linkable">
                               <a class="ref nowrap" href="/doi/abs/10.1021/acs.jmedchem.5b01874"></a>
@@ -1079,38 +1155,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01946?src=recsys">Hydrogen Bond Basicity Prediction for Medicinal Chemistry Design</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kenny</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Montanari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prokopczyk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ribeiro</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sartori</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Hydrogen bonding is discussed in the context of medicinal chemistry design. Minimized molecular electrostatic potential (<i>V</i><sub>min</sub>) is shown to be an effective predictor of hydrogen bond basicity (p<i>K</i><sub>BHX</sub>), and predictive models are presented for a number of ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01946?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01946?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01946?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01946?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.oprd.6b00001?src=recsys">Vacuum Desiccator as a Simple, Robust, and Inexpensive NMR Tube Cleaner</a>
-                            <div class="achsLabel">
-                             Organic Process Research &amp; Development
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nguyen</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>20</em> (2), pp 319–319</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A simple, robust, and inexpensive apparatus for cleaning several NMR tubes is easily fit up and used from readily available glassware, including a beaker, a desiccator, and a rotary evaporator vacuum pump.</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.oprd.6b00001?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.oprd.6b00001?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.oprd.6b00001?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.oprd.6b00001?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b00497?src=recsys">Anti-HIV Drug Discovery and Development: Current Innovations and Future Trends</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1174,6 +1218,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jmedchem.5b01746?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01746?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01746?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b08707?src=recsys">Evolution of C–H Bond Functionalization from Methane to Methodology</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hartwig</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (1), pp 2–24</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> This Perspective presents the fundamental principles, the elementary reactions, the initial catalytic systems, and the contemporary catalysts that have converted C–H bond functionalization from a curiosity to a reality for synthetic chemists. Many classes ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b08707?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b08707?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b08707?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b08707?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01091?src=recsys">Inhibiting the Inflammasome: A Chemical Perspective</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Baldwin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brough</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Freeman</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>59</em> (5), pp 1691–1710</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Inflammasomes are high molecular weight complexes that sense and react to injury and infection. Their activation induces caspase-1 activation and release of interleukin-1β, a pro-inflammatory cytokine involved in both acute and chronic inflammatory ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01091?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01091?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01091?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01091?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1260,9 +1336,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.5b01409" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01409%3Fprg140729%3Dad9369f2-07a9-46e0-a8f4-0610cb3e845d&amp;doi=10.1021%2Facs.jmedchem.5b01409" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01409%3Fprg140729%3Dc41ee685-35ce-469e-9aad-4790fe4356d7&amp;doi=10.1021%2Facs.jmedchem.5b01409" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01409%3Fprg140729%3Dbd2531e8-4f41-403c-9cfb-72ca8e088ec9&amp;title=Analysis+of+Past+and+Present+Synthetic+Methodologies+on+Medicinal+Chemistry%3A+Where+Have+All+the+New+Reactions+Gone%3F&amp;doi=10.1021%2Facs.jmedchem.5b01409" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01409%3Fprg140729%3D5734bf07-b9b6-49e1-bcf9-071ea2e0ab03&amp;title=Analysis+of+Past+and+Present+Synthetic+Methodologies+on+Medicinal+Chemistry%3A+Where+Have+All+the+New+Reactions+Gone%3F&amp;doi=10.1021%2Facs.jmedchem.5b01409" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1285,9 +1361,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqLWvt5DxktAbVg90H21EOLACvtfcHk0lj7ZS_31SPyhQ&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSaAOXR1VLUyLtrnDmCxc-CThi25Vg2O3MnjX4oirSxic&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202456&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fciting.jsf%3Fl%3Dg2Ei4BFBAtcGbHEaWbzAaota-3kPGS0BtWD3QfbUQ4sAK-19weTSWPtlL_fVI_KF&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Citing this Article" target="scifinder">Retrieve All References Citing this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqLWvt5DxktAbVg90H21EOLACvtfcHk0lgzgBbcz-34ug&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSaAOXR1VLUyLtrnDmCxc-CThi25Vg2O3MoFGMnbrALoN&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202456&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fciting.jsf%3Fl%3Dg2Ei4BFBAtcGbHEaWbzAaota-3kPGS0BtWD3QfbUQ4sAK-19weTSWKEyiVhG82CN&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Citing this Article" target="scifinder">Retrieve All References Citing this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

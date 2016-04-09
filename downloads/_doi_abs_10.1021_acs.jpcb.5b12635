@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="694bf758-6a8f-4a3d-ad13-8526ac5a50f7">
+<html lang="en" class="pb-page" data-request-id="af4edd30-cf95-4337-b2a5-a36ae3e85854">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jpcbfk;pageGroup:string:Publication Pages;issue:issue:10.1021/jpcbfk.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpcb.5b12635;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.5b12635%3Fprg140729%3Dd08091f0-608b-4874-8dfd-3a8ef0876656" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b12635?prg140729=d08091f0-608b-4874-8dfd-3a8ef0876656&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b12635?prg140729=d08091f0-608b-4874-8dfd-3a8ef0876656">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.5b12635%3Fprg140729%3D3b8f3f14-4a26-4528-88c7-481752b1354a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b12635?prg140729=3b8f3f14-4a26-4528-88c7-481752b1354a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b12635?prg140729=3b8f3f14-4a26-4528-88c7-481752b1354a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -693,11 +693,10 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcb.5b12299" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcb.5b12748" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.jpcb.6b01018" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1034,21 +1033,18 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b11902?src=recsys">Computer Simulation Studies of the Mechanism of Hydrotrope-Assisted Solubilization of a Sparingly Soluble Drug Molecule</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b02693?src=recsys">Correction to “Using FT-IR Spectroscopy to Measure Charge Organization in Ionic Liquids”</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Das</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Paul</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Burba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Janzen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Butson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Coltrain</span>
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The effect of hydrotrope sodium cumene sulfonate (SCS) on the solubility of a sparingly water-soluble drug, griseofulvin, is studied by employing classical molecular dynamics simulation technique. We mainly focus on the underlying mechanism by which SCS ...</span>
-                            </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.5b11902?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.5b11902?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b11902?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.5b11902?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b02693?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b02693?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b02693?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b02693?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcb.5b12371?src=recsys">First-Principles United Atom Force Field for the Ionic Liquid BMIM<sup>+</sup>BF<sub>4</sub><sup>–</sup>: An Alternative to Charge Scaling</a>
                             <div class="achsLabel">
@@ -1066,6 +1062,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12371?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.5b12371?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b11902?src=recsys">Computer Simulation Studies of the Mechanism of Hydrotrope-Assisted Solubilization of a Sparingly Soluble Drug Molecule</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Das</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Paul</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The effect of hydrotrope sodium cumene sulfonate (SCS) on the solubility of a sparingly water-soluble drug, griseofulvin, is studied by employing classical molecular dynamics simulation technique. We mainly focus on the underlying mechanism by which SCS ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.5b11902?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.5b11902?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b11902?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.5b11902?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcb.5b10082?src=recsys">Role of Naphthenic Acids in Controlling Self-Aggregation of a Polyaromatic Compound in Toluene</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry B
@@ -1081,19 +1093,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcb.5b10082?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.5b10082?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.5b10082?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b02693?src=recsys">Correction to “Using FT-IR Spectroscopy to Measure Charge Organization in Ionic Liquids”</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Burba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Janzen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Butson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Coltrain</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.6b02693?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.6b02693?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b02693?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.6b02693?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcb.5b12748?src=recsys">The Effect of Molecular Conformation on the Accuracy of Theoretical <sup>1</sup>H and <sup>13</sup>C Chemical Shifts Calculated by Ab Initio Methods for Metabolic Mixture Analysis</a>
                             <div class="achsLabel">
@@ -1111,21 +1110,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12748?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.5b12748?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01133?src=recsys">How the Structure of Pyrrolidinium Ionic Liquids Is Susceptible to High Pressure</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b12354?src=recsys">Li<sup>+</sup> Local Structure in Hydrofluoroether Diluted Li-Glyme Solvate Ionic Liquid</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sharma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gupta</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kashyap</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Saito</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Watanabe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ueno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mandai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Seki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tsuzuki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kameda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dokko</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Watanabe</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Umebayashi</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (12), pp 3206–3214</span>
+                             <span><span class="bold">2016</span> <em>120</em> (13), pp 3378–3387</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The structural landscape of room-temperature ionic liquids (RTILs) with longer cationic alkyl tail(s) exhibits polarity ordering (PO) along with charge ordering (CO). In polarity ordering, which is also referred to as intermediate-range ordering, polar ...<sub></sub><sup></sup><sub></sub><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Hydrofluoroethers have recently been used as the diluent to a lithium battery electrolyte solution to increase and decrease the ionic conductivity and the solution viscosity, respectively. In order to clarify the Li<sup>+</sup> local structure in the 1,1,2,2-...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.6b01133?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.6b01133?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01133?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01133?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcb.5b12354?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.5b12354?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12354?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.5b12354?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1178,7 +1177,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcb.5b12635" title="High-Res PDF: 1487 KB" target="_blank"> PDF <span class="details">(1487 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12635" title="Low-Res PDF: 582 KB" target="_blank"> PDF w/ Links <span class="details">(582 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12635" title="Low-Res PDF: 544 KB" target="_blank"> PDF w/ Links <span class="details">(544 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcb.5b12635" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1211,9 +1210,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcb.5b12635" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.5b12635%3Fprg140729%3Df2964506-948c-4ae9-8d11-db7d5e8d523f&amp;doi=10.1021%2Facs.jpcb.5b12635" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.5b12635%3Fprg140729%3D37bfb30e-3df0-4e04-8b58-91d72c653575&amp;doi=10.1021%2Facs.jpcb.5b12635" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.5b12635%3Fprg140729%3Dd08091f0-608b-4874-8dfd-3a8ef0876656&amp;title=Ultrasonic+Relaxation+Study+of+1-Alkyl-3-methylimidazolium-Based+Room-Temperature+Ionic+Liquids%3A+Probing+the+Role+of+Alkyl+Chain+Length+in+the+Cation&amp;doi=10.1021%2Facs.jpcb.5b12635" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.5b12635%3Fprg140729%3D3b8f3f14-4a26-4528-88c7-481752b1354a&amp;title=Ultrasonic+Relaxation+Study+of+1-Alkyl-3-methylimidazolium-Based+Room-Temperature+Ionic+Liquids%3A+Probing+the+Role+of+Alkyl+Chain+Length+in+the+Cation&amp;doi=10.1021%2Facs.jpcb.5b12635" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a3551398-cfc6-4bbe-99d9-3b89a7160594">
+<html lang="en" class="pb-page" data-request-id="7aa1f553-3173-482a-a347-e92b109ebb56">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jceaax.ahead-of-print;article:article:10.1021/acs.jced.5b00934;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jceaax;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00934%3Fprg140729%3Dcea8fff1-7c37-4f24-bfe0-516667ae0f09" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00934?prg140729=cea8fff1-7c37-4f24-bfe0-516667ae0f09&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00934?prg140729=cea8fff1-7c37-4f24-bfe0-516667ae0f09">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00934%3Fprg140729%3D97f87d5f-2f25-4579-bb46-1577cd197095" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00934?prg140729=97f87d5f-2f25-4579-bb46-1577cd197095&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00934?prg140729=97f87d5f-2f25-4579-bb46-1577cd197095">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -670,15 +670,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jced.5b00802" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceaax/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -997,7 +988,57 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Estrada-Baltazar%2C+Alejandro">Alejandro Estrada-Baltazar</a></li>
                            <li><a href="/author/Bouchot%2C+Christian">Christian Bouchot</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00802?src=recsys">Thermodynamics of Amide + Amine Mixtures. 1. Volumetric, Speed of Sound, and Refractive Index Data for <i>N,N</i>-Dimethylformamide + <i>N</i>-Propylpropan-1-amine, + <i>N</i>-Butylbutan-1-amine, + Butan-1-amine, or + Hexan-1-amine Systems at Several Temperatures</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hevia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cobos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">González</span>, <span class="entryAuthor normal hlFld-ContribAuthor">García de la Fuente</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sanz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Values of density (ρ), speed of sound (<i>c</i>) and refractive index (<i>n</i><sub>D</sub>) for <i>N</i>,<i>N</i>-dimethylformamide (DMF) + <i>N</i>-propylpropan-1-amine (DPA) or + butan-1-amine (BA) mixtures at (293.15−303.15) K, and for DMF + <i>N</i>-butylbutan-1-amine (DBA) or hexan-1-amine (HxA) ...<sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00802?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00802?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00802?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00802?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00613?src=recsys">Densities of the Binary Systems <i>n</i>-Hexane + <i>n</i>-Decane and <i>n</i>-Hexane + <i>n</i>-Hexadecane Up to 60 MPa and 463 K</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Regueira</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stenby</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>60</em> (12), pp 3631–3645</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The densities of the binary systems <i>n</i>-hexane + <i>n</i>-decane and <i>n</i>-hexane + <i>n</i>-hexadecane have been measured up to 60 MPa using a vibrating tube densimeter. The measurements covered the whole composition range; for the first system they were performed from (...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00613?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00613?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00613?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00613?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00882?src=recsys">Thermodynamics of 1,3-Dimethylurea in Eight Alcohols</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ouyang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In this work, solubility data of 1,3-dimethylurea (DMU) in methanol, ethanol, 1-propanol, 1-butanol, 1-pentanol, 1-hexanol, 1-heptanol, and 1-octanol were measured by synthetic method from <i>T</i> = 288.15 to 328.15 K at ordinary pressure. It turned out that ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00882?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00882?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00882?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00882?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1048,7 +1089,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jced.5b00934" title="High-Res PDF: 525 KB" target="_blank"> PDF <span class="details">(525 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jced.5b00934" title="Low-Res PDF: 356 KB" target="_blank"> PDF w/ Links <span class="details">(356 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jced.5b00934" title="Low-Res PDF: 347 KB" target="_blank"> PDF w/ Links <span class="details">(347 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jced.5b00934" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1080,9 +1121,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jced.5b00934" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00934%3Fprg140729%3D886f5eb1-6bae-45ed-b1b0-dc1582ff3401&amp;doi=10.1021%2Facs.jced.5b00934" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00934%3Fprg140729%3D93494e57-5e4b-40dd-bc7c-ad3205835e87&amp;doi=10.1021%2Facs.jced.5b00934" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00934%3Fprg140729%3Dcea8fff1-7c37-4f24-bfe0-516667ae0f09&amp;title=P%E2%80%93%CF%81%E2%80%93T+Data+for+2-Butanol+and+tert-Butanol+from+283.15+to+363.15+K+and+303.15+to+363.15+K+at+Pressures+up+to+66+MPa&amp;doi=10.1021%2Facs.jced.5b00934" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00934%3Fprg140729%3D97f87d5f-2f25-4579-bb46-1577cd197095&amp;title=P%E2%80%93%CF%81%E2%80%93T+Data+for+2-Butanol+and+tert-Butanol+from+283.15+to+363.15+K+and+303.15+to+363.15+K+at+Pressures+up+to+66+MPa&amp;doi=10.1021%2Facs.jced.5b00934" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

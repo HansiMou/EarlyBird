@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ff068606-32f2-4875-b147-b167d8b6aa45">
+<html lang="en" class="pb-page" data-request-id="b6a8348b-44ed-43d9-bc03-e33a37e75f19">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.biochem.5b01354;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/bichaw.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:bichaw">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01354%3Fprg140729%3D94a3c7b2-b0a0-4674-a7b5-e9170d098549" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b01354?prg140729=94a3c7b2-b0a0-4674-a7b5-e9170d098549&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b01354?prg140729=94a3c7b2-b0a0-4674-a7b5-e9170d098549">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01354%3Fprg140729%3Dc8f00aab-4c54-42cf-a2d6-3802e7cf6207" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b01354?prg140729=c8f00aab-4c54-42cf-a2d6-3802e7cf6207&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b01354?prg140729=c8f00aab-4c54-42cf-a2d6-3802e7cf6207">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -946,17 +946,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i2"><span>Materials and Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i13"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i22"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i29"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1031,6 +1020,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biochem.6b00043?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biochem.6b00043?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biochem.5b01364?src=recsys">Ligand-Dependent Conformational Dynamics of Dihydrofolate Reductase</a>
+                            <div class="achsLabel">
+                             Biochemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Reddish</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vaughn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dyer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>55</em> (10), pp 1485–1493</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Enzymes are known to change among several conformational states during turnover. The role of such dynamic structural changes in catalysis is not fully understood. The influence of dynamics in catalysis can be inferred, but not proven, by comparison of ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biochem.5b01364?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biochem.5b01364?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biochem.5b01364?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biochem.5b01364?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.biochem.5b01094?src=recsys">On the Temperature Dependence of Enzyme-Catalyzed Rates</a>
                             <div class="achsLabel">
                              Biochemistry
@@ -1047,69 +1052,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biochem.5b01094?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biochem.5b01094?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biochem.5b01095?src=recsys">Amyloid Hydrogen Bonding Polymorphism Evaluated by <sup>15</sup>N{<sup>17</sup>O}REAPDOR Solid-State NMR and Ultra-High Resolution Fourier Transform Ion Cyclotron Resonance Mass Spectrometry</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12391?src=recsys">NMR-Based Determination of the 3D Structure of the Ligand–Protein Interaction Site without Protein Resonance Assignment</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Orts</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wälti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marsh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vera</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gossert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Güntert</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Riek</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4393–4400</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Molecular replacement in X-ray crystallography is the prime method for establishing structure–activity relationships of pharmaceutically relevant molecules. Such an approach is not available for NMR. Here, we establish a comparable method, called NMR ...<sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12391?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12391?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12391?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12391?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biochem.6b00087?src=recsys">Kinetic and Binding Studies of <i>Streptococcus pneumoniae</i> Type 2 Isopentenyl Diphosphate:Dimethylallyl Diphosphate Isomerase</a>
                             <div class="achsLabel">
                              Biochemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Antzutkin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Filippov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Iuga</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barrow</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dupree</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brown</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">O’Connor</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Janczak</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Poulter</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A combined approach, using Fourier transform ion cyclotron resonance mass spectrometry (FTICR-MS) and solid-state NMR (Nuclear Magnetic Resonance), shows a high degree of polymorphism exhibited by Aβ species in forming hydrogen-bonded networks. Two ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Type 2 isopentenyl diphosphate:dimethylallyl diphosphate isomerase (IDI-2) converts isopentenyl diphosphate (IPP) to dimethylallyl diphosphate (DMAPP), the two fundamental building blocks of isoprenoid molecules. IDI-2 is found in many species of bacteria ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biochem.5b01095?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biochem.5b01095?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biochem.5b01095?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biochem.5b01095?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.biochem.6b00087?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biochem.6b00087?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biochem.6b00087?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biochem.6b00087?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biochem.5b01122?src=recsys">Solution Behavior of the Intrinsically Disordered N-Terminal Domain of Retinoid X Receptor α in the Context of the Full-Length Protein</a>
+                           <li><a href="/doi/abs/10.1021/acs.biochem.5b01259?src=recsys">Monomeric Aβ<sup>1–40</sup> and Aβ<sup>1–42</sup> Peptides in Solution Adopt Very Similar Ramachandran Map Distributions That Closely Resemble Random Coil</a>
                             <div class="achsLabel">
                              Biochemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Belorusova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Osz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Petoukhov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peluso-Iltis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kieffer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Svergun</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Rochel</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Roche</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ying</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bax</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>55</em> (12), pp 1741–1748</span>
+                             <span><span class="bold">2016</span> <em>55</em> (5), pp 762–775</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Retinoid X receptors (RXRs) are transcription factors with important functions in embryonic development, metabolic processes, differentiation, and apoptosis. A particular feature of RXRs is their ability to act as obligatory heterodimerization partners of ...</span>
+                             <span><span class="bold">Abstract:</span> The pathogenesis of Alzheimer’s disease is characterized by the aggregation and fibrillation of amyloid peptides Aβ<sup>1–40</sup> and Aβ<sup>1–42</sup> into amyloid plaques. Despite strong potential therapeutic interest, the structural pathways associated with the conversion ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biochem.5b01122?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biochem.5b01122?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biochem.5b01122?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biochem.5b01122?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemrev.5b00562?src=recsys">Protein Ensembles: How Does Nature Harness Thermodynamic Fluctuations for Life? The Diverse Functional Roles of Conformational Ensembles in the Cell</a>
-                            <div class="achsLabel">
-                             Chemical Reviews
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nussinov</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> All soluble proteins populate conformational ensembles that together constitute the native state. Their fluctuations in water are intrinsic thermodynamic phenomena, and the distributions of the states on the energy landscape are determined by statistical ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemrev.5b00562?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemrev.5b00562?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00562?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemrev.5b00562?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemrev.5b00623?src=recsys">The Role of Protein Loops and Linkers in Conformational Dynamics and Allostery</a>
-                            <div class="achsLabel">
-                             Chemical Reviews
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Papaleo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saladino</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lambrughi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lindorff-Larsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gervasio</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nussinov</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Proteins are dynamic entities that undergo a plethora of conformational changes that may take place on a wide range of time scales. These changes can be as small as the rotation of one or a few side-chain dihedral angles or involve concerted motions in ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemrev.5b00623?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemrev.5b00623?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00623?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemrev.5b00623?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.biochem.5b01259?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biochem.5b01259?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biochem.5b01259?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biochem.5b01259?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1195,9 +1184,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.biochem.5b01354" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01354%3Fprg140729%3Dd4a59201-1a88-479c-a87e-fa8b2d08441d&amp;doi=10.1021%2Facs.biochem.5b01354" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01354%3Fprg140729%3D6c95f53b-9bbd-41a2-adc2-7aa97b8503f7&amp;doi=10.1021%2Facs.biochem.5b01354" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01354%3Fprg140729%3D94a3c7b2-b0a0-4674-a7b5-e9170d098549&amp;title=Probing+the+Impact+of+Local+Structural+Dynamics+of+Conformational+Epitopes+on+Antibody+Recognition&amp;doi=10.1021%2Facs.biochem.5b01354" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01354%3Fprg140729%3Dc8f00aab-4c54-42cf-a2d6-3802e7cf6207&amp;title=Probing+the+Impact+of+Local+Structural+Dynamics+of+Conformational+Epitopes+on+Antibody+Recognition&amp;doi=10.1021%2Facs.biochem.5b01354" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

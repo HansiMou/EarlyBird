@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="539541cb-abd0-4121-85d7-ac89fb407f0d">
+<html lang="en" class="pb-page" data-request-id="3372cf4b-1667-48b7-9cb6-6bd6aba87afd">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/accacs.ahead-of-print;journal:journal:accacs;wgroup:string:ACHS website Group;article:article:10.1021/acscatal.6b00005;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00005%3Fprg140729%3Db4a13d68-86a9-438a-b43d-5e48616b1716" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00005?prg140729=b4a13d68-86a9-438a-b43d-5e48616b1716&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00005?prg140729=b4a13d68-86a9-438a-b43d-5e48616b1716">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00005%3Fprg140729%3D89a4e1b0-a07c-4b39-8acb-c5294b6ce630" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00005?prg140729=89a4e1b0-a07c-4b39-8acb-c5294b6ce630&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00005?prg140729=89a4e1b0-a07c-4b39-8acb-c5294b6ce630">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -945,19 +945,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i3"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i4"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i5"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i8"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1075,6 +1062,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acscatal.6b00183?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscatal.6b00183?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acscatal.6b00269?src=recsys">Cu–Sn Bimetallic Catalyst for Selective Aqueous Electroreduction of CO<sub>2</sub> to CO</a>
+                            <div class="achsLabel">
+                             ACS Catalysis
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sarfraz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Garcia-Esparza</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jedidi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cavallo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Takanabe</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), pp 2842–2851</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report a selective and stable electrocatalyst utilizing non-noble metals consisting of Cu and Sn for the efficient and selective reduction of CO<sub>2</sub> to CO over a wide potential range. The bimetallic electrode was prepared through the electrodeposition of ...<sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acscatal.6b00269?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscatal.6b00269?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscatal.6b00269?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscatal.6b00269?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b01702?src=recsys">Ligand-Free Noble Metal Nanocluster Catalysts on Carbon Supports via “Soft” Nitriding</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1091,37 +1094,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b01702?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b01702?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acscatal.5b01346?src=recsys">Hydrogenation of Carbon Dioxide over Co–Fe Bimetallic Catalysts</a>
+                           <li><a href="/doi/abs/10.1021/acscatal.5b02617?src=recsys">Effect of Ceria Crystal Plane on the Physicochemical and Catalytic Properties of Pd/Ceria for CO and Propane Oxidation</a>
                             <div class="achsLabel">
                              ACS Catalysis
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gnanamani</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jacobs</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hamdeh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shafer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hopps</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Davis</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>6</em> (2), pp 913–927</span>
+                             <span><span class="bold">2016</span> <em>6</em> (4), pp 2265–2279</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A series of Co–Fe bimetallic catalysts was prepared, characterized, and studied for the hydrogenation of carbon dioxide. The catalyst precursors were prepared via an oxalate coprecipitation method. Monometallic (Co or Fe) and bimetallic (Co–Fe) oxalate ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Ceria nanocrystallites with different morphologies and crystal planes were hydrothermally prepared, and the effects of ceria supports on the physicochemical and catalytic properties of Pd/CeO<sub>2</sub> for the CO and propane oxidation were examined. The results ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acscatal.5b01346?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acscatal.5b01346?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acscatal.5b01346?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acscatal.5b01346?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b12354?src=recsys">Conversion of CO<sub>2</sub> from Air into Methanol Using a Polyamine and a Homogeneous Ruthenium Catalyst</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kothandaraman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Goeppert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Czaun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Olah</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Prakash</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (3), pp 778–781</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A highly efficient homogeneous catalyst system for the production of CH<sub>3</sub>OH from CO<sub>2</sub> using pentaethylenehexamine and Ru-Macho-BH (<b>1</b>) at 125–165 °C in an ethereal solvent has been developed (initial turnover frequency = 70 h<sup>–1</sup> at 145 °C). Ease of separation ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b12354?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b12354?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b12354?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b12354?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acscatal.5b02617?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscatal.5b02617?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscatal.5b02617?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscatal.5b02617?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1207,9 +1194,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facscatal.6b00005" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00005%3Fprg140729%3De50b0f08-2160-42c4-a980-e16066829efc&amp;doi=10.1021%2Facscatal.6b00005" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00005%3Fprg140729%3D97d3ea72-c280-431d-b582-6178ad98b18f&amp;doi=10.1021%2Facscatal.6b00005" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00005%3Fprg140729%3Db4a13d68-86a9-438a-b43d-5e48616b1716&amp;title=Cobalt+Catalysts+Decorated+with+Platinum+Atoms+Supported+on+Barium+Zirconate+Provide+Enhanced+Activity+and+Selectivity+for+CO2+Methanation&amp;doi=10.1021%2Facscatal.6b00005" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00005%3Fprg140729%3D89a4e1b0-a07c-4b39-8acb-c5294b6ce630&amp;title=Cobalt+Catalysts+Decorated+with+Platinum+Atoms+Supported+on+Barium+Zirconate+Provide+Enhanced+Activity+and+Selectivity+for+CO2+Methanation&amp;doi=10.1021%2Facscatal.6b00005" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

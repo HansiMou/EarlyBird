@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="06737058-1368-4f86-832a-f4fb49011464">
+<html lang="en" class="pb-page" data-request-id="7e97b4fc-234d-488a-a769-24e6ba8c7384">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jpca.5b08444;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b08444%3Fprg140729%3D86c00d20-57d0-4d3c-a1ee-bbcc8092e0c1" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b08444?prg140729=86c00d20-57d0-4d3c-a1ee-bbcc8092e0c1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b08444?prg140729=86c00d20-57d0-4d3c-a1ee-bbcc8092e0c1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b08444%3Fprg140729%3Df9902179-b5a1-44f5-bf1c-3949ae3a88db" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b08444?prg140729=f9902179-b5a1-44f5-bf1c-3949ae3a88db&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b08444?prg140729=f9902179-b5a1-44f5-bf1c-3949ae3a88db">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -692,6 +692,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpca.6b01476" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1079,22 +1080,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b11525?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b11525?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b11345?src=recsys">Rotational Spectrum and Structure of the 1,1-Difluoroethylene···Carbon Dioxide Complex</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Anderton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peebles</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Peebles</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (2), pp 247–253</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Rotational spectra for five isotopologues of the 1:1 weak complex between 1,1-difluoroethylene (H<sub>2</sub>C═CF<sub>2</sub>) and carbon dioxide (CO<sub>2</sub>) have been measured using 480 MHz bandwidth chirped-pulse and resonant cavity Fourier-transform microwave spectroscopy between ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b11345?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b11345?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b11345?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b11345?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b01097?src=recsys">Optimized Basis Sets for the Environment in the Domain-Specific Basis Set Approach of the Incremental Scheme</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1126,34 +1111,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b01280?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b01280?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b07459?src=recsys">Dielectric Investigation of Parylene D Thin Films: Relaxation and Conduction Mechanisms</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b11345?src=recsys">Rotational Spectrum and Structure of the 1,1-Difluoroethylene···Carbon Dioxide Complex</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mokni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kahouli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jomni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Garden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">André</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sylvestre</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Anderton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peebles</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Peebles</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>119</em> (35), pp 9210–9217</span>
+                             <span><span class="bold">2016</span> <em>120</em> (2), pp 247–253</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Parylene is a generic name indicating a family of polymers with the basic chemical structure of poly-<i>p</i>-xylylene. Parylene N and Parylene C are the most popular for applications. Curiously, Parylene D (poly( dichloro-<i>p</i>-xylylene), (C<sub>8</sub>H<sub>6</sub>Cl<sub>2</sub>)) was forgotten ...<sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Rotational spectra for five isotopologues of the 1:1 weak complex between 1,1-difluoroethylene (H<sub>2</sub>C═CF<sub>2</sub>) and carbon dioxide (CO<sub>2</sub>) have been measured using 480 MHz bandwidth chirped-pulse and resonant cavity Fourier-transform microwave spectroscopy between ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b07459?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b07459?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b07459?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b07459?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.5b11345?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b11345?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b11345?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b11345?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00060?src=recsys">Least-Squares Is Not the Only Yardstick for Estimating the Absorption Limit of an Infinitely Long Conjugated Chain from Spectra of Oligomers</a>
+                           <li><a href="/doi/abs/10.1021/jp511548a?src=recsys">Surface Enhanced Raman Scattering of Amino Acids Assisted by Gold Nanoparticles and Gd<sup>3+</sup> Ions</a>
                             <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Naqvi</span> 
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">López-Neira</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Galicia-Hernández</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reyes-Coronado</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pérez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Castillo-Rivera</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (4), pp 676–679</span>
+                             <span><span class="bold">2015</span> <em>119</em> (18), pp 4127–4135</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The surface enhanced raman scattering (SERS) signal from the <span class="smallcaps">l</span>-tyrosine (tyr) molecule adsorbed on gold nanoparticles (Au-tyr) is compared with the SERS signal assisted by the presence of gadolinium ions (Gd<sup>3+</sup>) coordinated with the Au-tyr system. An ...<sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.6b00060?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.6b00060?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00060?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00060?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jp511548a?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jp511548a?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jp511548a?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jp511548a?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b10472?src=recsys">Forming NCO<sup>–</sup> in Dense Molecular Clouds: Possible Gas-Phase Chemical Paths From Quantum Calculations</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yurtsever</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gianturco</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wester</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The existence of NCO<sup>–</sup> anions in the interstellar medium (ISM) has been suggested and searched for over the years but without any formal definitive sighting of that molecule. We discuss in this work the possible formation of either NCO<sup>–</sup> directly or of NCO ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.5b10472?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b10472?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b10472?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b10472?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1238,9 +1242,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.5b08444" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b08444%3Fprg140729%3D8b099467-0f97-42c8-a035-3f05dd4b3608&amp;doi=10.1021%2Facs.jpca.5b08444" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b08444%3Fprg140729%3Db94c1f5d-ef69-48da-b65b-41b55e406e24&amp;doi=10.1021%2Facs.jpca.5b08444" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b08444%3Fprg140729%3D86c00d20-57d0-4d3c-a1ee-bbcc8092e0c1&amp;title=Submerged+Barriers+in+the+Ni%2B+Assisted+Decomposition+of+Propionaldehyde&amp;doi=10.1021%2Facs.jpca.5b08444" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b08444%3Fprg140729%3Df9902179-b5a1-44f5-bf1c-3949ae3a88db&amp;title=Submerged+Barriers+in+the+Ni%2B+Assisted+Decomposition+of+Propionaldehyde&amp;doi=10.1021%2Facs.jpca.5b08444" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

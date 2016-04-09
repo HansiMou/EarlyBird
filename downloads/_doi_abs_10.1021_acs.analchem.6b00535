@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="bd342bd5-f564-42c1-97b1-4a3ac5f642c4">
+<html lang="en" class="pb-page" data-request-id="34d45b88-8d1a-43b5-b687-00fa64477dfe">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:ancham;pageGroup:string:Publication Pages;article:article:10.1021/acs.analchem.6b00535;wgroup:string:ACHS website Group;issue:issue:10.1021/ancham.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00535%3Fprg140729%3Ddf2ffde1-d56c-4cfe-ae0b-422f7d203cd9" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00535?prg140729=df2ffde1-d56c-4cfe-ae0b-422f7d203cd9&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00535?prg140729=df2ffde1-d56c-4cfe-ae0b-422f7d203cd9">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00535%3Fprg140729%3D3a3da62a-c527-4696-b761-807e89a443eb" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00535?prg140729=3a3da62a-c527-4696-b761-807e89a443eb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00535?prg140729=3a3da62a-c527-4696-b761-807e89a443eb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1048,6 +1048,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.6b00503?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.6b00503?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00337?src=recsys">Spectrally and Spatially Multiplexed Serological Array-in-Well Assay Utilizing Two-Color Upconversion Luminescence Imaging</a>
+                            <div class="achsLabel">
+                             Analytical Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kale</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Päkkilä</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vainio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahomaa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sirkka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lyytikäinen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Talha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kutsaya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Waris</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Julkunen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Soukka</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We demonstrate a simple dual-mode multiplexed array-in-well immunoassay for simultaneous classification and detection of serum IgG and IgM antibodies against influenza A and human adenoviruses based on the color and position of the upconversion ...<sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00337?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.6b00337?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00337?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00337?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.6b00327?src=recsys">A Silver DNAzyme</a>
                             <div class="achsLabel">
                              Analytical Chemistry
@@ -1063,6 +1079,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.analchem.6b00327?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.analchem.6b00327?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.6b00327?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00012?src=recsys">Protein Binding Bends the Gold Nanoparticle Capped DNA Sequence: Toward Novel Energy-Transfer-Based Photoelectrochemical Protein Detection</a>
+                            <div class="achsLabel">
+                             Analytical Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ruan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>88</em> (7), pp 3864–3871</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In this work, we present a novel energy-transfer (ET)-based photoelectrochemical (PEC) probing of DNA–protein interactions, which associates intimately with many important intracellular processes in transcriptional regulatory networks. Specifically, Au ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00012?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.6b00012?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00012?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00012?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.5b04889?src=recsys">Modular Nuclease-Responsive DNA Three-Way Junction-Based Dynamic Assembly of a DNA Device and Its Sensing Application</a>
                             <div class="achsLabel">
@@ -1080,53 +1112,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.5b04889?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.5b04889?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00337?src=recsys">Spectrally and Spatially Multiplexed Serological Array-in-Well Assay Utilizing Two-Color Upconversion Luminescence Imaging</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04190?src=recsys">Multiplexed Detection of Epigenetic Markers Using Quantum Dot (QD)-Encoded Hydrogel Microparticles</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kale</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Päkkilä</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vainio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahomaa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sirkka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lyytikäinen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Talha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kutsaya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Waris</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Julkunen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Soukka</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yeom</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Son</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tag</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Im</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cho</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We demonstrate a simple dual-mode multiplexed array-in-well immunoassay for simultaneous classification and detection of serum IgG and IgM antibodies against influenza A and human adenoviruses based on the color and position of the upconversion ...<sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Epigenetic alterations in gene expression are influenced by experiences and environment, resulting in significant variation of epigenetic markers from individual to individual. Therefore, it is imperative to measure various epigenetic markers ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.6b00337?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.6b00337?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00337?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.6b00337?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04621?src=recsys">Gold Nanorods as Colorful Chromogenic Substrates for Semiquantitative Detection of Nucleic Acids, Proteins, and Small Molecules with the Naked Eye</a>
-                            <div class="achsLabel">
-                             Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kannan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qiu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (6), pp 3227–3234</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Herein, we report for the first time a colorful chromogenic substrate, which displays vivid color responses in the presence of different concentration of analytes. Our investigation reveals that the selective shortening of gold nanorods (AuNRs) could ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04621?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04621?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04621?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04621?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00012?src=recsys">Protein Binding Bends the Gold Nanoparticle Capped DNA Sequence: Toward Novel Energy-Transfer-Based Photoelectrochemical Protein Detection</a>
-                            <div class="achsLabel">
-                             Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ruan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (7), pp 3864–3871</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In this work, we present a novel energy-transfer (ET)-based photoelectrochemical (PEC) probing of DNA–protein interactions, which associates intimately with many important intracellular processes in transcriptional regulatory networks. Specifically, Au ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.6b00012?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.6b00012?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00012?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.6b00012?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.5b04190?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b04190?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04190?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b04190?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1212,9 +1212,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.analchem.6b00535" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00535%3Fprg140729%3Da1bba87d-bd31-4c92-a98d-2def941d6aa3&amp;doi=10.1021%2Facs.analchem.6b00535" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00535%3Fprg140729%3Dec9fc5b4-9302-4b53-8d39-57947dfc4294&amp;doi=10.1021%2Facs.analchem.6b00535" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00535%3Fprg140729%3Ddf2ffde1-d56c-4cfe-ae0b-422f7d203cd9&amp;title=Nonamplification+Sandwich+Assay+Platform+for+Sensitive+Nucleic+Acid+Detection+Based+on+AuNPs+Enumeration+with+the+Dark-Field+Microscope&amp;doi=10.1021%2Facs.analchem.6b00535" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00535%3Fprg140729%3D3a3da62a-c527-4696-b761-807e89a443eb&amp;title=Nonamplification+Sandwich+Assay+Platform+for+Sensitive+Nucleic+Acid+Detection+Based+on+AuNPs+Enumeration+with+the+Dark-Field+Microscope&amp;doi=10.1021%2Facs.analchem.6b00535" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

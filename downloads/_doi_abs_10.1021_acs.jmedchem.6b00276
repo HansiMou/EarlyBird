@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="004ae0d9-5a5f-4b11-9048-55402df61684">
+<html lang="en" class="pb-page" data-request-id="8f5c0489-023c-4e83-84d6-8037c76cb0eb">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jmcmar;wgroup:string:ACHS website Group;article:article:10.1021/acs.jmedchem.6b00276;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00276%3Fprg140729%3D8f6058ba-9da7-4d61-a95a-c507b1f1fff1" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00276?prg140729=8f6058ba-9da7-4d61-a95a-c507b1f1fff1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00276?prg140729=8f6058ba-9da7-4d61-a95a-c507b1f1fff1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00276%3Fprg140729%3D0f946647-6851-4b93-a9de-cb37239cacf4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00276?prg140729=0f946647-6851-4b93-a9de-cb37239cacf4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00276?prg140729=0f946647-6851-4b93-a9de-cb37239cacf4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -987,6 +987,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i2"><span>Results</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i18"><span>Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i19"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i61"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1066,6 +1078,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00085?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.6b00085?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01349?src=recsys">Ten Years of Medicinal Chemistry (2005–2014) in the <i>Journal of Medicinal Chemistry</i>: Country of Contributors, Topics, and Public–Private Partnerships</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Costantino</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Barlocco</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> This review analyzes the articles that have appeared during the past 10 years in the <i>Journal of Medicinal Chemistry</i>, the leading journal in the field of medicinal chemistry, to provide a picture of the changing trends in this research area. Our analysis ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01349?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01349?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01349?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01349?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1098,53 +1126,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00064?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.6b00064?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.6b00176?src=recsys">Identification and in Vivo Evaluation of Liver X Receptor β-Selective Agonists for the Potential Treatment of Alzheimer’s Disease</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01712?src=recsys">Structure–Activity Relationship Studies of Mitogen Activated Protein Kinase Interacting Kinase (MNK) 1 and 2 and BCR-ABL1 Inhibitors Targeting Chronic Myeloid Leukemic Cells</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Stachel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zerbinatti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudd</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cosden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nanda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wessner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">DiMuzio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maxwell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Uslaner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Michener</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Szczerba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brnardic</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rada</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meissner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wuelfing</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ballard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Holahan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Klein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fradera</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Parthasarathy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Uebele</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cooke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bennett</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bilodeau</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Renger</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cherian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nacro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jeyaraj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ho</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Joy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kwek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poulsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pendharkar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Manoharan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chew</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sangthongpitag</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hill</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Keller</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Herein, we describe the development of a functionally selective liver X receptor β (LXRβ) agonist series optimized for Emax selectivity, solubility, and physical properties to allow efficacy and safety studies in vivo. Compound <b>9</b> showed central ...</span>
+                             <span><span class="bold">Abstract:</span> Clinically used BCR-ABL1 inhibitors for the treatment of chronic myeloid leukemia do not eliminate leukemic stem cells (LSC). It has been shown that MNK1 and 2 inhibitors prevent phosphorylation of eIF4E and eliminate the self-renewal capacity of LSCs. ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.6b00176?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.6b00176?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00176?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.6b00176?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01712?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01712?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01712?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01712?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01828?src=recsys">Unexpected Discovery of Dichloroacetate Derived Adenosine Triphosphate Competitors Targeting Pyruvate Dehydrogenase Kinase To Inhibit Cancer Proliferation</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01984?src=recsys">Discovery of Potent Benzofuran-Derived Diapophytoene Desaturase (CrtN) Inhibitors with Enhanced Oral Bioavailability for the Treatment of Methicillin-Resistant <i>Staphylococcus aureus</i> (MRSA) Infections</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Tam</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Di</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Pyruvate dehydrogenase kinases (PDKs) have recently emerged as an attractive target for cancer therapy. Herein, we prepared a series of compounds derived from dichloroacetate (DCA) which inhibited cancer cells proliferation. For the first time, we have ...</span>
+                             <span><span class="bold">Abstract:</span> Blocking the staphyloxanthin biosynthesis process has emerged as a new promising antivirulence strategy. Previously, we first revealed that CrtN is a druggable target against infections caused by pigmented <i>Staphylococcus aureus</i> (<i>S. aureus</i>) and that ...<sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01828?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01828?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01828?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01828?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01612?src=recsys">Novel Analogues of (<i>R</i>)-5-(Methylamino)-5,6-dihydro-4<i>H</i>-imidazo[4,5,1-<i>ij</i>]quinolin-2(1<i>H</i>)-one (Sumanirole) Provide Clues to Dopamine D<sub>2</sub>/D<sub>3</sub> Receptor Agonist Selectivity</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Keck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kumar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Donthamsetti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Michino</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Burzynski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schweppe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bonifazi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Free</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sibley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Janowsky</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Javitch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Newman</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Novel 1-, 5-, and 8-substituted analogues of sumanirole (<b>1</b>), a dopamine D<sub>2</sub>/D<sub>3</sub> receptor (D<sub>2</sub>R/D<sub>3</sub>R) agonist, were synthesized. Binding affinities at both D<sub>2</sub>R and D<sub>3</sub>R were higher when determined in competition with the agonist radioligand [<sup>3</sup>H]7-hydroxy-<i>N</i>,<i>N</i>-...<sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01612?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01612?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01612?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01612?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01984?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01984?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01984?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01984?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1230,9 +1242,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.6b00276" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00276%3Fprg140729%3D608ecd55-21f0-4f3d-bedc-f61a7577126f&amp;doi=10.1021%2Facs.jmedchem.6b00276" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00276%3Fprg140729%3D701b7aed-63ba-439e-b1ee-50efd2de5022&amp;doi=10.1021%2Facs.jmedchem.6b00276" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00276%3Fprg140729%3D8f6058ba-9da7-4d61-a95a-c507b1f1fff1&amp;title=Synthesis+of+%CE%B1%2C%CE%B2-Unsaturated+Carbonyl-Based+Compounds%2C+Oxime+and+Oxime+Ether+Analogs+as+Potential+Anticancer+Agents+for+Overcoming+Cancer+Multidrug+Resistance+by+Modulation+of+Efflux+Pumps+in+Tumor+Cells&amp;doi=10.1021%2Facs.jmedchem.6b00276" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00276%3Fprg140729%3D0f946647-6851-4b93-a9de-cb37239cacf4&amp;title=Synthesis+of+%CE%B1%2C%CE%B2-Unsaturated+Carbonyl-Based+Compounds%2C+Oxime+and+Oxime+Ether+Analogs+as+Potential+Anticancer+Agents+for+Overcoming+Cancer+Multidrug+Resistance+by+Modulation+of+Efflux+Pumps+in+Tumor+Cells&amp;doi=10.1021%2Facs.jmedchem.6b00276" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="61ebec00-4ae5-4cd6-9038-0352f2c48047">
+<html lang="en" class="pb-page" data-request-id="896fbab1-d4b7-436a-bfec-6521fb7fe286">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jmcmar;article:article:10.1021/acs.jmedchem.5b02029;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -168,8 +168,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b02029%3Fprg140729%3Dbf1cb34e-8c8b-4683-9182-6c95970d5e55" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b02029?prg140729=bf1cb34e-8c8b-4683-9182-6c95970d5e55&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b02029?prg140729=bf1cb34e-8c8b-4683-9182-6c95970d5e55">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b02029%3Fprg140729%3Df7739cd9-513f-49ac-a519-b40da08b8a7c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b02029?prg140729=f7739cd9-513f-49ac-a519-b40da08b8a7c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b02029?prg140729=f7739cd9-513f-49ac-a519-b40da08b8a7c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1083,6 +1083,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i10"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i11"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i25"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1232,21 +1244,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00213?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.6b00213?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Integrating Everything: The Molecule Selection Toolkit, a System for Compound Prioritization in Drug Discovery</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.6b00176?src=recsys">Identification and in Vivo Evaluation of Liver X Receptor β-Selective Agonists for the Potential Treatment of Alzheimer’s Disease</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cummins</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Bell</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Stachel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zerbinatti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudd</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cosden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nanda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wessner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">DiMuzio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maxwell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Uslaner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Michener</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Szczerba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brnardic</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rada</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meissner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wuelfing</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ballard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Holahan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Klein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fradera</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Parthasarathy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Uebele</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cooke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bennett</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bilodeau</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Renger</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In recent years there have been numerous papers on the topic of multiattribute optimization in pharmaceutical discovery chemistry, applied to compound prioritization. Many solutions proposed are static in nature; fixed functions are proposed for general ...</span>
+                             <span><span class="bold">Abstract:</span> Herein, we describe the development of a functionally selective liver X receptor β (LXRβ) agonist series optimized for Emax selectivity, solubility, and physical properties to allow efficacy and safety studies in vivo. Compound <b>9</b> showed central ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01338?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01338?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01338?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.6b00176?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.6b00176?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00176?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.6b00176?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.6b00064?src=recsys">Discovery of Entrectinib: A New 3-Aminoindazole As a Potent Anaplastic Lymphoma Kinase (ALK), c-ros Oncogene 1 Kinase (ROS1), and Pan-Tropomyosin Receptor Kinases (Pan-TRKs) inhibitor</a>
                             <div class="achsLabel">
@@ -1348,9 +1360,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.5b02029" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b02029%3Fprg140729%3Df9edba47-9319-4ec2-81ec-bff714e76053&amp;doi=10.1021%2Facs.jmedchem.5b02029" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b02029%3Fprg140729%3D25be73e6-f3f8-46a5-b08c-82c8b0ccb470&amp;doi=10.1021%2Facs.jmedchem.5b02029" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b02029%3Fprg140729%3Dbf1cb34e-8c8b-4683-9182-6c95970d5e55&amp;title=Discovery+of+a+Novel%2C+Orally+Efficacious+Liver+X+Receptor+%28LXR%29+%CE%B2+Agonist&amp;doi=10.1021%2Facs.jmedchem.5b02029" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b02029%3Fprg140729%3Df7739cd9-513f-49ac-a519-b40da08b8a7c&amp;title=Discovery+of+a+Novel%2C+Orally+Efficacious+Liver+X+Receptor+%28LXR%29+%CE%B2+Agonist&amp;doi=10.1021%2Facs.jmedchem.5b02029" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

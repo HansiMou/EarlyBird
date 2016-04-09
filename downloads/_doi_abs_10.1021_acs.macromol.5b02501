@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="e50b4f78-f187-4ae2-b696-af64a0427565">
+<html lang="en" class="pb-page" data-request-id="dd3b8164-25ea-4200-873e-566859da35ed">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.macromol.5b02501;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/mamobx.ahead-of-print;journal:journal:mamobx;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02501%3Fprg140729%3D697c70f9-7412-4b53-8cf4-cb8f7d835d0a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02501?prg140729=697c70f9-7412-4b53-8cf4-cb8f7d835d0a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02501?prg140729=697c70f9-7412-4b53-8cf4-cb8f7d835d0a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02501%3Fprg140729%3Df7749ec5-3724-47e9-893c-e1b17e24e82d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02501?prg140729=f7749ec5-3724-47e9-893c-e1b17e24e82d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02501?prg140729=f7749ec5-3724-47e9-893c-e1b17e24e82d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -955,16 +955,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i11"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1071,22 +1061,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.macromol.5b02529?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.macromol.5b02529?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b12259?src=recsys">KO<sup><i>t</i></sup>Bu-Initiated Aryl C–H Iodination: A Powerful Tool for the Synthesis of High Electron Affinity Compounds</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oswald</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amassian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marder</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Blakey</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (12), pp 3946–3949</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> An efficient iodination reaction of electron-deficient heterocycles is described. The reaction utilizes KO<sup><i>t</i></sup>Bu as an initiator and likely proceeds by a radical anion propagation mechanism. This new methodology is particularly effective for ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b12259?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b12259?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b12259?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b12259?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b11831?src=recsys">A New Methodology for Assessing Macromolecular Click Reactions and Its Application to Amine–Tertiary Isocyanate Coupling for Polymer Ligation</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1103,21 +1077,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b11831?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b11831?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00850?src=recsys">Design and Synthesis of New Circularly Polarized Thermally Activated Delayed Fluorescence Emitters</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12259?src=recsys">KO<sup><i>t</i></sup>Bu-Initiated Aryl C–H Iodination: A Powerful Tool for the Synthesis of High Electron Affinity Compounds</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Feuillastre</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pauton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Desmarchelier</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Riives</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tondelier</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Geffroy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Muller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Clavier</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Pieters</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oswald</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amassian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marder</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Blakey</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (12), pp 3990–3993</span>
+                             <span><span class="bold">2016</span> <em>138</em> (12), pp 3946–3949</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> This work describes the first thermally activated delayed fluorescence material enabling circularly polarized light emission through chiral perturbation. These new molecular architectures obtained through a scalable one-pot sequential synthetic procedure ...<sub></sub><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> An efficient iodination reaction of electron-deficient heterocycles is described. The reaction utilizes KO<sup><i>t</i></sup>Bu as an initiator and likely proceeds by a radical anion propagation mechanism. This new methodology is particularly effective for ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00850?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00850?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00850?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00850?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b12259?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12259?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12259?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12259?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02511?src=recsys">Conjugated Microporous Polymers Incorporating BODIPY Moieties as Light-Emitting Materials and Recyclable Visible-Light Photocatalysts</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liras</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Iglesias</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sánchez</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (5), pp 1666–1673</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Here we report the design and synthesis of a new conjugated microporous polymer based on a BODIPY dye (CMPBDP) which has shown excellent luminescence properties and an efficient heterogeneous photocatalytic activity. CMPBDP shows high thermal stability ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02511?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02511?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02511?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02511?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1203,9 +1193,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.macromol.5b02501" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02501%3Fprg140729%3D65deabf3-8a89-4e5b-9829-107aee33671e&amp;doi=10.1021%2Facs.macromol.5b02501" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02501%3Fprg140729%3D0d7ec737-a25f-4ef9-b165-4d59101d67c9&amp;doi=10.1021%2Facs.macromol.5b02501" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02501%3Fprg140729%3D697c70f9-7412-4b53-8cf4-cb8f7d835d0a&amp;title=Hydrophilic+Conjugated+Polymers+Prepared+by+Aqueous+Horner%E2%80%93Wadsworth%E2%80%93Emmons+Coupling&amp;doi=10.1021%2Facs.macromol.5b02501" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02501%3Fprg140729%3Df7749ec5-3724-47e9-893c-e1b17e24e82d&amp;title=Hydrophilic+Conjugated+Polymers+Prepared+by+Aqueous+Horner%E2%80%93Wadsworth%E2%80%93Emmons+Coupling&amp;doi=10.1021%2Facs.macromol.5b02501" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1228,9 +1218,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqZ0wMknR2wnrVg90H21EOLACvtfcHk0liQOyimx5WWcg&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGMld7_IwAgNPtQwD9OmoEd0MfoQaoD0LZ-vB4eomTyLW&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUTUHY_K_RoRtrnDmCxc-CThi25Vg2O3Morbk6VV6pV9&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqZ0wMknR2wnrVg90H21EOLACvtfcHk0lhdNq7FjdfTFg&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGMld7_IwAgNPtQwD9OmoEd1HGBCSbour1ZmRW5jkeTRT&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUTUHY_K_RoRtrnDmCxc-CThi25Vg2O3Mj54JIJpWiar&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

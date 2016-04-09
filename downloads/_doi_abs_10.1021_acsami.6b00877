@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="7b6b6d91-295d-4ddc-a228-ca64d19694c0">
+<html lang="en" class="pb-page" data-request-id="7b3cd06a-96fa-488e-a9ac-3bdffa8b1535">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;article:article:10.1021/acsami.6b00877;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00877%3Fprg140729%3D3087321e-d442-4294-b798-58882d516c55" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00877?prg140729=3087321e-d442-4294-b798-58882d516c55&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00877?prg140729=3087321e-d442-4294-b798-58882d516c55">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00877%3Fprg140729%3D23c30a17-6b56-4e87-8a78-8b095dc2405f" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00877?prg140729=23c30a17-6b56-4e87-8a78-8b095dc2405f&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00877?prg140729=23c30a17-6b56-4e87-8a78-8b095dc2405f">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1035,6 +1035,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acsami.5b11300?src=recsys">Construction of Hierarchical α-MnO<sub>2</sub> Nanowires@Ultrathin δ-MnO<sub>2</sub> Nanosheets Core–Shell Nanostructure with Excellent Cycling Stability for High-Power Asymmetric Supercapacitor Electrodes</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), pp 9050–9058</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Poor electrical conductivity and mechanical instability are two major obstacles to realizing high performance of MnO<sub>2</sub> as pseudocapacitor material. The construction of unique hierarchical core–shell nanostructures, therefore, plays an important role in the ...<sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.5b11300?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.5b11300?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.5b11300?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.5b11300?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b01644?src=recsys">Advanced Mesoporous Spinel Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub>/rGO Composites with Increased Surface Lithium Storage Capability for High-Power Lithium-Ion Batteries</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1067,37 +1083,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04994?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.5b04994?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b11389?src=recsys">Morphological Evolution of High-Voltage Spinel LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Cathode Materials for Lithium-Ion Batteries: The Critical Effects of Surface Orientations and Particle Size</a>
+                           <li><a href="/doi/abs/10.1021/acsami.5b12081?src=recsys">Thermal Stability and Reactivity of Cathode Materials for Li-Ion Batteries</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qiu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kloepsch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schumacher</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jenkins</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chernova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chung</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Radhakrishnan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Omenya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ong</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Whittingham</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>8</em> (7), pp 4661–4675</span>
+                             <span><span class="bold">2016</span> <em>8</em> (11), pp 7013–7021</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> An evolution panorama of morphology and surface orientation of high-voltage spinel LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> cathode materials synthesized by the combination of the microwave-assisted hydrothermal technique and a postcalcination process is presented. Nanoparticles, ...<sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> The thermal stability of electrochemically delithiated Li<sub>0.1</sub>Ni<sub>0.8</sub>Co<sub>0.15</sub>Al<sub>0.05</sub>O<sub>2</sub> (NCA), FePO<sub>4</sub> (FP), Mn<sub>0.8</sub>Fe<sub>0.2</sub>PO<sub>4</sub> (MFP), hydrothermally synthesized VOPO<sub>4</sub>, LiVOPO<sub>4</sub>, and electrochemically lithiated Li<sub>2</sub>VOPO<sub>4</sub> is investigated by differential scanning ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b11389?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b11389?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b11389?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b11389?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsami.5b12081?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.5b12081?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.5b12081?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.5b12081?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b11300?src=recsys">Construction of Hierarchical α-MnO<sub>2</sub> Nanowires@Ultrathin δ-MnO<sub>2</sub> Nanosheets Core–Shell Nanostructure with Excellent Cycling Stability for High-Power Asymmetric Supercapacitor Electrodes</a>
+                           <li><a href="/doi/abs/10.1021/acsami.6b00627?src=recsys">Sandwich-like SnS/Polypyrrole Ultrathin Nanosheets as High-Performance Anode Materials for Li-Ion Batteries</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ouyang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), pp 9050–9058</span>
+                             <span><span class="bold">2016</span> <em>8</em> (13), pp 8502–8510</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Poor electrical conductivity and mechanical instability are two major obstacles to realizing high performance of MnO<sub>2</sub> as pseudocapacitor material. The construction of unique hierarchical core–shell nanostructures, therefore, plays an important role in the ...<sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Sandwich-like SnS/polypyrrole ultrathin nanosheets were synthesized via a pyrrole reduction and in situ polymerization route, in which room-temperature synthesized ZnSn(OH)<sub>6</sub> microcubes were used as the tin source. As anode materials for Li-ion batteries, ...<sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b11300?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b11300?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b11300?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b11300?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsami.6b00627?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b00627?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b00627?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b00627?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b02372?src=recsys">Mesoporous Hybrids of Reduced Graphene Oxide and Vanadium Pentoxide for Enhanced Performance in Lithium-Ion Batteries and Electrochemical Capacitors</a>
                             <div class="achsLabel">
@@ -1114,22 +1130,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsami.6b02372?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsami.6b02372?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b02372?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b12081?src=recsys">Thermal Stability and Reactivity of Cathode Materials for Li-Ion Batteries</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jenkins</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chernova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chung</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Radhakrishnan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Omenya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ong</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Whittingham</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>8</em> (11), pp 7013–7021</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The thermal stability of electrochemically delithiated Li<sub>0.1</sub>Ni<sub>0.8</sub>Co<sub>0.15</sub>Al<sub>0.05</sub>O<sub>2</sub> (NCA), FePO<sub>4</sub> (FP), Mn<sub>0.8</sub>Fe<sub>0.2</sub>PO<sub>4</sub> (MFP), hydrothermally synthesized VOPO<sub>4</sub>, LiVOPO<sub>4</sub>, and electrochemically lithiated Li<sub>2</sub>VOPO<sub>4</sub> is investigated by differential scanning ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b12081?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b12081?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b12081?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b12081?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1214,9 +1214,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b00877" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00877%3Fprg140729%3D2fecfb00-4d87-4b00-879c-a498cdd6b5c1&amp;doi=10.1021%2Facsami.6b00877" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00877%3Fprg140729%3D212e00b1-f3f0-4a92-bb76-bcdcde5864a5&amp;doi=10.1021%2Facsami.6b00877" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00877%3Fprg140729%3D3087321e-d442-4294-b798-58882d516c55&amp;title=Effect+of+Chromium+and+Niobium+Doping+on+the+Morphology+and+Electrochemical+Performance+of+High-Voltage+Spinel+LiNi0.5Mn1.5O4+Cathode+Material&amp;doi=10.1021%2Facsami.6b00877" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00877%3Fprg140729%3D23c30a17-6b56-4e87-8a78-8b095dc2405f&amp;title=Effect+of+Chromium+and+Niobium+Doping+on+the+Morphology+and+Electrochemical+Performance+of+High-Voltage+Spinel+LiNi0.5Mn1.5O4+Cathode+Material&amp;doi=10.1021%2Facsami.6b00877" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

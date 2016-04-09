@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a7c7bea6-b763-467a-b6a5-5a5ccc032068">
+<html lang="en" class="pb-page" data-request-id="50c322aa-7991-4e78-8d33-8a2a1e7b09be">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;article:article:10.1021/acs.jpca.6b02636;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02636%3Fprg140729%3D0340f938-3bfd-406b-8720-485146a33ee1" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02636?prg140729=0340f938-3bfd-406b-8720-485146a33ee1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02636?prg140729=0340f938-3bfd-406b-8720-485146a33ee1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02636%3Fprg140729%3D89e4d307-0e6a-4c7a-89db-89c0b32cf7ff" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02636?prg140729=89e4d307-0e6a-4c7a-89db-89c0b32cf7ff&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02636?prg140729=89e4d307-0e6a-4c7a-89db-89c0b32cf7ff">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -694,16 +694,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpca.6b01538" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpca.6b00543" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpcafh/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1109,6 +1099,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b00677?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b00677?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00652?src=recsys">Pyrolysis of the Simplest Carbohydrate, Glycolaldehyde (CHO−CH<sub>2</sub>OH), and Glyoxal in a Heated Microreactor</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Porterfield</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baraban</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Troy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahmed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McCarthy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morgan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Daily</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nguyen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stanton</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ellison</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Both glycolaldehyde and glyoxal were pyrolyzed in a set of flash-pyrolysis microreactors. The pyrolysis products resulting from CHO–CH<sub>2</sub>OH and HCO–CHO were detected and identified by vacuum ultraviolet (VUV) photoionization mass spectrometry. Complementary ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.6b00652?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b00652?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00652?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b00652?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b00907?src=recsys">Modeling Ignition of a Heptane Isomer: Improved Thermodynamics, Reaction Pathways, Kinetics, and Rate Rule Optimizations for 2-Methylhexane</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1140,37 +1146,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b00308?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b00308?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00652?src=recsys">Pyrolysis of the Simplest Carbohydrate, Glycolaldehyde (CHO−CH<sub>2</sub>OH), and Glyoxal in a Heated Microreactor</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b10667?src=recsys">New Approach for Investigating Reaction Dynamics and Rates with Ab Initio Calculations</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Porterfield</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baraban</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Troy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahmed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McCarthy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morgan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Daily</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nguyen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stanton</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ellison</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fleming</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tiwary</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Pfaendtner</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>120</em> (2), pp 299–305</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Both glycolaldehyde and glyoxal were pyrolyzed in a set of flash-pyrolysis microreactors. The pyrolysis products resulting from CHO–CH<sub>2</sub>OH and HCO–CHO were detected and identified by vacuum ultraviolet (VUV) photoionization mass spectrometry. Complementary ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Herein, we demonstrate a convenient approach to systematically investigate chemical reaction dynamics using the metadynamics (MetaD) family of enhanced sampling methods. Using a symmetric S<sub>N</sub>2 reaction as a model system, we applied infrequent metadynamics, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00652?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00652?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00652?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00652?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b11152?src=recsys">Mechanism of the Ferrocyanide–Iodate–Sulfite Oscillatory Chemical Reaction</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Horváth</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Epstein</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kustin</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (12), pp 1951–1960</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Existing models of the ferrocyanide–iodate–sulfite (FIS) reaction seek to replicate the oscillatory pH behavior that occurs in open systems. These models exhibit significant differences in the amplitudes and waveforms of the concentration oscillations of ...<sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b11152?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b11152?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b11152?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b11152?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.5b10667?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b10667?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b10667?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b10667?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1223,7 +1213,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpca.6b02636" title="High-Res PDF: 2601 KB" target="_blank"> PDF <span class="details">(2601 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpca.6b02636" title="Low-Res PDF: 504 KB" target="_blank"> PDF w/ Links <span class="details">(504 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpca.6b02636" title="Low-Res PDF: 491 KB" target="_blank"> PDF w/ Links <span class="details">(491 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpca.6b02636" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1256,9 +1246,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.6b02636" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02636%3Fprg140729%3Dfe934a62-5d9f-43d8-a2fe-9530c22f9fc8&amp;doi=10.1021%2Facs.jpca.6b02636" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02636%3Fprg140729%3D988012da-d0cd-4b11-b973-14194fc35ec1&amp;doi=10.1021%2Facs.jpca.6b02636" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02636%3Fprg140729%3D0340f938-3bfd-406b-8720-485146a33ee1&amp;title=Isotope+Effects+in+the+Resonant+Inelastic+Soft+X-ray+Scattering+Maps+of+Gas-Phase+Methanol&amp;doi=10.1021%2Facs.jpca.6b02636" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02636%3Fprg140729%3D89e4d307-0e6a-4c7a-89db-89c0b32cf7ff&amp;title=Isotope+Effects+in+the+Resonant+Inelastic+Soft+X-ray+Scattering+Maps+of+Gas-Phase+Methanol&amp;doi=10.1021%2Facs.jpca.6b02636" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

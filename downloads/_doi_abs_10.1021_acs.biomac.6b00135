@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1df0e0a6-e9f7-4ce9-b424-d13bb6e5337a">
+<html lang="en" class="pb-page" data-request-id="b3fc30fa-cc8b-4a13-bc8b-0751e354c570">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/bomaf6.ahead-of-print;article:article:10.1021/acs.biomac.6b00135;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:bomaf6">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00135%3Fprg140729%3D799f598c-da5d-4bf6-8ec2-2301588d2068" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00135?prg140729=799f598c-da5d-4bf6-8ec2-2301588d2068&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00135?prg140729=799f598c-da5d-4bf6-8ec2-2301588d2068">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00135%3Fprg140729%3De6bcbdb2-ab22-4bfa-8a50-d34b69abb5f7" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00135?prg140729=e6bcbdb2-ab22-4bfa-8a50-d34b69abb5f7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00135?prg140729=e6bcbdb2-ab22-4bfa-8a50-d34b69abb5f7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -962,19 +962,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i14"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i19"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i20"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i23"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1033,69 +1020,101 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b04049?src=recsys">Flattened-Top Domical Water Drops Formed through Self-Organization of Hydrophobin Membranes: A Structural and Mechanistic Study Using Atomic Force Microscopy</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yamasaki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takatsuji</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Asakawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fukuma</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Haruyama</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (1), pp 81–87</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The <i>Trichoderma reesei</i> hydrophobin, HFBI, is a unique structural protein. This protein forms membranes by self-organization at air/water or water/solid interfaces. When HFBI forms a membrane at an air/water interface, the top of the water droplet is ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b04049?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b04049?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b04049?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b04049?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.6b00123?src=recsys">Graphene Biosensor Programming with Genetically Engineered Fusion Protein Monolayers</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Soikkeli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kurppa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kainlauri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Arpiainen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Paananen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gunnarsson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Joensuu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Laaksonen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prunnila</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Linder</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ahopelto</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>8</em> (12), pp 8257–8264</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We demonstrate a label-free biosensor concept based on specific receptor modules, which provide immobilization and selectivity to the desired analyte molecules, and on charge sensing with a graphene field effect transistor. The receptor modules are fusion ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.6b00123?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.6b00123?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.6b00123?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.6b00123?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biomac.5b01632?src=recsys">Class I Hydrophobin Vmh2 Adopts Atypical Mechanisms to Self-Assemble into Functional Amyloid Fibrils</a>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00278?src=recsys">Understanding the Dispersion and Assembly of Bacterial Cellulose in Organic Solvents</a>
                             <div class="achsLabel">
                              Biomacromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gravagnuolo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Longobardi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luchini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Appavou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">De Stefano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Notomista</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Paduano</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Giardina</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ferguson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Khan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Walsh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bismarck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shaffer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Coleman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bergin</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>17</em> (3), pp 954–964</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Hydrophobins are fungal proteins whose functions are mainly based on their capability to self-assemble into amphiphilic films at hydrophobic–hydrophilic interfaces (HHI). It is widely accepted that class I hydrophobins form amyloid-like structures, named ...<sup></sup></span>
+                             <span><span class="bold">Abstract:</span> The constituent nanofibrils of bacterial cellulose are of interest to many researchers because of their purity and excellent mechanical properties. Mechanisms to disrupt the network structure of bacterial cellulose (BC) to isolate bacterial cellulose ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biomac.5b01632?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biomac.5b01632?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biomac.5b01632?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biomac.5b01632?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.biomac.6b00278?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.6b00278?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00278?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.6b00278?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b11354?src=recsys">Hydrophobin-Encapsulated Quantum Dots</a>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.5b01758?src=recsys">Disulfide-Linked Amphiphilic Polymer-Docetaxel Conjugates Assembled Redox-Sensitive Micelles for Efficient Antitumor Drug Delivery</a>
                             <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Taniguchi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sandiford</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cooper</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rosca</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahmad Khanbeigi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fairclough</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thanou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dailey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wohlleben</span>, <span class="entryAuthor normal hlFld-ContribAuthor">von Vacano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">T. M. de Rosales</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dobson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Owen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Green</span> 
+                             Biomacromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Luan</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>8</em> (7), pp 4887–4893</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The phase transfer of quantum dots to water is an important aspect of preparing nanomaterials that are suitable for biological applications, and although numerous reports describe ligand exchange, very few describe efficient ligand encapsulation ...</span>
+                             <span><span class="bold">Abstract:</span> Here, we prepared novel redox-sensitive drug delivery system based on copolymer-drug conjugates methoxy poly(ethylene glycol)-poly(γ-benzyl <span class="smallcaps">l</span>-glutamate)-disulfide-docetaxel (mPEG-PBLG-SS-DTX) to realize the desirable cancer therapy. First, copolymers of ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b11354?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b11354?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b11354?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b11354?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.biomac.5b01758?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.5b01758?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.5b01758?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.5b01758?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.5b01764?src=recsys">An Innovative Collagen-Based Cell-Printing Method for Obtaining Human Adipose Stem Cell-Laden Structures Consisting of Core–Sheath Structures for Tissue Engineering</a>
+                            <div class="achsLabel">
+                             Biomacromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yeo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chun</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Three-dimensional (3D) cell printing processes have been used widely in various tissue engineering applications due to the efficient embedding of living cells in appropriately designed micro- or macro-structures. However, there are several issues to ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biomac.5b01764?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.5b01764?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.5b01764?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.5b01764?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00098?src=recsys">Neuronal Differentiation of Induced Pluripotent Stem Cells on Surfactant Templated Chitosan Hydrogels</a>
+                            <div class="achsLabel">
+                             Biomacromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Worthington</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Green</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rethwisch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wiley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tucker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guymon</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Salem</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The development of effective tissue engineering materials requires careful consideration of several properties beyond biocompatibility, including permeability and mechanical stiffness. While surfactant templating has been used for over a decade to control ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biomac.6b00098?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.6b00098?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00098?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.6b00098?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00092?src=recsys">Hydrophobic-Sheath Segregated Macromolecular Fluorophores: Colloidal Nanoparticles of Polycaprolactone-Grafted Conjugated Polymers with Bright Far-Red/Near-Infrared Emission for Biological Imaging</a>
+                            <div class="achsLabel">
+                             Biomacromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> This article describes molecular design, synthesis and characterization of colloidal nanoparticles containing polycaprolactone-grafted conjugated polymers that exhibit strong far red/near-infrared (FR/NIR) fluorescence for bioimaging. Specifically, we ...<sup></sup><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biomac.6b00092?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.6b00092?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00092?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.6b00092?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00004?src=recsys">Recent Advances in Dendritic Macromonomers for Hydrogel Formation and Their Medical Applications</a>
+                            <div class="achsLabel">
+                             Biomacromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ghobril</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rodriguez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nazarian</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Grinstaff</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Hydrogels represent one of the most important classes of biomaterials and are of interest for various medical applications including wound repair, tissue engineering, and drug release. Hydrogels possess tunable mechanical properties, biocompatibility, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biomac.6b00004?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.6b00004?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00004?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.6b00004?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1181,9 +1200,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.biomac.6b00135" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00135%3Fprg140729%3De221ed35-100e-494b-898d-6136fc8fdd3e&amp;doi=10.1021%2Facs.biomac.6b00135" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00135%3Fprg140729%3Da17e7b38-03b8-42ca-9610-22635f5f63ca&amp;doi=10.1021%2Facs.biomac.6b00135" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00135%3Fprg140729%3D799f598c-da5d-4bf6-8ec2-2301588d2068&amp;title=Accelerated+Nucleation+of+Hydroxyapatite+Using+an+Engineered+Hydrophobin+Fusion+Protein&amp;doi=10.1021%2Facs.biomac.6b00135" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00135%3Fprg140729%3De6bcbdb2-ab22-4bfa-8a50-d34b69abb5f7&amp;title=Accelerated+Nucleation+of+Hydroxyapatite+Using+an+Engineered+Hydrophobin+Fusion+Protein&amp;doi=10.1021%2Facs.biomac.6b00135" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

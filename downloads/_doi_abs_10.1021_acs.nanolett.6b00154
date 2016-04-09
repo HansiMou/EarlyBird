@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="bdceb6fd-4760-498d-8472-a7a47c8b39c3">
+<html lang="en" class="pb-page" data-request-id="d58db8f4-f89d-4b09-9bc6-d9927e7cc93f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.nanolett.6b00154;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00154%3Fprg140729%3D32ffdcee-bb06-45e5-b6ec-49cf65d00023" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00154?prg140729=32ffdcee-bb06-45e5-b6ec-49cf65d00023&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00154?prg140729=32ffdcee-bb06-45e5-b6ec-49cf65d00023">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00154%3Fprg140729%3Dc7fe1888-8356-4999-9f0b-0aa563298c5a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00154?prg140729=c7fe1888-8356-4999-9f0b-0aa563298c5a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00154?prg140729=c7fe1888-8356-4999-9f0b-0aa563298c5a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -671,16 +671,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.nanolett.5b04513" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.nanolett.6b00582" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/nalefd/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1010,6 +1000,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04513?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.5b04513?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Chemically Tailoring Semiconducting Two-Dimensional Transition Metal Dichalcogenides and Black Phosphorus</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ryder</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wood</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wells</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hersam</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Two-dimensional (2D) semiconducting transition metal dichalcogenides (TMDCs) and black phosphorus (BP) have beneficial electronic, optical, and physical properties at the few-layer limit. As atomically thin materials, 2D TMDCs and BP are highly sensitive ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.6b01091?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b01091?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b01091?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b05012?src=recsys">Energy Transfer from Quantum Dots to Graphene and MoS<sub>2</sub>: The Role of Absorption and Screening in Two-Dimensional Materials</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Raja</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Montoya−Castillo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zultak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roquelet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chenet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van der Zande</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jockusch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reichman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brus</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Heinz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report efficient nonradiative energy transfer (NRET) from core–shell, semiconducting quantum dots to adjacent two-dimensional sheets of graphene and MoS<sub>2</sub> of single- and few-layer thickness. We observe quenching of the photoluminescence (PL) from ...<sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b05012?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b05012?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05012?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b05012?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b05556?src=recsys">Recent Advances in Two-Dimensional Materials beyond Graphene</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1042,22 +1064,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.5b03278?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.5b03278?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00070?src=recsys">Can Two-Dimensional Boron Superconduct?</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Penev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kutana</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yakobson</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Two-dimensional boron is expected to exhibit various structural polymorphs, all being metallic. Additionally, its small atomic mass suggests strong electron–phonon coupling, which in turn can enable superconducting behavior. Here we perform first-...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.6b00070?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.6b00070?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00070?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00070?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.6b00144?src=recsys">Probing Out-of-Plane Charge Transport in Black Phosphorus with Graphene-Contacted Vertical Field-Effect Transistors</a>
                             <div class="achsLabel">
                              Nano Letters
@@ -1073,22 +1079,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.nanolett.6b00144?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00144?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00144?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Chemically Tailoring Semiconducting Two-Dimensional Transition Metal Dichalcogenides and Black Phosphorus</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ryder</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wood</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wells</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hersam</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Two-dimensional (2D) semiconducting transition metal dichalcogenides (TMDCs) and black phosphorus (BP) have beneficial electronic, optical, and physical properties at the few-layer limit. As atomically thin materials, 2D TMDCs and BP are highly sensitive ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.6b01091?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.6b01091?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.6b01091?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1174,9 +1164,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.6b00154" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00154%3Fprg140729%3D8c89b125-e976-4502-8815-c4effcfe328b&amp;doi=10.1021%2Facs.nanolett.6b00154" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00154%3Fprg140729%3Db2d6de80-bdb0-472f-9e24-9fcecb35f17e&amp;doi=10.1021%2Facs.nanolett.6b00154" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00154%3Fprg140729%3D32ffdcee-bb06-45e5-b6ec-49cf65d00023&amp;title=Multipurpose+Black-Phosphorus%2FhBN+Heterostructures&amp;doi=10.1021%2Facs.nanolett.6b00154" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00154%3Fprg140729%3Dc7fe1888-8356-4999-9f0b-0aa563298c5a&amp;title=Multipurpose+Black-Phosphorus%2FhBN+Heterostructures&amp;doi=10.1021%2Facs.nanolett.6b00154" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2966409f-936a-4ac5-8c05-e06c03db7ba7">
+<html lang="en" class="pb-page" data-request-id="b44ab53c-a3dc-4ab5-be7c-298d0881d198">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/iecred.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:iecred;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.iecr.5b04560">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04560%3Fprg140729%3Dfa18a3e9-19a6-4fc5-9af9-21323807ec7d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b04560?prg140729=fa18a3e9-19a6-4fc5-9af9-21323807ec7d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b04560?prg140729=fa18a3e9-19a6-4fc5-9af9-21323807ec7d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04560%3Fprg140729%3Dbb86e55e-cf3b-4dd6-9a36-033db8c66322" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b04560?prg140729=bb86e55e-cf3b-4dd6-9a36-033db8c66322&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b04560?prg140729=bb86e55e-cf3b-4dd6-9a36-033db8c66322">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -994,22 +994,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.iecr.5b05014?src=recsys">Fundamental Understanding of the Interaction of Acid Gases with CeO<sub>2</sub>: From Surface Science to Practical Catalysis</a>
-                            <div class="achsLabel">
-                             Industrial &amp; Engineering Chemistry Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tumuluri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rother</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Acid gases including CO<sub>2</sub>, SO<sub>2</sub>, and NO<sub><i>x</i></sub> are ubiquitous in large-scale energy applications including heterogeneous catalysis. The adverse environmental and health effects of these acid gases have resulted in high interest in the research and development of ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.iecr.5b05014?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.iecr.5b05014?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b05014?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.iecr.5b05014?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.iecr.5b02913?src=recsys">Robust Multivariate Statistical Process Monitoring via Stable Principal Component Pursuit</a>
                             <div class="achsLabel">
                              Industrial &amp; Engineering Chemistry Research
@@ -1042,53 +1026,69 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.iecr.6b00098?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.iecr.6b00098?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.iecr.6b00127?src=recsys">Sound Absorption Properties of Microporous Poly(vinyl formal) Foams Prepared by a Two-Step Acetalization Method</a>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.5b02283?src=recsys">Optimal Input Signal Design for Identification of Interactive and Ill-Conditioned Systems</a>
                             <div class="achsLabel">
                              Industrial &amp; Engineering Chemistry Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xue</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Deng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kumar</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Narasimhan</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A series of microporous open-cell poly(vinyl formal) (PVF) foams were obtained by cross-linking poly(vinyl alcohol) (PVA) with different contents of formaldehyde during the first acetalization process. In this reaction, water acted not only as the solvent ...</span>
+                             <span><span class="bold">Abstract:</span> Optimal input design is the process of generating informative inputs that can be used to generate good quality dynamic models using minimal resources. In this work, we propose an optimization-based input design method for identification of ill-conditioned ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.iecr.6b00127?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.iecr.6b00127?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.iecr.6b00127?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.iecr.6b00127?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.iecr.5b02283?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.5b02283?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b02283?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.5b02283?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.iecr.5b04864?src=recsys">Catalytic Hydrogenation of 2-((1-Benzyl-1,2,3,6-tetrahydropyridin-4-yl)methylene)-5,6-dimethoxy-2,3-dihydroinden-1-one Hydrochloride: Fractal-like and Weibull Model Kinetics</a>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.5b05014?src=recsys">Fundamental Understanding of the Interaction of Acid Gases with CeO<sub>2</sub>: From Surface Science to Practical Catalysis</a>
                             <div class="achsLabel">
                              Industrial &amp; Engineering Chemistry Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jelčić</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mastelić Samardžić</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zrnčević</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tumuluri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rother</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The hydrogenation of 2-((1-benzyl-1,2,3,6-tetrahydropyridin-4-yl)methylene)-5,6-dimethoxy-2,3-dihydroinden-1-one hydrochloride (<b>1</b>) over a 5% Pt/C industrial catalyst is strongly influenced by solvents (methanol, ethanol, acetone, water) and reaction ...<sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Acid gases including CO<sub>2</sub>, SO<sub>2</sub>, and NO<sub><i>x</i></sub> are ubiquitous in large-scale energy applications including heterogeneous catalysis. The adverse environmental and health effects of these acid gases have resulted in high interest in the research and development of ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.iecr.5b04864?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.iecr.5b04864?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b04864?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.iecr.5b04864?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.iecr.5b05014?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.5b05014?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b05014?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.5b05014?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.iecr.5b04145?src=recsys">FeCO<sub>3</sub> Coating Process toward the Corrosion Protection of Carbon Steel in a Postcombustion CO<sub>2</sub> Capture System</a>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.5b04780?src=recsys">CO<sub>2</sub> Capture at High Temperature Using Fly Ash-Derived Sodium Silicates</a>
                             <div class="achsLabel">
                              Industrial &amp; Engineering Chemistry Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Landon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Matin</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sanna</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Maroto-Valer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), pp 4080–4088</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Despite the fact that Na-silicates have been indicated as a good sorbent at ambient temperature, their potential as high temperature CO<sub>2</sub> sorbent has not yet been examined. In this work, CO<sub>2</sub> sorption of fly ash derived sodium silicates was evaluated at 500,...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.iecr.5b04780?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.5b04780?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b04780?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.5b04780?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.6b00399?src=recsys">Cone–Plate Rheometer as Reactor and Viscosity Probe for the Detection of Transitional Phase Inversion of Brij30–Isopropyl Myristate–Water Model Emulsion</a>
+                            <div class="achsLabel">
+                             Industrial &amp; Engineering Chemistry Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pierlot</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ontiveros</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Catté</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Salager</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Aubry</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Corrosion mitigation was evaluated at 80 °C in a naturally aerated 30 wt % monoethanolamine (MEA) solution with a CO<sub>2</sub> loading of 0.43 mol<sub>CO<sub>2</sub></sub>/mol<sub>alkalinity</sub> for a FeCO<sub>3</sub>-coated A106 carbon steel sample fabricated from solutions of NaHCO<sub>3</sub> and piperazine with ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Brij30/isopropyl myristate/water model emulsions were used to study the inversion morphology change from O/W to W/O. The transitional phase inversion was detected by monitoring the electrical conductivity during a heating–cooling cycle while the viscosity ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.iecr.5b04145?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.iecr.5b04145?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b04145?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.iecr.5b04145?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.iecr.6b00399?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.6b00399?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.6b00399?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.6b00399?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1174,9 +1174,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.iecr.5b04560" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04560%3Fprg140729%3Da9e83be6-a86e-45fc-81b0-9ebeed151f7f&amp;doi=10.1021%2Facs.iecr.5b04560" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04560%3Fprg140729%3Dcce40430-a45a-4992-9c1d-c10cfbe23917&amp;doi=10.1021%2Facs.iecr.5b04560" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04560%3Fprg140729%3Dfa18a3e9-19a6-4fc5-9af9-21323807ec7d&amp;title=Ultraviolet-Photoassisted+Advanced+Oxidation+of+Parabens+Catalyzed+by+Hydrogen+Peroxide+and+Titanium+Dioxide.+Improving+the+System&amp;doi=10.1021%2Facs.iecr.5b04560" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04560%3Fprg140729%3Dbb86e55e-cf3b-4dd6-9a36-033db8c66322&amp;title=Ultraviolet-Photoassisted+Advanced+Oxidation+of+Parabens+Catalyzed+by+Hydrogen+Peroxide+and+Titanium+Dioxide.+Improving+the+System&amp;doi=10.1021%2Facs.iecr.5b04560" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

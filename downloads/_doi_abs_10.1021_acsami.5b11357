@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8d7ba9e3-c36c-4946-a2bd-c31d9d05934a">
+<html lang="en" class="pb-page" data-request-id="c14b96f3-96d3-48f9-a4f3-84d5a95edeb7">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;article:article:10.1021/acsami.5b11357;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11357%3Fprg140729%3D19392c23-6162-45fc-b1f6-d340509923bf" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11357?prg140729=19392c23-6162-45fc-b1f6-d340509923bf&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11357?prg140729=19392c23-6162-45fc-b1f6-d340509923bf">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11357%3Fprg140729%3D929ea9c6-6abc-4194-bb43-25f3f5060607" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11357?prg140729=929ea9c6-6abc-4194-bb43-25f3f5060607&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11357?prg140729=929ea9c6-6abc-4194-bb43-25f3f5060607">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -938,18 +938,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i3"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i4"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i8"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1063,6 +1051,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.5b07942?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b07942?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Chemically Tailoring Semiconducting Two-Dimensional Transition Metal Dichalcogenides and Black Phosphorus</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ryder</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wood</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wells</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hersam</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Two-dimensional (2D) semiconducting transition metal dichalcogenides (TMDCs) and black phosphorus (BP) have beneficial electronic, optical, and physical properties at the few-layer limit. As atomically thin materials, 2D TMDCs and BP are highly sensitive ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.6b01091?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b01091?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b01091?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.5b04791?src=recsys">Transport Properties of a MoS<sub>2</sub>/WSe<sub>2</sub> Heterojunction Transistor and Its Potential for Application</a>
                             <div class="achsLabel">
                              Nano Letters
@@ -1094,22 +1098,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.nanolett.6b00390?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00390?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00390?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b05036?src=recsys">Alloyed 2D Metal–Semiconductor Atomic Layer Junctions</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chung</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kwon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ajayan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hahm</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cho</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>16</em> (3), pp 1890–1895</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Heterostructures of compositionally and electronically variant two-dimensional (2D) atomic layers are viable building blocks for ultrathin optoelectronic devices. We show that the composition of interfacial transition region between semiconducting WSe<sub>2</sub> ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b05036?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b05036?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05036?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b05036?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1162,7 +1150,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acsami.5b11357" title="High-Res PDF: 2577 KB" target="_blank"> PDF <span class="details">(2577 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsami.5b11357" title="Low-Res PDF: 311 KB" target="_blank"> PDF w/ Links <span class="details">(311 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsami.5b11357" title="Low-Res PDF: 312 KB" target="_blank"> PDF w/ Links <span class="details">(312 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acsami.5b11357" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1195,9 +1183,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.5b11357" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11357%3Fprg140729%3Da68d258a-4641-4f04-a60b-0970838c464b&amp;doi=10.1021%2Facsami.5b11357" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11357%3Fprg140729%3D57cee8b1-6652-470c-80b2-80c8450efe55&amp;doi=10.1021%2Facsami.5b11357" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11357%3Fprg140729%3D19392c23-6162-45fc-b1f6-d340509923bf&amp;title=Laser+Direct+Writing+Process+for+Making+Electrodes+and+High-k+Sol%E2%80%93Gel+ZrO2+for+Boosting+Performances+of+MoS2+Transistors&amp;doi=10.1021%2Facsami.5b11357" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11357%3Fprg140729%3D929ea9c6-6abc-4194-bb43-25f3f5060607&amp;title=Laser+Direct+Writing+Process+for+Making+Electrodes+and+High-k+Sol%E2%80%93Gel+ZrO2+for+Boosting+Performances+of+MoS2+Transistors&amp;doi=10.1021%2Facsami.5b11357" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

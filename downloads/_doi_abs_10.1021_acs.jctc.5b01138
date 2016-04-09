@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="83af666b-4a26-4c01-8d3a-3f954a95b33f">
+<html lang="en" class="pb-page" data-request-id="3d1c93ee-1dc9-429b-bd6d-9a054d60c1da">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jctc.5b01138;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01138%3Fprg140729%3D250f53a6-09a6-4c29-b65f-ebde48b96ea2" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01138?prg140729=250f53a6-09a6-4c29-b65f-ebde48b96ea2&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01138?prg140729=250f53a6-09a6-4c29-b65f-ebde48b96ea2">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01138%3Fprg140729%3Dcd2e7057-7991-4ddf-80a5-300f9b124dd9" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01138?prg140729=cd2e7057-7991-4ddf-80a5-300f9b124dd9&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01138?prg140729=cd2e7057-7991-4ddf-80a5-300f9b124dd9">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1119,6 +1119,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01187?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01187?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00784?src=recsys">A Simple Method for Automated Equilibration Detection in Molecular Simulations</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chodera</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Molecular simulations intended to compute equilibrium properties are often initiated from configurations that are highly atypical of equilibrium samples, a practice which can generate a distinct initial transient in mechanical observables computed from ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b00784?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b00784?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00784?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b00784?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b00830?src=recsys">Automated Discovery and Refinement of Reactive Molecular Dynamics Pathways</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1134,22 +1150,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b00830?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b00830?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b00830?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01057?src=recsys">Toward a Physically Motivated Force Field: Hydrogen Bond Directionality from a Symmetry-Adapted Perturbation Theory Perspective</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tafipolsky</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Ansorg</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (3), pp 1267–1279</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> It is argued here that the functional forms adopted in almost all popular force fields are too restrictive to allow for accurate and physics-based parametrization. Some important modifications are suggested based on symmetry-adapted intermolecular ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01057?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01057?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01057?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01057?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1236,9 +1236,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.5b01138" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01138%3Fprg140729%3Da5093634-1bd7-44ab-b3c5-5cec1e7ae7f1&amp;doi=10.1021%2Facs.jctc.5b01138" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01138%3Fprg140729%3D194692a5-0db9-4654-b4c4-5bf6704ba5a9&amp;doi=10.1021%2Facs.jctc.5b01138" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01138%3Fprg140729%3D250f53a6-09a6-4c29-b65f-ebde48b96ea2&amp;title=Probing+Defects+and+Correlations+in+the+Hydrogen-Bond+Network+of+ab+Initio+Water&amp;doi=10.1021%2Facs.jctc.5b01138" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01138%3Fprg140729%3Dcd2e7057-7991-4ddf-80a5-300f9b124dd9&amp;title=Probing+Defects+and+Correlations+in+the+Hydrogen-Bond+Network+of+ab+Initio+Water&amp;doi=10.1021%2Facs.jctc.5b01138" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1261,9 +1261,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq9igGrayE4qLVg90H21EOLACvtfcHk0lidn80F31XFRw&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGNYg5jPGCdMmtQwD9OmoEd3H4qXFZB9XW6V_YRHmBQzU&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNST7eLnZ1_p-0trnDmCxc-CThi25Vg2O3MnNefH54y7ZA&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq9igGrayE4qLVg90H21EOLACvtfcHk0lhTKdDq8gGJhg&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGNYg5jPGCdMmtQwD9OmoEd0qD56Evp0rv2ycOB9ClIJb&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNST7eLnZ1_p-0trnDmCxc-CThi25Vg2O3MucJKvNV_-Mh&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

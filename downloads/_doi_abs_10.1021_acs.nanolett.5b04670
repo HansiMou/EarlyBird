@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a708c601-5b6d-4641-b5b7-3e130a1aed14">
+<html lang="en" class="pb-page" data-request-id="feb22f27-b571-4566-8fdf-1fe11128d0b9">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;issue:issue:10.1021/nalefd.ahead-of-print;article:article:10.1021/acs.nanolett.5b04670;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -149,8 +149,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b04670%3Fprg140729%3D64953cdc-aae3-4b96-a7ed-5836c8b2dc92" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b04670?prg140729=64953cdc-aae3-4b96-a7ed-5836c8b2dc92&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b04670?prg140729=64953cdc-aae3-4b96-a7ed-5836c8b2dc92">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b04670%3Fprg140729%3De67401e8-da52-43fd-88aa-541edf65787e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b04670?prg140729=e67401e8-da52-43fd-88aa-541edf65787e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b04670?prg140729=e67401e8-da52-43fd-88aa-541edf65787e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -681,6 +681,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.nanolett.6b00820" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1054,7 +1055,105 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Rold%C3%A1n%2C+Rafael">Rafael Roldán</a></li>
                            <li><a href="/author/Castellanos-Gomez%2C+Andres">Andres Castellanos-Gomez</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b05012?src=recsys">Energy Transfer from Quantum Dots to Graphene and MoS<sub>2</sub>: The Role of Absorption and Screening in Two-Dimensional Materials</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Raja</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Montoya−Castillo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zultak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roquelet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chenet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van der Zande</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jockusch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reichman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brus</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Heinz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report efficient nonradiative energy transfer (NRET) from core–shell, semiconducting quantum dots to adjacent two-dimensional sheets of graphene and MoS<sub>2</sub> of single- and few-layer thickness. We observe quenching of the photoluminescence (PL) from ...<sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b05012?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b05012?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05012?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b05012?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b01149?src=recsys">Strain Engineering for Transition Metal Dichalcogenides Based Field Effect Transistors</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Penumatcha</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Appenzeller</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Using electrical characteristics from three-terminal field-effect transistors (FETs), we demonstrate substantial strain induced band gap tunability in transition metal dichalcogenides (TMDs) in line with theoretical predictions and optical experiments. ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.6b01149?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.6b01149?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b01149?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b01149?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00154?src=recsys">Multipurpose Black-Phosphorus/hBN Heterostructures</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Constantinescu</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hine</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Black phosphorus (BP) has recently emerged as a promising semiconducting two-dimensional material. However, its viability is threatened by its instability in ambient conditions and by the significant decrease of its band gap in multilayers. We show that ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00154?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00154?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00154?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00154?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04513?src=recsys">Defect-Tolerant Monolayer Transition Metal Dichalcogenides</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pandey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rasmussen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuhar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Olsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jacobsen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Thygesen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Localized electronic states formed inside the band gap of a semiconductor due to crystal defects can be detrimental to the material’s optoelectronic properties. Semiconductors with a lower tendency to form defect induced deep gap states are termed defect-...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b04513?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b04513?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04513?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04513?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Chemically Tailoring Semiconducting Two-Dimensional Transition Metal Dichalcogenides and Black Phosphorus</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ryder</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wood</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wells</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hersam</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Two-dimensional (2D) semiconducting transition metal dichalcogenides (TMDCs) and black phosphorus (BP) have beneficial electronic, optical, and physical properties at the few-layer limit. As atomically thin materials, 2D TMDCs and BP are highly sensitive ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.6b01091?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b01091?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b01091?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04540?src=recsys">Anisotropic Electron-Photon and Electron-Phonon Interactions in Black Phosphorus</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ling</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hasdeo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Parkin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tatsumi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nugraha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Puretzky</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Das</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sumpter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Geohegan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saito</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Drndic</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meunier</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dresselhaus</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Orthorhombic black phosphorus (BP) and other layered materials, such as gallium telluride (GaTe) and tin selenide (SnSe), stand out among two-dimensional (2D) materials owing to their anisotropic in-plane structure. This anisotropy adds a new dimension to ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b04540?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b04540?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04540?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04540?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1138,9 +1237,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.5b04670" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b04670%3Fprg140729%3Dfdeabc24-1c72-4c8b-be5d-453ca0a4edbd&amp;doi=10.1021%2Facs.nanolett.5b04670" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b04670%3Fprg140729%3D17013482-e3aa-4426-8fec-1641187a23b4&amp;doi=10.1021%2Facs.nanolett.5b04670" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b04670%3Fprg140729%3D64953cdc-aae3-4b96-a7ed-5836c8b2dc92&amp;title=Strong+Modulation+of+Optical+Properties+in+Black+Phosphorus+through+Strain-Engineered+Rippling&amp;doi=10.1021%2Facs.nanolett.5b04670" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b04670%3Fprg140729%3De67401e8-da52-43fd-88aa-541edf65787e&amp;title=Strong+Modulation+of+Optical+Properties+in+Black+Phosphorus+through+Strain-Engineered+Rippling&amp;doi=10.1021%2Facs.nanolett.5b04670" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

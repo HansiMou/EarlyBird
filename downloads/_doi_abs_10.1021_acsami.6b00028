@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="de35990b-d33f-4133-b001-a81514a42c0b">
+<html lang="en" class="pb-page" data-request-id="f4faa143-b445-42c8-b438-fa9cbf163762">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;article:article:10.1021/acsami.6b00028;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -149,8 +149,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00028%3Fprg140729%3D1c0e0646-28b2-4e62-b050-e9b1ea819ae6" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00028?prg140729=1c0e0646-28b2-4e62-b050-e9b1ea819ae6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00028?prg140729=1c0e0646-28b2-4e62-b050-e9b1ea819ae6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00028%3Fprg140729%3D1f0b3b39-4389-47cb-933d-3b8ae4e7a079" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00028?prg140729=1f0b3b39-4389-47cb-933d-3b8ae4e7a079&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00028?prg140729=1f0b3b39-4389-47cb-933d-3b8ae4e7a079">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1065,6 +1065,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.5b12062?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b12062?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b05041?src=recsys">Metal Organic Frameworks Derived Hierarchical Hollow NiO/Ni/Graphene Composites for Lithium and Sodium Storage</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bhaway</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>10</em> (1), pp 377–386</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Ni-based metal organic frameworks (Ni-MOFs) with unique hierarchical hollow ball-in-ball nanostructure were synthesized by solvothermal reactions. After successive carbonization and oxidation treatments, hierarchical NiO/Ni nanocrystals covered with a ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b05041?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b05041?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b05041?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b05041?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b01047?src=recsys">Co<sub>3</sub>V<sub>2</sub>O<sub>8</sub> Sponge Network Morphology Derived from Metal–Organic Framework as an Excellent Lithium Storage Anode Material</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1097,22 +1113,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b12189?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b12189?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b05041?src=recsys">Metal Organic Frameworks Derived Hierarchical Hollow NiO/Ni/Graphene Composites for Lithium and Sodium Storage</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bhaway</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (1), pp 377–386</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Ni-based metal organic frameworks (Ni-MOFs) with unique hierarchical hollow ball-in-ball nanostructure were synthesized by solvothermal reactions. After successive carbonization and oxidation treatments, hierarchical NiO/Ni nanocrystals covered with a ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b05041?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b05041?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b05041?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b05041?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b11986?src=recsys">Hollow Cobalt-Based Bimetallic Sulfide Polyhedra for Efficient All-pH-Value Electrochemical and Photocatalytic Hydrogen Evolution</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1129,21 +1129,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b11986?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b11986?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b07831?src=recsys">Atomically Thin Mesoporous Nanomesh of Graphitic C<sub>3</sub>N<sub>4</sub> for High-Efficiency Photocatalytic Hydrogen Evolution</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b11720?src=recsys">One-pot Synthesis of Metal–Organic Frameworks with Encapsulated Target Molecules and Their Applications for Controlled Drug Delivery</a>
                             <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Qu</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nyström</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zou</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (2), pp 2745–2751</span>
+                             <span><span class="bold">2016</span> <em>138</em> (3), pp 962–968</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Delamination of layer materials into two-dimensional single-atom sheets has induced exceptional physical properties, including large surface area, ultrahigh intrinsic carrier mobility, pronounced changes in the energy band structure, and other properties. ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Many medical and chemical applications require target molecules to be delivered in a controlled manner at precise locations. Metal–organic frameworks (MOFs) have high porosity, large surface area, and tunable functionality and are promising carriers for ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b07831?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b07831?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b07831?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b07831?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b11720?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b11720?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b11720?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b11720?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1229,9 +1229,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b00028" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00028%3Fprg140729%3Dc3bd9c91-8471-4796-b1f4-694965487f54&amp;doi=10.1021%2Facsami.6b00028" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00028%3Fprg140729%3D7115156f-cf9a-490a-bb20-dd8a40ee6bf6&amp;doi=10.1021%2Facsami.6b00028" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00028%3Fprg140729%3D1c0e0646-28b2-4e62-b050-e9b1ea819ae6&amp;title=Rapid+Construction+of+ZnO%40ZIF-8+Heterostructures+with+Size-Selective+Photocatalysis+Properties&amp;doi=10.1021%2Facsami.6b00028" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00028%3Fprg140729%3D1f0b3b39-4389-47cb-933d-3b8ae4e7a079&amp;title=Rapid+Construction+of+ZnO%40ZIF-8+Heterostructures+with+Size-Selective+Photocatalysis+Properties&amp;doi=10.1021%2Facsami.6b00028" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

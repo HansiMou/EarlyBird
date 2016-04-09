@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="96fa484e-638c-4025-9978-0f8508fb5a98">
+<html lang="en" class="pb-page" data-request-id="8ac1ba3a-6b3f-4495-84e3-9b1057802cbb">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:ancham;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/ancham.ahead-of-print;article:article:10.1021/acs.analchem.6b00618;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00618%3Fprg140729%3D644fc969-92b8-424a-b2b4-e7cb7f6608bf" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00618?prg140729=644fc969-92b8-424a-b2b4-e7cb7f6608bf&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00618?prg140729=644fc969-92b8-424a-b2b4-e7cb7f6608bf">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00618%3Fprg140729%3D610a4dd2-3443-4457-ba68-35bb767c0074" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00618?prg140729=610a4dd2-3443-4457-ba68-35bb767c0074&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00618?prg140729=610a4dd2-3443-4457-ba68-35bb767c0074">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1075,22 +1075,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.6b00229?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.6b00229?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00327?src=recsys">A Silver DNAzyme</a>
-                            <div class="achsLabel">
-                             Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Saran</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (7), pp 4014–4020</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Silver is a very common heavy metal, and its detection is of significant analytical importance. DNAzymes are DNA-based catalysts; they typically recruit divalent and trivalent metal ions for catalysis. Herein, we report a silver-specific RNA-cleaving ...<sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.6b00327?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.6b00327?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00327?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.6b00327?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.6b00337?src=recsys">Spectrally and Spatially Multiplexed Serological Array-in-Well Assay Utilizing Two-Color Upconversion Luminescence Imaging</a>
                             <div class="achsLabel">
                              Analytical Chemistry
@@ -1107,37 +1091,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.6b00337?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.6b00337?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04743?src=recsys">Pressed Paper-Based Dipstick for Detection of Foodborne Pathogens with Multistep Reactions</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b03483?src=recsys">Identification of Analytical Factors Affecting Complex Proteomics Profiles Acquired in a Factorial Design Study with Analysis of Variance: Simultaneous Component Analysis</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shin</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Park</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mitra</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Govorukhina</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zwanenburg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hoefsloot</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Westra</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smilde</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reijmers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van der Zee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suits</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bischoff</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Horvatovich</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (7), pp 3781–3788</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> This paper presents a pressed paper-based dipstick that enables detection of foodborne pathogens with multistep reactions by exploiting the delayed fluid flow and channel partition formation on nitrocellulose (NC) membrane. Fluid behaviors are easily ...</span>
+                             <span><span class="bold">Abstract:</span> Complex shotgun proteomics peptide profiles obtained in quantitative differential protein expression studies, such as in biomarker discovery, may be affected by multiple experimental factors. These preanalytical factors may affect the measured protein ...<sub></sub><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04743?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04743?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04743?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04743?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.5b03483?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b03483?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b03483?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b03483?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00230?src=recsys">High-Sensitivity and High-Efficiency Detection of DNA Hydroxymethylation in Genomic DNA by Multiplexing Electrochemical Biosensing</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00582?src=recsys">Simultaneous Preconcentration and Desalting of Organic Solutes in Aqueous Solutions by Bubble Bursting</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Su</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Song</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chingin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (7), pp 3476–3480</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> DNA hydroxymethylation (5-hmC) is a kind of new epigenetic modification, which plays key roles in DNA demethylation, genomic reprogramming, and the gene expression in mammals. For further exploring the functions of 5-hmC, it is necessary to develop ...</span>
+                             <span><span class="bold">Abstract:</span> Significant efforts are being made to develop more practical and versatile approaches for the preconcentration and purification of complex chemical samples. Inspired by the naturally occurring enrichment of organic compounds in sea aerosols, in this study ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.6b00230?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.6b00230?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00230?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.6b00230?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00582?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.6b00582?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00582?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00582?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b03943?src=recsys">Indirect Detection of Glycosidases Using Amperometry</a>
+                            <div class="achsLabel">
+                             Analytical Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gurale</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dhawane</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Das</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Iyer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Glycosidases are essential enzymes that cleave glycoside bonds. The presence of glycosidases have been widely used to detect pathogens, label cells/tissues, and report specific diseases. We have developed a rapid electrochemical assay to detect ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.analchem.5b03943?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b03943?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b03943?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b03943?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1223,9 +1223,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.analchem.6b00618" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00618%3Fprg140729%3Dd38521bf-a78d-4efb-9047-be56d776dfcd&amp;doi=10.1021%2Facs.analchem.6b00618" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00618%3Fprg140729%3De7e02b69-7a94-4fe9-ab48-06104040b97c&amp;doi=10.1021%2Facs.analchem.6b00618" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00618%3Fprg140729%3D644fc969-92b8-424a-b2b4-e7cb7f6608bf&amp;title=Electrochemical+Platform+for+the+Detection+of+Transmembrane+Proteins+Reconstituted+into+Liposomes&amp;doi=10.1021%2Facs.analchem.6b00618" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00618%3Fprg140729%3D610a4dd2-3443-4457-ba68-35bb767c0074&amp;title=Electrochemical+Platform+for+the+Detection+of+Transmembrane+Proteins+Reconstituted+into+Liposomes&amp;doi=10.1021%2Facs.analchem.6b00618" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1248,8 +1248,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoN7hLKbHOAqbVg90H21EOLACvtfcHk0ljwJ20xCoNLBA&amp;loc=%2FControllerServlet&amp;pubId=40025958" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGIhb3BFFgghctQwD9OmoEd3MVCOkh38QzCT5VgIG7XGD&amp;loc=%2FControllerServlet&amp;pubId=40025958" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoN7hLKbHOAqbVg90H21EOLACvtfcHk0li7VdsrsyiUcw&amp;loc=%2FControllerServlet&amp;pubId=40025958" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGIhb3BFFgghctQwD9OmoEd22ncCtpcZ7CXXynORxfaDM&amp;loc=%2FControllerServlet&amp;pubId=40025958" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

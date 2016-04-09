@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="3c22f5f8-2ab9-4b6f-b3ce-36b195fc8ce6">
+<html lang="en" class="pb-page" data-request-id="ec668ce4-c9f4-48d5-a897-0dec28d985c9">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpcc.6b00768;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00768%3Fprg140729%3Db62b61b1-be88-47a8-b6bc-82d3e1a08040" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00768?prg140729=b62b61b1-be88-47a8-b6bc-82d3e1a08040&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00768?prg140729=b62b61b1-be88-47a8-b6bc-82d3e1a08040">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00768%3Fprg140729%3D82798eec-e7e2-412a-9957-a9021ac72132" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00768?prg140729=82798eec-e7e2-412a-9957-a9021ac72132&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00768?prg140729=82798eec-e7e2-412a-9957-a9021ac72132">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -988,18 +988,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i3"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Summary and Conclusions" href="#_i4"><span>Summary and Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i8"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1061,37 +1049,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02073?src=recsys">Point Defects and Grain Boundaries in Rotationally Commensurate MoS<sub>2</sub> on Epitaxial Graphene</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Balla</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bergeron</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hersam</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> With reduced degrees of freedom, structural defects are expected to play a greater role in two-dimensional materials in comparison to their bulk counterparts. In particular, mechanical strength, electronic properties, and chemical reactivity are strongly ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b02073?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b02073?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02073?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02073?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12677?src=recsys">Bandgap Transition of 2H Transition Metal Dichalcogenides: Predictive Tuning via Inherent Interface Coupling and Strain</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ouyang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Phase transitions within two-dimensional transition metal dichalcogenides (TMD) promise new possibilities for engineering their properties. Using first-principles density functional theory (DFT) calculations, we systematically examined the interfacial ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12677?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12677?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12677?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.6b01086?src=recsys">Two-Dimensional Iron Tungstate: A Ternary Oxide Layer With Honeycomb Geometry</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1108,21 +1065,84 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01086?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b01086?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01144?src=recsys">Tuning The Photoactivity of Zirconia Nanotubes-Based Photoanodes via Ultrathin Layers of ZrN: An Effective Approach toward Visible-Light Water Splitting</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12677?src=recsys">Bandgap Transition of 2H Transition Metal Dichalcogenides: Predictive Tuning via Inherent Interface Coupling and Strain</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Amer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">El-Sayed</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Allam</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ouyang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7025–7032</span>
+                             <span><span class="bold"></span> <em>0</em> (ja), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We present, herein, visible-light water splitting using earth-abundant zirconium-based nanostructured photoanodes. ZrO<sub>2</sub>/ZrON core/shell arrays were fabricated via the atomic layer deposition (ALD) of various ZrN layers on anodically synthesized hexagonal ...<sub></sub><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Phase transitions within two-dimensional transition metal dichalcogenides (TMD) promise new possibilities for engineering their properties. Using first-principles density functional theory (DFT) calculations, we systematically examined the interfacial ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b01144?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b01144?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01144?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01144?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b12677?src=recsys">Abstract</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12677?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12677?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02073?src=recsys">Point Defects and Grain Boundaries in Rotationally Commensurate MoS<sub>2</sub> on Epitaxial Graphene</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Balla</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bergeron</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hersam</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> With reduced degrees of freedom, structural defects are expected to play a greater role in two-dimensional materials in comparison to their bulk counterparts. In particular, mechanical strength, electronic properties, and chemical reactivity are strongly ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b02073?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b02073?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02073?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02073?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00154?src=recsys">Multipurpose Black-Phosphorus/hBN Heterostructures</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Constantinescu</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hine</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Black phosphorus (BP) has recently emerged as a promising semiconducting two-dimensional material. However, its viability is threatened by its instability in ambient conditions and by the significant decrease of its band gap in multilayers. We show that ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00154?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00154?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00154?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00154?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12472?src=recsys">The Critical Role of Substrate in Stabilizing Phosphorene Nanoflake: A Theoretical Exploration</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Phosphorene, a new two-dimensional (2D) semiconductor, has received much interest due to its robust direct band gap and high charge mobility. Currently, however, phosphorene can only be produced by mechanical or liquid exfoliation, and it is still a ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12472?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12472?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12472?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12472?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12112?src=recsys">Electronic Structures and Carrier Mobilities of Blue Phosphorus Nanoribbons and Nanotubes: A First-Principles Study</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Deng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cui</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (8), pp 4638–4646</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Blue phosphorus is a new graphene-like material which has already been proven thermostable in theory, and the synthesis of it on experiment can also be expected. Here, we have investigated the electronic structures and carrier mobilities of armchair and ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b12112?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b12112?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12112?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12112?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1208,9 +1228,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b00768" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00768%3Fprg140729%3Ddb59966f-588e-4e98-9d45-e95947abc8bf&amp;doi=10.1021%2Facs.jpcc.6b00768" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00768%3Fprg140729%3D7fe8e8a9-0257-47a0-ad47-c199615927f0&amp;doi=10.1021%2Facs.jpcc.6b00768" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00768%3Fprg140729%3Db62b61b1-be88-47a8-b6bc-82d3e1a08040&amp;title=Atomically+Flat+Silicon+Oxide+Monolayer+Generated+by+Remote+Plasma&amp;doi=10.1021%2Facs.jpcc.6b00768" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00768%3Fprg140729%3D82798eec-e7e2-412a-9957-a9021ac72132&amp;title=Atomically+Flat+Silicon+Oxide+Monolayer+Generated+by+Remote+Plasma&amp;doi=10.1021%2Facs.jpcc.6b00768" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

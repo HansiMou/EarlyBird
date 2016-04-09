@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="769e7ee0-6cff-45bc-a064-ad6582d83f42">
+<html lang="en" class="pb-page" data-request-id="e207c8b0-a8b9-4ec9-ad4e-baa91b38b7d3">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpcc.5b10910;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10910%3Fprg140729%3Dc56845d7-1e2c-4365-b2d4-71b2234adaa2" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b10910?prg140729=c56845d7-1e2c-4365-b2d4-71b2234adaa2&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b10910?prg140729=c56845d7-1e2c-4365-b2d4-71b2234adaa2">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10910%3Fprg140729%3Df7c7cf74-25c0-476e-9642-34828dbc6e5e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b10910?prg140729=f7c7cf74-25c0-476e-9642-34828dbc6e5e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b10910?prg140729=f7c7cf74-25c0-476e-9642-34828dbc6e5e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -691,16 +691,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b01356" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.5b11279" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1084,6 +1074,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00471?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00471?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00607?src=recsys">Ru Nanoframes with an fcc Structure and Enhanced Catalytic Properties</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Catalano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vermeylen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Noble-metal nanoframes are of great interest to many applications due to their unique open structures. Among various noble metals, Ru has never been made into nanoframes. In this study, we report for the first time an effective method based on seeded ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00607?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00607?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00607?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00607?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12530?src=recsys">Ultrathin Icosahedral Pt-Enriched Nanocage with Excellent Oxygen Reduction Reaction Activity</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (5), pp 1494–1497</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Cost-efficient utilization of Pt in the oxygen reduction reaction (ORR) is of great importance for the potential industrial scale demand of proton-exchange membrane fuel cells. Designing a hollow structure of a Pt catalyst offers a great opportunity to ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12530?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12530?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12530?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12530?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b11968?src=recsys">Comparison of Canonical versus Silver(I)-Mediated Base-Pairing on Single Molecule Conductance in Polycytosine dsDNA</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1099,38 +1121,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcc.5b11968?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11968?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b11968?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12239?src=recsys">Interplay of Confinement and Surface Energetics in the Interaction of Water with a Metal–Organic Framework</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Navrotsky</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The enthalpy of water adsorption (Δ<i>h</i>) on the metal–organic framework (MOF) HKUST-1 has been determined directly by calorimetry. The most exothermic value of Δ<i>h</i> [−119.4 ± 0.5 kJ/(mol of water)] occurs at zero coverage and perhaps represents water ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12239?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b12239?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12239?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12239?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12495?src=recsys">Highly Efficient Fuel Cell Electrodes from Few-Layer Graphene Sheets and Electrochemically Deposited Palladium Nanoparticles</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Höltig</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ruhmlieb</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kipp</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mews</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> An extremely efficient ethanol fuel cell electrode is produced by combining the large surface area of vertically oriented and highly conductive few-layer graphene sheets with electrochemically deposited palladium nanoparticles. The electrodes show an ...<sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12495?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b12495?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12495?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12495?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1183,7 +1173,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.5b10910" title="High-Res PDF: 2497 KB" target="_blank"> PDF <span class="details">(2497 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.5b10910" title="Low-Res PDF: 618 KB" target="_blank"> PDF w/ Links <span class="details">(618 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.5b10910" title="Low-Res PDF: 576 KB" target="_blank"> PDF w/ Links <span class="details">(576 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.5b10910" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1216,9 +1206,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b10910" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10910%3Fprg140729%3D8639d6ee-86a5-4764-b183-334a6986b779&amp;doi=10.1021%2Facs.jpcc.5b10910" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10910%3Fprg140729%3Ddf6c2f27-750d-4552-8a1f-a1b5165a6cc1&amp;doi=10.1021%2Facs.jpcc.5b10910" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10910%3Fprg140729%3Dc56845d7-1e2c-4365-b2d4-71b2234adaa2&amp;title=Explicit+Detection+of+the+Mechanism+of+Platinum+Nanoparticle+Shape+Control+by+Polyvinylpyrrolidone&amp;doi=10.1021%2Facs.jpcc.5b10910" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10910%3Fprg140729%3Df7c7cf74-25c0-476e-9642-34828dbc6e5e&amp;title=Explicit+Detection+of+the+Mechanism+of+Platinum+Nanoparticle+Shape+Control+by+Polyvinylpyrrolidone&amp;doi=10.1021%2Facs.jpcc.5b10910" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

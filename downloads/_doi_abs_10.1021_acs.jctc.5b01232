@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2805647e-ce90-45e6-bf87-32f451da3564">
+<html lang="en" class="pb-page" data-request-id="1e66e847-bea8-48a9-a1c5-5f5bb590c67e">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;article:article:10.1021/acs.jctc.5b01232;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01232%3Fprg140729%3Dabdb48c7-de26-4abe-8c2d-2cffc979f513" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01232?prg140729=abdb48c7-de26-4abe-8c2d-2cffc979f513&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01232?prg140729=abdb48c7-de26-4abe-8c2d-2cffc979f513">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01232%3Fprg140729%3D64463bf7-ea55-4f48-9f86-c68fa6181dd3" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01232?prg140729=64463bf7-ea55-4f48-9f86-c68fa6181dd3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01232?prg140729=64463bf7-ea55-4f48-9f86-c68fa6181dd3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1031,22 +1031,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b00706?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b00706?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01217?src=recsys">PARENT: A Parallel Software Suite for the Calculation of Configurational Entropy in Biomolecular Systems</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fleck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Polyansky</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zagrovic</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Accurate estimation of configurational entropy from the <i>in silico</i>-generated biomolecular ensembles, e.g., from molecular dynamics (MD) trajectories, is dependent strongly on exhaustive sampling for physical reasons. This, however, creates a major ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01217?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01217?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01217?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01217?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b00934?src=recsys">Using MD Simulations To Calculate How Solvents Modulate Solubility</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1062,6 +1046,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b00934?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b00934?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b00934?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01217?src=recsys">PARENT: A Parallel Software Suite for the Calculation of Configurational Entropy in Biomolecular Systems</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fleck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Polyansky</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zagrovic</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Accurate estimation of configurational entropy from the <i>in silico</i>-generated biomolecular ensembles, e.g., from molecular dynamics (MD) trajectories, is dependent strongly on exhaustive sampling for physical reasons. This, however, creates a major ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01217?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01217?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01217?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01217?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1146,9 +1146,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.5b01232" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01232%3Fprg140729%3D552c7b59-ddb6-49d7-a6fe-123a3db1700d&amp;doi=10.1021%2Facs.jctc.5b01232" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01232%3Fprg140729%3D841cd15f-5361-46ce-9a00-210990042c1e&amp;doi=10.1021%2Facs.jctc.5b01232" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01232%3Fprg140729%3Dabdb48c7-de26-4abe-8c2d-2cffc979f513&amp;title=Implicit+Time+Integration+for+Multiscale+Molecular+Dynamics+Using+Transcendental+Pad%C3%A9+Approximants&amp;doi=10.1021%2Facs.jctc.5b01232" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01232%3Fprg140729%3D64463bf7-ea55-4f48-9f86-c68fa6181dd3&amp;title=Implicit+Time+Integration+for+Multiscale+Molecular+Dynamics+Using+Transcendental+Pad%C3%A9+Approximants&amp;doi=10.1021%2Facs.jctc.5b01232" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1184,8 +1184,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGppJCj9t1CJJbVg90H21EOLACvtfcHk0lhoHZnwX_bJ7g&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUbT9jYtvZyrtrnDmCxc-CThi25Vg2O3MhKm-O-i-FpL&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGppJCj9t1CJJbVg90H21EOLACvtfcHk0ljljOEasKO51A&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUbT9jYtvZyrtrnDmCxc-CThi25Vg2O3MgmjJbR4Mieb&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="44f3687d-7d3f-4271-b5f9-4b003ff52e03">
+<html lang="en" class="pb-page" data-request-id="66b622de-9444-47ac-9b6c-d7182fc78b02">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jpca.5b12124;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12124%3Fprg140729%3D6a7ae33c-190a-4d0e-9bec-461d9ceb9f69" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12124?prg140729=6a7ae33c-190a-4d0e-9bec-461d9ceb9f69&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12124?prg140729=6a7ae33c-190a-4d0e-9bec-461d9ceb9f69">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12124%3Fprg140729%3D9b05f42f-291c-4d82-9a27-26b8ba6a7bb3" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12124?prg140729=9b05f42f-291c-4d82-9a27-26b8ba6a7bb3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12124?prg140729=9b05f42f-291c-4d82-9a27-26b8ba6a7bb3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1063,6 +1063,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b01056?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b01056?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b01538?src=recsys">Pressure-Dependent Criegee Intermediate Stabilization from Alkene Ozonolysis</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hakala</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Donahue</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We explored the pressure dependence of acetone oxide (stabilized Criegee Intermediate, sCI) formation from 2,3-dimethyl-2-butene ozonolysis between 50 and 900 Torr using a new, highly accurate technique. We exploited the ability of the sCI to oxidize SO<sub>2</sub> ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.6b01538?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b01538?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b01538?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b01538?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b00652?src=recsys">Pyrolysis of the Simplest Carbohydrate, Glycolaldehyde (CHO−CH<sub>2</sub>OH), and Glyoxal in a Heated Microreactor</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1079,35 +1095,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b00652?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b00652?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00488?src=recsys">Roaming Under the Microscope: Trajectory Study of Formaldehyde Dissociation</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Houston</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Conte</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bowman</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The photodissociation of formaldehyde was studied using quasi-classical trajectories to investigate “roaming,” or events involving trajectories that proceed far from the minimum energy pathway. Statistical analysis of trajectories performed over a range ...<sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00488?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00488?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00488?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00488?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b06025?src=recsys">Comment on “When Rate Constants Are Not Enough”</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Miller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Klippenstein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Robertson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pilling</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shannon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zádor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jasper</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Goldsmith</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Burke</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (2), pp 306–312</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b06025?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b06025?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b06025?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b06025?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b00887?src=recsys">Reactions of Chemically Activated Formic Acid Formed via HĊO + ȮH</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1123,6 +1110,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpca.6b00887?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b00887?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b00887?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00488?src=recsys">Roaming Under the Microscope: Trajectory Study of Formaldehyde Dissociation</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Houston</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Conte</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bowman</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The photodissociation of formaldehyde was studied using quasi-classical trajectories to investigate “roaming,” or events involving trajectories that proceed far from the minimum energy pathway. Statistical analysis of trajectories performed over a range ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.6b00488?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b00488?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00488?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b00488?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1208,9 +1211,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.5b12124" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12124%3Fprg140729%3D9801295b-559b-48c8-9347-8d2f8617beab&amp;doi=10.1021%2Facs.jpca.5b12124" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12124%3Fprg140729%3D73ed1e48-8ca6-472a-876f-563ecb5198a3&amp;doi=10.1021%2Facs.jpca.5b12124" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12124%3Fprg140729%3D6a7ae33c-190a-4d0e-9bec-461d9ceb9f69&amp;title=Unimolecular+Decomposition+Rate+of+the+Criegee+Intermediate+%28CH3%292COO+Measured+Directly+with+UV+Absorption+Spectroscopy&amp;doi=10.1021%2Facs.jpca.5b12124" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12124%3Fprg140729%3D9b05f42f-291c-4d82-9a27-26b8ba6a7bb3&amp;title=Unimolecular+Decomposition+Rate+of+the+Criegee+Intermediate+%28CH3%292COO+Measured+Directly+with+UV+Absorption+Spectroscopy&amp;doi=10.1021%2Facs.jpca.5b12124" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1233,8 +1236,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo45i5v0yKDxLVg90H21EOLACvtfcHk0lgbP5kc21262Q&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSX5hgmt3FxzStrnDmCxc-CThi25Vg2O3MozNiVQiazVH&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo45i5v0yKDxLVg90H21EOLACvtfcHk0ljx9BT4jn8BPA&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSX5hgmt3FxzStrnDmCxc-CThi25Vg2O3Mp6z-oBF8Hjn&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="bffde234-5d51-480b-a1d5-99904feac676">
+<html lang="en" class="pb-page" data-request-id="2791e6ca-fc86-4f92-a2fc-0dbaf7fd7b41">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jpca.5b10928;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b10928%3Fprg140729%3Dde36948d-c2e4-48ca-9011-7b26ee747816" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10928?prg140729=de36948d-c2e4-48ca-9011-7b26ee747816&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10928?prg140729=de36948d-c2e4-48ca-9011-7b26ee747816">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b10928%3Fprg140729%3D119926f7-69a5-4381-aecf-b6bdc6697fe4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10928?prg140729=119926f7-69a5-4381-aecf-b6bdc6697fe4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10928?prg140729=119926f7-69a5-4381-aecf-b6bdc6697fe4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1049,20 +1049,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b10667?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b10667?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">Evarnoldi - A New Algorithm for Large Scale Eigenvalue Problems</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">EvArnoldi: A New Algorithm for Large-Scale Eigenvalue Problems</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tal-Ezer</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tal-Ezer</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Eigenvalues and eigenvectors are an essential theme in numerical linear algebra. Their study is mainly motivated by its high importance in a wide range of applications. The knowledge of eigenvalues is essential in quantum molecular science. The ...</span>
+                             <span><span class="bold">Abstract:</span> Eigenvalues and eigenvectors are an essential theme in numerical linear algebra. Their study is mainly motivated by their high importance in a wide range of applications. Knowledge of eigenvalues is essential in quantum molecular science. Solutions of the ...<span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
                              <a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b00814?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b00814?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b00814?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b01476?src=recsys">A Noble-Gas Hydride in a Nitrogen Medium: Structure, Spectroscopy, and Intermolecular Vibrations of HXeBr@(N<sub>2</sub>)<sub>22</sub></a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cohen</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Gerber</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Noble-gas hydrides have been extensively studied in noble gas matrices. However, little is known on their stability and properties in molecular hosts. Here, HXeBr in the N<sub>2</sub> environment is modeled at the B3LYP-D level of theory in a complete single shell ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.6b01476?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b01476?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b01476?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b01476?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b12335?src=recsys">Insights into the Electronic Structure of Molecules from Generalized Valence Bond Theory</a>
                             <div class="achsLabel">
@@ -1093,36 +1110,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00379?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpclett.6b00379?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b01476?src=recsys">A Noble-Gas Hydride in a Nitrogen Medium: Structure, Spectroscopy and Intermolecular Vibrations of HXeBr@(N<sub>2</sub>)<sub>22</sub></a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b12664?src=recsys">Dynamic Reaction Mechanisms of ClO¯ with CH<sub>3</sub>Cl: Comparison Between Direct Dynamics Trajectory Simulations and Experiment</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cohen</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Gerber</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold">2016</span> <em>120</em> (11), pp 1813–1818</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Noble-gas hydrides have been extensively studied in noble gas matrices. However, little is known on their stability and properties in molecular hosts. Here, HXeBr in N2 environment is modeled at the B3LYP-D level of theory for a complete single shell of ...</span>
+                             <span><span class="bold">Abstract:</span> We have investigated the dynamic reaction mechanisms of *ClO¯ with CH<sub>3</sub>Cl (the asterisk is utilized to label a different Cl atom). Ab initio molecular dynamics simulations at the MP2/6-31+G(d,p) level of theory have been employed to compute the dynamic ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b01476?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b01476?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b01476?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00107?src=recsys">Probing Ionic Complexes of Ethylene and Acetylene with Vacuum-Ultraviolet Radiation</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bandyopadhyay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kostko</span>, <span class="entryAuthor normal hlFld-ContribAuthor">White</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Head-Gordon</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ahmed</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Mixed complexes of acetylene–ethylene are studied using vacuum-ultraviolet (VUV) photoionization mass spectrometry and theoretical calculations. These complexes are produced and ionized at different distances from the exit of a continuous nozzle followed ...<sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00107?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00107?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00107?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00107?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.5b12664?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b12664?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b12664?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b12664?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1208,9 +1210,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.5b10928" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b10928%3Fprg140729%3D13d99a98-12b0-4f4d-b5fe-55498d29ce0c&amp;doi=10.1021%2Facs.jpca.5b10928" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b10928%3Fprg140729%3D650e0b37-5810-4838-b94d-be63a6b40cb1&amp;doi=10.1021%2Facs.jpca.5b10928" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b10928%3Fprg140729%3Dde36948d-c2e4-48ca-9011-7b26ee747816&amp;title=Cyclohexadiene+Revisited%3A+A+Time-Resolved+Photoelectron+Spectroscopy+and+ab+Initio+Study&amp;doi=10.1021%2Facs.jpca.5b10928" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b10928%3Fprg140729%3D119926f7-69a5-4381-aecf-b6bdc6697fe4&amp;title=Cyclohexadiene+Revisited%3A+A+Time-Resolved+Photoelectron+Spectroscopy+and+ab+Initio+Study&amp;doi=10.1021%2Facs.jpca.5b10928" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1328d9bb-388c-4d48-be0f-f58dd1ea3482">
+<html lang="en" class="pb-page" data-request-id="7edc9179-4e98-446e-9f3e-b1c633fcd9c5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/ascecg.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:ascecg;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acssuschemeng.6b00126">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00126%3Fprg140729%3D17dc7b8b-a7e2-48e6-bf74-fdd3d177f537" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00126?prg140729=17dc7b8b-a7e2-48e6-bf74-fdd3d177f537&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00126?prg140729=17dc7b8b-a7e2-48e6-bf74-fdd3d177f537">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00126%3Fprg140729%3D029d764d-424c-4dbe-bd6b-532b90352347" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00126?prg140729=029d764d-424c-4dbe-bd6b-532b90352347&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00126?prg140729=029d764d-424c-4dbe-bd6b-532b90352347">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -678,7 +678,7 @@ $(function(){
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acssuschemeng.6b00218" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acssuschemeng.6b00303" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -944,6 +944,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i3"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i7"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i20"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i23"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1008,6 +1020,21 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acssuschemeng.5b01611?src=recsys">Green &amp; Efficient Synthesis of Dispersible Cellulose Nanocrystals in Biobased Polyesters for Engineering Applications</a>
+                            <div class="achsLabel">
+                             ACS Sustainable Chemistry &amp; Engineering
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Spinella</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Samuel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Raquez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McCallum</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gross</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dubois</span>
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Despite attractive properties of cellulose nanocrystals (CNCs) such as high natural abundance, inherent biodegradability and high modulus, CNCs tend to degrade and aggregate when exposed to high temperatures during melt processing. In the present work, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acssuschemeng.5b01611?src=recsys">Abstract</a> | 
+                             <a href="/doi/pdfplus/10.1021/acssuschemeng.5b01611?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acssuschemeng.5b01611?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acssuschemeng.5b01620?src=recsys">Extraction of Cellulose Nanocrystals with a High Yield of 88% by Simultaneous Mechanochemical Activation and Phosphotungstic Acid Hydrolysis</a>
                             <div class="achsLabel">
                              ACS Sustainable Chemistry &amp; Engineering
@@ -1040,52 +1067,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biomac.6b00067?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biomac.6b00067?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acssuschemeng.5b01611?src=recsys">Green &amp; Efficient Synthesis of Dispersible Cellulose Nanocrystals in Biobased Polyesters for Engineering Applications</a>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.5b01245?src=recsys">Strong Surface Treatment Effects on Reinforcement Efficiency in Biocomposites Based on Cellulose Nanocrystals in Poly(vinyl acetate) Matrix</a>
                             <div class="achsLabel">
-                             ACS Sustainable Chemistry &amp; Engineering
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Spinella</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Samuel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Raquez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McCallum</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gross</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dubois</span>
+                             Biomacromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ansari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Salajková</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Berglund</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold">2015</span> <em>16</em> (12), pp 3916–3924</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Despite attractive properties of cellulose nanocrystals (CNCs) such as high natural abundance, inherent biodegradability and high modulus, CNCs tend to degrade and aggregate when exposed to high temperatures during melt processing. In the present work, ...</span>
+                             <span><span class="bold">Abstract:</span> In this work, the problem to disperse cellulose nanocrystals (CNC) in hydrophobic polymer matrices has been addressed through application of an environmentally friendly chemical modification approach inspired by clay chemistry. The objective is to compare ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acssuschemeng.5b01611?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acssuschemeng.5b01611?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acssuschemeng.5b01611?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acssuschemeng.6b00317?src=recsys">Nanoparticle Self-Assembly Mechanisms in the Colloidal Synthesis of Iron Titanate Nanocomposite Photocatalysts for Environmental Applications</a>
-                            <div class="achsLabel">
-                             ACS Sustainable Chemistry &amp; Engineering
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Agafonov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Afanasyev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gerasimova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krayev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kashirin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vinogradov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vinogradov</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kessler</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Colloidal synthesis of iron titanate-based nanocomposites exploiting the interaction of solutions of binary oxide nanoparticles, Fe<sub>2</sub>O<sub>3</sub> and TiO<sub>2</sub>, was investigated with respect to the pH of the reaction medium and the conditions used for the synthesis of ...<sub></sub><sub></sub>Identification of the formation mechanisms for iron titanate nanostructures permitted to produce rod-shaped nanocomposite materials with superior photocatalytic activity.</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acssuschemeng.6b00317?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acssuschemeng.6b00317?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acssuschemeng.6b00317?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acssuschemeng.6b00317?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acssuschemeng.6b00161?src=recsys">Biosynthesis of Gold Nanoparticles Using <i>Ocimum sanctum</i> Extracts by Solvents with Different Polarity</a>
-                            <div class="achsLabel">
-                             ACS Sustainable Chemistry &amp; Engineering
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krishnamurthy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cho</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yun</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In nanoparticle biosynthesis, identification and/or characterization of extract and its biochemicals, playing a key role to control the morphology of nanoparticle, are important to minimize the synthesis steps, and thus to reduce environmental risks and ...The presented biosynthesis process for nanoparticles can be optimized, and its productivity for shape-controlled nanoparticles will increase.</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acssuschemeng.6b00161?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acssuschemeng.6b00161?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acssuschemeng.6b00161?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acssuschemeng.6b00161?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.biomac.5b01245?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.5b01245?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.5b01245?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.5b01245?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acssuschemeng.5b01171?src=recsys">Simultaneous Preparation and Dispersion of Regenerated Cellulose Nanoparticles Using a Facile Protocol of Dissolution–Gelation–Isolation–Melt Extrusion</a>
                             <div class="achsLabel">
@@ -1102,6 +1098,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acssuschemeng.5b01171?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acssuschemeng.5b01171?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acssuschemeng.5b01171?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acssuschemeng.6b00317?src=recsys">Nanoparticle Self-Assembly Mechanisms in the Colloidal Synthesis of Iron Titanate Nanocomposite Photocatalysts for Environmental Applications</a>
+                            <div class="achsLabel">
+                             ACS Sustainable Chemistry &amp; Engineering
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Agafonov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Afanasyev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gerasimova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krayev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kashirin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vinogradov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vinogradov</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kessler</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Colloidal synthesis of iron titanate-based nanocomposites exploiting the interaction of solutions of binary oxide nanoparticles, Fe<sub>2</sub>O<sub>3</sub> and TiO<sub>2</sub>, was investigated with respect to the pH of the reaction medium and the conditions used for the synthesis of ...<sub></sub><sub></sub>Identification of the formation mechanisms for iron titanate nanostructures permitted to produce rod-shaped nanocomposite materials with superior photocatalytic activity.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acssuschemeng.6b00317?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acssuschemeng.6b00317?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acssuschemeng.6b00317?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acssuschemeng.6b00317?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1187,9 +1199,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facssuschemeng.6b00126" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00126%3Fprg140729%3D8f61b1c5-8464-444c-acb4-6edc9efc6b03&amp;doi=10.1021%2Facssuschemeng.6b00126" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00126%3Fprg140729%3D488d101f-4721-46a5-b6b2-a6642dc6ec41&amp;doi=10.1021%2Facssuschemeng.6b00126" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00126%3Fprg140729%3D17dc7b8b-a7e2-48e6-bf74-fdd3d177f537&amp;title=New+Approach+for+Single-Step+Extraction+of+Carboxylated+Cellulose+Nanocrystals+for+Their+Use+As+Adsorbents+and+Flocculants&amp;doi=10.1021%2Facssuschemeng.6b00126" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00126%3Fprg140729%3D029d764d-424c-4dbe-bd6b-532b90352347&amp;title=New+Approach+for+Single-Step+Extraction+of+Carboxylated+Cellulose+Nanocrystals+for+Their+Use+As+Adsorbents+and+Flocculants&amp;doi=10.1021%2Facssuschemeng.6b00126" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

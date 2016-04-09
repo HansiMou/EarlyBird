@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="496dde8e-8292-470f-8e6b-1fd873bbca05">
+<html lang="en" class="pb-page" data-request-id="cd5b3ab8-3621-4810-b253-6ab19fbb27d5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.chemrestox.5b00465;issue:issue:10.1021/crtoec.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:crtoec">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemrestox.5b00465%3Fprg140729%3D256b8bd9-3980-4ccb-9cb3-f4d352aa225c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemrestox.5b00465?prg140729=256b8bd9-3980-4ccb-9cb3-f4d352aa225c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemrestox.5b00465?prg140729=256b8bd9-3980-4ccb-9cb3-f4d352aa225c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemrestox.5b00465%3Fprg140729%3Dcf7eb32a-94e3-432e-8c5d-c28ca48108cd" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemrestox.5b00465?prg140729=cf7eb32a-94e3-432e-8c5d-c28ca48108cd&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemrestox.5b00465?prg140729=cf7eb32a-94e3-432e-8c5d-c28ca48108cd">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -675,6 +675,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.chemrestox.6b00028" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1010,18 +1011,19 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.chemrestox.5b00524?src=recsys">P450 3A Catalyzed O-dealkylation of Lapatinib Induces Mitochondrial Stress and Activates Nrf2</a>
+                           <li><a href="/doi/abs/10.1021/acs.chemrestox.5b00524?src=recsys">P450 3A-Catalyzed O-Dealkylation of Lapatinib Induces Mitochondrial Stress and Activates Nrf2</a>
                             <div class="achsLabel">
                              Chemical Research in Toxicology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Eno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">El-Gendy </span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cameron</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Eno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">El-Gendy</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cameron</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Lapatinib (LAP), an oral tyrosine kinase inhibitor for treatment of metastatic breast cancer, has been associated with idiosyncractic hepatotoxicity. Recent investigations have implicated the importance of P450 3A4/5 enzymes in the formation of an ...</span>
+                             <span><span class="bold">Abstract:</span> Lapatinib (LAP), an oral tyrosine kinase inhibitor for the treatment of metastatic breast cancer, has been associated with idiosyncractic hepatotoxicity. Recent investigations have implicated the importance of P450 3A4/5 enzymes in the formation of an ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
                              <a href="/doi/abs/10.1021/acs.chemrestox.5b00524?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemrestox.5b00524?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.chemrestox.5b00524?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemrestox.5b00524?src=recsys">Hi-Res PDF</a>
                             </div></li>
@@ -1040,21 +1042,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemrestox.5b00341?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemrestox.5b00341?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemrestox.5b00349?src=recsys">Membrane-Anchored Cytochrome P450 1A2–Cytochrome <i>b</i><sub>5</sub> Complex Features an X-Shaped Contact between Antiparallel Transmembrane Helices</a>
+                           <li><a href="/doi/abs/10.1021/acs.chemrestox.5b00511?src=recsys">Involvement of Drug Transporters in Organ Toxicity: The Fundamental Basis of Drug Discovery and Development</a>
                             <div class="achsLabel">
                              Chemical Research in Toxicology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jeřábek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Florián</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Martínek</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">El-Kattan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ray</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lai</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Eukaryotic cytochromes P450 (P450) are membrane-bound enzymes oxidizing a broad spectrum of hydrophobic substrates, including xenobiotics. Protein–protein interactions play a critical role in this process. In particular, the formation of transient ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Membrane transporters play a pivotal role in many organs to maintain their normal physiological functions and contribute significantly to drug absorption, distribution, and elimination. Knowledge gained from gene modified animal models or human genetic ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemrestox.5b00349?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemrestox.5b00349?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemrestox.5b00349?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemrestox.5b00349?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.chemrestox.5b00511?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemrestox.5b00511?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemrestox.5b00511?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemrestox.5b00511?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemrestox.6b00018?src=recsys">Modeling of Toxicity-Relevant Electrophilic Reactivity for Guanine with Epoxides: Estimating the Hard and Soft Acids and Bases (HSAB) Parameter as a Predictor</a>
                             <div class="achsLabel">
@@ -1072,37 +1074,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemrestox.6b00018?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemrestox.6b00018?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemrestox.5b00511?src=recsys">Involvement of Drug Transporters in Organ Toxicity: The Fundamental Basis of Drug Discovery and Development</a>
+                           <li><a href="/doi/abs/10.1021/acs.chemrestox.5b00349?src=recsys">Membrane-Anchored Cytochrome P450 1A2–Cytochrome <i>b</i><sub>5</sub> Complex Features an X-Shaped Contact between Antiparallel Transmembrane Helices</a>
                             <div class="achsLabel">
                              Chemical Research in Toxicology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">El-Kattan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ray</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lai</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jeřábek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Florián</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Martínek</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Membrane transporters play a pivotal role in many organs to maintain their normal physiological functions and contribute significantly to drug absorption, distribution, and elimination. Knowledge gained from gene modified animal models or human genetic ...</span>
+                             <span><span class="bold">Abstract:</span> Eukaryotic cytochromes P450 (P450) are membrane-bound enzymes oxidizing a broad spectrum of hydrophobic substrates, including xenobiotics. Protein–protein interactions play a critical role in this process. In particular, the formation of transient ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemrestox.5b00511?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemrestox.5b00511?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemrestox.5b00511?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemrestox.5b00511?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.chemrestox.5b00349?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemrestox.5b00349?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemrestox.5b00349?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemrestox.5b00349?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemrestox.5b00522?src=recsys">Adaptive Response Enzyme AlkB Preferentially Repairs 1-Methylguanine and 3-Methylthymine Adducts in Double-Stranded DNA</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">How Beyond Rule of 5 Drugs and Clinical Candidates Bind to Their Targets</a>
                             <div class="achsLabel">
-                             Chemical Research in Toxicology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Humulock</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jost</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Drennan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Essigmann</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Doak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dobritzsch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kihlberg</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>59</em> (6), pp 2312–2327</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The AlkB protein is a repair enzyme that uses an α-ketoglutarate/Fe(II)-dependent mechanism to repair alkyl DNA adducts. AlkB has been reported to repair highly susceptible substrates, such as 1-methyladenine and 3-methylcytosine, more efficiently in ss-...</span>
+                             <span><span class="bold">Abstract:</span> To improve discovery of drugs for difficult targets, the opportunities of chemical space beyond the rule of 5 (bRo5) were examined by retrospective analysis of a comprehensive set of structures for complexes between drugs and clinical candidates and their ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemrestox.5b00522?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemrestox.5b00522?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemrestox.5b00522?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemrestox.5b00522?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01286?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01286?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01286?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1188,9 +1190,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.chemrestox.5b00465" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemrestox.5b00465%3Fprg140729%3Dd5ecd30a-fd5c-400e-9edb-72fbaaad7ee6&amp;doi=10.1021%2Facs.chemrestox.5b00465" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemrestox.5b00465%3Fprg140729%3Dd86f2fcf-ec60-4abe-a589-23e8a30fad5a&amp;doi=10.1021%2Facs.chemrestox.5b00465" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemrestox.5b00465%3Fprg140729%3D256b8bd9-3980-4ccb-9cb3-f4d352aa225c&amp;title=Computational+Models+for+Human+and+Animal+Hepatotoxicity+with+a+Global+Application+Scope&amp;doi=10.1021%2Facs.chemrestox.5b00465" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemrestox.5b00465%3Fprg140729%3Dcf7eb32a-94e3-432e-8c5d-c28ca48108cd&amp;title=Computational+Models+for+Human+and+Animal+Hepatotoxicity+with+a+Global+Application+Scope&amp;doi=10.1021%2Facs.chemrestox.5b00465" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1213,8 +1215,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp-cTH8uhCEPbVg90H21EOLACvtfcHk0liayGYJsOnJnQ&amp;loc=%2FControllerServlet&amp;pubId=40025984" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGGUzzWCfSicptQwD9OmoEd1PN36vMqAwPLvuSLu35jQV&amp;loc=%2FControllerServlet&amp;pubId=40025984" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp-cTH8uhCEPbVg90H21EOLACvtfcHk0lgk4GVOANWRkg&amp;loc=%2FControllerServlet&amp;pubId=40025984" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGGUzzWCfSicptQwD9OmoEd1DVgg-8IK4Pt09CAkTDBj1&amp;loc=%2FControllerServlet&amp;pubId=40025984" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

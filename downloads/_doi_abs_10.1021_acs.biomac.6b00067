@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c5bd5ace-e020-4b4f-9f08-839553b3f711">
+<html lang="en" class="pb-page" data-request-id="b86e47fb-3f82-4073-a252-686f305f0077">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/bomaf6.ahead-of-print;article:article:10.1021/acs.biomac.6b00067;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:bomaf6">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00067%3Fprg140729%3D89d0f9dc-c173-4ecb-98fd-a6e1a237420b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00067?prg140729=89d0f9dc-c173-4ecb-98fd-a6e1a237420b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00067?prg140729=89d0f9dc-c173-4ecb-98fd-a6e1a237420b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00067%3Fprg140729%3D93a98418-bb3c-48f3-9096-34775f30126d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00067?prg140729=93a98418-bb3c-48f3-9096-34775f30126d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00067?prg140729=93a98418-bb3c-48f3-9096-34775f30126d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -985,6 +985,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i2"><span>Materials and Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussions" href="#_i3"><span>Results and Discussions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i6"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i9"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1092,6 +1104,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biomac.5b01598?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biomac.5b01598?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00145?src=recsys">Optically Transparent Wood from a Nanoporous Cellulosic Template: Combining Functional and Structural Performance</a>
+                            <div class="achsLabel">
+                             Biomacromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Berglund</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Optically transparent wood (TW) with transmittance as high as 85% and haze of 71% was obtained using a delignified nanoporous wood template. The template was prepared by removing the light-absorbing lignin component, creating nanoporosity in the wood cell ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biomac.6b00145?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.6b00145?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00145?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.6b00145?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.biomac.5b01453?src=recsys">Functionalized Celluloses with Regular Substitution Pattern by Glycosynthase-Catalyzed Polymerization</a>
                             <div class="achsLabel">
                              Biomacromolecules
@@ -1123,22 +1151,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.biomac.5b01413?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.biomac.5b01413?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biomac.5b01413?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00145?src=recsys">Optically Transparent Wood from a Nanoporous Cellulosic Template: Combining Functional and Structural Performance</a>
-                            <div class="achsLabel">
-                             Biomacromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Berglund</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Optically transparent wood (TW) with transmittance as high as 85% and haze of 71% was obtained using a delignified nanoporous wood template. The template was prepared by removing the light-absorbing lignin component, creating nanoporosity in the wood cell ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biomac.6b00145?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biomac.6b00145?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00145?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biomac.6b00145?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1224,9 +1236,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.biomac.6b00067" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00067%3Fprg140729%3Ddd554d59-66d9-46e0-99a8-b2803c8bdbab&amp;doi=10.1021%2Facs.biomac.6b00067" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00067%3Fprg140729%3Df35c0c63-bbe9-4f57-8b55-e423380d9ce3&amp;doi=10.1021%2Facs.biomac.6b00067" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00067%3Fprg140729%3D89d0f9dc-c173-4ecb-98fd-a6e1a237420b&amp;title=Noncovalent+Dispersion+and+Functionalization+of+Cellulose+Nanocrystals+with+Proteins+and+Polysaccharides&amp;doi=10.1021%2Facs.biomac.6b00067" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00067%3Fprg140729%3D93a98418-bb3c-48f3-9096-34775f30126d&amp;title=Noncovalent+Dispersion+and+Functionalization+of+Cellulose+Nanocrystals+with+Proteins+and+Polysaccharides&amp;doi=10.1021%2Facs.biomac.6b00067" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1249,9 +1261,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpBqUzEHZaOM7Vg90H21EOLACvtfcHk0ljjk-cRxXS-5g&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGJbsuyu3K354tQwD9OmoEd1alLdYMSoQ3c4TFbE_1uSr&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSV8KZxviGiREtrnDmCxc-CThi25Vg2O3MohmQgQYEssA&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpBqUzEHZaOM7Vg90H21EOLACvtfcHk0lhHL3fC-lKN0Q&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGJbsuyu3K354tQwD9OmoEd3H7I0w0dEybO9NiCwSy1iT&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSV8KZxviGiREtrnDmCxc-CThi25Vg2O3MhBc60paasmU&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

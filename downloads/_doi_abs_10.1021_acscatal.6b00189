@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="f4be3ad5-fb01-43d2-9591-cbb59868b391">
+<html lang="en" class="pb-page" data-request-id="1a7eb72d-c96d-4db8-9f79-f85da3843081">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/accacs.ahead-of-print;journal:journal:accacs;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acscatal.6b00189">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00189%3Fprg140729%3D855c774b-617e-442d-8764-302cd9cfabaf" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00189?prg140729=855c774b-617e-442d-8764-302cd9cfabaf&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00189?prg140729=855c774b-617e-442d-8764-302cd9cfabaf">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00189%3Fprg140729%3D2b11fdf2-7caa-4312-83f2-fe5e3f5c8467" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00189?prg140729=2b11fdf2-7caa-4312-83f2-fe5e3f5c8467&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00189?prg140729=2b11fdf2-7caa-4312-83f2-fe5e3f5c8467">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -959,17 +959,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i5"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i14"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i32"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1072,22 +1061,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acscatal.6b00436?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscatal.6b00436?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b13519?src=recsys">Manganese-Catalyzed Environmentally Benign Dehydrogenative Coupling of Alcohols and Amines to Form Aldimines and H<sub>2</sub>: A Catalytic and Mechanistic Study</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mukherjee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nerush</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leitus</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shimon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ben David</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Espinosa Jalapa</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Milstein</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4298–4301</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The catalytic dehydrogenative coupling of alcohols and amines to form aldimines represents an environmentally benign methodology in organic chemistry. This has been accomplished in recent years mainly with precious-metal-based catalysts. We present the ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b13519?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b13519?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b13519?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b13519?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acscatal.6b00276?src=recsys">Nickel-Catalyzed Regio- and Stereoselective Hydrocarboxylation of Alkynes with Formic Acid through Catalytic CO Recycling</a>
                             <div class="achsLabel">
                              ACS Catalysis
@@ -1103,6 +1076,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acscatal.6b00276?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acscatal.6b00276?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscatal.6b00276?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b13519?src=recsys">Manganese-Catalyzed Environmentally Benign Dehydrogenative Coupling of Alcohols and Amines to Form Aldimines and H<sub>2</sub>: A Catalytic and Mechanistic Study</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mukherjee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nerush</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leitus</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shimon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ben David</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Espinosa Jalapa</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Milstein</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4298–4301</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The catalytic dehydrogenative coupling of alcohols and amines to form aldimines represents an environmentally benign methodology in organic chemistry. This has been accomplished in recent years mainly with precious-metal-based catalysts. We present the ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b13519?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b13519?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b13519?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b13519?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acscatal.5b02937?src=recsys">Selective Synthesis of Indoles by Cobalt(III)-Catalyzed C–H/N–O Functionalization with Nitrones</a>
                             <div class="achsLabel">
@@ -1220,9 +1209,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facscatal.6b00189" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00189%3Fprg140729%3D4e592b3a-72c2-4bee-ac88-a3de2f1d5949&amp;doi=10.1021%2Facscatal.6b00189" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00189%3Fprg140729%3D64eb011b-7361-4102-bf38-1764b2c398ba&amp;doi=10.1021%2Facscatal.6b00189" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00189%3Fprg140729%3D855c774b-617e-442d-8764-302cd9cfabaf&amp;title=Synthesis+of+Adipic+Acid%2C+1%2C6-Hexanediamine%2C+and+1%2C6-Hexanediol+via+Double-n-Selective+Hydroformylation+of+1%2C3-Butadiene&amp;doi=10.1021%2Facscatal.6b00189" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00189%3Fprg140729%3D2b11fdf2-7caa-4312-83f2-fe5e3f5c8467&amp;title=Synthesis+of+Adipic+Acid%2C+1%2C6-Hexanediamine%2C+and+1%2C6-Hexanediol+via+Double-n-Selective+Hydroformylation+of+1%2C3-Butadiene&amp;doi=10.1021%2Facscatal.6b00189" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

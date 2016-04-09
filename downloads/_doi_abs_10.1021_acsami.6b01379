@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="560230f8-368d-4872-b508-ca8a5ad5ab80">
+<html lang="en" class="pb-page" data-request-id="fff7bab8-5e81-4c64-a16c-36445b9b7e18">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;article:article:10.1021/acsami.6b01379;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01379%3Fprg140729%3Da44b56f8-be3d-43bf-819b-21af18bece60" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01379?prg140729=a44b56f8-be3d-43bf-819b-21af18bece60&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01379?prg140729=a44b56f8-be3d-43bf-819b-21af18bece60">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01379%3Fprg140729%3D97b72466-2fc5-4059-af7f-f3b5ad85b610" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01379?prg140729=97b72466-2fc5-4059-af7f-f3b5ad85b610&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01379?prg140729=97b72466-2fc5-4059-af7f-f3b5ad85b610">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -962,18 +962,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Details" href="#_i2"><span>Experimental Details</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i8"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i13"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i16"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1058,22 +1046,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b00225?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b00225?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.6b01725?src=recsys">Integrating 3D Flower-Like Hierarchical Cu<sub>2</sub>NiSnS<sub>4</sub> with Reduced Graphene Oxide as Advanced Anode Materials for Na-Ion Batteries</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Development of an anode material with high performance and low cost is crucial for implementation of next-generation Na-ion batteries (NIBs) electrode, which is proposed to meet the challenges of large scale renewable energy storage. Metal chalcogenides ...<sup></sup><sub></sub><sub></sub><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.6b01725?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.6b01725?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.6b01725?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.6b01725?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b02374?src=recsys">Effect of Water Vapor Adsorption on Electrical Properties of Carbon Nanotube/Nanocrystalline Cellulose Composites</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1089,6 +1061,19 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsami.6b02374?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsami.6b02374?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b02374?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00564?src=recsys">Tuning the Nanocellulose–Borate Interaction To Achieve Highly Flame Retardant Hybrid Materials</a>
+                            <div class="achsLabel">
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wicklein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kocjan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carosio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Camino</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bergström</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemmater.6b00564?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.6b00564?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00564?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00564?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b02011?src=recsys">Coral-Inspired Nanoengineering Design for Long-Cycle and Flexible Lithium-Ion Battery Anode</a>
                             <div class="achsLabel">
@@ -1106,18 +1091,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b02011?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b02011?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00564?src=recsys">Tuning the Nanocellulose–Borate Interaction To Achieve Highly Flame Retardant Hybrid Materials</a>
+                           <li><a href="/doi/abs/10.1021/acsami.6b01725?src=recsys">Integrating 3D Flower-Like Hierarchical Cu<sub>2</sub>NiSnS<sub>4</sub> with Reduced Graphene Oxide as Advanced Anode Materials for Na-Ion Batteries</a>
                             <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wicklein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kocjan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carosio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Camino</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bergström</span> 
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Development of an anode material with high performance and low cost is crucial for implementation of next-generation Na-ion batteries (NIBs) electrode, which is proposed to meet the challenges of large scale renewable energy storage. Metal chalcogenides ...<sup></sup><sub></sub><sub></sub><sup></sup></span>
+                            </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.6b00564?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.6b00564?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00564?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00564?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsami.6b01725?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b01725?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b01725?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b01725?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b00598?src=recsys">Ultra-Fast Layer-by-Layer Approach for Depositing Flame Retardant Coatings on Flexible PU Foams within Seconds</a>
                             <div class="achsLabel">
@@ -1186,7 +1174,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acsami.6b01379" title="High-Res PDF: 4744 KB" target="_blank"> PDF <span class="details">(4744 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsami.6b01379" title="Low-Res PDF: 514 KB" target="_blank"> PDF w/ Links <span class="details">(514 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsami.6b01379" title="Low-Res PDF: 518 KB" target="_blank"> PDF w/ Links <span class="details">(518 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acsami.6b01379" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1219,9 +1207,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b01379" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01379%3Fprg140729%3D1a1ef4e6-8fdc-418d-86e9-6d1256cf312a&amp;doi=10.1021%2Facsami.6b01379" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01379%3Fprg140729%3D39887b08-de0c-4d7d-8720-d9e1066f56d9&amp;doi=10.1021%2Facsami.6b01379" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01379%3Fprg140729%3Da44b56f8-be3d-43bf-819b-21af18bece60&amp;title=Self-Forming+3D+Core%E2%80%93Shell+Ceramic+Nanostructures+for+Halogen-Free+Flame+Retardant+Materials&amp;doi=10.1021%2Facsami.6b01379" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01379%3Fprg140729%3D97b72466-2fc5-4059-af7f-f3b5ad85b610&amp;title=Self-Forming+3D+Core%E2%80%93Shell+Ceramic+Nanostructures+for+Halogen-Free+Flame+Retardant+Materials&amp;doi=10.1021%2Facsami.6b01379" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

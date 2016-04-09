@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5d352d7a-e646-47db-9cf7-cb6983a7c91b">
+<html lang="en" class="pb-page" data-request-id="cf0d2369-698e-423f-bc0d-55473029a583">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.jpca.6b01538;website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01538%3Fprg140729%3D4d28f0c4-e776-4de3-943b-16bd3873cb84" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b01538?prg140729=4d28f0c4-e776-4de3-943b-16bd3873cb84&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b01538?prg140729=4d28f0c4-e776-4de3-943b-16bd3873cb84">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01538%3Fprg140729%3D9503c302-b2a6-4230-ae4d-7ea823100c16" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b01538?prg140729=9503c302-b2a6-4230-ae4d-7ea823100c16&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b01538?prg140729=9503c302-b2a6-4230-ae4d-7ea823100c16">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -688,11 +688,10 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpca.6b01194" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpca.6b02636" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.jpca.6b01078" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1011,22 +1010,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b12124?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b12124?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00887?src=recsys">Reactions of Chemically Activated Formic Acid Formed via HĊO + ȮH</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Döntgen</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Leonhard</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (11), pp 1819–1824</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The chemistry of formyl radicals plays an important role in the kinetic modeling of oxygenated hydrocarbons. Here, the fate of rovibrationally excited formic acid produced via HĊO + ȮH is evaluated in a RRKM/Master Equation study. For that purpose, the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00887?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00887?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00887?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00887?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b01069?src=recsys">Time-Resolved Broadband Cavity-Enhanced Absorption Spectroscopy behind Shock Waves</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1043,36 +1026,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b01069?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b01069?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b10928?src=recsys">Cyclohexadiene Revisited: A Time-Resolved Photoelectron Spectroscopy and <i>ab Initio</i> Study</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b10667?src=recsys">New Approach for Investigating Reaction Dynamics and Rates with Ab Initio Calculations</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schalk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Geng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thompson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baluyot</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tapavicza</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hansson</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fleming</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tiwary</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Pfaendtner</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>120</em> (2), pp 299–305</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We have reinvestigated the excited state dynamics of cyclohexa-1,3-diene (CHD) with time-resolved photoelectron spectroscopy and fewest switches surface hopping molecular dynamics based on linear response time-dependent density functional theory after ...</span>
+                             <span><span class="bold">Abstract:</span> Herein, we demonstrate a convenient approach to systematically investigate chemical reaction dynamics using the metadynamics (MetaD) family of enhanced sampling methods. Using a symmetric S<sub>N</sub>2 reaction as a model system, we applied infrequent metadynamics, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b10928?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b10928?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b10928?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b10928?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.5b10667?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b10667?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b10667?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b10667?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b01476?src=recsys">A Noble-Gas Hydride in a Nitrogen Medium: Structure, Spectroscopy and Intermolecular Vibrations of HXeBr@(N<sub>2</sub>)<sub>22</sub></a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00887?src=recsys">Reactions of Chemically Activated Formic Acid Formed via HĊO + ȮH</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cohen</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Gerber</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Döntgen</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Leonhard</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold">2016</span> <em>120</em> (11), pp 1819–1824</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Noble-gas hydrides have been extensively studied in noble gas matrices. However, little is known on their stability and properties in molecular hosts. Here, HXeBr in N2 environment is modeled at the B3LYP-D level of theory for a complete single shell of ...</span>
+                             <span><span class="bold">Abstract:</span> The chemistry of formyl radicals plays an important role in the kinetic modeling of oxygenated hydrocarbons. Here, the fate of rovibrationally excited formic acid produced via HĊO + ȮH is evaluated in a RRKM/Master Equation study. For that purpose, the ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b01476?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b01476?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b01476?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.6b00887?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b00887?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00887?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b00887?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b05105?src=recsys">Recent Discoveries and Future Challenges in Atmospheric Organic Chemistry</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Glasius</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Goldstein</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>50</em> (6), pp 2754–2764</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Earth’s atmosphere contains a multitude of organic compounds, which differ by orders of magnitude regarding fundamental properties such as volatility, reactivity, and propensity to form cloud droplets, affecting their impact on global climate and human ...Earth’s atmosphere contains a multitude of organic compounds, which differ by orders of magnitude regarding fundamental properties such as volatility, reactivity, and propensity to form cloud droplets, affecting their impact on global climate and human health. Despite recent major research efforts and advances, there are still substantial gaps in understanding of atmospheric organic chemistry, hampering efforts to understand, model, and mitigate environmental problems such as aerosol formation in both polluted urban and more pristine regions. The analytical toolbox available for chemists to study atmospheric organic components has expanded considerably during the past decade, opening new windows into speciation, time resolution and detection of reactive and semivolatile compounds at low concentrations. This has provided unprecedented opportunities, but also unveiled new scientific challenges. Specific groundbreaking examples include the role of epoxides in aerosol formation especially from isoprene, the importance of highly oxidized, reactive organics in air-surface processes (whether atmosphere−biosphere exchange or aerosols), as well as the extent of interactions of anthropogenic and biogenic emissions and the resulting impact on atmospheric organic chemistry.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b05105?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b05105?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b05105?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b05105?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b10406?src=recsys">Gas-Phase Reactions of Methoxyphenols with NO<sub>3</sub> Radicals: Kinetics, Products, and Mechanisms</a>
                             <div class="achsLabel">
@@ -1141,7 +1141,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpca.6b01538" title="High-Res PDF: 848 KB" target="_blank"> PDF <span class="details">(848 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpca.6b01538" title="Low-Res PDF: 312 KB" target="_blank"> PDF w/ Links <span class="details">(312 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpca.6b01538" title="Low-Res PDF: 295 KB" target="_blank"> PDF w/ Links <span class="details">(295 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpca.6b01538" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1173,9 +1173,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.6b01538" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01538%3Fprg140729%3Ddc4260df-715f-4fd9-80ad-ba5671919868&amp;doi=10.1021%2Facs.jpca.6b01538" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01538%3Fprg140729%3Df424c2d2-29f1-4983-abd4-ff610cf7d6e1&amp;doi=10.1021%2Facs.jpca.6b01538" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01538%3Fprg140729%3D4d28f0c4-e776-4de3-943b-16bd3873cb84&amp;title=Pressure-Dependent+Criegee+Intermediate+Stabilization+from+Alkene+Ozonolysis&amp;doi=10.1021%2Facs.jpca.6b01538" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01538%3Fprg140729%3D9503c302-b2a6-4230-ae4d-7ea823100c16&amp;title=Pressure-Dependent+Criegee+Intermediate+Stabilization+from+Alkene+Ozonolysis&amp;doi=10.1021%2Facs.jpca.6b01538" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

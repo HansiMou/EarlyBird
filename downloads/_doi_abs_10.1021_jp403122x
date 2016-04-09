@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="fb1600cf-ecfe-429a-b6b4-48b65e04f19f">
+<html lang="en" class="pb-page" data-request-id="f091a790-1f12-4f31-b27a-57ee8df457fd">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jpcbfk;pageGroup:string:Publication Pages;article:article:10.1021/jp403122x;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcbfk.2013.117.issue-29">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjp403122x%3Fprg140729%3D5c7b239e-becc-465f-80ad-65249c87e4ac" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jp403122x?prg140729=5c7b239e-becc-465f-80ad-65249c87e4ac&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jp403122x?prg140729=5c7b239e-becc-465f-80ad-65249c87e4ac">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjp403122x%3Fprg140729%3D4b396a41-6eac-4e6c-a708-53d2af406fb1" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jp403122x?prg140729=4b396a41-6eac-4e6c-a708-53d2af406fb1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jp403122x?prg140729=4b396a41-6eac-4e6c-a708-53d2af406fb1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1153,6 +1153,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.6b02693?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.6b02693?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b08242?src=recsys">Phase Transitions of Triflate-Based Ionic Liquids under High Pressure</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Faria</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Ribeiro</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>119</em> (44), pp 14315–14322</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Raman spectroscopy has been used to study phase transitions of ionic liquids based on the triflate anion, [TfO]<sup>−</sup>, as a function of pressure or temperature. Raman spectra of ionic liquids containing the cations 1-butyl-3-methylimidazolium, [C<sub>4</sub>C<sub>1</sub>Im]<sup>+</sup>, 1-...<sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.5b08242?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.5b08242?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b08242?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.5b08242?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcb.5b10917?src=recsys">Effects of Tetrafluoroborate and Bis(trifluoromethylsulfonyl)amide Anions on the Microscopic Structures of 1-Methyl-3-octylimidazolium-Based Ionic Liquids and Benzene Mixtures: A Multiple Approach by ATR-IR, NMR, and Femtosecond Raman-Induced Kerr Effect Spectroscopy</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry B
@@ -1169,21 +1185,18 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.5b10917?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.5b10917?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b08242?src=recsys">Phase Transitions of Triflate-Based Ionic Liquids under High Pressure</a>
+                           <li><a href="/doi/abs/10.1021/cr500411q?src=recsys">Structure and Nanostructure in Ionic Liquids</a>
                             <div class="achsLabel">
-                             The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Faria</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Ribeiro</span> 
+                             Chemical Reviews
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hayes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Warr</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Atkin</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>119</em> (44), pp 14315–14322</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Raman spectroscopy has been used to study phase transitions of ionic liquids based on the triflate anion, [TfO]<sup>−</sup>, as a function of pressure or temperature. Raman spectra of ionic liquids containing the cations 1-butyl-3-methylimidazolium, [C<sub>4</sub>C<sub>1</sub>Im]<sup>+</sup>, 1-...<sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">2015</span> <em>115</em> (13), pp 6357–6426</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.5b08242?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.5b08242?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b08242?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.5b08242?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/cr500411q?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/cr500411q?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/cr500411q?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/cr500411q?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1273,9 +1286,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjp403122x" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjp403122x%3Fprg140729%3D8136031f-9b19-497a-a163-81769dbeb105&amp;doi=10.1021%2Fjp403122x" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjp403122x%3Fprg140729%3D04d0e6a2-7ac2-4382-be31-c691e848349a&amp;doi=10.1021%2Fjp403122x" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjp403122x%3Fprg140729%3D5c7b239e-becc-465f-80ad-65249c87e4ac&amp;title=Using+FT-IR+Spectroscopy+to+Measure+Charge+Organization+in+Ionic+Liquids&amp;doi=10.1021%2Fjp403122x" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjp403122x%3Fprg140729%3D4b396a41-6eac-4e6c-a708-53d2af406fb1&amp;title=Using+FT-IR+Spectroscopy+to+Measure+Charge+Organization+in+Ionic+Liquids&amp;doi=10.1021%2Fjp403122x" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1298,10 +1311,10 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrll3IndhC3k7Vg90H21EOLACvtfcHk0lhL3-0bAnvykQ&amp;loc=%2FControllerServlet&amp;pubId=40026050" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2hl3v6LAS99tCx02xCqg2ttQwD9OmoEd1mgaLEiOMsXbUuKkGg39Rz&amp;loc=%2FControllerServlet&amp;pubId=40026050" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSWBEYV63pqz0trnDmCxc-CThi25Vg2O3MjEzY8_t76j1&amp;loc=%2FControllerServlet&amp;pubId=40026050" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202456&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fciting.jsf%3Fl%3Dg2Ei4BFBAtcGbHEaWbzAauWXcid2ELeTtWD3QfbUQ4sAK-19weTSWCvYeI0VSF8Q&amp;loc=%2FControllerServlet&amp;pubId=40026050" title="Retrieve All References Citing this Article" target="scifinder">Retrieve All References Citing this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrll3IndhC3k7Vg90H21EOLACvtfcHk0lhtRkv9DScfTQ&amp;loc=%2FControllerServlet&amp;pubId=40026050" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2hl3v6LAS99tCx02xCqg2ttQwD9OmoEd1-UP3qNssBx9u-sSN0uOeU&amp;loc=%2FControllerServlet&amp;pubId=40026050" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSWBEYV63pqz0trnDmCxc-CThi25Vg2O3MvZrK4QBvcGm&amp;loc=%2FControllerServlet&amp;pubId=40026050" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202456&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fciting.jsf%3Fl%3Dg2Ei4BFBAtcGbHEaWbzAauWXcid2ELeTtWD3QfbUQ4sAK-19weTSWCZ9hrzyc6A_&amp;loc=%2FControllerServlet&amp;pubId=40026050" title="Retrieve All References Citing this Article" target="scifinder">Retrieve All References Citing this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

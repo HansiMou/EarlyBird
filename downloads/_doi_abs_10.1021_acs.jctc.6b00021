@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ef2f8b1f-25b0-41cc-aaa4-14d15545271b">
+<html lang="en" class="pb-page" data-request-id="58192ef4-5e1e-4f2f-a7df-764502e39315">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jctc.6b00021;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00021%3Fprg140729%3D510ba198-ffc2-46a9-a7e3-d7c4dde45240" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00021?prg140729=510ba198-ffc2-46a9-a7e3-d7c4dde45240&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00021?prg140729=510ba198-ffc2-46a9-a7e3-d7c4dde45240">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00021%3Fprg140729%3Dec767dc8-4e6f-4218-a9f9-b866c1b31496" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00021?prg140729=ec767dc8-4e6f-4218-a9f9-b866c1b31496&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00021?prg140729=ec767dc8-4e6f-4218-a9f9-b866c1b31496">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -985,22 +985,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b00706?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b00706?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00784?src=recsys">A Simple Method for Automated Equilibration Detection in Molecular Simulations</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chodera</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Molecular simulations intended to compute equilibrium properties are often initiated from configurations that are highly atypical of equilibrium samples, a practice which can generate a distinct initial transient in mechanical observables computed from ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b00784?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b00784?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00784?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b00784?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01237?src=recsys">Development of a True Transition State Force Field from Quantum Mechanical Calculations</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1016,6 +1000,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b01237?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01237?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01237?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00784?src=recsys">A Simple Method for Automated Equilibration Detection in Molecular Simulations</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chodera</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Molecular simulations intended to compute equilibrium properties are often initiated from configurations that are highly atypical of equilibrium samples, a practice which can generate a distinct initial transient in mechanical observables computed from ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b00784?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b00784?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00784?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b00784?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.6b00130?src=recsys">Many-Electron Integrals over Gaussian Basis Functions. I. Recurrence Relations for Three-Electron Integrals</a>
                             <div class="achsLabel">
@@ -1033,22 +1033,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.6b00130?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.6b00130?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01138?src=recsys">Probing Defects and Correlations in the Hydrogen-Bond Network of ab Initio Water</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gasparotto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hassanali</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ceriotti</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The hydrogen-bond network of water is characterized by the presence of coordination defects relative to the ideal tetrahedral network of ice, whose fluctuations determine the static and time-dependent properties of the liquid. Because of topological ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01138?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01138?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01138?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01138?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b00913?src=recsys">Demonstrating an Order-of-Magnitude Sampling Enhancement in Molecular Dynamics Simulations of Complex Protein Systems</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1064,6 +1048,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b00913?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b00913?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b00913?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01138?src=recsys">Probing Defects and Correlations in the Hydrogen-Bond Network of ab Initio Water</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gasparotto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hassanali</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ceriotti</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The hydrogen-bond network of water is characterized by the presence of coordination defects relative to the ideal tetrahedral network of ice, whose fluctuations determine the static and time-dependent properties of the liquid. Because of topological ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01138?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01138?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01138?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01138?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1148,9 +1148,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.6b00021" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00021%3Fprg140729%3D0888d3f2-a377-4c89-aeda-07993816a2f6&amp;doi=10.1021%2Facs.jctc.6b00021" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00021%3Fprg140729%3D449001c3-c634-4263-bee2-945e49927f9a&amp;doi=10.1021%2Facs.jctc.6b00021" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00021%3Fprg140729%3D510ba198-ffc2-46a9-a7e3-d7c4dde45240&amp;title=Accelerating+Ab+Initio+Path+Integral+Simulations+via+Imaginary+Multiple-Timestepping&amp;doi=10.1021%2Facs.jctc.6b00021" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00021%3Fprg140729%3Dec767dc8-4e6f-4218-a9f9-b866c1b31496&amp;title=Accelerating+Ab+Initio+Path+Integral+Simulations+via+Imaginary+Multiple-Timestepping&amp;doi=10.1021%2Facs.jctc.6b00021" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

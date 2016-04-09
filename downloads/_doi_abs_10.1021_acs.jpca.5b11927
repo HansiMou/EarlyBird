@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d16929e1-cf1a-4ba1-b0e9-5e89b105626a">
+<html lang="en" class="pb-page" data-request-id="45e9e954-875f-456b-bafb-eac62f84bfdf">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpca.5b11927;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11927%3Fprg140729%3D19d2e84e-00dc-4a8a-93a2-252bb7d45979" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b11927?prg140729=19d2e84e-00dc-4a8a-93a2-252bb7d45979&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b11927?prg140729=19d2e84e-00dc-4a8a-93a2-252bb7d45979">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11927%3Fprg140729%3D115e786b-93e0-40b2-a41f-ef87876cb3a4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b11927?prg140729=115e786b-93e0-40b2-a41f-ef87876cb3a4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b11927?prg140729=115e786b-93e0-40b2-a41f-ef87876cb3a4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1025,6 +1025,19 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b12509?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b12509?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/cr300162p?src=recsys">Deep Eutectic Solvents (DESs) and Their Applications</a>
+                            <div class="achsLabel">
+                             Chemical Reviews
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abbott</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ryder</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2014</span> <em>114</em> (21), pp 11060–11082</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/cr300162p?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/cr300162p?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/cr300162p?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/cr300162p?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b00317?src=recsys">Synthesis, Electrochemistry, and Excited-State Properties of Three Ru(II) Quaterpyridine Complexes</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1040,19 +1053,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpca.6b00317?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b00317?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b00317?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/cr300162p?src=recsys">Deep Eutectic Solvents (DESs) and Their Applications</a>
-                            <div class="achsLabel">
-                             Chemical Reviews
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abbott</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ryder</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2014</span> <em>114</em> (21), pp 11060–11082</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/cr300162p?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/cr300162p?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/cr300162p?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/cr300162p?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b12111?src=recsys">Rearrangements of a Water Molecule in Both Directions between Two Hydrogen-Bonding Sites of 5-Hydroxyindole Cation: Experimental Determination of the Energy Threshold for the Rearrangement</a>
                             <div class="achsLabel">
@@ -1070,6 +1070,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b12111?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b12111?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b02596?src=recsys">Surfactant Behavior of Sodium Dodecylsulfate in Deep Eutectic Solvent Choline Chloride/Urea</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Arnold</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jackson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sanchez-Fernandez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Magnone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Terry</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Edler</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>31</em> (47), pp 12894–12902</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Deep eutectic solvents (DES) resemble ionic liquids but are formed from an ionic mixture instead of being a single ionic compound. Here we present some results that demonstrate that surfactant sodium dodecyl sulfate (SDS) remains surface-active and shows ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.5b02596?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.5b02596?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b02596?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.5b02596?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b00158?src=recsys">1,2-Ethanediol and 1,3-Propanediol Conversions over (MO<sub>3</sub>)<sub>3</sub> (M = Mo, W) Nanoclusters: A Computational Study</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1085,22 +1101,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpca.6b00158?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b00158?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b00158?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00447?src=recsys">Benzo[<i>c</i>][1,2,5]thiadiazole Donor–Acceptor Dyes: A Synthetic, Spectroscopic, and Computational Study</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Barnsley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shillito</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Larsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van der Salm</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lucas</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Gordon</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (11), pp 1853–1866</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The synthesis, optical characterization and computational modeling of seven benzo[<i>c</i>][1,2,5]thiadiazole (<b>BTD</b>) donor–acceptor dyes are reported. These dyes have been studied using electrochemical analysis, electronic absorption, emission, and Raman and ...<sup></sup><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00447?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00447?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00447?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00447?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1186,9 +1186,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.5b11927" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11927%3Fprg140729%3De13211ad-5558-4506-8e27-836addc0f4f1&amp;doi=10.1021%2Facs.jpca.5b11927" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11927%3Fprg140729%3D487f8b5e-6ae8-46a5-b4d5-1042e97125e2&amp;doi=10.1021%2Facs.jpca.5b11927" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11927%3Fprg140729%3D19d2e84e-00dc-4a8a-93a2-252bb7d45979&amp;title=Properties+of+Polyvinylpyrrolidone+in+a+Deep+Eutectic+Solvent&amp;doi=10.1021%2Facs.jpca.5b11927" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11927%3Fprg140729%3D115e786b-93e0-40b2-a41f-ef87876cb3a4&amp;title=Properties+of+Polyvinylpyrrolidone+in+a+Deep+Eutectic+Solvent&amp;doi=10.1021%2Facs.jpca.5b11927" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1211,9 +1211,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpU_Md47Ed13LVg90H21EOLACvtfcHk0ljXoJitkrrB_Q&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGHGWjYTnGvNRtQwD9OmoEd3vGUeytTVDBrznTx7pAuN_&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQ57UWu3dxbEtrnDmCxc-CThi25Vg2O3Mq9Vx9eqJzTB&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpU_Md47Ed13LVg90H21EOLACvtfcHk0lhdH8KNzsDvZw&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGHGWjYTnGvNRtQwD9OmoEd2V9N0Ch8hJFS7uUuFvcs_d&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQ57UWu3dxbEtrnDmCxc-CThi25Vg2O3MqTBn-VtPfkH&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

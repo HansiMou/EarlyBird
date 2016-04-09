@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="9e163662-1929-4b4c-b607-a4213153fd6d">
+<html lang="en" class="pb-page" data-request-id="b49403df-4c42-4a48-89b3-7e16c38c8982">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpca.6b02280;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02280%3Fprg140729%3D1c3c7853-6350-4860-b68e-2143027dddc3" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02280?prg140729=1c3c7853-6350-4860-b68e-2143027dddc3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02280?prg140729=1c3c7853-6350-4860-b68e-2143027dddc3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02280%3Fprg140729%3Dc206e66b-424a-4e96-8fdc-024a762cffb4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02280?prg140729=c206e66b-424a-4e96-8fdc-024a762cffb4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b02280?prg140729=c206e66b-424a-4e96-8fdc-024a762cffb4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1019,20 +1019,36 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b00654?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b00654?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">Evarnoldi - A New Algorithm for Large Scale Eigenvalue Problems</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">EvArnoldi: A New Algorithm for Large-Scale Eigenvalue Problems</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tal-Ezer</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tal-Ezer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Eigenvalues and eigenvectors are an essential theme in numerical linear algebra. Their study is mainly motivated by their high importance in a wide range of applications. Knowledge of eigenvalues is essential in quantum molecular science. Solutions of the ...<span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span><span class="hlFld-ContribAuthor "></span></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b00814?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00814?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b00814?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b01043?src=recsys">The Spin-Partitioned Total-Position Spread Tensor: An Application To Diatomic Molecules</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Brea</span>, <span class="entryAuthor normal hlFld-ContribAuthor">El Khatib</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bendazzoli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Evangelisti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leininger</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Angeli</span>
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (ja), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Eigenvalues and eigenvectors are an essential theme in numerical linear algebra. Their study is mainly motivated by its high importance in a wide range of applications. The knowledge of eigenvalues is essential in quantum molecular science. The ...</span>
+                             <span><span class="bold">Abstract:</span> The Spin Partition (SP) of the Total-Position Spread (TPS) tensor is applied to the case of a few light diatomic molecules at Full Configuration Interaction level (FCI). It appears that the SP-TPS tensor gives informations that are complementary with ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00814?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00814?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00814?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.6b01043?src=recsys">Abstract</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b01043?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b01043?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b12335?src=recsys">Insights into the Electronic Structure of Molecules from Generalized Valence Bond Theory</a>
                             <div class="achsLabel">
@@ -1050,52 +1066,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b12335?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b12335?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b01043?src=recsys">The Spin-Partitioned Total-Position Spread Tensor: An Application To Diatomic Molecules</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b01534?src=recsys">State-Specific Reactions of Cu<sup>+</sup>(<sup>1</sup>S,<sup>3</sup>D) with SF<sub>6</sub> and SF<sub>5</sub>Cl</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Brea</span>, <span class="entryAuthor normal hlFld-ContribAuthor">El Khatib</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bendazzoli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Evangelisti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leininger</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Angeli</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The Spin Partition (SP) of the Total-Position Spread (TPS) tensor is applied to the case of a few light diatomic molecules at Full Configuration Interaction level (FCI). It appears that the SP-TPS tensor gives informations that are complementary with ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b01043?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b01043?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b01043?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jp511548a?src=recsys">Surface Enhanced Raman Scattering of Amino Acids Assisted by Gold Nanoparticles and Gd<sup>3+</sup> Ions</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">López-Neira</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Galicia-Hernández</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reyes-Coronado</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pérez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Castillo-Rivera</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>119</em> (18), pp 4127–4135</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The surface enhanced raman scattering (SERS) signal from the <span class="smallcaps">l</span>-tyrosine (tyr) molecule adsorbed on gold nanoparticles (Au-tyr) is compared with the SERS signal assisted by the presence of gadolinium ions (Gd<sup>3+</sup>) coordinated with the Au-tyr system. An ...<sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jp511548a?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jp511548a?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jp511548a?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jp511548a?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00107?src=recsys">Probing Ionic Complexes of Ethylene and Acetylene with Vacuum-Ultraviolet Radiation</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bandyopadhyay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kostko</span>, <span class="entryAuthor normal hlFld-ContribAuthor">White</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Head-Gordon</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ahmed</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Taylor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Redmon</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Scheuter</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Mixed complexes of acetylene–ethylene are studied using vacuum-ultraviolet (VUV) photoionization mass spectrometry and theoretical calculations. These complexes are produced and ionized at different distances from the exit of a continuous nozzle followed ...<sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> State-specific reactions of Cu<sup>+</sup>(<sup>1</sup>S,<sup>3</sup>D) were carried out in a selected ion drift cell apparatus with SF<sub>6</sub> and SF<sub>5</sub>Cl. Copper ions were prepared in a glow discharge utilizing Ne as the working gas. Analysis of Cu<sup>+</sup> states using ion mobility mass spectrometry (...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00107?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00107?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00107?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00107?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.6b01534?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b01534?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b01534?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b01534?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00887?src=recsys">Reactions of Chemically Activated Formic Acid Formed via HĊO + ȮH</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Döntgen</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Leonhard</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (11), pp 1819–1824</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The chemistry of formyl radicals plays an important role in the kinetic modeling of oxygenated hydrocarbons. Here, the fate of rovibrationally excited formic acid produced via HĊO + ȮH is evaluated in a RRKM/Master Equation study. For that purpose, the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.6b00887?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b00887?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00887?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b00887?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1181,9 +1182,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.6b02280" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02280%3Fprg140729%3D4daf621f-278b-4394-9388-74a21ac94eed&amp;doi=10.1021%2Facs.jpca.6b02280" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02280%3Fprg140729%3D8983404a-26bb-4915-bf4a-bcebf8433c3d&amp;doi=10.1021%2Facs.jpca.6b02280" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02280%3Fprg140729%3D1c3c7853-6350-4860-b68e-2143027dddc3&amp;title=Theoretical+Investigation+of+Water+Oxidation+on+Fully+Saturated+Mn2O3+and+Mn2O4+Complexes&amp;doi=10.1021%2Facs.jpca.6b02280" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b02280%3Fprg140729%3Dc206e66b-424a-4e96-8fdc-024a762cffb4&amp;title=Theoretical+Investigation+of+Water+Oxidation+on+Fully+Saturated+Mn2O3+and+Mn2O4+Complexes&amp;doi=10.1021%2Facs.jpca.6b02280" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

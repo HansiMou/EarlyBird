@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ccb7fc05-f51e-4cab-b830-09c76430ede4">
+<html lang="en" class="pb-page" data-request-id="1df0b096-2585-497c-99cf-e98067f284f1">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/orgnd7.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.organomet.6b00094;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:orgnd7">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.organomet.6b00094%3Fprg140729%3D760db00e-99b7-469d-ba31-83d936de4505" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.organomet.6b00094?prg140729=760db00e-99b7-469d-ba31-83d936de4505&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.organomet.6b00094?prg140729=760db00e-99b7-469d-ba31-83d936de4505">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.organomet.6b00094%3Fprg140729%3Da346822c-53a8-4784-b7f6-84fa8291b19a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.organomet.6b00094?prg140729=a346822c-53a8-4784-b7f6-84fa8291b19a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.organomet.6b00094?prg140729=a346822c-53a8-4784-b7f6-84fa8291b19a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1078,22 +1078,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.organomet.6b00154?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.organomet.6b00154?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.organomet.6b00126?src=recsys">Copper-Catalyzed Semihydrogenation of Internal Alkynes with Molecular Hydrogen</a>
-                            <div class="achsLabel">
-                             Organometallics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wakamatsu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nagao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ohmiya</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sawamura</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A copper-catalyzed system using a commercially available simple N-heterocyclic carbene ligand under atmospheric pressure of H<sub>2</sub> (1 atm, balloon) enables the semihydrogenation of internal alkynes, which proceeds with high <i>Z</i> selectivity. Thus, this copper ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.organomet.6b00126?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.organomet.6b00126?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.organomet.6b00126?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.organomet.6b00126?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.organomet.6b00095?src=recsys">Synthesis of a Tungsten–Silylyne Complex via Stepwise Proton and Hydride Abstraction from a Hydrido Hydrosilylene Complex</a>
                             <div class="achsLabel">
                              Organometallics
@@ -1110,21 +1094,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.organomet.6b00095?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.organomet.6b00095?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.organomet.6b00009?src=recsys">Ester Hydrogenation Catalyzed by CNN-Pincer Complexes of Ruthenium</a>
+                           <li><a href="/doi/abs/10.1021/acs.organomet.6b00045?src=recsys">Steric Control between Neutral Metal-Only Lewis Pairs and Metal-Stabilized Gallenium and Gallinium Cations</a>
                             <div class="achsLabel">
                              Organometallics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Le</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Drance</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jensen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bogdanovski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cervarich</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barnard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pudalov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Knapp</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chianese</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Braunschweig</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dewhurst</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schneider</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), pp 982–989</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Ruthenium complexes supported by two new CNN-pincer ligands were synthesized. Both were tested as catalysts for the hydrogenation of esters under mild conditions (105 °C, 6 bar H<sub>2</sub>). A striking dependence on ligand structure was observed, as a ...</span>
+                             <span><span class="bold">Abstract:</span> Reaction of a series of zerovalent Fe Lewis bases with Lewis acid GaCl<sub>3</sub> leads to both conventional, neutral metal-only Lewis pairs in the case of small metal complexes and cationic gallenium species in the case of larger metal bases. The results suggest ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.organomet.6b00009?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.organomet.6b00009?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.organomet.6b00009?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.organomet.6b00009?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.organomet.6b00045?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.organomet.6b00045?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.organomet.6b00045?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.organomet.6b00045?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.organomet.6b00126?src=recsys">Copper-Catalyzed Semihydrogenation of Internal Alkynes with Molecular Hydrogen</a>
+                            <div class="achsLabel">
+                             Organometallics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wakamatsu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nagao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ohmiya</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sawamura</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A copper-catalyzed system using a commercially available simple N-heterocyclic carbene ligand under atmospheric pressure of H<sub>2</sub> (1 atm, balloon) enables the semihydrogenation of internal alkynes, which proceeds with high <i>Z</i> selectivity. Thus, this copper ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.organomet.6b00126?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.organomet.6b00126?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.organomet.6b00126?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.organomet.6b00126?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1210,9 +1210,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.organomet.6b00094" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.organomet.6b00094%3Fprg140729%3D2c5a76e5-8cbd-4425-aba5-e540d5e11d9e&amp;doi=10.1021%2Facs.organomet.6b00094" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.organomet.6b00094%3Fprg140729%3Db6404ae7-744c-43d3-b05e-2ed9dc0bdb0a&amp;doi=10.1021%2Facs.organomet.6b00094" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.organomet.6b00094%3Fprg140729%3D760db00e-99b7-469d-ba31-83d936de4505&amp;title=Novel+Fullerene+Platinum+Alkynyl+Complexes+with+High+Second-Order+Nonlinear+Optical+Properties+as+a+Springboard+for+NLO-Active+Polymer+Films&amp;doi=10.1021%2Facs.organomet.6b00094" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.organomet.6b00094%3Fprg140729%3Da346822c-53a8-4784-b7f6-84fa8291b19a&amp;title=Novel+Fullerene+Platinum+Alkynyl+Complexes+with+High+Second-Order+Nonlinear+Optical+Properties+as+a+Springboard+for+NLO-Active+Polymer+Films&amp;doi=10.1021%2Facs.organomet.6b00094" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

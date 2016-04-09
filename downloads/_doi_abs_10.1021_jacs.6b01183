@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1f995fcb-d863-4e56-82d6-3de8a54cca2b">
+<html lang="en" class="pb-page" data-request-id="e536499d-da1a-4dfe-8c80-378182a77f79">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jacsat.ahead-of-print;article:article:10.1021/jacs.6b01183;pageGroup:string:Publication Pages;journal:journal:jacsat;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01183%3Fprg140729%3De58a6c69-b8f9-4606-a1b5-2c2e2b883487" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01183?prg140729=e58a6c69-b8f9-4606-a1b5-2c2e2b883487&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01183?prg140729=e58a6c69-b8f9-4606-a1b5-2c2e2b883487">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01183%3Fprg140729%3D66bb1db7-4255-4b6b-93f3-a2d429207578" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01183?prg140729=66bb1db7-4255-4b6b-93f3-a2d429207578&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b01183?prg140729=66bb1db7-4255-4b6b-93f3-a2d429207578">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -671,6 +671,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.6b01414" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -924,6 +925,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i9"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1002,54 +1011,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b01349?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b01349?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00627?src=recsys">Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (12), pp 3978–3981</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The communication describes an enamine-based asymmetric retro-Claisen reaction of β-diketones by primary amine catalysis. The reaction proceeds via a sequence of stereoselective C–C formation, C–C cleavage, and a highly stereospecific enamine protonation ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00627?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00627?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00627?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00627?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b02032?src=recsys">Ph(<i>i</i>-PrO)SiH<sub>2</sub>: An Exceptional Reductant for Metal-Catalyzed Hydrogen Atom Transfers</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Obradors</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Martinez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shenvi</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We report the discovery of an outstanding reductant for metal-catalyzed radical hydrofunctionalization reactions. Observations of unexpected silane solvolysis distributions in the HAT-initiated hydrogenation of alkenes reveal that phenylsilane is not the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b02032?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b02032?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b02032?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b02032?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01375?src=recsys">Enantioselective Synthesis of Chiral Piperidines via the Stepwise Dearomatization/Borylation of Pyridines</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kubota</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Watanabe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hayama</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ito</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4338–4341</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We have developed a novel approach for the synthesis of enantioenriched 3-boryl-tetrahydropyridines via the Cu(I)-catalyzed regio-, diastereo-, and enantioselective protoborylation of 1,2-dihydropyridines, which were obtained by the partial reduction of ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01375?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01375?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01375?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01375?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b01728?src=recsys">Enantioselective Photocatalytic [3 + 2] Cycloadditions of Aryl Cyclopropyl Ketones</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1081,6 +1042,54 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.6b00764?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.6b00764?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00764?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b11990?src=recsys">Borylation of Olefin C–H Bond via Aryl to Vinyl Palladium 1,4-Migration</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2897–2900</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The aryl to vinyl palladium 1,4-migration was realized for the first time. The generated alkenyl palladium species was trapped by diboron reagents under Miyaura borylation conditions, providing a new method to synthesize β,β-disubstituted vinylboronates. ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b11990?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b11990?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b11990?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b11990?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b13041?src=recsys">Oxy-Allyl Cation Catalysis: An Enantioselective Electrophilic Activation Mode</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oblak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vander Wal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dilger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Almstead</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">MacMillan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (7), pp 2134–2137</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A generic activation mode for asymmetric LUMO-lowering catalysis has been developed using the long-established principles of oxy-allyl cation chemistry. Here, the enantioselective conversion of racemic α-tosyloxy ketones to optically enriched α-indolic ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b13041?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b13041?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b13041?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b13041?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00869?src=recsys">Regio- and Stereoselective Cyanotriflation of Alkynes Using Aryl(cyano)iodonium Triflates</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Studer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2977–2980</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A novel, mild, and versatile approach for regioselective <i>syn</i>-addition of both the CN and OTf groups of aryl(cyano)iodonium triflates to alkynes is described. The reaction uses Fe-catalysis and can be conducted in gram scale. Products of the vicinal ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b00869?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00869?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00869?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00869?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1166,9 +1175,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.6b01183" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01183%3Fprg140729%3Dee874195-a65a-4fba-a341-471628291c20&amp;doi=10.1021%2Fjacs.6b01183" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01183%3Fprg140729%3Daddd88ff-09bc-4acb-8dce-8c3ba470ac78&amp;doi=10.1021%2Fjacs.6b01183" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01183%3Fprg140729%3De58a6c69-b8f9-4606-a1b5-2c2e2b883487&amp;title=Catalytic+Difluorination+of+Olefins&amp;doi=10.1021%2Fjacs.6b01183" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b01183%3Fprg140729%3D66bb1db7-4255-4b6b-93f3-a2d429207578&amp;title=Catalytic+Difluorination+of+Olefins&amp;doi=10.1021%2Fjacs.6b01183" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

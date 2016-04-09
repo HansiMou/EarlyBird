@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="03def816-eed8-4cac-937f-853991ca091e">
+<html lang="en" class="pb-page" data-request-id="ebf5db1e-5dbf-4060-a703-7df6448530e1">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.macromol.5b02805;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/mamobx.ahead-of-print;journal:journal:mamobx;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02805%3Fprg140729%3D40a0565b-678d-42b8-b7b8-8f6075ce09a0" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02805?prg140729=40a0565b-678d-42b8-b7b8-8f6075ce09a0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02805?prg140729=40a0565b-678d-42b8-b7b8-8f6075ce09a0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02805%3Fprg140729%3De615b722-ee4a-4092-8d18-c103cfc037b8" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02805?prg140729=e615b722-ee4a-4092-8d18-c103cfc037b8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02805?prg140729=e615b722-ee4a-4092-8d18-c103cfc037b8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -687,6 +687,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.macromol.6b00134" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1031,7 +1032,105 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Tsimouri%2C+Ioanna+Ch">Ioanna Ch. Tsimouri</a></li>
                            <li><a href="/author/Mavrantzas%2C+Vlasis+G">Vlasis G. Mavrantzas</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.6b00262?src=recsys">Impact of Hydrogen Bonding on Dynamics of Hydroxyl-Terminated Polydimethylsiloxane</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xing</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chatterjee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saito</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gainaru</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sokolov</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Dielectric spectroscopy, rheology, and differential scanning calorimetry were employed to study the effect of chain-end hydrogen bonding on the dynamics of hydroxyl-terminated polydimethylsiloxane. We demonstrate that hydrogen bonding has a strong ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.6b00262?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.6b00262?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.6b00262?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.6b00262?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.6b00268?src=recsys">Morphological Evaluation of PP/PS Blends Filled with Different Types of Clays by Nonlinear Rheological Analysis</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Salehiyan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hyun</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The effects of various Cloisite nanoparticulate clays with different hydrophobicities on (80/20) polypropylene/polystyrene (PP/PS) blends were investigated using their linear and nonlinear rheological properties. In descending order of hydrophobicity the ...<sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.6b00268?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.6b00268?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.6b00268?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.6b00268?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02688?src=recsys">Flow-Induced Crystallization of Polymers: Molecular and Thermodynamic Considerations</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (5), pp 1505–1517</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Flow-induced crystallization (FIC) of polymers is a long-standing, industrial relevant, nonequilibrium thermodynamic challenge. Thanks to the development of <i>in situ</i> time and spatial resolved techniques like rheology and synchrotron radiation X-ray ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02688?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02688?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02688?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02688?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsmacrolett.6b00100?src=recsys">Distortion of Chain Conformation and Reduced Entanglement in Polymer–Graphene Oxide Nanocomposites</a>
+                            <div class="achsLabel">
+                             ACS Macro Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Weir</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Johnson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boothroyd</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Savage</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thompson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">King</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rogers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Coleman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Clarke</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), pp 430–434</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We study the conformations of polymer chains in polymer–graphene oxide nanocomposites. We show that the chains have a reduced radius of gyration that is consistent with confinement at a solid interface in the melt, as is expected for well-dispersed, high ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsmacrolett.6b00100?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmacrolett.6b00100?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmacrolett.6b00100?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmacrolett.6b00100?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsmacrolett.6b00037?src=recsys">Glass-Transition and Side-Chain Dynamics in Thin Films: Explaining Dissimilar Free Surface Effects for Polystyrene vs Poly(methyl methacrylate)</a>
+                            <div class="achsLabel">
+                             ACS Macro Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hsu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Keten</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), pp 481–486</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Despite having very similar bulk properties such as glass-transition temperature (<i>T</i><sub>g</sub>), density, and fragility, polystyrene (PS) and poly(methyl methacrylate) (PMMA) exhibit characteristically different <i>T</i><sub>g</sub> depression in free-standing ultrathin films due to ...<sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsmacrolett.6b00037?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmacrolett.6b00037?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmacrolett.6b00037?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmacrolett.6b00037?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02667?src=recsys">Stress Relaxation, Dynamics, and Plasticity of Transient Polymer Networks</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Meng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pritchard</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Terentjev</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We propose a theoretical framework for dealing with a transient polymer network undergoing small deformations, based on the rate of breaking and reforming of network cross-links and the evolving elastic reference state. In this framework, the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02667?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02667?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02667?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02667?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1114,9 +1213,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.macromol.5b02805" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02805%3Fprg140729%3D85abcf66-2ab1-4d8f-a23a-59a4847481eb&amp;doi=10.1021%2Facs.macromol.5b02805" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02805%3Fprg140729%3D8253e9e1-d53e-49a0-acb6-53ce708fd979&amp;doi=10.1021%2Facs.macromol.5b02805" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02805%3Fprg140729%3D40a0565b-678d-42b8-b7b8-8f6075ce09a0&amp;title=Flow-Induced+Orientation+and+Stretching+of+Entangled+Polymers+in+the+Framework+of+Nonequilibrium+Thermodynamics&amp;doi=10.1021%2Facs.macromol.5b02805" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02805%3Fprg140729%3De615b722-ee4a-4092-8d18-c103cfc037b8&amp;title=Flow-Induced+Orientation+and+Stretching+of+Entangled+Polymers+in+the+Framework+of+Nonequilibrium+Thermodynamics&amp;doi=10.1021%2Facs.macromol.5b02805" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

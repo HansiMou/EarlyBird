@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8d765271-3d04-448f-a108-54e0d635f4e5">
+<html lang="en" class="pb-page" data-request-id="69e41ecf-c73e-40a1-b838-665931792669">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpcc.6b00589;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00589%3Fprg140729%3D01911190-25d3-4f8d-bbd1-dfaafcf1e42e" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00589?prg140729=01911190-25d3-4f8d-bbd1-dfaafcf1e42e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00589?prg140729=01911190-25d3-4f8d-bbd1-dfaafcf1e42e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00589%3Fprg140729%3D1def4017-3c08-4c71-805a-5688dab3154b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00589?prg140729=1def4017-3c08-4c71-805a-5688dab3154b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00589?prg140729=1def4017-3c08-4c71-805a-5688dab3154b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -691,7 +691,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b02365" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b01196" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1040,22 +1040,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00963?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b00963?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02128?src=recsys">Coadsorbed Species Explain the Mechanism of Methanol Temperature-Programmed Desorption on CeO<sub>2</sub>(111)</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sutton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Overbury</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Beste</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7241–7247</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We have used density functional theory calculations to investigate the temperature-programmed desorption (TPD) of methanol from CeO<sub>2</sub>(111). For the first time, low-temperature water formation and high-temperature methanol desorption are explained by our ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b02128?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b02128?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02128?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02128?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemrev.5b00462?src=recsys">Recent Advances in Electrocatalysts for Oxygen Reduction Reaction</a>
                             <div class="achsLabel">
                              Chemical Reviews
@@ -1072,6 +1056,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00462?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemrev.5b00462?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02128?src=recsys">Coadsorbed Species Explain the Mechanism of Methanol Temperature-Programmed Desorption on CeO<sub>2</sub>(111)</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sutton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Overbury</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Beste</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7241–7247</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We have used density functional theory calculations to investigate the temperature-programmed desorption (TPD) of methanol from CeO<sub>2</sub>(111). For the first time, low-temperature water formation and high-temperature methanol desorption are explained by our ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b02128?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b02128?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02128?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02128?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acscatal.5b02543?src=recsys">In Situ Spectroscopic Study of CO<sub>2</sub> Electroreduction at Copper Electrodes in Acetonitrile</a>
+                            <div class="achsLabel">
+                             ACS Catalysis
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Figueiredo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ledezma-Yanez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Koper</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>6</em> (4), pp 2382–2392</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The electrochemical conversion of carbon dioxide (CO<sub>2</sub>) into valuable compounds is a promising route toward the valorization of this molecule of high environmental impact. Yet, an industrial process involving CO<sub>2</sub> electroreduction is still far from reality ...<sub></sub><sub></sub><sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acscatal.5b02543?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscatal.5b02543?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscatal.5b02543?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscatal.5b02543?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.6b00471?src=recsys">Morphology and Phase Controlled Construction of Pt–Ni Nanostructures for Efficient Electrocatalysis</a>
                             <div class="achsLabel">
                              Nano Letters
@@ -1087,22 +1103,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.nanolett.6b00471?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00471?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00471?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11660?src=recsys">Theoretical Studies of Sandwich Molecular Wires with Europium and Boratacyclooctatetraene Ligand and the Structure on a H-Ge(001)-2×1 Surface</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7088–7093</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The structural, electronic, and magnetic properties of two kinds of boron-doped europium cyclooctatetraene sandwich molecular wires (SMWs), [EuCOTB]<sub>∞</sub> and [Eu-COTB-Eu-COT]<sub>∞</sub> (Eu = europium, COT = cyclooctatetraene = C<sub>8</sub>H<sub>8</sub>, COTB = boratacyclooctatetraene), ...<sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b11660?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b11660?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11660?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11660?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1187,9 +1187,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b00589" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00589%3Fprg140729%3D26e4f175-7d26-4003-a02f-be46dfda1a62&amp;doi=10.1021%2Facs.jpcc.6b00589" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00589%3Fprg140729%3Dfc4ba418-0f73-4fee-9a34-bb13e2075305&amp;doi=10.1021%2Facs.jpcc.6b00589" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00589%3Fprg140729%3D01911190-25d3-4f8d-bbd1-dfaafcf1e42e&amp;title=Surface+Acid%E2%80%93Base+Properties+of+Anion-Adsorbed+Species+at+Pt%28111%29+Electrode+Surfaces+in+Contact+with+CO2-Containing+Perchloric+Acid+Solutions&amp;doi=10.1021%2Facs.jpcc.6b00589" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00589%3Fprg140729%3D1def4017-3c08-4c71-805a-5688dab3154b&amp;title=Surface+Acid%E2%80%93Base+Properties+of+Anion-Adsorbed+Species+at+Pt%28111%29+Electrode+Surfaces+in+Contact+with+CO2-Containing+Perchloric+Acid+Solutions&amp;doi=10.1021%2Facs.jpcc.6b00589" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

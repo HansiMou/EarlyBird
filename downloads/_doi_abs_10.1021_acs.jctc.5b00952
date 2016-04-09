@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="270a61ae-2251-4ca6-bd0e-3689e7be52ed">
+<html lang="en" class="pb-page" data-request-id="97b1f944-2a2f-43bd-9308-9ffa40aa9528">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jctc.5b00952;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b00952%3Fprg140729%3D30356102-390a-4a28-ba6c-a12dee37da65" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00952?prg140729=30356102-390a-4a28-ba6c-a12dee37da65&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00952?prg140729=30356102-390a-4a28-ba6c-a12dee37da65">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b00952%3Fprg140729%3Dd7de674f-570b-4f50-a17f-b8b589928bfa" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00952?prg140729=d7de674f-570b-4f50-a17f-b8b589928bfa&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00952?prg140729=d7de674f-570b-4f50-a17f-b8b589928bfa">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1049,6 +1049,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01138?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01138?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01217?src=recsys">PARENT: A Parallel Software Suite for the Calculation of Configurational Entropy in Biomolecular Systems</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fleck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Polyansky</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zagrovic</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Accurate estimation of configurational entropy from the <i>in silico</i>-generated biomolecular ensembles, e.g., from molecular dynamics (MD) trajectories, is dependent strongly on exhaustive sampling for physical reasons. This, however, creates a major ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01217?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01217?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01217?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01217?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01198?src=recsys">Simulation of Two-Dimensional Infrared Spectroscopy of Peptides Using Localized Normal Modes</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1080,22 +1096,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b00784?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b00784?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b00784?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01211?src=recsys">An Updated Test of AMBER Force Fields and Implicit Solvent Models in Predicting the Secondary Structure of Helical, β-Hairpin, and Intrinsically Disordered Peptides</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Maffucci</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Contini</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (2), pp 714–727</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Replica exchange molecular dynamics simulations were performed to test the ability of six AMBER force fields and three implicit solvent models of predicting the native conformation of two helical peptides, three β-hairpins, and three intrinsically ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01211?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01211?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01211?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01211?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1181,9 +1181,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.5b00952" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b00952%3Fprg140729%3D7c2383a4-599f-42de-9870-c229a3393016&amp;doi=10.1021%2Facs.jctc.5b00952" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b00952%3Fprg140729%3D3b7161e2-3c1a-496a-bee9-50498342cf82&amp;doi=10.1021%2Facs.jctc.5b00952" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b00952%3Fprg140729%3D30356102-390a-4a28-ba6c-a12dee37da65&amp;title=Conformational+Changes+of+the+Alanine+Dipeptide+in+Water%E2%80%93Ethanol+Binary+Mixtures&amp;doi=10.1021%2Facs.jctc.5b00952" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b00952%3Fprg140729%3Dd7de674f-570b-4f50-a17f-b8b589928bfa&amp;title=Conformational+Changes+of+the+Alanine+Dipeptide+in+Water%E2%80%93Ethanol+Binary+Mixtures&amp;doi=10.1021%2Facs.jctc.5b00952" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1206,9 +1206,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqorY5x3m0aEbVg90H21EOLACvtfcHk0liTzLXnE3svFw&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGH-ytSd-6uoetQwD9OmoEd1aBCZxIeQKmQ7ebeK0h9zF&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSY2M6VlnoXIJtrnDmCxc-CThi25Vg2O3MqV2O6zJ0xLb&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqorY5x3m0aEbVg90H21EOLACvtfcHk0lji3EKerVUsKg&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGH-ytSd-6uoetQwD9OmoEd2_QJTfWifw3cFskES36d89&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSY2M6VlnoXIJtrnDmCxc-CThi25Vg2O3Mgb4xsQabjrI&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

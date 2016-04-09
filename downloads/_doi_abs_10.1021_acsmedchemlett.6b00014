@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="6f75f56a-0573-4d03-9e67-eb0f7cdcb2f7">
+<html lang="en" class="pb-page" data-request-id="47330c8d-e260-455d-a2ca-953e01a5ab02">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;article:article:10.1021/acsmedchemlett.6b00014;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00014%3Fprg140729%3Dd8f3528e-c472-4a8e-8459-f84675d5051a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00014?prg140729=d8f3528e-c472-4a8e-8459-f84675d5051a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00014?prg140729=d8f3528e-c472-4a8e-8459-f84675d5051a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00014%3Fprg140729%3Da5e8e775-286f-4f55-8ace-c749692413ce" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00014?prg140729=a5e8e775-286f-4f55-8ace-c749692413ce&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00014?prg140729=a5e8e775-286f-4f55-8ace-c749692413ce">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -984,6 +984,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i6"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1116,21 +1124,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsmedchemlett.5b00498?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsmedchemlett.5b00498?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00040?src=recsys">Interaction Analysis of FABP4 Inhibitors by X-ray Crystallography and Fragment Molecular Orbital Analysis</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
                             <div class="achsLabel">
-                             ACS Medicinal Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tagami</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Igarashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ejima</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yoshida</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takeshita</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miyanaga</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sugiki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tokumasu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hatanaka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kashiwagi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ishikawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miyano</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mizukoshi</span> 
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lassalas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lasfargeas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">James</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vijayendran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brunden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kozlowski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huryn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ballatore</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> X-ray crystal structural determination of FABP4 in complex with four inhibitors revealed the complex binding modes, and the resulting observations led to improvement of the inhibitory potency of FABP4 inhibitors. However, the detailed structure–activity ...<sub></sub></span>
+                             <span><span class="bold">Abstract:</span> The replacement of a carboxylic acid with a surrogate structure, or (bio)-isostere, is a classical strategy in medicinal chemistry. The general underlying principle is that by maintaining the features of the carboxylic acid critical for biological ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsmedchemlett.6b00040?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsmedchemlett.6b00040?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00040?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsmedchemlett.6b00040?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01963?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00027?src=recsys">Discovery of Novel Tricyclic Heterocycles as Potent and Selective DPP-4 Inhibitors for the Treatment of Type 2 Diabetes</a>
                             <div class="achsLabel">
@@ -1232,9 +1240,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.6b00014" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00014%3Fprg140729%3Dd67a5e75-3f37-4db5-a870-5754bd50d1f1&amp;doi=10.1021%2Facsmedchemlett.6b00014" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00014%3Fprg140729%3Decaeb109-d08a-44e6-b33f-0aa19fae1c3c&amp;doi=10.1021%2Facsmedchemlett.6b00014" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00014%3Fprg140729%3Dd8f3528e-c472-4a8e-8459-f84675d5051a&amp;title=Identification+of+a+Potent+and+Selective+GPR4+Antagonist+as+a+Drug+Lead+for+the+Treatment+of+Myocardial+Infarction&amp;doi=10.1021%2Facsmedchemlett.6b00014" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00014%3Fprg140729%3Da5e8e775-286f-4f55-8ace-c749692413ce&amp;title=Identification+of+a+Potent+and+Selective+GPR4+Antagonist+as+a+Drug+Lead+for+the+Treatment+of+Myocardial+Infarction&amp;doi=10.1021%2Facsmedchemlett.6b00014" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1257,9 +1265,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrwftQLNGZQ2rVg90H21EOLACvtfcHk0lgtmV4WQc0--A&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGJgWJcPE_IFOtQwD9OmoEd2uZoGoIYbKI5m-qbFeRZJk&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSRSxERSoiqyHtrnDmCxc-CThi25Vg2O3MrHqj008DzXF&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrwftQLNGZQ2rVg90H21EOLACvtfcHk0liwnW_7yVbUSg&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGJgWJcPE_IFOtQwD9OmoEd2YctUg414nr3_Rhj3I0u7G&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSRSxERSoiqyHtrnDmCxc-CThi25Vg2O3MtYF8cQY4qQJ&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

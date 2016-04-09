@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d6672f1e-f145-438e-ba06-22f5f2c443fc">
+<html lang="en" class="pb-page" data-request-id="d15bdd11-fdc7-40ff-b675-d3a0b58df6da">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.nanolett.6b00789;website:website:acspubs;journal:journal:nalefd;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00789%3Fprg140729%3D3a38c9b2-f4e8-4952-9bf4-0f91847c19bf" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00789?prg140729=3a38c9b2-f4e8-4952-9bf4-0f91847c19bf&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00789?prg140729=3a38c9b2-f4e8-4952-9bf4-0f91847c19bf">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00789%3Fprg140729%3D1d5bcfd9-0651-4b2c-a376-90742c8151a7" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00789?prg140729=1d5bcfd9-0651-4b2c-a376-90742c8151a7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00789?prg140729=1d5bcfd9-0651-4b2c-a376-90742c8151a7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -671,16 +671,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.nanolett.6b00737" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.nanolett.5b05146" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/nalefd/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -929,14 +919,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i6"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1065,6 +1047,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05139?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.5b05139?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00751?src=recsys">Engineering the Structure and Properties of DNA-Nanoparticle Superstructures Using Polyvalent Counterions</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4565–4572</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> DNA assembly of nanoparticles is a powerful approach to control their properties and prototype new materials. However, the structure and properties of DNA-assembled nanoparticles are labile and sensitive to interactions with counterions, which vary with ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b00751?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00751?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00751?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00751?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b13107?src=recsys">A Programmable DNA Origami Platform to Organize SNAREs for Membrane Fusion</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1080,22 +1078,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.5b13107?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.5b13107?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b13107?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b07671?src=recsys">A Photosensitizer-Loaded DNA Origami Nanosystem for Photodynamic Therapy</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhuang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xue</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3486–3495</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Photodynamic therapy (PDT) offers an alternative for cancer treatment by using ultraviolet or visible light in the presence of a photosensitizer and molecular oxygen, which can produce highly reactive oxygen species that ultimately leading to the ablation ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b07671?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b07671?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b07671?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b07671?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1148,7 +1130,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.nanolett.6b00789" title="High-Res PDF: 4193 KB" target="_blank"> PDF <span class="details">(4193 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00789" title="Low-Res PDF: 413 KB" target="_blank"> PDF w/ Links <span class="details">(413 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00789" title="Low-Res PDF: 416 KB" target="_blank"> PDF w/ Links <span class="details">(416 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.nanolett.6b00789" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1181,9 +1163,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.6b00789" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00789%3Fprg140729%3D7ac7a215-72e1-462e-b64b-202441cb892e&amp;doi=10.1021%2Facs.nanolett.6b00789" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00789%3Fprg140729%3D7646c726-ff45-4405-bf6f-00053f240612&amp;doi=10.1021%2Facs.nanolett.6b00789" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00789%3Fprg140729%3D3a38c9b2-f4e8-4952-9bf4-0f91847c19bf&amp;title=DNAzyme-Controlled+Cleavage+of+Dimer+and+Trimer+Origami+Tiles&amp;doi=10.1021%2Facs.nanolett.6b00789" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00789%3Fprg140729%3D1d5bcfd9-0651-4b2c-a376-90742c8151a7&amp;title=DNAzyme-Controlled+Cleavage+of+Dimer+and+Trimer+Origami+Tiles&amp;doi=10.1021%2Facs.nanolett.6b00789" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1206,9 +1188,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoW8xA1uIb6D7Vg90H21EOLACvtfcHk0lj1b1egfvaWiQ&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGMUlOM7GItKitQwD9OmoEd0cVSZTFEBqiPzGEiHnfgxW&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSYaiLbghAz3utrnDmCxc-CThi25Vg2O3Ms0J9g6bMosG&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoW8xA1uIb6D7Vg90H21EOLACvtfcHk0lh7xjOVwDLqJQ&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGMUlOM7GItKitQwD9OmoEd1DVgg-8IK4PjwMxSkG0ZXH&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSYaiLbghAz3utrnDmCxc-CThi25Vg2O3MgVoWkxAwTjO&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

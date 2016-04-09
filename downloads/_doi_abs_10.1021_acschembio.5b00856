@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1f83ddf4-277c-4cd9-bd56-fc59c4e01811">
+<html lang="en" class="pb-page" data-request-id="bdb6bdcb-2d18-4a9b-9967-e90c1e1bb5dd">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acschembio.5b00856;pageGroup:string:Publication Pages;issue:issue:10.1021/acbcct.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:acbcct;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00856%3Fprg140729%3D83a2d92b-f5dc-4904-bd1f-9c58e977c2e1" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00856?prg140729=83a2d92b-f5dc-4904-bd1f-9c58e977c2e1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00856?prg140729=83a2d92b-f5dc-4904-bd1f-9c58e977c2e1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00856%3Fprg140729%3D1ae04fa3-46ec-4f97-9411-2ca175138ed0" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00856?prg140729=1ae04fa3-46ec-4f97-9411-2ca175138ed0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00856?prg140729=1ae04fa3-46ec-4f97-9411-2ca175138ed0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -939,15 +939,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i4"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i15"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1053,6 +1044,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acschembio.5b00816?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.5b00816?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b09854?src=recsys">A Highly Selective Ratiometric Two-Photon Fluorescent Probe for Human Cytochrome P450 1A</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ge</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ning</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lv</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cui</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>137</em> (45), pp 14488–14495</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Cytochrome P450 1A (CYP1A), one of the most important phase I drug-metabolizing enzymes in humans, plays a crucial role in the metabolic activation of procarcinogenic compounds to their ultimate carcinogens. Herein, we reported the development of a ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b09854?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b09854?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b09854?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b09854?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acschembio.5b01043?src=recsys">Profiling of Multiple Targets of Artemisinin Activated by Hemin in Cancer Cell Proteome</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
@@ -1084,22 +1091,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acschembio.5b01023?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acschembio.5b01023?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.5b01023?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b09854?src=recsys">A Highly Selective Ratiometric Two-Photon Fluorescent Probe for Human Cytochrome P450 1A</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ge</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ning</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lv</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cui</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>137</em> (45), pp 14488–14495</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Cytochrome P450 1A (CYP1A), one of the most important phase I drug-metabolizing enzymes in humans, plays a crucial role in the metabolic activation of procarcinogenic compounds to their ultimate carcinogens. Herein, we reported the development of a ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b09854?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b09854?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b09854?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b09854?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1185,9 +1176,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facschembio.5b00856" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00856%3Fprg140729%3Dee2e45b1-65a7-4db8-96dd-1ff8b8586297&amp;doi=10.1021%2Facschembio.5b00856" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00856%3Fprg140729%3D8474802a-7a6e-40fb-a5ad-7212d79d4a00&amp;doi=10.1021%2Facschembio.5b00856" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00856%3Fprg140729%3D83a2d92b-f5dc-4904-bd1f-9c58e977c2e1&amp;title=Naphthalimide+Scaffold+Provides+Versatile+Platform+for+Selective+Thiol+Sensing+and+Protein+Labeling&amp;doi=10.1021%2Facschembio.5b00856" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00856%3Fprg140729%3D1ae04fa3-46ec-4f97-9411-2ca175138ed0&amp;title=Naphthalimide+Scaffold+Provides+Versatile+Platform+for+Selective+Thiol+Sensing+and+Protein+Labeling&amp;doi=10.1021%2Facschembio.5b00856" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1210,9 +1201,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo5aiN1cfCcBbVg90H21EOLACvtfcHk0lhxkjuVwiCQgA&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGEkUSxfe7A_mtQwD9OmoEd00ZbEhC6ux40AhFQsqJ5FA&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSTU0fZEwsxRYtrnDmCxc-CThi25Vg2O3Ms0dJv5SUVot&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo5aiN1cfCcBbVg90H21EOLACvtfcHk0lhaibOBRlta_w&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGEkUSxfe7A_mtQwD9OmoEd2jMWp_C5zEdCaI6gRS8TkU&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSTU0fZEwsxRYtrnDmCxc-CThi25Vg2O3MgXbY_Yo6ag4&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

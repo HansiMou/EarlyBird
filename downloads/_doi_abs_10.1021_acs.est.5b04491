@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="62bb705a-3469-442d-a3fa-0133fad5a683">
+<html lang="en" class="pb-page" data-request-id="5892e0ec-3aa5-4245-a5d9-42cd58afba2f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;article:article:10.1021/acs.est.5b04491;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04491%3Fprg140729%3D3a9012c2-7250-4b94-ad77-6e462c8ceae5" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04491?prg140729=3a9012c2-7250-4b94-ad77-6e462c8ceae5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04491?prg140729=3a9012c2-7250-4b94-ad77-6e462c8ceae5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04491%3Fprg140729%3Dd5f97b3b-266a-47a7-a2d7-e4b5507c1f97" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04491?prg140729=d5f97b3b-266a-47a7-a2d7-e4b5507c1f97&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04491?prg140729=d5f97b3b-266a-47a7-a2d7-e4b5507c1f97">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1104,19 +1104,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b05190?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b05190?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.6b01058?src=recsys">A Picture Worth 250 Million Words (and Counting)</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sedlak</span> (Editor-in-Chief)
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>50</em> (6), pp 2745–2746</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.6b01058?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.6b01058?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.6b01058?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.6b01058?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.6b00639?src=recsys">Modeling Source Water TOC Using Hydroclimate Variables and Local Polynomial Regression</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1132,6 +1119,19 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.6b00639?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.6b00639?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.6b00639?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.6b01058?src=recsys">A Picture Worth 250 Million Words (and Counting)</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sedlak</span> (Editor-in-Chief)
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>50</em> (6), pp 2745–2746</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.6b01058?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.6b01058?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.6b01058?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.6b01058?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1216,9 +1216,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.5b04491" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04491%3Fprg140729%3D1a501d22-6b73-4eeb-a3d8-cfd3b03f650d&amp;doi=10.1021%2Facs.est.5b04491" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04491%3Fprg140729%3D62fd9112-6162-4c9e-9609-13d3284df063&amp;doi=10.1021%2Facs.est.5b04491" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04491%3Fprg140729%3D3a9012c2-7250-4b94-ad77-6e462c8ceae5&amp;title=Spatial+Differences+and+Costs+of+Emissions+at+U.S.+Airport+Hubs&amp;doi=10.1021%2Facs.est.5b04491" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04491%3Fprg140729%3Dd5f97b3b-266a-47a7-a2d7-e4b5507c1f97&amp;title=Spatial+Differences+and+Costs+of+Emissions+at+U.S.+Airport+Hubs&amp;doi=10.1021%2Facs.est.5b04491" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

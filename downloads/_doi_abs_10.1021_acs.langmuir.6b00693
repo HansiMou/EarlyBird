@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="afc5a5c9-40aa-478e-8ed6-ff33477906e6">
+<html lang="en" class="pb-page" data-request-id="876902d3-b5cc-4552-b2fc-858bfbde9fa7">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/langd5.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.langmuir.6b00693;journal:journal:langd5;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00693%3Fprg140729%3D35f1fcff-0079-4f7b-9b9f-c39a93b7e0d5" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00693?prg140729=35f1fcff-0079-4f7b-9b9f-c39a93b7e0d5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00693?prg140729=35f1fcff-0079-4f7b-9b9f-c39a93b7e0d5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00693%3Fprg140729%3D764b4f82-c9e9-4ea5-ba9a-368d4bcea4df" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00693?prg140729=764b4f82-c9e9-4ea5-ba9a-368d4bcea4df&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00693?prg140729=764b4f82-c9e9-4ea5-ba9a-368d4bcea4df">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -675,7 +675,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.langmuir.6b00243" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.langmuir.6b00182" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1011,21 +1011,69 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04644?src=recsys">Reconstitution of Fusion Proteins in Supported Lipid Bilayers for the Study of Cell Surface Receptor–Ligand Interactions in Cell–Cell Contact</a>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00799?src=recsys">Reversible Morphological Control of Tubulin-Encapsulating Giant Liposomes by Hydrostatic Pressure</a>
                             <div class="achsLabel">
                              Langmuir
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ghosh Moulick</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Afanasenkau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Albers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lange</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maybeck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Utesch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Offenhäusser</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hayashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nishiyama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kazayama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Toyota</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Harada</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Takiguchi</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Bioactive molecules such as adhesion ligands, growth factors, or enzymes play an important role in modulating cell behavior such as cell adhesion, spreading, and differentiation. Deciphering the mechanism of ligand-mediated cell adhesion and associated ...</span>
+                             <span><span class="bold">Abstract:</span> Liposomes encapsulating cytoskeletons have drawn much recent attention to develop an artificial cell-like chemical-machinery; however, as far as we know, there has been no report showing isothermally reversible morphological changes of liposomes ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.langmuir.5b04644?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.langmuir.5b04644?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04644?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04644?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.langmuir.6b00799?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.6b00799?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00799?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00799?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04682?src=recsys">Quantitative Monitoring of Microphase Separation Behaviors in Cationic Liposomes Using HHC, DPH, and Laurdan: Estimation of the Local Electrostatic Potentials in Microdomains</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Suga</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Akizaki</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Umakoshi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Microphase separation behaviors of cationic liposomes have been investigated using a pH-sensitive fluorescent probe with 4-heptadecyl-7-hydroxycoumarin (HHC), 1,6-diphenyl-1,3,5-hexatriene, and 6-lauroyl-2-dimethylaminonaphthalene, and to estimate ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.5b04682?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.5b04682?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04682?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04682?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00267?src=recsys">Surfactant Behavior of Amphiphilic Polymer-Tethered Nanoparticles</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In recent years, an emerging research area has been the surfactant behavior of polymer-tethered nanoparticles. In this feature article, we have provided a general introduction to the synthesis, self-assembly, and interfacial activity of polymer-tethered ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.6b00267?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.6b00267?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00267?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00267?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00600?src=recsys">Mechanism of Action of Thymol on Cell Membranes Investigated through Lipid Langmuir Monolayers at the Air–Water Interface and Molecular Simulation</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ferreira</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Capello</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Siqueira</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lago</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Caseli</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>32</em> (13), pp 3234–3241</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A major challenge in the design of biocidal drugs is to identify compounds with potential action on microorganisms and to understand at the molecular level their mechanism of action. In this study, thymol, a monoterpenoid found in the oil of leaves of <i>...</i></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.6b00600?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.6b00600?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00600?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00600?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.langmuir.5b02814?src=recsys">Interactions and Translational Dynamics of Phosphatidylinositol Bisphosphate (PIP<sub>2</sub>) Lipids in Asymmetric Lipid Bilayers</a>
                             <div class="achsLabel">
@@ -1042,6 +1090,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.langmuir.5b02814?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.langmuir.5b02814?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.langmuir.5b02814?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04644?src=recsys">Reconstitution of Fusion Proteins in Supported Lipid Bilayers for the Study of Cell Surface Receptor–Ligand Interactions in Cell–Cell Contact</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ghosh Moulick</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Afanasenkau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Albers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lange</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maybeck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Utesch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Offenhäusser</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Bioactive molecules such as adhesion ligands, growth factors, or enzymes play an important role in modulating cell behavior such as cell adhesion, spreading, and differentiation. Deciphering the mechanism of ligand-mediated cell adhesion and associated ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.5b04644?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.5b04644?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04644?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04644?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1127,9 +1191,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.langmuir.6b00693" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00693%3Fprg140729%3D13e47db8-87c9-4090-9ba8-d055dec7d046&amp;doi=10.1021%2Facs.langmuir.6b00693" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00693%3Fprg140729%3D91645321-9781-462e-b5c8-af79372790d7&amp;doi=10.1021%2Facs.langmuir.6b00693" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00693%3Fprg140729%3D35f1fcff-0079-4f7b-9b9f-c39a93b7e0d5&amp;title=Molecular-Level+Modifications+Induced+by+Photo-Oxidation+of+Lipid+Monolayers+Interacting+with+Erythrosin&amp;doi=10.1021%2Facs.langmuir.6b00693" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00693%3Fprg140729%3D764b4f82-c9e9-4ea5-ba9a-368d4bcea4df&amp;title=Molecular-Level+Modifications+Induced+by+Photo-Oxidation+of+Lipid+Monolayers+Interacting+with+Erythrosin&amp;doi=10.1021%2Facs.langmuir.6b00693" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

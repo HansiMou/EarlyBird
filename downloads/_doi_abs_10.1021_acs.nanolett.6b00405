@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="27b462c4-06ed-4262-a024-9abc2334df49">
+<html lang="en" class="pb-page" data-request-id="39d50c58-616b-4503-a235-bd3204577186">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.nanolett.6b00405;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00405%3Fprg140729%3D288284a0-6fcb-40c3-8840-09e25f5cf7dd" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00405?prg140729=288284a0-6fcb-40c3-8840-09e25f5cf7dd&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00405?prg140729=288284a0-6fcb-40c3-8840-09e25f5cf7dd">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00405%3Fprg140729%3Dc0abec69-8c3e-4f44-9535-1e09439933fd" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00405?prg140729=c0abec69-8c3e-4f44-9535-1e09439933fd&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00405?prg140729=c0abec69-8c3e-4f44-9535-1e09439933fd">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -676,16 +676,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.nanolett.6b00354" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.nanolett.6b00564" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/nalefd/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -975,11 +965,11 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">Subwavelength graphene structures support localized plasmonic resonances in the terahertz and mid-infrared spectral regimes. The strong field confinement at the resonant frequency is predicted to significantly enhance the light-graphene interaction, which could enable nonlinear optics at low intensity in atomically thin, subwavelength devices. To date, the nonlinear response of graphene plasmons and their energy loss dynamics have not been experimentally studied. We measure and theoretically model the terahertz nonlinear response and energy relaxation dynamics of plasmons in graphene nanoribbons. We employ a terahertz pump–terahertz probe technique at the plasmon frequency and observe a strong saturation of plasmon absorption followed by a 10 ps relaxation time. The observed nonlinearity is enhanced by 2 orders of magnitude compared to unpatterned graphene with no plasmon resonance. We further present a thermal model for the nonlinear plasmonic absorption that supports the experimental results. The model shows that the observed strong linearity is caused by an unexpected red shift of plasmon resonance together with a broadening and weakening of the resonance caused by the transient increase in electron temperature. The model further predicts that even greater resonant enhancement of the nonlinear response can be expected in high-mobility graphene, suggesting that nonlinear graphene plasmonic devices could be promising candidates for nonlinear optical processing.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Graphene&amp;qsSearchArea=AllField">Graphene</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Plasmons&amp;qsSearchArea=AllField">plasmons</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Nonlinear&amp;qsSearchArea=AllField">nonlinear</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Pump%E2%88%92probe&amp;qsSearchArea=AllField">pump−probe</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Terahertz&amp;qsSearchArea=AllField">terahertz</a>
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Graphene&amp;qsSearchArea=AllField">Graphene</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Plasmons&amp;qsSearchArea=AllField">plasmons</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Nonlinear&amp;qsSearchArea=AllField">nonlinear</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Pump%E2%88%92probe&amp;qsSearchArea=AllField">pump−probe</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Terahertz&amp;qsSearchArea=AllField">terahertz</a>
                               </div>
                              </div>
                             </div>
@@ -1099,6 +1089,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.5b03834?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.5b03834?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b03191?src=recsys">Tunable Terahertz Hybrid Metal–Graphene Plasmons</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jadidi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sushkov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Myers-Ward</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boyd</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Daniels</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gaskill</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fuhrer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Drew</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Murphy</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>15</em> (10), pp 7099–7104</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report here a new type of plasmon resonance that occurs when graphene is connected to a metal. These new plasmon modes offer the potential to incorporate a tunable plasmonic channel into a device with electrical contacts, a critical step toward ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b03191?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b03191?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b03191?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b03191?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.6b00059?src=recsys">Electronic Structure, Surface Doping, and Optical Response in Epitaxial WSe<sub>2</sub> Thin Films</a>
                             <div class="achsLabel">
                              Nano Letters
@@ -1114,22 +1120,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.nanolett.6b00059?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00059?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00059?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b02051?src=recsys">Surface Plasmon Polariton Graphene Photodetectors</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Echtermeyer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Milana</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sassi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Eiden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lidorikis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ferrari</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>16</em> (1), pp 8–20</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The combination of plasmonic nanoparticles and graphene enhances the responsivity and spectral selectivity of graphene-based photodetectors. However, the small area of the metal–graphene junction, where the induced electron–hole pairs separate, limits the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b02051?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b02051?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b02051?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b02051?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1215,9 +1205,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.6b00405" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00405%3Fprg140729%3D7aa727a1-4819-427d-9a21-bad9c03d73ce&amp;doi=10.1021%2Facs.nanolett.6b00405" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00405%3Fprg140729%3Dd7d25362-2a43-4268-8a88-dae257a0a7a5&amp;doi=10.1021%2Facs.nanolett.6b00405" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00405%3Fprg140729%3D288284a0-6fcb-40c3-8840-09e25f5cf7dd&amp;title=Nonlinear+Terahertz+Absorption+of+Graphene+Plasmons&amp;doi=10.1021%2Facs.nanolett.6b00405" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00405%3Fprg140729%3Dc0abec69-8c3e-4f44-9535-1e09439933fd&amp;title=Nonlinear+Terahertz+Absorption+of+Graphene+Plasmons&amp;doi=10.1021%2Facs.nanolett.6b00405" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1240,8 +1230,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpi2JdfNOs4qLVg90H21EOLACvtfcHk0lgWgQpIURYO3Q&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXgc8JLZtr8ftrnDmCxc-CThi25Vg2O3MuIt3NVeVoRO&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpi2JdfNOs4qLVg90H21EOLACvtfcHk0liZ9FaunK4f6g&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXgc8JLZtr8ftrnDmCxc-CThi25Vg2O3MhbS-gKuivCq&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

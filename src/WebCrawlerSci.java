@@ -17,8 +17,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class WebCrawlerSci extends WebCrawler {
 
-	public void run(String path, StartingUrl s, boolean d, Config c, WebDriver wd) {
-		initialize(path, s, d, c, wd);
+	public void run(String path, StartingUrl s, boolean d, Config c, WebDriver wd, HashSet<String> cache) {
+		initialize(path, s, d, c, wd, cache);
 		while (this.lv < this.LEVEL_LIMIT) {
 			URL url = newURLs.poll();
 			this.curNum--;
@@ -49,10 +49,6 @@ public class WebCrawlerSci extends WebCrawler {
 	 * @param url
 	 */
 	private void GetProcessAdd(URL url) {
-		System.setProperty("webdriver.chrome.driver", config.cdp);
-		// WebDriver driver = new FirefoxDriver();
-		WebDriver driver = new ChromeDriver();
-		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.get(url.toString());
 
 		String res = driver.getPageSource();
@@ -68,7 +64,6 @@ public class WebCrawlerSci extends WebCrawler {
 			} catch (MalformedURLException e) {
 			}
 		}
-		driver.close();
 	}
 
 	/**

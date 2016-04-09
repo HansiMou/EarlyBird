@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="e5a308ec-b924-4dc5-a9de-77e6d5539f9a">
+<html lang="en" class="pb-page" data-request-id="294c9353-3491-49b8-ba4f-61b0eccb6aff">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jceaax.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.jced.6b00133;wgroup:string:ACHS website Group;journal:journal:jceaax;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00133%3Fprg140729%3D0a54c213-546e-432a-9681-8b0000416531" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.6b00133?prg140729=0a54c213-546e-432a-9681-8b0000416531&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.6b00133?prg140729=0a54c213-546e-432a-9681-8b0000416531">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00133%3Fprg140729%3Dc5962f2d-0f7e-4fb5-9a66-45953a0ee4eb" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.6b00133?prg140729=c5962f2d-0f7e-4fb5-9a66-45953a0ee4eb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.6b00133?prg140729=c5962f2d-0f7e-4fb5-9a66-45953a0ee4eb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -669,7 +669,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jced.5b00981" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jced.5b00941" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -933,17 +933,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Computer Simulations" href="#_i2"><span>Computer Simulations</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i9"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i16"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1063,6 +1052,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00901?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00901?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00477?src=recsys">Representation and Validation of Liquid Densities for Pure Compounds and Mixtures</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Diky</span>, <span class="entryAuthor normal hlFld-ContribAuthor">O’Connell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abildskov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kroenlein</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Frenkel</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>60</em> (12), pp 3545–3553</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Reliable correlation and prediction of liquid densities are important for designing chemical processes at normal and elevated pressures. A corresponding-states model from molecular theory was extended to yield a robust method for quality testing of ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00477?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00477?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00477?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00477?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jced.5b01002?src=recsys">Prediction of Radon-222 Phase Behavior by Monte Carlo Simulation</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
@@ -1078,22 +1083,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jced.5b01002?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b01002?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b01002?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b01007?src=recsys">Speed of Sound of Oxygen in Supercritical States up to 500 K and 100 MPa</a>
-                            <div class="achsLabel">
-                             Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dubberke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Riepold</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baumhögger</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Vrabec</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Oxygen is the second-most abundant element in the earth’s atmosphere and plays an important role in various engineering applications. The precise knowledge of its thermophysical properties is thus important. As a fully fledged thermodynamic property, the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b01007?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b01007?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b01007?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b01007?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1179,9 +1168,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jced.6b00133" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00133%3Fprg140729%3D9bec800d-bcdb-43d0-bb5d-f5caf422eaad&amp;doi=10.1021%2Facs.jced.6b00133" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00133%3Fprg140729%3D750250ef-60a5-4f40-bca1-948cee11772e&amp;doi=10.1021%2Facs.jced.6b00133" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00133%3Fprg140729%3D0a54c213-546e-432a-9681-8b0000416531&amp;title=Computer+Simulation+of+the+Characteristic+Curves+of+Pure+Fluids&amp;doi=10.1021%2Facs.jced.6b00133" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00133%3Fprg140729%3Dc5962f2d-0f7e-4fb5-9a66-45953a0ee4eb&amp;title=Computer+Simulation+of+the+Characteristic+Curves+of+Pure+Fluids&amp;doi=10.1021%2Facs.jced.6b00133" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

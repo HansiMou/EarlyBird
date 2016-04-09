@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="f405fd72-51f8-457b-86ba-a304418286fe">
+<html lang="en" class="pb-page" data-request-id="94990183-63a6-4449-a046-9cc17fee0fa5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;article:article:10.1021/acs.jproteome.6b00006;wgroup:string:ACHS website Group;journal:journal:jprobs;page:string:Article/Chapter View;issue:issue:10.1021/jprobs.ahead-of-print;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -148,8 +148,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00006%3Fprg140729%3Db8fb6bb5-851c-4734-a536-dcd7b109100c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00006?prg140729=b8fb6bb5-851c-4734-a536-dcd7b109100c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00006?prg140729=b8fb6bb5-851c-4734-a536-dcd7b109100c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00006%3Fprg140729%3Db1a2af65-416b-4096-a16b-16efde5f2fed" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00006?prg140729=b1a2af65-416b-4096-a16b-16efde5f2fed&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00006?prg140729=b1a2af65-416b-4096-a16b-16efde5f2fed">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -679,7 +679,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jproteome.5b01158" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jproteome.6b00257" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -974,18 +974,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i2"><span>Materials and Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i11"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i18"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i22"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1095,6 +1083,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00901?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.5b00901?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.6b00049?src=recsys">Novel Metabolite Biomarkers of Huntington’s Disease As Detected by High-Resolution Mass Spectrometry</a>
+                            <div class="achsLabel">
+                             Journal of Proteome Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Graham</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kumar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bahado-Singh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Robinson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mann</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Green</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Huntington’s disease (HD) is a fatal autosomal-dominant neurodegenerative disorder that affects approximately 3–10 people per 100 000 in the Western world. The median age of onset is 40 years, with death typically following 15–20 years later. In this ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jproteome.6b00049?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.6b00049?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00049?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.6b00049?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.5b04123?src=recsys">Phosphoproteomics in the Age of Rapid and Deep Proteome Profiling</a>
                             <div class="achsLabel">
                              Analytical Chemistry
@@ -1124,37 +1128,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00028?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.6b00028?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.6b00049?src=recsys">Novel Metabolite Biomarkers of Huntington’s Disease As Detected by High-Resolution Mass Spectrometry</a>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b00504?src=recsys">Effective Leveraging of Targeted Search Spaces for Improving Peptide Identification in Tandem Mass Spectrometry Based Proteomics</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Graham</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kumar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bahado-Singh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Robinson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mann</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Green</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shanmugam</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Nesvizhskii</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2015</span> <em>14</em> (12), pp 5169–5178</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Huntington’s disease (HD) is a fatal autosomal-dominant neurodegenerative disorder that affects approximately 3–10 people per 100 000 in the Western world. The median age of onset is 40 years, with death typically following 15–20 years later. In this ...</span>
+                             <span><span class="bold">Abstract:</span> In shotgun proteomics, peptides are typically identified using database searching, which involves scoring acquired tandem mass spectra against peptides derived from standard protein sequence databases such as Uniprot, Refseq, or Ensembl. In this strategy, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.6b00049?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jproteome.6b00049?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00049?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.6b00049?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b00859?src=recsys">Reproducibility of Differential Proteomic Technologies in CPTAC Fractionated Xenografts</a>
-                            <div class="achsLabel">
-                             Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tabb</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carr</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Clauser</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mertins</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chambers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Holman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zimmerman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gunawardena</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Davies</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ellis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Townsend</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boja</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ketchum</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kinsinger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mesri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rodriguez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McDermott</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Payne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Petyuk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rodland</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liebler</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>15</em> (3), pp 691–706</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The NCI Clinical Proteomic Tumor Analysis Consortium (CPTAC) employed a pair of reference xenograft proteomes for initial platform validation and ongoing quality control of its data collection for The Cancer Genome Atlas (TCGA) tumors. These two ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.5b00859?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jproteome.5b00859?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00859?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.5b00859?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jproteome.5b00504?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.5b00504?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00504?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.5b00504?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1240,9 +1228,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jproteome.6b00006" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00006%3Fprg140729%3D6b6b8f55-c056-4c5b-8b17-60224cb5c6b7&amp;doi=10.1021%2Facs.jproteome.6b00006" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00006%3Fprg140729%3D7b4e2d82-ffd5-4821-9b87-c150d27af2f8&amp;doi=10.1021%2Facs.jproteome.6b00006" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00006%3Fprg140729%3Db8fb6bb5-851c-4734-a536-dcd7b109100c&amp;title=The+Peripheral+Blood+Eosinophil+Proteome&amp;doi=10.1021%2Facs.jproteome.6b00006" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00006%3Fprg140729%3Db1a2af65-416b-4096-a16b-16efde5f2fed&amp;title=The+Peripheral+Blood+Eosinophil+Proteome&amp;doi=10.1021%2Facs.jproteome.6b00006" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

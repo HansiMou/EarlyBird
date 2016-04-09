@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="7ad0d72e-6833-4beb-92a8-050fb9526bec">
+<html lang="en" class="pb-page" data-request-id="d77db93c-3e75-4768-bfb0-0d135cf4c052">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jmcmar;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jmedchem.6b00063">
   <meta data-pb-head="head-widgets-start"> 
@@ -153,8 +153,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00063%3Fprg140729%3Dda59117d-46ba-4a51-b19e-bec0a7512731" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00063?prg140729=da59117d-46ba-4a51-b19e-bec0a7512731&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00063?prg140729=da59117d-46ba-4a51-b19e-bec0a7512731">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00063%3Fprg140729%3D7752b3a8-25ba-445b-812a-a746e160e4e6" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00063?prg140729=7752b3a8-25ba-445b-812a-a746e160e4e6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6b00063?prg140729=7752b3a8-25ba-445b-812a-a746e160e4e6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1014,6 +1014,20 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Chemistry" href="#_i2"><span>Chemistry</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Biological Evaluation" href="#_i11"><span>Biological Evaluation</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i14"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i17"><span>Conclusion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i18"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i51"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1084,6 +1098,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lassalas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lasfargeas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">James</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vijayendran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brunden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kozlowski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huryn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ballatore</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The replacement of a carboxylic acid with a surrogate structure, or (bio)-isostere, is a classical strategy in medicinal chemistry. The general underlying principle is that by maintaining the features of the carboxylic acid critical for biological ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01963?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsmedchemlett.5b00447?src=recsys">Discovery of Aryl Sulfonamides as Isoform-Selective Inhibitors of Na<sub>V</sub>1.7 with Efficacy in Rodent Pain Models</a>
                             <div class="achsLabel">
                              ACS Medicinal Chemistry Letters
@@ -1100,21 +1130,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsmedchemlett.5b00447?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsmedchemlett.5b00447?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">A Real-World Perspective on Molecular Design</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lassalas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lasfargeas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">James</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vijayendran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brunden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kozlowski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huryn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ballatore</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kuhn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bissantz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ceccarelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haap</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Körner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuglstatter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lerner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mattei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neidhart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pinard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudolph</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schulz-Gasch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Woltering</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stahl</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The replacement of a carboxylic acid with a surrogate structure, or (bio)-isostere, is a classical strategy in medicinal chemistry. The general underlying principle is that by maintaining the features of the carboxylic acid critical for biological ...</span>
+                             <span><span class="bold">Abstract:</span> We present a series of small molecule drug discovery case studies where computational methods were prospectively employed to impact Roche research projects, with the aim of highlighting those methods that provide real added value. Our brief accounts ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01963?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01875?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01875?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01875?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Integrating Everything: The Molecule Selection Toolkit, a System for Compound Prioritization in Drug Discovery</a>
                             <div class="achsLabel">
@@ -1132,53 +1162,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01338?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01338?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">How Beyond Rule of 5 Drugs and Clinical Candidates Bind to Their Targets</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01349?src=recsys">Ten Years of Medicinal Chemistry (2005–2014) in the <i>Journal of Medicinal Chemistry</i>: Country of Contributors, Topics, and Public–Private Partnerships</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Doak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dobritzsch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kihlberg</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>59</em> (6), pp 2312–2327</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> To improve discovery of drugs for difficult targets, the opportunities of chemical space beyond the rule of 5 (bRo5) were examined by retrospective analysis of a comprehensive set of structures for complexes between drugs and clinical candidates and their ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01286?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01286?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01286?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01947?src=recsys">Single Residue Substitutions That Confer Voltage-Gated Sodium Ion Channel Subtype Selectivity in the Na<sub>V</sub>1.7 Inhibitory Peptide GpTx-1</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Murray</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ligutti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Andrews</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poppe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Biswas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moyer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McDonough</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Miranda</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>59</em> (6), pp 2704–2717</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> There is interest in the identification and optimization of new molecular entities selectively targeting ion channels of therapeutic relevance. Peptide toxins represent a rich source of pharmacology for ion channels, and we recently reported GpTx-1 ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01947?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01947?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01947?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01947?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">A Real-World Perspective on Molecular Design</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kuhn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bissantz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ceccarelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haap</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Körner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuglstatter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lerner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mattei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neidhart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pinard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudolph</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schulz-Gasch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Woltering</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stahl</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Costantino</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Barlocco</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We present a series of small molecule drug discovery case studies where computational methods were prospectively employed to impact Roche research projects, with the aim of highlighting those methods that provide real added value. Our brief accounts ...</span>
+                             <span><span class="bold">Abstract:</span> This review analyzes the articles that have appeared during the past 10 years in the <i>Journal of Medicinal Chemistry</i>, the leading journal in the field of medicinal chemistry, to provide a picture of the changing trends in this research area. Our analysis ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01875?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01875?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01875?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01349?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01349?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01349?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01349?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01712?src=recsys">Structure–Activity Relationship Studies of Mitogen Activated Protein Kinase Interacting Kinase (MNK) 1 and 2 and BCR-ABL1 Inhibitors Targeting Chronic Myeloid Leukemic Cells</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cherian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nacro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jeyaraj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ho</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Joy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kwek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poulsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pendharkar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Manoharan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chew</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sangthongpitag</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hill</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Keller</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Clinically used BCR-ABL1 inhibitors for the treatment of chronic myeloid leukemia do not eliminate leukemic stem cells (LSC). It has been shown that MNK1 and 2 inhibitors prevent phosphorylation of eIF4E and eliminate the self-renewal capacity of LSCs. ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01712?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01712?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01712?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01712?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1264,9 +1278,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.6b00063" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00063%3Fprg140729%3Dc4f9b5ae-bcca-403a-8a88-db2f6527a5bb&amp;doi=10.1021%2Facs.jmedchem.6b00063" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00063%3Fprg140729%3D71c7f495-f5b9-4145-b25f-82b62abb0b1e&amp;doi=10.1021%2Facs.jmedchem.6b00063" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00063%3Fprg140729%3Dda59117d-46ba-4a51-b19e-bec0a7512731&amp;title=Substituted+Indazoles+as+Nav1.7+Blockers+for+the+Treatment+of+Pain&amp;doi=10.1021%2Facs.jmedchem.6b00063" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.6b00063%3Fprg140729%3D7752b3a8-25ba-445b-812a-a746e160e4e6&amp;title=Substituted+Indazoles+as+Nav1.7+Blockers+for+the+Treatment+of+Pain&amp;doi=10.1021%2Facs.jmedchem.6b00063" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

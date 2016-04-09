@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c4469ab9-9516-49aa-9bb5-69fd337bf6bf">
+<html lang="en" class="pb-page" data-request-id="8cc0bfcf-93fa-40ef-a674-1eb2b0d203f7">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;article:article:10.1021/acs.jpcc.5b03010;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b03010%3Fprg140729%3D5a301a57-607a-4558-aadf-690a7c13a64a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b03010?prg140729=5a301a57-607a-4558-aadf-690a7c13a64a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b03010?prg140729=5a301a57-607a-4558-aadf-690a7c13a64a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b03010%3Fprg140729%3Dead19bde-8f6b-4119-bbd9-2b25f880c9e4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b03010?prg140729=ead19bde-8f6b-4119-bbd9-2b25f880c9e4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b03010?prg140729=ead19bde-8f6b-4119-bbd9-2b25f880c9e4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -949,19 +949,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i6"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i22"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i28"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i31"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1046,22 +1033,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b04560?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b04560?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b05811?src=recsys">Atomic Structural Studies on Thin Single-Crystalline Misfit-Layered Nanotubes of TbS-CrS<sub>2</sub></a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Panchakarla</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lajaunie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tenne</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Arenal</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Various nanotubes from ternary misfit compounds have been reported in recent years. In the present work, the detailed atomic structure and chemical configuration of misfit-layered nanotubes based on the TbS-CrS<sub>2</sub> are reported. These analyses have been ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b05811?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b05811?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b05811?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b05811?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b05931?src=recsys">Quantitative Determination of the Raman Enhancement of Ag<sub>30</sub>(CO)<sub>25</sub> and Ag<sub>50</sub>(CO)<sub>40</sub> Matrix Isolated in Solid Carbon Monoxide</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1077,6 +1048,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcc.5b05931?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b05931?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b05931?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b05811?src=recsys">Atomic Structural Studies on Thin Single-Crystalline Misfit-Layered Nanotubes of TbS-CrS<sub>2</sub></a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Panchakarla</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lajaunie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tenne</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Arenal</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Various nanotubes from ternary misfit compounds have been reported in recent years. In the present work, the detailed atomic structure and chemical configuration of misfit-layered nanotubes based on the TbS-CrS<sub>2</sub> are reported. These analyses have been ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b05811?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b05811?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b05811?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b05811?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b03917?src=recsys">Reflection Microspectroscopic Study of Laser Trapping Assembling of Polystyrene Nanoparticles at Air/Solution Interface</a>
                             <div class="achsLabel">
@@ -1094,21 +1081,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b03917?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b03917?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b03234?src=recsys">In Situ FTIR and in Situ QMB Study of the Electrochemistry of Graphene Oxide on Platinum</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b05142?src=recsys">Exploration of the Copper Active Sites in Electrooxidation of Glucose on a Copper/Nitrogen Doped Graphene Nanocomposite</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pfaffeneder-Kmen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bausch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Trettenhahn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kautek</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The cathodic and anodic behavior of graphene oxide was investigated in aqueous suspensions on platinum. The anodic deposition relied on the polyanionic character of graphene oxide with increasing pH. It took place simultaneously with the oxidation of ...</span>
+                             <span><span class="bold">Abstract:</span> Fuel cells applying natural biomass as energy resources are considered to be one type of potential device to substitute traditional energy output of consuming fossil fuels. The practical use of such a device depends on the development of active ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b03234?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b03234?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b03234?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b03234?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b05142?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b05142?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b05142?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b05142?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1194,9 +1181,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b03010" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b03010%3Fprg140729%3D0d39dd07-bfa8-4007-88fa-1f6af4aee602&amp;doi=10.1021%2Facs.jpcc.5b03010" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b03010%3Fprg140729%3Dc7be6271-f699-477f-87fd-5ec178053cdc&amp;doi=10.1021%2Facs.jpcc.5b03010" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b03010%3Fprg140729%3D5a301a57-607a-4558-aadf-690a7c13a64a&amp;title=Mo-V-O+Based+Electrocatalysts+for+Low+Temperature+Alcohol+Oxidation&amp;doi=10.1021%2Facs.jpcc.5b03010" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b03010%3Fprg140729%3Dead19bde-8f6b-4119-bbd9-2b25f880c9e4&amp;title=Mo-V-O+Based+Electrocatalysts+for+Low+Temperature+Alcohol+Oxidation&amp;doi=10.1021%2Facs.jpcc.5b03010" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1219,9 +1206,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoX0K6nIE1o67Vg90H21EOLACvtfcHk0ljdRLlOwEr03A&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaENDp4soaFyItQwD9OmoEd1mgaLEiOMsXXQboOvl8UOg&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSdGMk9323aeXtrnDmCxc-CThi25Vg2O3MmiEZYd8HnPm&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoX0K6nIE1o67Vg90H21EOLACvtfcHk0ljRZ8nqOHP0bg&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaENDp4soaFyItQwD9OmoEd1-UP3qNssBx-IX_EdaUVLa&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSdGMk9323aeXtrnDmCxc-CThi25Vg2O3MiqmKQd0GQtC&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

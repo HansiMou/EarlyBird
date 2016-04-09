@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="54f837b6-8444-4c59-822e-94acecf666a0">
+<html lang="en" class="pb-page" data-request-id="0034de16-1ff8-4b0f-8736-f2695f8989c6">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jmedchem.5b01549;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jmcmar;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -153,8 +153,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01549%3Fprg140729%3D1b7b83a9-bf46-40bb-a706-7a2533b921a1" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01549?prg140729=1b7b83a9-bf46-40bb-a706-7a2533b921a1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01549?prg140729=1b7b83a9-bf46-40bb-a706-7a2533b921a1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01549%3Fprg140729%3D5ec66d32-2f34-4ecb-8193-876ab30828cc" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01549?prg140729=5ec66d32-2f34-4ecb-8193-876ab30828cc&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01549?prg140729=5ec66d32-2f34-4ecb-8193-876ab30828cc">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1030,6 +1030,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i12"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i13"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i42"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1163,37 +1175,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01828?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01828?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Integrating Everything: The Molecule Selection Toolkit, a System for Compound Prioritization in Drug Discovery</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b02025?src=recsys">Discovery of a 9-mer Cationic Peptide (LTX-315) as a Potential First in Class Oncolytic Peptide</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cummins</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Bell</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Haug</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Camilio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Eliassen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stensen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Svendsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Berg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mortensen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Serin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mirjolet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bichat</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Rekdal</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In recent years there have been numerous papers on the topic of multiattribute optimization in pharmaceutical discovery chemistry, applied to compound prioritization. Many solutions proposed are static in nature; fixed functions are proposed for general ...</span>
+                             <span><span class="bold">Abstract:</span> Oncolytic immunotherapies represent a new promising strategy in the treatment of cancer. In our efforts to develop oncolytic peptides, we identified a series of chemically modified 9-mer cationic peptides that were highly effective against both drug-...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01338?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01338?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01338?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01338?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b02025?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b02025?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b02025?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b02025?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">A Real-World Perspective on Molecular Design</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b02029?src=recsys">Discovery of a Novel, Orally Efficacious Liver X Receptor (LXR) β Agonist</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kuhn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bissantz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ceccarelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haap</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Körner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuglstatter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lerner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mattei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neidhart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pinard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudolph</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schulz-Gasch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Woltering</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stahl</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhuang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tice</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lotesta</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leftheris</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lindblom</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shimada</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Noto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hardy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Howard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krosky</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lipinski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kandpal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bukhtiyarov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lala</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Van Orden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McKeever</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McGeehan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gregg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Claremon</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Singh</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We present a series of small molecule drug discovery case studies where computational methods were prospectively employed to impact Roche research projects, with the aim of highlighting those methods that provide real added value. Our brief accounts ...</span>
+                             <span><span class="bold">Abstract:</span> This article describes the application of Contour to the design and discovery of a novel, potent, orally efficacious liver X receptor β (LXRβ) agonist (<b>17</b>). Contour technology is a structure-based drug design platform that generates molecules using a ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01875?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01875?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01875?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b02029?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b02029?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b02029?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b02029?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1279,9 +1291,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.5b01549" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01549%3Fprg140729%3D6da83b87-679a-4b95-a279-cea1cb30e13d&amp;doi=10.1021%2Facs.jmedchem.5b01549" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01549%3Fprg140729%3D0fd6e1da-f84c-49f8-9bcb-bd8ed1646b2f&amp;doi=10.1021%2Facs.jmedchem.5b01549" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01549%3Fprg140729%3D1b7b83a9-bf46-40bb-a706-7a2533b921a1&amp;title=Discovery+and+Structure%E2%80%93Activity+Relationship+of+a+Bioactive+Fragment+of+ELABELA+that+Modulates+Vascular+and+Cardiac+Functions&amp;doi=10.1021%2Facs.jmedchem.5b01549" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01549%3Fprg140729%3D5ec66d32-2f34-4ecb-8193-876ab30828cc&amp;title=Discovery+and+Structure%E2%80%93Activity+Relationship+of+a+Bioactive+Fragment+of+ELABELA+that+Modulates+Vascular+and+Cardiac+Functions&amp;doi=10.1021%2Facs.jmedchem.5b01549" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

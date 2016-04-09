@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="9bccb420-1206-4fd8-a9ce-aa0cd44fe9ed">
+<html lang="en" class="pb-page" data-request-id="1b1c9cdf-09fd-4ec2-a11e-d3bafb4789f5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:inocaj;pageGroup:string:Publication Pages;issue:issue:10.1021/inocaj.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.inorgchem.6b00517">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00517%3Fprg140729%3D0ee45e5d-ba84-4b09-8c49-eec31c4efec3" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00517?prg140729=0ee45e5d-ba84-4b09-8c49-eec31c4efec3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00517?prg140729=0ee45e5d-ba84-4b09-8c49-eec31c4efec3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00517%3Fprg140729%3Dfe14e1a5-cdce-44df-a7c3-aecedf45273d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00517?prg140729=fe14e1a5-cdce-44df-a7c3-aecedf45273d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00517?prg140729=fe14e1a5-cdce-44df-a7c3-aecedf45273d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -955,14 +955,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i4"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1022,6 +1014,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/jacs.6b02203?src=recsys">Electronic, Crystal Chemistry, and Nonlinear Optical Property Relationships in the Dugganite A<sub>3</sub>B<sub>3</sub>CD<sub>2</sub>O<sub>14</sub> Family</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Young</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rondinelli</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Halasyamani</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A family of six nonlinear optical (NLO) materials, A<sub>3</sub>B<sub>3</sub>CD<sub>2</sub>O<sub>14</sub> (A = Sr, Ba, or Pb; B = Mg or Zn; C = Te or W; and D = P or V), has been synthesized and characterized. In addition to the synthesis and crystal structures, comprehensive characterization of ...<sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b02203?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b02203?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b02203?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b02203?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.inorgchem.6b00293?src=recsys">Hydrolytically Stable Nanoporous Thorium Mixed Phosphite and Pyrophosphate Framework Generated from Redox-Active Ionothermal Reactions</a>
                             <div class="achsLabel">
                              Inorganic Chemistry
@@ -1054,38 +1062,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.inorgchem.6b00127?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.inorgchem.6b00127?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.inorgchem.6b00247?src=recsys">Crystal Structure, Electronic Structure, and Photocatalytic Activity of Oxysulfides: La<sub>2</sub>Ta<sub>2</sub>ZrS<sub>2</sub>O<sub>8</sub>, La<sub>2</sub>Ta<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub>, and La<sub>2</sub>Nb<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub></a>
-                            <div class="achsLabel">
-                             Inorganic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Goto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Seo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kumamoto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hisatomi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mizuguchi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kamihara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Katayama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Minegishi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Domen</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>55</em> (7), pp 3674–3679</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The novel oxysulfides La<sub>2</sub>Ta<sub>2</sub>ZrS<sub>2</sub>O<sub>8</sub> (LTZSO), La<sub>2</sub>Ta<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub> (LTTSO), and La<sub>2</sub>Nb<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub> (LNTSO) were synthesized, and their crystal structures, electronic structures, and photocatalytic activities for water splitting under visible light were investigated. ...The novel oxysulfides La<sub>2</sub>Ta<sub>2</sub>ZrS<sub>2</sub>O<sub>8</sub>, La<sub>2</sub>Ta<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub>, and La<sub>2</sub>Nb<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub> were synthesized, and their crystal structures, electronic structures, and photocatalytic activities for water splitting under visible light were investigated. A crystal structure analysis using SXRD indicated the presence of antisite defects at transition metal ion sites. LTZSO was revealed to be active in the oxygen evolution reaction from aqueous solution containing a sacrificial electron acceptor under visible-light illumination.</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.inorgchem.6b00247?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.inorgchem.6b00247?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.6b00247?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.inorgchem.6b00247?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02900?src=recsys">The New Superconductor t<i>P</i>-SrPd<sub>2</sub>Bi<sub>2</sub>: Structural Polymorphism and Superconductivity in Intermetallics</a>
-                            <div class="achsLabel">
-                             Inorganic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Seibel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cava</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>55</em> (7), pp 3203–3205</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We consider a system where structural polymorphism suggests the possible existence of superconductivity through the implied structural instability. SrPd<sub>2</sub>Bi<sub>2</sub> has two polymorphs, which can be controlled by the synthesis temperature: a tetragonal form (CaBe<sub>2</sub>...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub>Structural polymorphism suggests the possible existence of superconductivity through the implied structural instability. SrPd<sub>2</sub>Bi<sub>2</sub> has two polymorphs, which can be controlled by the synthesis temperature: a tetragonal form (CaBe<sub>2</sub>Ge<sub>2</sub>-type) and a monoclinic form (BaAu<sub>2</sub>Sb<sub>2</sub>-type). We show that tetragonal SrPd<sub>2</sub>Bi<sub>2</sub> is superconducting at 2.0 K, whereas monoclinic SrPd<sub>2</sub>Bi<sub>2</sub> is not.</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.inorgchem.5b02900?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.inorgchem.5b02900?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02900?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.inorgchem.5b02900?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00436?src=recsys">Designing a Beryllium-Free Deep-Ultraviolet Nonlinear Optical Material without a Structural Instability Problem</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1102,21 +1078,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00436?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00436?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b02203?src=recsys">Electronic, Crystal Chemistry, and Nonlinear Optical Property Relationships in the Dugganite A<sub>3</sub>B<sub>3</sub>CD<sub>2</sub>O<sub>14</sub> Family</a>
+                           <li><a href="/doi/abs/10.1021/acs.inorgchem.6b00247?src=recsys">Crystal Structure, Electronic Structure, and Photocatalytic Activity of Oxysulfides: La<sub>2</sub>Ta<sub>2</sub>ZrS<sub>2</sub>O<sub>8</sub>, La<sub>2</sub>Ta<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub>, and La<sub>2</sub>Nb<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub></a>
                             <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Young</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rondinelli</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Halasyamani</span> 
+                             Inorganic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Goto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Seo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kumamoto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hisatomi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mizuguchi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kamihara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Katayama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Minegishi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Domen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>55</em> (7), pp 3674–3679</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The novel oxysulfides La<sub>2</sub>Ta<sub>2</sub>ZrS<sub>2</sub>O<sub>8</sub> (LTZSO), La<sub>2</sub>Ta<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub> (LTTSO), and La<sub>2</sub>Nb<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub> (LNTSO) were synthesized, and their crystal structures, electronic structures, and photocatalytic activities for water splitting under visible light were investigated. ...The novel oxysulfides La<sub>2</sub>Ta<sub>2</sub>ZrS<sub>2</sub>O<sub>8</sub>, La<sub>2</sub>Ta<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub>, and La<sub>2</sub>Nb<sub>2</sub>TiS<sub>2</sub>O<sub>8</sub> were synthesized, and their crystal structures, electronic structures, and photocatalytic activities for water splitting under visible light were investigated. A crystal structure analysis using SXRD indicated the presence of antisite defects at transition metal ion sites. LTZSO was revealed to be active in the oxygen evolution reaction from aqueous solution containing a sacrificial electron acceptor under visible-light illumination.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.inorgchem.6b00247?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.inorgchem.6b00247?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.6b00247?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.inorgchem.6b00247?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00551?src=recsys">Phase Transition, Conformational Exchange, and Nonlinear Optical Third Harmonic Generation of <i>A</i>CsP<sub>2</sub>Se<sub>8</sub> (<i>A</i> = K, Rb, Cs)</a>
+                            <div class="achsLabel">
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Haynes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banerjee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saouma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Otieno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kanatzidis</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A family of six nonlinear optical (NLO) materials, A<sub>3</sub>B<sub>3</sub>CD<sub>2</sub>O<sub>14</sub> (A = Sr, Ba, or Pb; B = Mg or Zn; C = Te or W; and D = P or V), has been synthesized and characterized. In addition to the synthesis and crystal structures, comprehensive characterization of ...<sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> The soluble molecular selenophosphate salts <i>A</i>CsP<sub>2</sub>Se<sub>8</sub> (<i>A</i> = K, Rb, Cs) crystallize in the orthorhombic space group <i>Ccce</i> with <i>a</i> = 14.982(3) Å, <i>b</i> = 24.579(5) Å, and <i>c</i> = 13.065(3) Å for the Cs salt and <i>a</i> = 14.782(3) Å, <i>b</i> = 23.954(5) Å, and <i>c</i> = 13.044(3) Å for ...<sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b02203?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b02203?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b02203?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b02203?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.chemmater.6b00551?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.6b00551?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00551?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00551?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1202,9 +1194,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.inorgchem.6b00517" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00517%3Fprg140729%3Dd63e924d-d43c-444d-aad5-e5b6c78ce9be&amp;doi=10.1021%2Facs.inorgchem.6b00517" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00517%3Fprg140729%3Dedb5a230-10e9-4e8e-8f50-3c19027ee764&amp;doi=10.1021%2Facs.inorgchem.6b00517" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00517%3Fprg140729%3D0ee45e5d-ba84-4b09-8c49-eec31c4efec3&amp;title=Midinfrared+Nonlinear+Optical+Thiophosphates+from+LiZnPS4+to+AgZnPS4%3A+A+Combined+Experimental+and+Theoretical+Study&amp;doi=10.1021%2Facs.inorgchem.6b00517" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00517%3Fprg140729%3Dfe14e1a5-cdce-44df-a7c3-aecedf45273d&amp;title=Midinfrared+Nonlinear+Optical+Thiophosphates+from+LiZnPS4+to+AgZnPS4%3A+A+Combined+Experimental+and+Theoretical+Study&amp;doi=10.1021%2Facs.inorgchem.6b00517" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="bfbbba01-d929-4819-a964-ac28f5bb464c">
+<html lang="en" class="pb-page" data-request-id="dd21344a-311d-4c1a-8992-33be94e74a4c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acschembio.5b01045;pageGroup:string:Publication Pages;issue:issue:10.1021/acbcct.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:acbcct;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01045%3Fprg140729%3D9aa12440-8858-4a6c-ba2a-a1741c6b80e5" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b01045?prg140729=9aa12440-8858-4a6c-ba2a-a1741c6b80e5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b01045?prg140729=9aa12440-8858-4a6c-ba2a-a1741c6b80e5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01045%3Fprg140729%3Df8941be2-290a-4fbd-897b-7296f51ada18" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b01045?prg140729=f8941be2-290a-4fbd-897b-7296f51ada18&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b01045?prg140729=f8941be2-290a-4fbd-897b-7296f51ada18">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1084,22 +1084,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b02008?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b02008?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01684?src=recsys">Role of Molecular Dynamics and Related Methods in Drug Discovery</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">De Vivo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Masetti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bottegoni</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cavalli</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Molecular dynamics (MD) and related methods are close to becoming routine computational tools for drug discovery. Their main advantage is in explicitly treating structural flexibility and entropic effects. This allows a more accurate estimate of the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01684?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01684?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01684?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01684?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acschembio.6b00029?src=recsys">Analysis of Iterative Screening with Stepwise Compound Selection Based on Novartis In-house HTS Data</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
@@ -1116,21 +1100,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acschembio.6b00029?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.6b00029?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01921?src=recsys">Avoiding Missed Opportunities by Analyzing the Sensitivity of Our Decisions</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01684?src=recsys">Role of Molecular Dynamics and Related Methods in Drug Discovery</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Segall</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yusof</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Champness</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">De Vivo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Masetti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bottegoni</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cavalli</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Drug discovery is a multiparameter optimization process in which the goal of a project is to identify compounds that meet multiple property criteria required to achieve a therapeutic objective. However, once a profile of property criteria has been chosen, ...</span>
+                             <span><span class="bold">Abstract:</span> Molecular dynamics (MD) and related methods are close to becoming routine computational tools for drug discovery. Their main advantage is in explicitly treating structural flexibility and entropic effects. This allows a more accurate estimate of the ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01921?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01921?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01921?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01921?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01684?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01684?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01684?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01684?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acschembio.5b00712?src=recsys">Proposed Mode of Binding and Action of Positive Allosteric Modulators at Opioid Receptors</a>
+                            <div class="achsLabel">
+                             ACS Chemical Biology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yeatman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Provasi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Christopoulos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Canals</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Filizola</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Available crystal structures of opioid receptors provide a high-resolution picture of ligand binding at the primary (“orthosteric”) site, that is, the site targeted by endogenous ligands. Recently, positive allosteric modulators of opioid receptors have ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acschembio.5b00712?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.5b00712?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acschembio.5b00712?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acschembio.5b00712?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1216,9 +1216,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facschembio.5b01045" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01045%3Fprg140729%3Db820c762-a364-4a9c-8213-7679261f7057&amp;doi=10.1021%2Facschembio.5b01045" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01045%3Fprg140729%3D5b32fb97-3c91-40d0-86cb-0fbe16c539ad&amp;doi=10.1021%2Facschembio.5b01045" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01045%3Fprg140729%3D9aa12440-8858-4a6c-ba2a-a1741c6b80e5&amp;title=Application+of+an+Integrated+GPCR+SAR-Modeling+Platform+To+Explain+the+Activation+Selectivity+of+Human+5-HT2C+over+5-HT2B&amp;doi=10.1021%2Facschembio.5b01045" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01045%3Fprg140729%3Df8941be2-290a-4fbd-897b-7296f51ada18&amp;title=Application+of+an+Integrated+GPCR+SAR-Modeling+Platform+To+Explain+the+Activation+Selectivity+of+Human+5-HT2C+over+5-HT2B&amp;doi=10.1021%2Facschembio.5b01045" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1255,9 +1255,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrAVlxxlCmkN7Vg90H21EOLACvtfcHk0lhm9dkxYq7P0A&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGF-hn3v8XclTtQwD9OmoEd2hhCdre2jfTH6AC0ICuD5H&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXqeh5GpQv1GtrnDmCxc-CThi25Vg2O3MppDE-FReBdT&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrAVlxxlCmkN7Vg90H21EOLACvtfcHk0ljo5ZJOzEkSxA&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGF-hn3v8XclTtQwD9OmoEd2nlz6cjyUEMvfg6o24zQrS&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXqeh5GpQv1GtrnDmCxc-CThi25Vg2O3MrOB1_ANgrgo&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

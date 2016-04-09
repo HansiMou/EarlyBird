@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="98e4e299-e499-4891-bed0-9fcc04a643a6">
+<html lang="en" class="pb-page" data-request-id="2c8afebc-5e35-43e5-8c2c-a0a6941edc41">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/jacs.6b00705;issue:issue:10.1021/jacsat.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jacsat;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00705%3Fprg140729%3D3289f6be-5c17-4d30-b5f5-7e79b295d98d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b00705?prg140729=3289f6be-5c17-4d30-b5f5-7e79b295d98d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b00705?prg140729=3289f6be-5c17-4d30-b5f5-7e79b295d98d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00705%3Fprg140729%3D1d49ccad-f8a8-4846-8f53-cfae44d84226" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b00705?prg140729=1d49ccad-f8a8-4846-8f53-cfae44d84226&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b00705?prg140729=1d49ccad-f8a8-4846-8f53-cfae44d84226">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -670,16 +670,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.6b00092" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/jacs.6b00712" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jacsat/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -988,53 +978,69 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00819?src=recsys">Metal-Free sp<sup>2</sup>-C–H Borylation as a Common Reactivity Pattern of Frustrated 2-Aminophenylboranes</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01349?src=recsys">Boron-Catalyzed Aromatic C–H Bond Silylation with Hydrosilanes</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chernichenko</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lindqvist</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kótai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nieger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sorochkina</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pápai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Repo</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hou</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3663–3666</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Metal-free catalytic C–H silylation of a series of aromatic compounds such as <i>N</i>,<i>N</i>-disubstituted anilines with various hydrosilanes has been achieved for the first time using commercially available B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> as a catalyst. This protocol features simple and ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01349?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01349?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01349?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01349?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b13501?src=recsys">Enantioselective Intermolecular Enamide–Aldehyde Cross-Coupling Catalyzed by Chiral <i>N</i>-Heterocyclic Carbenes</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> C–H borylation is a powerful and atom-efficient method for converting affordable and abundant chemicals into versatile organic reagents used in the production of fine chemicals and functional materials. Herein we report a facile C–H borylation of aromatic ...<sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> The unprecedented <i>N</i>-heterocyclic carbene (NHC)-catalyzed intermolecular cross-coupling of enamides and aldehydes is described. Upon exposure of enamides to aldehydes in the presence of a NHC catalyst, catalytic C–C bond formation occurs, providing highly ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00819?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00819?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00819?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00819?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b13501?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b13501?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b13501?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b13501?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00016?src=recsys">Bimetallic C–C Bond-Forming Reductive Elimination from Nickel</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b02032?src=recsys">Ph(<i>i</i>-PrO)SiH<sub>2</sub>: An Exceptional Reductant for Metal-Catalyzed Hydrogen Atom Transfers</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Diccianni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Katigbak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Diao</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Obradors</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Martinez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shenvi</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Ni-catalyzed cross-coupling reactions have found important applications in organic synthesis. The fundamental characterization of the key steps in cross-coupling reactions, including C–C bond-forming reductive elimination, represents a significant ...<sup></sup><sup></sup><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> We report the discovery of an outstanding reductant for metal-catalyzed radical hydrofunctionalization reactions. Observations of unexpected silane solvolysis distributions in the HAT-initiated hydrogenation of alkenes reveal that phenylsilane is not the ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00016?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00016?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00016?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00016?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b02032?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b02032?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b02032?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b02032?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00325?src=recsys">Selective Oxidation of an Active Intramolecular Amine/Borane Frustrated Lewis Pair with Dioxygen</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01728?src=recsys">Enantioselective Photocatalytic [3 + 2] Cycloadditions of Aryl Cyclopropyl Ketones</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kehr</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grimme</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Daniliuc</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Erker</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Amador</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sherbrook</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yoon</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4302–4305</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Oxidation reactions are rarely encountered in frustrated Lewis pair (FLP) chemistry. We describe the selective reaction of an amine/borane FLP with molecular oxygen. The trimethylene-bridged amine/borane frustrated Lewis pair was prepared by hydroboration ...<sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Control of stereochemistry in photocycloaddition reactions remains a substantial challenge; almost all successful catalytic examples to date have involved [2 + 2] photocycloadditions of enones. We report a method for the asymmetric [3 + 2] ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00325?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00325?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00325?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00325?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b01728?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01728?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01728?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01728?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00207?src=recsys">Regio- and Enantioselective Synthesis of Azole Hemiaminal Esters by Lewis Base Catalyzed Dynamic Kinetic Resolution</a>
                             <div class="achsLabel">
@@ -1052,37 +1058,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00207?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00207?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b13545?src=recsys">“Inverse” Frustrated Lewis Pairs – Activation of Dihydrogen with Organosuperbases and Moderate to Weak Lewis Acids</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00250?src=recsys">Practical Ni-Catalyzed Aryl–Alkyl Cross-Coupling of Secondary Redox-Active Esters</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mummadi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Unruh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Krempner</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cornella</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Edwards</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kawamura</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gianatassio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schmidt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Eastgate</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Baran</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (10), pp 3286–3289</span>
+                             <span><span class="bold">2016</span> <em>138</em> (7), pp 2174–2177</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A new approach to intermolecular frustrated Lewis pairs (FLPs) that combines readily available bulky organosuperbases with moderate to weak boron-containing Lewis acids is reported. These so-called “inverse” FLPs are demonstrated to heterolytically cleave ...</span>
+                             <span><span class="bold">Abstract:</span> A new transformation is presented that enables chemists to couple simple alkyl carboxylic acids with aryl zinc reagents under Ni-catalysis. The success of this reaction hinges on the unique use of redox-active esters that allow one to employ such ...<sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b13545?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b13545?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b13545?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b13545?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01349?src=recsys">Boron-Catalyzed Aromatic C–H Bond Silylation with Hydrosilanes</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hou</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3663–3666</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Metal-free catalytic C–H silylation of a series of aromatic compounds such as <i>N</i>,<i>N</i>-disubstituted anilines with various hydrosilanes has been achieved for the first time using commercially available B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> as a catalyst. This protocol features simple and ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01349?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01349?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01349?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01349?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b00250?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00250?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00250?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00250?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1135,7 +1125,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/jacs.6b00705" title="High-Res PDF: 2765 KB" target="_blank"> PDF <span class="details">(2765 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b00705" title="Low-Res PDF: 890 KB" target="_blank"> PDF w/ Links <span class="details">(890 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b00705" title="Low-Res PDF: 845 KB" target="_blank"> PDF w/ Links <span class="details">(845 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/jacs.6b00705" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1168,9 +1158,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.6b00705" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00705%3Fprg140729%3Da6645668-58ea-460c-bbf3-779ffee73709&amp;doi=10.1021%2Fjacs.6b00705" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00705%3Fprg140729%3D4c568cae-5385-4b61-a9e3-2f0e5c5f0513&amp;doi=10.1021%2Fjacs.6b00705" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00705%3Fprg140729%3D3289f6be-5c17-4d30-b5f5-7e79b295d98d&amp;title=Transition-Metal+Oxos+as+the+Lewis+Basic+Component+of+Frustrated+Lewis+Pairs&amp;doi=10.1021%2Fjacs.6b00705" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00705%3Fprg140729%3D1d49ccad-f8a8-4846-8f53-cfae44d84226&amp;title=Transition-Metal+Oxos+as+the+Lewis+Basic+Component+of+Frustrated+Lewis+Pairs&amp;doi=10.1021%2Fjacs.6b00705" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

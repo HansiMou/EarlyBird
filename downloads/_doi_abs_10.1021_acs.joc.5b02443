@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a04c98a9-39df-4535-8e0f-356ab25fde09">
+<html lang="en" class="pb-page" data-request-id="785faf81-d317-4fe1-a080-5afc0147069a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.joc.5b02443;website:website:acspubs;issue:issue:10.1021/joceah.ahead-of-print;journal:journal:joceah;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02443%3Fprg140729%3D3b85aae6-1b5b-4ed0-9c76-a982b99f5fd8" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02443?prg140729=3b85aae6-1b5b-4ed0-9c76-a982b99f5fd8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02443?prg140729=3b85aae6-1b5b-4ed0-9c76-a982b99f5fd8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02443%3Fprg140729%3Dbb8d1c82-b036-49f9-bdfa-8896986b157e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02443?prg140729=bb8d1c82-b036-49f9-bdfa-8896986b157e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02443?prg140729=bb8d1c82-b036-49f9-bdfa-8896986b157e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -945,6 +945,15 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i10"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i61"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1034,6 +1043,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.joc.5b02843?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.joc.5b02843?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.joc.5b02516?src=recsys">Metal-Free Tandem Oxidative Coupling of Primary Alcohols with Azoles for the Synthesis of Hemiaminal Ethers</a>
+                            <div class="achsLabel">
+                             The Journal of Organic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mathan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Pan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A novel metal-free tandem oxidative coupling process for the synthesis of hemiaminal ethers has been developed. This protocol could be applied for the C–N bond formation of electron-deficient trizoles, tetrazoles, carbazoles and indazoles with primary ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.joc.5b02516?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.5b02516?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.5b02516?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.5b02516?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.joc.6b00020?src=recsys">Alkyne [2 + 2 + 2]-Cyclotrimerization Approach for Synthesis of 6,7-Cyclopropylallocolchicinoids</a>
                             <div class="achsLabel">
                              The Journal of Organic Chemistry
@@ -1066,37 +1091,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.joc.5b02810?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.joc.5b02810?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.joc.5b02516?src=recsys">Metal-Free Tandem Oxidative Coupling of Primary Alcohols with Azoles for the Synthesis of Hemiaminal Ethers</a>
+                           <li><a href="/doi/abs/10.1021/acs.joc.6b00166?src=recsys">Synthesis of Indeno[1′,2′:4,5]imidazo[1,2-<i>a</i>]pyridin-11-ones and Chromeno[4′,3′:4,5]imidazo[1,2-<i>a</i>]pyridin-6-ones through Palladium-Catalyzed Cascade Reactions of 2-(2-Bromophenyl)imidazo[1,2-<i>a</i>]pyridines</a>
                             <div class="achsLabel">
                              The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mathan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Pan</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Fan</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A novel metal-free tandem oxidative coupling process for the synthesis of hemiaminal ethers has been developed. This protocol could be applied for the C–N bond formation of electron-deficient trizoles, tetrazoles, carbazoles and indazoles with primary ...</span>
+                             <span><span class="bold">Abstract:</span> A novel and efficient synthesis of 11<i>H</i>-indeno[1′,2′:4,5]imidazo[1,2-<i>a</i>]pyridin-11-one, a hybrid structure of indenone with imidazo[1,2-<i>a</i>]pyridine, from the reaction of 2-(2-bromophenyl)imidazo[1,2-<i>a</i>]pyridine with carbon monoxide through palladium-catalyzed ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.5b02516?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.5b02516?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.5b02516?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.5b02516?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.joc.6b00236?src=recsys">Cu(I)-Catalyzed Synthesis of Furan-Substituted Allenes by Use of Conjugated Ene-yne Ketones as Carbene Precursors</a>
-                            <div class="achsLabel">
-                             The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The synthesis of furan-substituted allenes using conjugated ene-yne ketones as carbene source has been developed. For this reaction, bases play vital roles in controlling the reaction pathways, allowing for access to two types of allene products through ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.6b00236?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.6b00236?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00236?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.6b00236?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.joc.6b00166?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.6b00166?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00166?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.6b00166?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1182,9 +1191,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.joc.5b02443" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02443%3Fprg140729%3D232db98d-522a-4dec-bee1-bbe89dfdecd7&amp;doi=10.1021%2Facs.joc.5b02443" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02443%3Fprg140729%3D94f960f1-fb8e-4559-9bcb-9f185b349045&amp;doi=10.1021%2Facs.joc.5b02443" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02443%3Fprg140729%3D3b85aae6-1b5b-4ed0-9c76-a982b99f5fd8&amp;title=Intramolecular+Functionalization+of+Benzylic+Methylene+Adjacent+to+the+Ring+Nitrogen+Atom+in+N-Aryltetrahydroisoquinoline+Derivatives&amp;doi=10.1021%2Facs.joc.5b02443" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02443%3Fprg140729%3Dbb8d1c82-b036-49f9-bdfa-8896986b157e&amp;title=Intramolecular+Functionalization+of+Benzylic+Methylene+Adjacent+to+the+Ring+Nitrogen+Atom+in+N-Aryltetrahydroisoquinoline+Derivatives&amp;doi=10.1021%2Facs.joc.5b02443" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

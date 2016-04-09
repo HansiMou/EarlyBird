@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ec7890aa-6d16-46d7-b014-3a0191040d10">
+<html lang="en" class="pb-page" data-request-id="b7b7c389-b558-4eae-985b-f0dbb4e3022e">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/amlccd.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acsmacrolett.6b00137;journal:journal:amlccd;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmacrolett.6b00137%3Fprg140729%3Da0c8a741-d7e3-4718-b53f-8c529448fe26" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmacrolett.6b00137?prg140729=a0c8a741-d7e3-4718-b53f-8c529448fe26&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmacrolett.6b00137?prg140729=a0c8a741-d7e3-4718-b53f-8c529448fe26">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmacrolett.6b00137%3Fprg140729%3D960f8925-b7c4-4271-bb13-796579754e4a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmacrolett.6b00137?prg140729=960f8925-b7c4-4271-bb13-796579754e4a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmacrolett.6b00137?prg140729=960f8925-b7c4-4271-bb13-796579754e4a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1070,22 +1070,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsmacrolett.6b00121?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsmacrolett.6b00121?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsmacrolett.5b00913?src=recsys">Synthesis of an Amphiphilic Miktoarm Star Terpolymer for Self-Assembly into Patchy Polymersomes</a>
-                            <div class="achsLabel">
-                             ACS Macro Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gaitzsch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chudasama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morecroft</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Messager</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Battaglia</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>5</em> (3), pp 351–354</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Herein we report the synthesis of an amphiphilic miktoarm star terpolymer and combine it with an equivalent diblock copolymer to form polymersomes with controlled surface topology. The three branches are ligated onto a central maleimide moiety in a ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsmacrolett.5b00913?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsmacrolett.5b00913?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsmacrolett.5b00913?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsmacrolett.5b00913?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b12408?src=recsys">Selective Photoactivation: From a Single Unit Monomer Insertion Reaction to Controlled Polymer Architectures</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1102,21 +1086,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b12408?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b12408?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02602?src=recsys">A Critical Appraisal of RAFT-Mediated Polymerization-Induced Self-Assembly</a>
+                           <li><a href="/doi/abs/10.1021/acsmacrolett.5b00913?src=recsys">Synthesis of an Amphiphilic Miktoarm Star Terpolymer for Self-Assembly into Patchy Polymersomes</a>
                             <div class="achsLabel">
-                             Macromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Canning</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Armes</span> 
+                             ACS Macro Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gaitzsch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chudasama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morecroft</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Messager</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Battaglia</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>49</em> (6), pp 1985–2001</span>
+                             <span><span class="bold">2016</span> <em>5</em> (3), pp 351–354</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Recently, polymerization-induced self-assembly (PISA) has become widely recognized as a robust and efficient route to produce block copolymer nanoparticles of controlled size, morphology, and surface chemistry. Several reviews of this field have been ...</span>
+                             <span><span class="bold">Abstract:</span> Herein we report the synthesis of an amphiphilic miktoarm star terpolymer and combine it with an equivalent diblock copolymer to form polymersomes with controlled surface topology. The three branches are ligated onto a central maleimide moiety in a ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.macromol.5b02602?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.macromol.5b02602?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02602?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.macromol.5b02602?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsmacrolett.5b00913?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmacrolett.5b00913?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmacrolett.5b00913?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmacrolett.5b00913?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsmacrolett.6b00099?src=recsys">Surface-Initiated ARGET ATRP of Poly(Glycidyl Methacrylate) from Carbon Nanotubes via Bioinspired Catechol Chemistry for Efficient Adsorption of Uranium Ions</a>
+                            <div class="achsLabel">
+                             ACS Macro Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Matyjaszewski</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>5</em> (3), pp 382–386</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Surface-initiated activators regenerated by electron transfer atom transfer radical polymerization (ARGET ATRP) integrated with mussel-inspired polydopamine (PDA) chemistry was, for the first time, employed for controlled grafting of poly(glycidyl ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsmacrolett.6b00099?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmacrolett.6b00099?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmacrolett.6b00099?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmacrolett.6b00099?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1202,9 +1202,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmacrolett.6b00137" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmacrolett.6b00137%3Fprg140729%3D7c197784-7296-451d-aacb-f09a0b6bf5b1&amp;doi=10.1021%2Facsmacrolett.6b00137" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmacrolett.6b00137%3Fprg140729%3Df4e0e252-2c7e-4ec3-b634-bf1108d09b98&amp;doi=10.1021%2Facsmacrolett.6b00137" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmacrolett.6b00137%3Fprg140729%3Da0c8a741-d7e3-4718-b53f-8c529448fe26&amp;title=Polymer-Based+Protein+Engineering+Enables+Molecular+Dissolution+of+Chymotrypsin+in+Acetonitrile&amp;doi=10.1021%2Facsmacrolett.6b00137" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmacrolett.6b00137%3Fprg140729%3D960f8925-b7c4-4271-bb13-796579754e4a&amp;title=Polymer-Based+Protein+Engineering+Enables+Molecular+Dissolution+of+Chymotrypsin+in+Acetonitrile&amp;doi=10.1021%2Facsmacrolett.6b00137" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

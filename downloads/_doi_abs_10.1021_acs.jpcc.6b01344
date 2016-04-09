@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8d3559c5-9059-4e40-a09e-f07db321b737">
+<html lang="en" class="pb-page" data-request-id="c5540ebb-b56f-4177-98c2-e77adb978e9c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;article:article:10.1021/acs.jpcc.6b01344;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01344%3Fprg140729%3D0db9d84e-fa33-4f56-ae8e-ee58059aba28" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01344?prg140729=0db9d84e-fa33-4f56-ae8e-ee58059aba28&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01344?prg140729=0db9d84e-fa33-4f56-ae8e-ee58059aba28">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01344%3Fprg140729%3D1d573733-bd90-4ae7-ad22-737f5f82a953" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01344?prg140729=1d573733-bd90-4ae7-ad22-737f5f82a953&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01344?prg140729=1d573733-bd90-4ae7-ad22-737f5f82a953">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -693,16 +693,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b01013" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.6b01400" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1132,6 +1122,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b01303?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b01303?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01400?src=recsys">Observation of an Ultrafast Exciton Hopping Channel in Organic Semiconducting Crystals</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kafle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kattel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> One of the major challenges in using organic semiconductors for photovoltaics is their extremely short exciton diffusion length. Recently, a number of studies have shown that the exciton transport range within the first few picoseconds after ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01400?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01400?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01400?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01400?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01976?src=recsys">Adding Four Extra K-Regions to Hexa-<i>peri</i>-hexabenzocoronene</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dumslaff</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maghsoumi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Velpula</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mali</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Castiglioni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">De Feyter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tommasini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Narita</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Müllen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A multistep synthesis of hexa-<i>peri</i>-hexabenzocoronene (HBC) with four additional K-regions was developed through a precursor based on two benzotetraphene units bridged with <i>p</i>-phenylene, featuring preinstalled zigzag moieties. Characterization by laser ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01976?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01976?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01976?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01976?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b03386?src=recsys">Highly Fluorescent [7]Carbohelicene Fused by Asymmetric 1,2-Dialkyl-Substituted Quinoxaline for Circularly Polarized Luminescence and Electroluminescence</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1147,35 +1169,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcc.5b03386?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b03386?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b03386?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/cr200087r?src=recsys">Helicenes: Synthesis and Applications</a>
-                            <div class="achsLabel">
-                             Chemical Reviews
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shen</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2012</span> <em>112</em> (3), pp 1463–1535</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/cr200087r?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/cr200087r?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/cr200087r?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/cr200087r?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b03118?src=recsys">Synthesis, Structures, and Properties of π-Extended Double Helicene: A Combination of Planar and Nonplanar π-Systems</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fujikawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Segawa</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Itami</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>137</em> (24), pp 7763–7768</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The synthesis, structures, and properties of a π-extended double helicene <b>1</b> are described. This double helicene <b>1</b> was synthesized by a four-fold oxidative C–H biphenylation of naphthalene followed by the Scholl reaction or via five steps including the ...<sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b03118?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b03118?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b03118?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b03118?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1228,7 +1221,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.6b01344" title="High-Res PDF: 980 KB" target="_blank"> PDF <span class="details">(980 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01344" title="Low-Res PDF: 517 KB" target="_blank"> PDF w/ Links <span class="details">(517 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01344" title="Low-Res PDF: 457 KB" target="_blank"> PDF w/ Links <span class="details">(457 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.6b01344" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1261,9 +1254,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b01344" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01344%3Fprg140729%3D67748933-cda4-4a40-90e6-f96b7354fd90&amp;doi=10.1021%2Facs.jpcc.6b01344" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01344%3Fprg140729%3Dead573d3-9323-4f4a-964f-58d2cd6bdffe&amp;doi=10.1021%2Facs.jpcc.6b01344" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01344%3Fprg140729%3D0db9d84e-fa33-4f56-ae8e-ee58059aba28&amp;title=Synthetic+Control+of+Photophysical+Process+and+Circularly+Polarized+Luminescence+of+%5B5%5DCarbohelicene+Derivatives+Substituted+by+Maleimide+Units&amp;doi=10.1021%2Facs.jpcc.6b01344" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01344%3Fprg140729%3D1d573733-bd90-4ae7-ad22-737f5f82a953&amp;title=Synthetic+Control+of+Photophysical+Process+and+Circularly+Polarized+Luminescence+of+%5B5%5DCarbohelicene+Derivatives+Substituted+by+Maleimide+Units&amp;doi=10.1021%2Facs.jpcc.6b01344" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

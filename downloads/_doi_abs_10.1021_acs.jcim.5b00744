@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="cbab9272-bcf1-48d6-93fd-06a74a5aa3de">
+<html lang="en" class="pb-page" data-request-id="c64a647a-b946-40c7-8e28-1dae7642425f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/jcisd8.ahead-of-print;journal:journal:jcisd8;article:article:10.1021/acs.jcim.5b00744;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00744%3Fprg140729%3D940451e6-1e07-4f18-be57-5a7085e16665" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00744?prg140729=940451e6-1e07-4f18-be57-5a7085e16665&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00744?prg140729=940451e6-1e07-4f18-be57-5a7085e16665">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00744%3Fprg140729%3Dbe7bba12-e07a-4e90-84ec-9e1631ab292b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00744?prg140729=be7bba12-e07a-4e90-84ec-9e1631ab292b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00744?prg140729=be7bba12-e07a-4e90-84ec-9e1631ab292b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1054,22 +1054,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jcim.5b00587?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jcim.5b00587?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b02008?src=recsys">Docking Screens for Novel Ligands Conferring New Biology</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Irwin</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Shoichet</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> It is now plausible to dock libraries of 10 million molecules against targets over several days or weeks. When the molecules screened are commercially available, they may be rapidly tested to find new leads. Although docking retains important liabilities (...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b02008?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b02008?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b02008?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b02008?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jcim.5b00660?src=recsys">GPCR-Bench: A Benchmarking Set and Practitioners’ Guide for G Protein-Coupled Receptor Docking</a>
                             <div class="achsLabel">
                              Journal of Chemical Information and Modeling
@@ -1085,6 +1069,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jcim.5b00660?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jcim.5b00660?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jcim.5b00660?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b02008?src=recsys">Docking Screens for Novel Ligands Conferring New Biology</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Irwin</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Shoichet</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> It is now plausible to dock libraries of 10 million molecules against targets over several days or weeks. When the molecules screened are commercially available, they may be rapidly tested to find new leads. Although docking retains important liabilities (...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b02008?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b02008?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b02008?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b02008?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jcim.5b00451?src=recsys">A Hybrid Approach to Structure and Function Modeling of G Protein-Coupled Receptors</a>
                             <div class="achsLabel">
@@ -1186,9 +1186,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jcim.5b00744" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00744%3Fprg140729%3D540a388c-1a05-45a8-a507-56872c66f78d&amp;doi=10.1021%2Facs.jcim.5b00744" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00744%3Fprg140729%3D5c28bd61-b062-4a41-8b42-6a0361c55c11&amp;doi=10.1021%2Facs.jcim.5b00744" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00744%3Fprg140729%3D940451e6-1e07-4f18-be57-5a7085e16665&amp;title=Binding+Mode+and+Induced+Fit+Predictions+for+Prospective+Computational+Drug+Design&amp;doi=10.1021%2Facs.jcim.5b00744" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00744%3Fprg140729%3Dbe7bba12-e07a-4e90-84ec-9e1631ab292b&amp;title=Binding+Mode+and+Induced+Fit+Predictions+for+Prospective+Computational+Drug+Design&amp;doi=10.1021%2Facs.jcim.5b00744" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1238,7 +1238,7 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqp_1dEqfrxdrVg90H21EOLACvtfcHk0liRekQoXOIWiQ&amp;loc=%2FControllerServlet&amp;pubId=40026030" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqp_1dEqfrxdrVg90H21EOLACvtfcHk0lgPVH3-kB1-gA&amp;loc=%2FControllerServlet&amp;pubId=40026030" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

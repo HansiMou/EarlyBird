@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="51a1fe76-5e90-40bf-af1f-5fc6b18a3807">
+<html lang="en" class="pb-page" data-request-id="4f4a56d1-d7b9-4cbd-9f88-35c06d8f3d2c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jctc.5b01236;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01236%3Fprg140729%3Dc6fd31e2-4d45-429f-8b5b-953a8fba153d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01236?prg140729=c6fd31e2-4d45-429f-8b5b-953a8fba153d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01236?prg140729=c6fd31e2-4d45-429f-8b5b-953a8fba153d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01236%3Fprg140729%3D72e12dfa-2f0d-43ce-bacf-0a280ce3c7c0" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01236?prg140729=72e12dfa-2f0d-43ce-bacf-0a280ce3c7c0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01236?prg140729=72e12dfa-2f0d-43ce-bacf-0a280ce3c7c0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1017,6 +1017,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01188?src=recsys">Comparison of Methods To Reweight from Classical Molecular Simulations to QM/MM Potentials</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dybeck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">König</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brooks</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shirts</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We examine methods to reweight classical molecular mechanics solvation calculations to more expensive QM/MM energy functions. We first consider the solvation free energy difference between ethane and methanol in a QM/MM Hamiltonian from configurations ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01188?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01188?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01188?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01188?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01208?src=recsys">Importance of Three-Body Interactions in Molecular Dynamics Simulations of Water Demonstrated with the Fragment Molecular Orbital Method</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1049,21 +1065,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.6b00049?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.6b00049?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01188?src=recsys">Comparison of Methods To Reweight from Classical Molecular Simulations to QM/MM Potentials</a>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01025?src=recsys">Derivation of Reliable Geometries in QM Calculations of DNA Structures: Explicit Solvent QM/MM and Restrained Implicit Solvent QM Optimizations of G-Quadruplexes</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dybeck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">König</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brooks</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shirts</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gkionis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kruse</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Šponer</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We examine methods to reweight classical molecular mechanics solvation calculations to more expensive QM/MM energy functions. We first consider the solvation free energy difference between ethane and methanol in a QM/MM Hamiltonian from configurations ...</span>
+                             <span><span class="bold">Abstract:</span> Modern dispersion-corrected DFT methods have made it possible to perform reliable QM studies on complete nucleic acid (NA) building blocks having hundreds of atoms. Such calculations, although still limited to investigations of potential energy surfaces, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01188?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01188?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01188?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01188?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01025?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01025?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01025?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01025?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01107?src=recsys">Quantum Mechanics/Molecular Mechanics Method Combined with Hybrid All-Atom and Coarse-Grained Model: Theory and Application on Redox Potential Calculations</a>
                             <div class="achsLabel">
@@ -1096,22 +1112,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b00830?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b00830?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b00830?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01025?src=recsys">Derivation of Reliable Geometries in QM Calculations of DNA Structures: Explicit Solvent QM/MM and Restrained Implicit Solvent QM Optimizations of G-Quadruplexes</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gkionis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kruse</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Šponer</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Modern dispersion-corrected DFT methods have made it possible to perform reliable QM studies on complete nucleic acid (NA) building blocks having hundreds of atoms. Such calculations, although still limited to investigations of potential energy surfaces, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01025?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01025?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01025?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01025?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1197,9 +1197,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.5b01236" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01236%3Fprg140729%3D182406da-32dc-4e6f-8e8a-c260cf8649bb&amp;doi=10.1021%2Facs.jctc.5b01236" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01236%3Fprg140729%3D0b4409df-0c8b-4437-8e1d-37b458faa90d&amp;doi=10.1021%2Facs.jctc.5b01236" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01236%3Fprg140729%3Dc6fd31e2-4d45-429f-8b5b-953a8fba153d&amp;title=Understanding+the+Mechanism+of+the+Hydrogen+Abstraction+from+Arachidonic+Acid+Catalyzed+by+the+Human+Enzyme+15-Lipoxygenase-2.+A+Quantum+Mechanics%2FMolecular+Mechanics+Free+Energy+Simulation&amp;doi=10.1021%2Facs.jctc.5b01236" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01236%3Fprg140729%3D72e12dfa-2f0d-43ce-bacf-0a280ce3c7c0&amp;title=Understanding+the+Mechanism+of+the+Hydrogen+Abstraction+from+Arachidonic+Acid+Catalyzed+by+the+Human+Enzyme+15-Lipoxygenase-2.+A+Quantum+Mechanics%2FMolecular+Mechanics+Free+Energy+Simulation&amp;doi=10.1021%2Facs.jctc.5b01236" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1222,9 +1222,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp1jUzz5OzTGrVg90H21EOLACvtfcHk0liEh2Sql3pGEg&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGLe5vu9YoRWvtQwD9OmoEd0MfoQaoD0LZ3--ml1xRBMk&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSWYPo8nDUonstrnDmCxc-CThi25Vg2O3MvDizzRJpHUf&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp1jUzz5OzTGrVg90H21EOLACvtfcHk0ljlRQib0lh_4Q&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGLe5vu9YoRWvtQwD9OmoEd0pj8Lr2aRDRTsDE51rnsuk&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSWYPo8nDUonstrnDmCxc-CThi25Vg2O3MoOogpPJAOMY&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

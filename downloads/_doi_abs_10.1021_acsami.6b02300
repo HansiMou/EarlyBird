@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="0af6db89-5339-4ab6-aac2-b4b03810bdf6">
+<html lang="en" class="pb-page" data-request-id="a6946722-15e7-4228-9393-50cfd1cef181">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsami.6b02300;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -151,8 +151,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02300%3Fprg140729%3D0242785d-0eca-4d69-8179-3849a3eeaf45" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b02300?prg140729=0242785d-0eca-4d69-8179-3849a3eeaf45&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b02300?prg140729=0242785d-0eca-4d69-8179-3849a3eeaf45">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02300%3Fprg140729%3Dde03ef89-e415-42b3-a84f-fbab7619777d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b02300?prg140729=de03ef89-e415-42b3-a84f-fbab7619777d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b02300?prg140729=de03ef89-e415-42b3-a84f-fbab7619777d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1100,6 +1100,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b00360?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b00360?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02685?src=recsys">Orienting Block Copolymer Thin Films via Entropy</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dehghan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Georgopanos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Avgeropoulos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ho</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (2), pp 624–633</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Controlling the orientation of nanostructured thin films of block copolymers (BCPs) is essential for next-generation lithography using BCPs. According to conventional wisdom, the orientation of BCP thin films is mainly determined by molecular interactions ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02685?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02685?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02685?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02685?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b07511?src=recsys">Laser Writing Block Copolymer Self-Assembly on Graphene Light-Absorbing Layer</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1131,22 +1147,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.nanolett.5b04602?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04602?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.5b04602?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b07127?src=recsys">Thickness and Microdomain Orientation of Asymmetric PS-<i>b</i>-PMMA Block Copolymer Films Inside Periodic Gratings</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ferrarese Lupi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Aprile</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Giammaria</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Seguini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zuccheri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">De Leo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boarino</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Laus</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Perego</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>7</em> (42), pp 23615–23622</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The ordering process of asymmetric PS-<i>b</i>-PMMA block copolymers (BCPs) is investigated on flat SiO<sub>2</sub> surfaces and on topographically patterned substrates. The topographic patterns consist of periodic gratings of 10 trenches defined by conventional top-down ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b07127?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b07127?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b07127?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b07127?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.macromol.5b02188?src=recsys">Optimized Solvent Vapor Annealing for Long-Range Perpendicular Lamellae in PS-<i>b</i>-PMMA Films</a>
                             <div class="achsLabel">
@@ -1248,9 +1248,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b02300" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02300%3Fprg140729%3D3acc066c-7da7-46a6-9a68-65d20a08200c&amp;doi=10.1021%2Facsami.6b02300" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02300%3Fprg140729%3D2b639b9e-4b85-41a9-82ea-b5779b6711d0&amp;doi=10.1021%2Facsami.6b02300" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02300%3Fprg140729%3D0242785d-0eca-4d69-8179-3849a3eeaf45&amp;title=Micrometer-Scale+Ordering+of+Silicon-Containing+Block+Copolymer+Thin+Films+via+High-Temperature+Thermal+Treatments&amp;doi=10.1021%2Facsami.6b02300" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02300%3Fprg140729%3Dde03ef89-e415-42b3-a84f-fbab7619777d&amp;title=Micrometer-Scale+Ordering+of+Silicon-Containing+Block+Copolymer+Thin+Films+via+High-Temperature+Thermal+Treatments&amp;doi=10.1021%2Facsami.6b02300" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

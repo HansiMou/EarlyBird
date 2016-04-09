@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="7eaa7945-4601-4e86-b45e-1d2c8e4825a7">
+<html lang="en" class="pb-page" data-request-id="d9d53e60-6d24-4f11-a651-8eaaef0c4dc1">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/accacs.ahead-of-print;journal:journal:accacs;article:article:10.1021/acscatal.6b00269;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00269%3Fprg140729%3D2dbdf4b6-9df7-48bf-9ab5-14a249cbf727" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00269?prg140729=2dbdf4b6-9df7-48bf-9ab5-14a249cbf727&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00269?prg140729=2dbdf4b6-9df7-48bf-9ab5-14a249cbf727">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00269%3Fprg140729%3Db1563f68-a2fa-400e-8d2d-93151aebeb72" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00269?prg140729=b1563f68-a2fa-400e-8d2d-93151aebeb72&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00269?prg140729=b1563f68-a2fa-400e-8d2d-93151aebeb72">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -943,18 +943,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental and Theoretical Methods" href="#_i2"><span>Experimental and Theoretical Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i11"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i15"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i19"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1069,22 +1057,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acscatal.5b02543?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscatal.5b02543?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acscatal.5b02399?src=recsys">Trace Levels of Copper in Carbon Materials Show Significant Electrochemical CO<sub>2</sub> Reduction Activity</a>
-                            <div class="achsLabel">
-                             ACS Catalysis
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lum</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kwon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lobaccaro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Clark</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bell</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ager</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>6</em> (1), pp 202–209</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Carbon materials are frequently used as supports for electrocatalysts because they are conductive and have high surface area. However, recent studies have shown that these materials can contain significant levels of metallic impurities that can ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acscatal.5b02399?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acscatal.5b02399?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acscatal.5b02399?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acscatal.5b02399?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b08259?src=recsys">Mesostructure-Induced Selectivity in CO<sub>2</sub> Reduction Catalysis</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1101,21 +1073,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b08259?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b08259?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b12157?src=recsys">Covalent Immobilization of a Molecular Catalyst on Cu<sub>2</sub>O Photocathodes for CO<sub>2</sub> Reduction</a>
+                           <li><a href="/doi/abs/10.1021/acscatal.5b02399?src=recsys">Trace Levels of Copper in Carbon Materials Show Significant Electrochemical CO<sub>2</sub> Reduction Activity</a>
                             <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schreier</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moehl</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mayer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Grätzel</span> 
+                             ACS Catalysis
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lum</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kwon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lobaccaro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Clark</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bell</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ager</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (6), pp 1938–1946</span>
+                             <span><span class="bold">2016</span> <em>6</em> (1), pp 202–209</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Sunlight-driven CO<sub>2</sub> reduction is a promising way to close the anthropogenic carbon cycle. Integrating light harvester and electrocatalyst functions into a single photoelectrode, which converts solar energy and CO<sub>2</sub> directly into reduced carbon species, is ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Carbon materials are frequently used as supports for electrocatalysts because they are conductive and have high surface area. However, recent studies have shown that these materials can contain significant levels of metallic impurities that can ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b12157?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b12157?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b12157?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b12157?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acscatal.5b02399?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscatal.5b02399?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscatal.5b02399?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscatal.5b02399?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12652?src=recsys">Noncovalent Immobilization of a Molecular Iron-Based Electrocatalyst on Carbon Electrodes for Selective, Efficient CO<sub>2</sub>-to-CO Conversion in Water</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Maurin</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Robert</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (8), pp 2492–2495</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Catalysis of fuel-producing reactions can be transferred from homogeneous solution to surface via attachment of the molecular catalyst. A pyrene-appended iron triphenyl porphyrin bearing six pendant OH groups on the phenyl rings in all ortho and ortho′ ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12652?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12652?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12652?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12652?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1201,9 +1189,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facscatal.6b00269" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00269%3Fprg140729%3D7eaf2d70-552f-4606-90ee-fbb86ef910a6&amp;doi=10.1021%2Facscatal.6b00269" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00269%3Fprg140729%3Dad83d69d-3a84-4745-9470-971a9d2be5f5&amp;doi=10.1021%2Facscatal.6b00269" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00269%3Fprg140729%3D2dbdf4b6-9df7-48bf-9ab5-14a249cbf727&amp;title=Cu%E2%80%93Sn+Bimetallic+Catalyst+for+Selective+Aqueous+Electroreduction+of+CO2+to+CO&amp;doi=10.1021%2Facscatal.6b00269" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00269%3Fprg140729%3Db1563f68-a2fa-400e-8d2d-93151aebeb72&amp;title=Cu%E2%80%93Sn+Bimetallic+Catalyst+for+Selective+Aqueous+Electroreduction+of+CO2+to+CO&amp;doi=10.1021%2Facscatal.6b00269" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a49a6dd5-7085-404b-a7df-ee540f010ca3">
+<html lang="en" class="pb-page" data-request-id="a766c1eb-7a6b-4d58-81c4-a1144a055e1d">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpcc.5b12686;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12686%3Fprg140729%3D1195925e-4cfb-4d84-bd87-d7646d3f2133" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12686?prg140729=1195925e-4cfb-4d84-bd87-d7646d3f2133&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12686?prg140729=1195925e-4cfb-4d84-bd87-d7646d3f2133">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12686%3Fprg140729%3D1caf253a-e320-45e7-90c5-e1598da7643d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12686?prg140729=1caf253a-e320-45e7-90c5-e1598da7643d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12686?prg140729=1caf253a-e320-45e7-90c5-e1598da7643d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -693,6 +693,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b02225" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1079,33 +1080,35 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02012?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b02012?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00214?src=recsys">Engineering Band Edge Positions of Nickel Oxyhydroxide through Facet Selection</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11036?src=recsys">Electronic Dynamics in Natural Iron Pyrite Studied by Broadband Transient Reflection Spectroscopy</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fidelsky</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Caspary Toroker</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sorenson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Patrow</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dawlaty</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A promising material for catalysis should have appropriate band edge positions. Unfortunately, the band edge positions are unknown for nickel oxyhydroxide (NiOOH), one of the best water oxidation catalysts. We present here first principles calculations of ...</span>
+                             <span><span class="bold">Abstract:</span> Iron pyrite (FeS<sub>2</sub>) is an abundant natural mineral with interesting physical and chemical properties, including its near IR bandgap and extremely high absorption coefficient throughout the visible range. The dynamics of photoinitiated carriers and their ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b00214?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00214?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00214?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b11036?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b11036?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11036?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11036?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01889?src=recsys">Molecular Spacing Modulated Conversion of Singlet Fission to Triplet Fusion in Rubrene-Based OLED at Ambient Temperature</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01889?src=recsys">Molecular Spacing Modulated Conversion of Singlet Fission to Triplet Fusion in Rubrene-Based Organic Light-Emitting Diodes at Ambient Temperature</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xiong</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xiong</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Triplet fusion (TF) and singlet fission (SF) are two important spin-coupled exciton interactions that occur in rubrene-based organic light emitting diodes (OLEDs). TF produces additional singlets, which increases fluorescence efficiency while SF consumes ...</span>
+                             <span><span class="bold">Abstract:</span> Triplet fusion (TF) and singlet fission (SF) are two important spin-coupled exciton interactions that occur in rubrene-based organic light-emitting diodes (OLEDs). TF produces additional singlets, which increases fluorescence efficiency, while SF consumes ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
                              <a href="/doi/abs/10.1021/acs.jpcc.6b01889?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01889?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01889?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b01889?src=recsys">Hi-Res PDF</a>
                             </div></li>
@@ -1209,9 +1212,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b12686" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12686%3Fprg140729%3D8465ffe0-c456-43fc-84e6-9ece1d9c20c3&amp;doi=10.1021%2Facs.jpcc.5b12686" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12686%3Fprg140729%3D5d2d56af-1f21-4941-acdd-76f43e12f3f0&amp;doi=10.1021%2Facs.jpcc.5b12686" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12686%3Fprg140729%3D1195925e-4cfb-4d84-bd87-d7646d3f2133&amp;title=Enhancement+of+the+Exciton+Coherence+Size+in+Organic+Semiconductor+by+Alkyl+Chain+Substitution&amp;doi=10.1021%2Facs.jpcc.5b12686" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12686%3Fprg140729%3D1caf253a-e320-45e7-90c5-e1598da7643d&amp;title=Enhancement+of+the+Exciton+Coherence+Size+in+Organic+Semiconductor+by+Alkyl+Chain+Substitution&amp;doi=10.1021%2Facs.jpcc.5b12686" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

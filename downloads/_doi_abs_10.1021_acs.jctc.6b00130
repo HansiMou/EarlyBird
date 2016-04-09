@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d3ac241a-642c-4194-97d3-e91af1ba0772">
+<html lang="en" class="pb-page" data-request-id="d57e6f42-6b5b-42fd-8947-f0f9e2378995">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jctc.6b00130;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00130%3Fprg140729%3D952e1fa6-4d86-4617-b456-bfa1343b7473" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00130?prg140729=952e1fa6-4d86-4617-b456-bfa1343b7473&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00130?prg140729=952e1fa6-4d86-4617-b456-bfa1343b7473">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00130%3Fprg140729%3Db95a9076-9535-4f43-b80f-54e8cf400de5" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00130?prg140729=b95a9076-9535-4f43-b80f-54e8cf400de5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00130?prg140729=b95a9076-9535-4f43-b80f-54e8cf400de5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1002,22 +1002,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.6b00156?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.6b00156?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00138?src=recsys">Correct Quantum Chemistry in a Minimal Basis from Effective Hamiltonians</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Watson</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (2), pp 512–522</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We describe how to create ab initio effective Hamiltonians that qualitatively describe correct chemistry even when used with a minimal basis. The Hamiltonians are obtained by folding correlation down from a large parent basis into a small, or minimal, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b00138?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b00138?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00138?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b00138?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01148?src=recsys">Efficient and Flexible Computation of Many-Electron Wave Function Overlaps</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1033,6 +1017,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b01148?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01148?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01148?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00138?src=recsys">Correct Quantum Chemistry in a Minimal Basis from Effective Hamiltonians</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Watson</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>12</em> (2), pp 512–522</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We describe how to create ab initio effective Hamiltonians that qualitatively describe correct chemistry even when used with a minimal basis. The Hamiltonians are obtained by folding correlation down from a large parent basis into a small, or minimal, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b00138?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b00138?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00138?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b00138?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01040?src=recsys">How Much Can Density Functional Approximations (DFA) Fail? The Extreme Case of the FeO<sub>4</sub> Species</a>
                             <div class="achsLabel">
@@ -1149,9 +1149,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.6b00130" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00130%3Fprg140729%3Da57e994d-63f7-4bb3-aa13-2d03f32e6309&amp;doi=10.1021%2Facs.jctc.6b00130" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00130%3Fprg140729%3D6846f5c6-b240-43b0-b63e-37410e74b3d5&amp;doi=10.1021%2Facs.jctc.6b00130" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00130%3Fprg140729%3D952e1fa6-4d86-4617-b456-bfa1343b7473&amp;title=Many-Electron+Integrals+over+Gaussian+Basis+Functions.+I.+Recurrence+Relations+for+Three-Electron+Integrals&amp;doi=10.1021%2Facs.jctc.6b00130" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00130%3Fprg140729%3Db95a9076-9535-4f43-b80f-54e8cf400de5&amp;title=Many-Electron+Integrals+over+Gaussian+Basis+Functions.+I.+Recurrence+Relations+for+Three-Electron+Integrals&amp;doi=10.1021%2Facs.jctc.6b00130" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="3ef6dcf2-f093-4162-a411-d5106f93c159">
+<html lang="en" class="pb-page" data-request-id="4ed2fb9a-7a50-47ad-ab1d-83afb7e2e63b">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/bomaf6.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acs.biomac.6b00233;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:bomaf6">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00233%3Fprg140729%3D729229aa-cb03-4280-92ce-d0f538a7465c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00233?prg140729=729229aa-cb03-4280-92ce-d0f538a7465c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00233?prg140729=729229aa-cb03-4280-92ce-d0f538a7465c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00233%3Fprg140729%3D8c6f8969-2ab8-449b-bf00-d714dcec647a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00233?prg140729=8c6f8969-2ab8-449b-bf00-d714dcec647a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00233?prg140729=8c6f8969-2ab8-449b-bf00-d714dcec647a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -977,6 +977,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i10"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i18"><span>Conclusion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i23"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1119,21 +1131,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00751?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00751?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b09974?src=recsys">Emerging Frontiers in Drug Delivery</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b06510?src=recsys">Multitriggered Shape-Memory Acrylamide–DNA Hydrogels</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tibbitt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dahlman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Langer</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Willner</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (3), pp 704–717</span>
+                             <span><span class="bold">2015</span> <em>137</em> (50), pp 15723–15731</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Medicine relies on the use of pharmacologically active agents (drugs) to manage and treat disease. However, drugs are not inherently effective; the benefit of a drug is directly related to the manner by which it is administered or delivered. Drug delivery ...</span>
+                             <span><span class="bold">Abstract:</span> Acrylamide–acrylamide nucleic acids are cross-linked by two cooperative functional motives to form shaped acrylamide–DNA hydrogels. One of the cross-linking motives responds to an external trigger, leading to the dissociation of one of the stimuli-...<sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b09974?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b09974?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b09974?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b09974?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b06510?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b06510?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b06510?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b06510?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1219,9 +1231,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.biomac.6b00233" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00233%3Fprg140729%3Da55d4122-8939-4f80-9b35-11ba86845337&amp;doi=10.1021%2Facs.biomac.6b00233" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00233%3Fprg140729%3D93c7e128-f14f-413e-b7b3-f97c13428e96&amp;doi=10.1021%2Facs.biomac.6b00233" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00233%3Fprg140729%3D729229aa-cb03-4280-92ce-d0f538a7465c&amp;title=Programmable+Self-Assembly+of+DNA%E2%80%93Protein+Hybrid+Hydrogel+for+Enzyme+Encapsulation+with+Enhanced+Biological+Stability&amp;doi=10.1021%2Facs.biomac.6b00233" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00233%3Fprg140729%3D8c6f8969-2ab8-449b-bf00-d714dcec647a&amp;title=Programmable+Self-Assembly+of+DNA%E2%80%93Protein+Hybrid+Hydrogel+for+Enzyme+Encapsulation+with+Enhanced+Biological+Stability&amp;doi=10.1021%2Facs.biomac.6b00233" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

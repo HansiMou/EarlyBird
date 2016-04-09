@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="dba1e050-c281-42d4-a2c4-c03786daf956">
+<html lang="en" class="pb-page" data-request-id="ccadd36e-a97f-43a5-a746-cf66c767404f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jpcc.6b00159">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00159%3Fprg140729%3D4290825e-de0a-4fd0-b8ac-1ce2e885975a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00159?prg140729=4290825e-de0a-4fd0-b8ac-1ce2e885975a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00159?prg140729=4290825e-de0a-4fd0-b8ac-1ce2e885975a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00159%3Fprg140729%3De25319bd-29f6-45b1-b3ad-e8c39909f24b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00159?prg140729=e25319bd-29f6-45b1-b3ad-e8c39909f24b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00159?prg140729=e25319bd-29f6-45b1-b3ad-e8c39909f24b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -688,16 +688,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.5b12495" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.6b01118" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1030,21 +1020,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12365?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b12365?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02023?src=recsys">Importance of Tilt Angles of Adsorbed Aromatic Molecules on Nanoparticle Rattle SERS Substrates</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02851?src=recsys">Oxidation and Reduction under Cover: Chemistry at the Confined Space between Ultrathin Nanoporous Silicates and Ru(0001)</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shrestha</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Haes</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kestell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Waluyo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wilkins</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mazzoli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barbour</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaznatcheev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shete</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tsapatsis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Boscoboinik</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Solution-phase nanoparticles are extensively used as surface enhanced Raman scattering (SERS) substrates, but signal intensities depend on dynamic nanoparticle optical properties and stabilities as well as molecular identity and orientation. To evaluate ...<sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> The oxidation and reduction of Ru(0001) surfaces at the confined space between two-dimensional nanoporous silica frameworks and Ru(0001) have been investigated using synchrotron-based ambient pressure X-ray photoelectron spectroscopy (AP-XPS). The porous ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b02023?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b02023?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02023?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02023?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b02851?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b02851?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02851?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02851?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01118?src=recsys">Remarkable Enhancement in the Nonlinear Optical Responses of Porphyrins Realized by Combination with Polyoxometalates via Covalent Bonding: A Case Study</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hassan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Asif</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Qu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Integrating polyoxometalates into porphyrin moieties via covalent bond is expected to be a new approach to tune and enhance the nonlinear optical responses of porphyrins. The effectiveness and efficiency of this proposal has been examined and witnessed by ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01118?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01118?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01118?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01118?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b12495?src=recsys">Highly Efficient Fuel Cell Electrodes from Few-Layer Graphene Sheets and Electrochemically Deposited Palladium Nanoparticles</a>
                             <div class="achsLabel">
@@ -1062,53 +1068,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12495?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b12495?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02851?src=recsys">Oxidation and Reduction under Cover: Chemistry at the Confined Space between Ultrathin Nanoporous Silicates and Ru(0001)</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02023?src=recsys">Importance of Tilt Angles of Adsorbed Aromatic Molecules on Nanoparticle Rattle SERS Substrates</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kestell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Waluyo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wilkins</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mazzoli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barbour</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaznatcheev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shete</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tsapatsis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Boscoboinik</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shrestha</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Haes</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The oxidation and reduction of Ru(0001) surfaces at the confined space between two-dimensional nanoporous silica frameworks and Ru(0001) have been investigated using synchrotron-based ambient pressure X-ray photoelectron spectroscopy (AP-XPS). The porous ...</span>
+                             <span><span class="bold">Abstract:</span> Solution-phase nanoparticles are extensively used as surface enhanced Raman scattering (SERS) substrates, but signal intensities depend on dynamic nanoparticle optical properties and stabilities as well as molecular identity and orientation. To evaluate ...<sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b02851?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b02851?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02851?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02851?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b02023?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b02023?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02023?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02023?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11279?src=recsys">Spontaneous Modification of Free-Floating Few-Layer Graphene by Aryldiazonium Ions: Electrochemistry, Atomic Force Microscopy, and Infrared Spectroscopy from Grafted Films</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11968?src=recsys">Comparison of Canonical versus Silver(I)-Mediated Base-Pairing on Single Molecule Conductance in Polycytosine dsDNA</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Farquhar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dykstra</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Waterland</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Downard</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Brooksby</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Toomey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vecchioni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rothschild</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wind</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Fernandes</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Free-floating, and copper-supported, few-layer graphene sheets were spontaneously modified from an aqueous solution containing nitrobenzenediazonium ions. The infrared spectra of the chemically modified (copper etched) free-floating graphene were measured ...</span>
+                             <span><span class="bold">Abstract:</span> Intercalation of metal ions into double-stranded DNA has recently been proposed as a path to efficient charge transport in DNA wires. Until now, the effect of Ag(I) intercalation between mismatched cytosine nucleobases on the conductance of DNA has not ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b11279?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b11279?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11279?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11279?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12239?src=recsys">Interplay of Confinement and Surface Energetics in the Interaction of Water with a Metal–Organic Framework</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Navrotsky</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The enthalpy of water adsorption (Δ<i>h</i>) on the metal–organic framework (MOF) HKUST-1 has been determined directly by calorimetry. The most exothermic value of Δ<i>h</i> [−119.4 ± 0.5 kJ/(mol of water)] occurs at zero coverage and perhaps represents water ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12239?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b12239?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12239?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12239?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b11968?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b11968?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11968?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11968?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1161,7 +1151,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.6b00159" title="High-Res PDF: 6892 KB" target="_blank"> PDF <span class="details">(6892 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00159" title="Low-Res PDF: 708 KB" target="_blank"> PDF w/ Links <span class="details">(708 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00159" title="Low-Res PDF: 666 KB" target="_blank"> PDF w/ Links <span class="details">(666 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.6b00159" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1194,9 +1184,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b00159" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00159%3Fprg140729%3D5e8e71c3-7e75-463f-9ce9-c0626e85782c&amp;doi=10.1021%2Facs.jpcc.6b00159" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00159%3Fprg140729%3Dd13bcf19-d2b4-4918-a2a9-92f475a8968d&amp;doi=10.1021%2Facs.jpcc.6b00159" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00159%3Fprg140729%3D4290825e-de0a-4fd0-b8ac-1ce2e885975a&amp;title=Zinc%28II%29+Tetraphenylporphyrin+on+Ag%28100%29+and+Ag%28111%29%3A+Multilayer+Desorption+and+Dehydrogenation&amp;doi=10.1021%2Facs.jpcc.6b00159" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00159%3Fprg140729%3De25319bd-29f6-45b1-b3ad-e8c39909f24b&amp;title=Zinc%28II%29+Tetraphenylporphyrin+on+Ag%28100%29+and+Ag%28111%29%3A+Multilayer+Desorption+and+Dehydrogenation&amp;doi=10.1021%2Facs.jpcc.6b00159" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

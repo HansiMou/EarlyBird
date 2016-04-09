@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a14cf2b1-60b0-4277-8d36-e19704fdda91">
+<html lang="en" class="pb-page" data-request-id="2715db5e-71b1-4490-91d6-3149f0b5b914">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/mamobx.ahead-of-print;journal:journal:mamobx;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.macromol.5b02746">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02746%3Fprg140729%3Dcb83e8f2-c9f5-482d-b275-0db5e1ff343f" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02746?prg140729=cb83e8f2-c9f5-482d-b275-0db5e1ff343f&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02746?prg140729=cb83e8f2-c9f5-482d-b275-0db5e1ff343f">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02746%3Fprg140729%3D305b2e53-9428-478c-ae85-f29d6743532f" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02746?prg140729=305b2e53-9428-478c-ae85-f29d6743532f&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b02746?prg140729=305b2e53-9428-478c-ae85-f29d6743532f">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -959,19 +959,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i8"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i10"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i11"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i14"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1029,22 +1016,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02123?src=recsys">Stabilization of Nuclei of Lamellar Polymer Crystals: Insights from a Comparison of the Hoffman–Weeks Line with the Crystallization Line</a>
-                            <div class="achsLabel">
-                             Macromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reiter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Reiter</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>49</em> (6), pp 2206–2215</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We have studied melting of poly(butylene succinate), isothermally crystallized over a wide temperature range, employing a combination of the Hoffman–Weeks plot and the Gibbs–Thomson crystallization line, determined by small-angle X-ray scattering ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.macromol.5b02123?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.macromol.5b02123?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02123?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.macromol.5b02123?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.macromol.5b02688?src=recsys">Flow-Induced Crystallization of Polymers: Molecular and Thermodynamic Considerations</a>
                             <div class="achsLabel">
                              Macromolecules
@@ -1060,6 +1031,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.macromol.5b02688?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.macromol.5b02688?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.macromol.5b02688?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02123?src=recsys">Stabilization of Nuclei of Lamellar Polymer Crystals: Insights from a Comparison of the Hoffman–Weeks Line with the Crystallization Line</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reiter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Reiter</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (6), pp 2206–2215</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We have studied melting of poly(butylene succinate), isothermally crystallized over a wide temperature range, employing a combination of the Hoffman–Weeks plot and the Gibbs–Thomson crystallization line, determined by small-angle X-ray scattering ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02123?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02123?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02123?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02123?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.macromol.6b00211?src=recsys">Aliphatic Polyester Block Polymer Design</a>
                             <div class="achsLabel">
@@ -1093,22 +1080,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.macromol.6b00044?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.macromol.6b00044?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.macromol.6b00126?src=recsys">Temperature Dependence of Lamellar Thickness in Isothermally Crystallized Poly(butylene terephthalate)</a>
-                            <div class="achsLabel">
-                             Macromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Konishi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sakatsuji</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fukao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Miyamoto</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>49</em> (6), pp 2272–2280</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In order to clarify the crystallization from the melt in poly(butylene terephthalate) (PBT), the heating processes of isothermally crystallized PBT have been investigated by differential scanning calorimetry (DSC), wide-angle X-ray diffraction, and small-...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.macromol.6b00126?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.macromol.6b00126?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.macromol.6b00126?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.macromol.6b00126?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.macromol.5b02466?src=recsys">New Understanding on Regulating the Crystallization and Morphology of the β-Polymorph of Isotactic Polypropylene Based on Carboxylate–Alumoxane Nucleating Agents</a>
                             <div class="achsLabel">
                              Macromolecules
@@ -1124,6 +1095,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.macromol.5b02466?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.macromol.5b02466?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.macromol.5b02466?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.6b00126?src=recsys">Temperature Dependence of Lamellar Thickness in Isothermally Crystallized Poly(butylene terephthalate)</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Konishi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sakatsuji</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fukao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Miyamoto</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (6), pp 2272–2280</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In order to clarify the crystallization from the melt in poly(butylene terephthalate) (PBT), the heating processes of isothermally crystallized PBT have been investigated by differential scanning calorimetry (DSC), wide-angle X-ray diffraction, and small-...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.6b00126?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.6b00126?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.6b00126?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.6b00126?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1209,9 +1196,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.macromol.5b02746" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02746%3Fprg140729%3D85dc2a14-2c66-439f-84b6-bf71c813da47&amp;doi=10.1021%2Facs.macromol.5b02746" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02746%3Fprg140729%3D80c71aa7-6b1b-4816-aa79-b6fb970699f6&amp;doi=10.1021%2Facs.macromol.5b02746" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02746%3Fprg140729%3Dcb83e8f2-c9f5-482d-b275-0db5e1ff343f&amp;title=Influence+of+the+Filler+Nature+on+the+Crystalline+Structure+of+Polylactide-Based+Nanocomposites%3A+New+Insights+into+the+Nucleating+Effect&amp;doi=10.1021%2Facs.macromol.5b02746" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.5b02746%3Fprg140729%3D305b2e53-9428-478c-ae85-f29d6743532f&amp;title=Influence+of+the+Filler+Nature+on+the+Crystalline+Structure+of+Polylactide-Based+Nanocomposites%3A+New+Insights+into+the+Nucleating+Effect&amp;doi=10.1021%2Facs.macromol.5b02746" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1234,8 +1221,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqvNuTe6S8B2LVg90H21EOLACvtfcHk0li-wkROl0dG3A&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGLp20oWO-vuUtQwD9OmoEd1OvUP-ZzvrcQrhjxHKZ4Rm&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqvNuTe6S8B2LVg90H21EOLACvtfcHk0lheQ8btiNXBOA&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGLp20oWO-vuUtQwD9OmoEd0-H6RguGUfiDl0ROBJrm-d&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="00f506a2-8d03-4af1-b624-ca07b969184a">
+<html lang="en" class="pb-page" data-request-id="f2c3a2f5-96bf-4ea8-91cb-88b08561a346">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.joc.5b02821;issue:issue:10.1021/joceah.ahead-of-print;journal:journal:joceah;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02821%3Fprg140729%3Dc24b6674-525c-4f36-8c70-30e1c95780f2" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02821?prg140729=c24b6674-525c-4f36-8c70-30e1c95780f2&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02821?prg140729=c24b6674-525c-4f36-8c70-30e1c95780f2">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02821%3Fprg140729%3D28a9df39-419a-46dc-bca7-1a8827cc9168" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02821?prg140729=28a9df39-419a-46dc-bca7-1a8827cc9168&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02821?prg140729=28a9df39-419a-46dc-bca7-1a8827cc9168">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1005,22 +1005,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/jacs.5b10945?src=recsys">Aerobic Copper-Promoted Radical-Type Cleavage of Coordinated Cyanide Anion: Nitrogen Transfer to Aldehydes To Form Nitriles</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lei</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">You</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2885–2888</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We have disclosed for the first time the copper-promoted C≡N triple bond cleavage of coordinated cyanide anion under a dioxygen atmosphere, which enables a nitrogen transfer to various aldehydes. Mechanistic study of this unprecedented transformation ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b10945?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b10945?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b10945?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b10945?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00356?src=recsys">Enantiodivergent Fluorination of Allylic Alcohols: Data Set Design Reveals Structural Interplay between Achiral Directing Group and Chiral Anion</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1036,6 +1020,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.6b00356?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.6b00356?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00356?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b10945?src=recsys">Aerobic Copper-Promoted Radical-Type Cleavage of Coordinated Cyanide Anion: Nitrogen Transfer to Aldehydes To Form Nitriles</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lei</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">You</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2885–2888</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We have disclosed for the first time the copper-promoted C≡N triple bond cleavage of coordinated cyanide anion under a dioxygen atmosphere, which enables a nitrogen transfer to various aldehydes. Mechanistic study of this unprecedented transformation ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b10945?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b10945?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b10945?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b10945?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b13501?src=recsys">Enantioselective Intermolecular Enamide–Aldehyde Cross-Coupling Catalyzed by Chiral <i>N</i>-Heterocyclic Carbenes</a>
                             <div class="achsLabel">
@@ -1185,9 +1185,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.joc.5b02821" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02821%3Fprg140729%3D55e35d06-6984-4fcf-8bf0-4ac896302f4b&amp;doi=10.1021%2Facs.joc.5b02821" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02821%3Fprg140729%3D7a20675a-6433-454b-a325-c4b2c1873890&amp;doi=10.1021%2Facs.joc.5b02821" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02821%3Fprg140729%3Dc24b6674-525c-4f36-8c70-30e1c95780f2&amp;title=An+Energetic+Guide+for+Estimating+Trifluoromethyl+Cation+Donor+Abilities+of+Electrophilic+Trifluoromethylating+Reagents%3A+Computations+of+X%E2%80%93CF3+Bond+Heterolytic+Dissociation+Enthalpies&amp;doi=10.1021%2Facs.joc.5b02821" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02821%3Fprg140729%3D28a9df39-419a-46dc-bca7-1a8827cc9168&amp;title=An+Energetic+Guide+for+Estimating+Trifluoromethyl+Cation+Donor+Abilities+of+Electrophilic+Trifluoromethylating+Reagents%3A+Computations+of+X%E2%80%93CF3+Bond+Heterolytic+Dissociation+Enthalpies&amp;doi=10.1021%2Facs.joc.5b02821" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

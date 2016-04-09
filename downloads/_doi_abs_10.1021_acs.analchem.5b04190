@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="38243618-925a-44ce-9069-ff9e8ceaebd7">
+<html lang="en" class="pb-page" data-request-id="94f48f39-30ef-4b68-a15d-0cd93cce2aed">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:ancham;pageGroup:string:Publication Pages;article:article:10.1021/acs.analchem.5b04190;wgroup:string:ACHS website Group;issue:issue:10.1021/ancham.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -150,8 +150,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b04190%3Fprg140729%3D0c6d3ddd-70e7-44d5-8947-b04d127973f7" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b04190?prg140729=0c6d3ddd-70e7-44d5-8947-b04d127973f7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b04190?prg140729=0c6d3ddd-70e7-44d5-8947-b04d127973f7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b04190%3Fprg140729%3Ddedd030d-6027-4cd4-a471-76cd00aa8999" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b04190?prg140729=dedd030d-6027-4cd4-a471-76cd00aa8999&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b04190?prg140729=dedd030d-6027-4cd4-a471-76cd00aa8999">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1105,6 +1105,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.6b00337?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.6b00337?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00535?src=recsys">Nonamplification Sandwich Assay Platform for Sensitive Nucleic Acid Detection Based on AuNPs Enumeration with the Dark-Field Microscope</a>
+                            <div class="achsLabel">
+                             Analytical Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A simple and efficient assay platform with high sensitivity, convenient implementation, and moderate cost in reagents and instrumentation is most appropriate for routine applications. On the basis of the gold nanoparticle (AuNP) enumeration signal readout ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00535?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.6b00535?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00535?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00535?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.5b04743?src=recsys">Pressed Paper-Based Dipstick for Detection of Foodborne Pathogens with Multistep Reactions</a>
                             <div class="achsLabel">
                              Analytical Chemistry
@@ -1137,22 +1153,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.6b00327?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.6b00327?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04054?src=recsys">Quenching of Unincorporated Amplification Signal Reporters in Reverse-Transcription Loop-Mediated Isothermal Amplification Enabling Bright, Single-Step, Closed-Tube, and Multiplexed Detection of RNA Viruses</a>
-                            <div class="achsLabel">
-                             Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ball</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Light</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wheeler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Coffey</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Meagher</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (7), pp 3562–3568</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Reverse-transcription-loop-mediated isothermal amplification (RT-LAMP) has frequently been proposed as an enabling technology for simplified diagnostic tests for RNA viruses. However, common detection techniques used for LAMP and RT-LAMP have drawbacks, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04054?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04054?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04054?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04054?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00751?src=recsys">Engineering the Structure and Properties of DNA-Nanoparticle Superstructures Using Polyvalent Counterions</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1169,21 +1169,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00751?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00751?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04889?src=recsys">Modular Nuclease-Responsive DNA Three-Way Junction-Based Dynamic Assembly of a DNA Device and Its Sensing Application</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04054?src=recsys">Quenching of Unincorporated Amplification Signal Reporters in Reverse-Transcription Loop-Mediated Isothermal Amplification Enabling Bright, Single-Step, Closed-Tube, and Multiplexed Detection of RNA Viruses</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wei</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ball</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Light</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wheeler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Coffey</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Meagher</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (7), pp 3817–3825</span>
+                             <span><span class="bold">2016</span> <em>88</em> (7), pp 3562–3568</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Here, we explored a modular strategy for rational design of nuclease-responsive three-way junctions (TWJs) and fabricated a dynamic DNA device in a “plug-and-play” fashion. First, inactivated TWJs were designed, which contained three functional domains: ...</span>
+                             <span><span class="bold">Abstract:</span> Reverse-transcription-loop-mediated isothermal amplification (RT-LAMP) has frequently been proposed as an enabling technology for simplified diagnostic tests for RNA viruses. However, common detection techniques used for LAMP and RT-LAMP have drawbacks, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04889?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04889?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04889?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04889?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.5b04054?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b04054?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04054?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b04054?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1269,9 +1269,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.analchem.5b04190" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b04190%3Fprg140729%3D7ff3dfc3-d931-4538-a16a-b89fd4f0e3c1&amp;doi=10.1021%2Facs.analchem.5b04190" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b04190%3Fprg140729%3Dd0a31b4f-37c4-4fea-a5d4-b4cd29fff5c5&amp;doi=10.1021%2Facs.analchem.5b04190" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b04190%3Fprg140729%3D0c6d3ddd-70e7-44d5-8947-b04d127973f7&amp;title=Multiplexed+Detection+of+Epigenetic+Markers+Using+Quantum+Dot+%28QD%29-Encoded+Hydrogel+Microparticles&amp;doi=10.1021%2Facs.analchem.5b04190" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b04190%3Fprg140729%3Ddedd030d-6027-4cd4-a471-76cd00aa8999&amp;title=Multiplexed+Detection+of+Epigenetic+Markers+Using+Quantum+Dot+%28QD%29-Encoded+Hydrogel+Microparticles&amp;doi=10.1021%2Facs.analchem.5b04190" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1294,8 +1294,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqEQsGDpFRyCbVg90H21EOLACvtfcHk0liHyaj82P_DZw&amp;loc=%2FControllerServlet&amp;pubId=40025958" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGA1FoApFutP3tQwD9OmoEd0eSk6gataSluzBGLxu0a8s&amp;loc=%2FControllerServlet&amp;pubId=40025958" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqEQsGDpFRyCbVg90H21EOLACvtfcHk0lh7I6TEDsOEaA&amp;loc=%2FControllerServlet&amp;pubId=40025958" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGA1FoApFutP3tQwD9OmoEd3_CDxzdVt_0tftCFcEWdjZ&amp;loc=%2FControllerServlet&amp;pubId=40025958" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

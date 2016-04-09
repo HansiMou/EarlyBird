@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="be949b8d-6c45-47d0-a5f5-da092e139412">
+<html lang="en" class="pb-page" data-request-id="4e119c8a-0b3a-42ec-80ea-8d82f6960b1e">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jctc.5b01231">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01231%3Fprg140729%3D4f31f956-138b-4b9f-ae01-44b881647b66" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01231?prg140729=4f31f956-138b-4b9f-ae01-44b881647b66&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01231?prg140729=4f31f956-138b-4b9f-ae01-44b881647b66">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01231%3Fprg140729%3D162a2528-ec67-4c08-b295-61ae7681fe67" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01231?prg140729=162a2528-ec67-4c08-b295-61ae7681fe67&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01231?prg140729=162a2528-ec67-4c08-b295-61ae7681fe67">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1018,22 +1018,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.6b00156?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.6b00156?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01046?src=recsys">Semiempirical Quantum-Chemical Orthogonalization-Corrected Methods: Theory, Implementation, and Parameters</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dral</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Spörkel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koslowski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weber</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Steiger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Scholten</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Thiel</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (3), pp 1082–1096</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Semiempirical orthogonalization-corrected methods (OM1, OM2, and OM3) go beyond the standard MNDO model by explicitly including additional interactions into the Fock matrix in an approximate manner (Pauli repulsion, penetration effects, and core–valence ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01046?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01046?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01046?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01046?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.6b00044?src=recsys">Introducing QMC/MMpol: Quantum Monte Carlo in Polarizable Force Fields for Excited States</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1066,6 +1050,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b00830?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b00830?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01046?src=recsys">Semiempirical Quantum-Chemical Orthogonalization-Corrected Methods: Theory, Implementation, and Parameters</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dral</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Spörkel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koslowski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weber</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Steiger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Scholten</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Thiel</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>12</em> (3), pp 1082–1096</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Semiempirical orthogonalization-corrected methods (OM1, OM2, and OM3) go beyond the standard MNDO model by explicitly including additional interactions into the Fock matrix in an approximate manner (Pauli repulsion, penetration effects, and core–valence ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01046?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01046?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01046?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01046?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.6b00049?src=recsys">HTMD: High-Throughput Molecular Dynamics for Molecular Discovery</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1082,21 +1082,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.6b00049?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.6b00049?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00130?src=recsys">Many-Electron Integrals over Gaussian Basis Functions. I. Recurrence Relations for Three-Electron Integrals</a>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00697?src=recsys">Direct <i>ab Initio</i> (Meta-)Surface-Hopping Dynamics</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Barca</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Loos</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Gill</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lingerfelt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Williams-Young</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Petrone</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>12</em> (3), pp 935–945</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Explicitly correlated F12 methods are becoming the first choice for high-accuracy molecular orbital calculations and can often achieve chemical accuracy with relatively small Gaussian basis sets. In most calculations, the many three- and four-electron ...</span>
+                             <span><span class="bold">Abstract:</span> Tractable methods for studying the molecular dynamics of chemical processes driven by electronic nonadiabaticity are highly sought after to provide insight into, for example, photochemical reaction mechanisms, molecular collisions, and thermalized ...<sub></sub><sub></sub><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.6b00130?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.6b00130?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00130?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.6b00130?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jctc.5b00697?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b00697?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00697?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b00697?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1181,9 +1181,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.5b01231" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01231%3Fprg140729%3D982d1b58-2273-40a0-baea-dede74612c8e&amp;doi=10.1021%2Facs.jctc.5b01231" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01231%3Fprg140729%3D7f50e618-9cba-40f8-8426-01e5152289f0&amp;doi=10.1021%2Facs.jctc.5b01231" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01231%3Fprg140729%3D4f31f956-138b-4b9f-ae01-44b881647b66&amp;title=Nonadiabatic+Molecular+Dynamics+for+Thousand+Atom+Systems%3A+A+Tight-Binding+Approach+toward+PYXAID&amp;doi=10.1021%2Facs.jctc.5b01231" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01231%3Fprg140729%3D162a2528-ec67-4c08-b295-61ae7681fe67&amp;title=Nonadiabatic+Molecular+Dynamics+for+Thousand+Atom+Systems%3A+A+Tight-Binding+Approach+toward+PYXAID&amp;doi=10.1021%2Facs.jctc.5b01231" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1206,8 +1206,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpZE2ROY-NaEbVg90H21EOLACvtfcHk0lia4Nc3nx5RPA&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScKeAYItNPtstrnDmCxc-CThi25Vg2O3MmuprpkH-BEg&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpZE2ROY-NaEbVg90H21EOLACvtfcHk0lh0F28tmqmK8A&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScKeAYItNPtstrnDmCxc-CThi25Vg2O3MvY4sbQCglxN&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

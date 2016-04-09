@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="9ebe1951-cd87-48f8-b7a0-068a3068ab94">
+<html lang="en" class="pb-page" data-request-id="95dcaebf-939c-464c-8aa1-a9a4728a27d1">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jacsat.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jacsat;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/jacs.6b00819">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00819%3Fprg140729%3D06ac1b15-2d33-4596-ad08-869016989358" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b00819?prg140729=06ac1b15-2d33-4596-ad08-869016989358&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b00819?prg140729=06ac1b15-2d33-4596-ad08-869016989358">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00819%3Fprg140729%3D4bbf3b72-9a2d-4b79-9d33-cb36150390d6" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b00819?prg140729=4bbf3b72-9a2d-4b79-9d33-cb36150390d6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b00819?prg140729=4bbf3b72-9a2d-4b79-9d33-cb36150390d6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -674,16 +674,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.6b00712" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/jacs.6b01120" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jacsat/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -957,17 +947,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i3"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i23"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i27"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1029,53 +1008,85 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00016?src=recsys">Bimetallic C–C Bond-Forming Reductive Elimination from Nickel</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01728?src=recsys">Enantioselective Photocatalytic [3 + 2] Cycloadditions of Aryl Cyclopropyl Ketones</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Diccianni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Katigbak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Diao</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Amador</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sherbrook</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yoon</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Ni-catalyzed cross-coupling reactions have found important applications in organic synthesis. The fundamental characterization of the key steps in cross-coupling reactions, including C–C bond-forming reductive elimination, represents a significant ...<sup></sup><sup></sup><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Control of stereochemistry in photocycloaddition reactions remains a substantial challenge; almost all successful catalytic examples to date have involved [2 + 2] photocycloadditions of enones. We report a method for the asymmetric [3 + 2] ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00016?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00016?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00016?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00016?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b01728?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01728?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01728?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01728?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01349?src=recsys">Boron-Catalyzed Aromatic C–H Bond Silylation with Hydrosilanes</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00250?src=recsys">Practical Ni-Catalyzed Aryl–Alkyl Cross-Coupling of Secondary Redox-Active Esters</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hou</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cornella</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Edwards</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kawamura</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gianatassio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schmidt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Eastgate</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Baran</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3663–3666</span>
+                             <span><span class="bold">2016</span> <em>138</em> (7), pp 2174–2177</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Metal-free catalytic C–H silylation of a series of aromatic compounds such as <i>N</i>,<i>N</i>-disubstituted anilines with various hydrosilanes has been achieved for the first time using commercially available B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> as a catalyst. This protocol features simple and ...</span>
+                             <span><span class="bold">Abstract:</span> A new transformation is presented that enables chemists to couple simple alkyl carboxylic acids with aryl zinc reagents under Ni-catalysis. The success of this reaction hinges on the unique use of redox-active esters that allow one to employ such ...<sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01349?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01349?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01349?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01349?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b00250?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00250?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00250?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00250?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01183?src=recsys">Catalytic Difluorination of Olefins</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b10945?src=recsys">Aerobic Copper-Promoted Radical-Type Cleavage of Coordinated Cyanide Anion: Nitrogen Transfer to Aldehydes To Form Nitriles</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Molnár</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Gilmour</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lei</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">You</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2885–2888</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Molecular editing with fluorine is a validated strategy for modulating the structure and function of organic systems. In the current arsenal of catalytic dihalogenation technologies, the direct generation of the vicinal difluoride moiety from simple ...</span>
+                             <span><span class="bold">Abstract:</span> We have disclosed for the first time the copper-promoted C≡N triple bond cleavage of coordinated cyanide anion under a dioxygen atmosphere, which enables a nitrogen transfer to various aldehydes. Mechanistic study of this unprecedented transformation ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01183?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01183?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01183?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01183?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b10945?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b10945?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b10945?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b10945?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12153?src=recsys">Iridium-Catalyzed, Hydrosilyl-Directed Borylation of Unactivated Alkyl C–H Bonds</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Larsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cho</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hartwig</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (3), pp 762–765</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report the iridium-catalyzed borylation of primary and secondary alkyl C–H bonds directed by a Si–H group to form alkylboronate esters site selectively. The reactions occur with high selectivity at primary C–H bonds γ to the hydrosilyl group to form ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12153?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12153?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12153?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12153?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00627?src=recsys">Asymmetric Retro-Claisen Reaction by Chiral Primary Amine Catalysis</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (12), pp 3978–3981</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The communication describes an enamine-based asymmetric retro-Claisen reaction of β-diketones by primary amine catalysis. The reaction proceeds via a sequence of stereoselective C–C formation, C–C cleavage, and a highly stereospecific enamine protonation ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b00627?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00627?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00627?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00627?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b11990?src=recsys">Borylation of Olefin C–H Bond via Aryl to Vinyl Palladium 1,4-Migration</a>
                             <div class="achsLabel">
@@ -1092,38 +1103,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.5b11990?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.5b11990?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b11990?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00207?src=recsys">Regio- and Enantioselective Synthesis of Azole Hemiaminal Esters by Lewis Base Catalyzed Dynamic Kinetic Resolution</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Piotrowski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kamlet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dechert-Schmitt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brandt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wei</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Barrila</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We report a modular three-component dynamic kinetic resolution (DKR) that affords enantiomerically enriched hemiaminal esters derived from azoles and aldehydes. The novel and scalable reaction can be used to synthesize valuable substituted azoles in a ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00207?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00207?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00207?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00207?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01578?src=recsys">Positional Selectivity in C–H Functionalizations of 2-Benzylfurans with Bimetallic Catalysts</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bellomo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Trongsiriwat</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tomson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Walsh</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (12), pp 4260–4266</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Metal-catalyzed carbon–carbon bond-forming reactions are a mainstay in the synthesis of pharmaceutical agents. A long-standing problem plaguing the field of transition metal catalyzed C–H functionalization chemistry is control of selectivity among ...<sup></sup><sup></sup><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01578?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01578?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01578?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01578?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1176,7 +1155,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/jacs.6b00819" title="High-Res PDF: 2355 KB" target="_blank"> PDF <span class="details">(2355 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b00819" title="Low-Res PDF: 641 KB" target="_blank"> PDF w/ Links <span class="details">(641 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b00819" title="Low-Res PDF: 614 KB" target="_blank"> PDF w/ Links <span class="details">(614 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/jacs.6b00819" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1209,9 +1188,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.6b00819" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00819%3Fprg140729%3D29326be5-2d02-4917-80e1-46908c787c33&amp;doi=10.1021%2Fjacs.6b00819" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00819%3Fprg140729%3D61086caa-7e1d-4ade-94f9-ef0e859ffea4&amp;doi=10.1021%2Fjacs.6b00819" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00819%3Fprg140729%3D06ac1b15-2d33-4596-ad08-869016989358&amp;title=Metal-Free+sp2-C%E2%80%93H+Borylation+as+a+Common+Reactivity+Pattern+of+Frustrated+2-Aminophenylboranes&amp;doi=10.1021%2Fjacs.6b00819" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b00819%3Fprg140729%3D4bbf3b72-9a2d-4b79-9d33-cb36150390d6&amp;title=Metal-Free+sp2-C%E2%80%93H+Borylation+as+a+Common+Reactivity+Pattern+of+Frustrated+2-Aminophenylboranes&amp;doi=10.1021%2Fjacs.6b00819" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

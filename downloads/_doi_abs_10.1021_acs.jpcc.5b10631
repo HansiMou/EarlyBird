@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a1679778-8989-4ec2-ad5f-1871085839b2">
+<html lang="en" class="pb-page" data-request-id="a3ca0bfb-6f7c-4820-a8cf-50c8e76f8d69">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;article:article:10.1021/acs.jpcc.5b10631;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10631%3Fprg140729%3D8fca7a0e-21f9-41e5-a7f7-ce56dd963c32" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b10631?prg140729=8fca7a0e-21f9-41e5-a7f7-ce56dd963c32&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b10631?prg140729=8fca7a0e-21f9-41e5-a7f7-ce56dd963c32">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10631%3Fprg140729%3D1a5355b9-2afc-419e-942b-dab000870a00" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b10631?prg140729=1a5355b9-2afc-419e-942b-dab000870a00&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b10631?prg140729=1a5355b9-2afc-419e-942b-dab000870a00">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1049,6 +1049,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b10703?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b10703?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07831?src=recsys">Atomically Thin Mesoporous Nanomesh of Graphitic C<sub>3</sub>N<sub>4</sub> for High-Efficiency Photocatalytic Hydrogen Evolution</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Qu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>10</em> (2), pp 2745–2751</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Delamination of layer materials into two-dimensional single-atom sheets has induced exceptional physical properties, including large surface area, ultrahigh intrinsic carrier mobility, pronounced changes in the energy band structure, and other properties. ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b07831?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07831?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07831?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07831?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b10607?src=recsys">Formation Mechanisms of Graphitic-N: Oxygen Reduction and Nitrogen Doping of Graphene Oxides</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1064,22 +1080,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcc.5b10607?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b10607?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b10607?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00655?src=recsys">Stable Ti<sup>3+</sup> Self-Doped Anatase-Rutile Mixed TiO<sub>2</sub> with Enhanced Visible Light Utilization and Durability</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (11), pp 6116–6124</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Blue Ti<sup>3+</sup> self-doped TiO<sub>2</sub> nanoparticles with mixed phases of anatase and rutile have been synthesized via a facile solvothermal method. The phase evolution of the blue TiO<sub>2</sub> varying from anatase to rutile has been studied by simply controlling the initial ...<sub></sub><sub></sub><sup></sup><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b00655?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b00655?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00655?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00655?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b12010?src=recsys">Temperature- and Coverage-Dependent Kinetics of Photocatalytic Reaction of Methanol on TiO<sub>2</sub> (110)-(1 × 1) Surface</a>
                             <div class="achsLabel">
@@ -1097,37 +1097,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12010?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b12010?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04178?src=recsys">Sulfur-Doped g-C<sub>3</sub>N<sub>4</sub>/BiVO<sub>4</sub> Composite Photocatalyst for Water Oxidation under Visible Light</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00655?src=recsys">Stable Ti<sup>3+</sup> Self-Doped Anatase-Rutile Mixed TiO<sub>2</sub> with Enhanced Visible Light Utilization and Durability</a>
                             <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Won</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Woo</span> 
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>28</em> (5), pp 1318–1324</span>
+                             <span><span class="bold">2016</span> <em>120</em> (11), pp 6116–6124</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> To achieve sustainable utilization of solar energy, development of an efficient photocatalyst for water oxidation, the driving force of reductive solar fuel formation, is strongly needed. Herein, composite photocatalysts with bismuth vanadate (BiVO<sub>4</sub>) and ...<sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub>A composite photocatalyst with BiVO<sub>4</sub> and sulfur-doped g-C<sub>3</sub>N<sub>4</sub> was developed through impregnated coprecipitation. During impregnation, the surface of sulfur-doped g-C<sub>3</sub>N<sub>4</sub> was modified, resulting in an advantageous composition with BiVO<sub>4</sub>. Photocatalytic water oxidation was enhanced by 129%, and the charge carrier lifetime was extended by 349% versus that of pristine BiVO<sub>4</sub>.</span>
+                             <span><span class="bold">Abstract:</span> Blue Ti<sup>3+</sup> self-doped TiO<sub>2</sub> nanoparticles with mixed phases of anatase and rutile have been synthesized via a facile solvothermal method. The phase evolution of the blue TiO<sub>2</sub> varying from anatase to rutile has been studied by simply controlling the initial ...<sub></sub><sub></sub><sup></sup><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.5b04178?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.5b04178?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04178?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04178?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b00655?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b00655?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00655?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00655?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b07831?src=recsys">Atomically Thin Mesoporous Nanomesh of Graphitic C<sub>3</sub>N<sub>4</sub> for High-Efficiency Photocatalytic Hydrogen Evolution</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12666?src=recsys">Synergetic Integration of Cu<sub>1.94</sub>S–Zn<sub><i>x</i></sub>Cd<sub>1–<i>x</i></sub>S Heteronanorods for Enhanced Visible-Light-Driven Photocatalytic Hydrogen Production</a>
                             <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Qu</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (2), pp 2745–2751</span>
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4286–4289</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Delamination of layer materials into two-dimensional single-atom sheets has induced exceptional physical properties, including large surface area, ultrahigh intrinsic carrier mobility, pronounced changes in the energy band structure, and other properties. ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> In this Communication, we present the integration of synergetic designs into high-quality, well-defined Cu<sub>1.94</sub>S–Zn<sub><i>x</i></sub>Cd<sub>1–<i>x</i></sub>S heteronanorods (0 ≤ <i>x</i> ≤ 1) for enhanced photocatalytic hydrogen evolution. These heteronanorods possess two light absorbers, intimate ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b07831?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b07831?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b07831?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b07831?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b12666?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12666?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12666?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12666?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1213,9 +1213,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b10631" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10631%3Fprg140729%3D0a1f1b65-a555-4dd2-9796-56197c4f711f&amp;doi=10.1021%2Facs.jpcc.5b10631" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10631%3Fprg140729%3D09769ee1-da60-4215-9ae4-d27ee188c1de&amp;doi=10.1021%2Facs.jpcc.5b10631" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10631%3Fprg140729%3D8fca7a0e-21f9-41e5-a7f7-ce56dd963c32&amp;title=Photocatalytic+Conversion+of+Nitric+Oxide+on+Titanium+Dioxide%3A+Cryotrapping+of+Reaction+Products+for+Online+Monitoring+by+Mass+Spectrometry&amp;doi=10.1021%2Facs.jpcc.5b10631" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b10631%3Fprg140729%3D1a5355b9-2afc-419e-942b-dab000870a00&amp;title=Photocatalytic+Conversion+of+Nitric+Oxide+on+Titanium+Dioxide%3A+Cryotrapping+of+Reaction+Products+for+Online+Monitoring+by+Mass+Spectrometry&amp;doi=10.1021%2Facs.jpcc.5b10631" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

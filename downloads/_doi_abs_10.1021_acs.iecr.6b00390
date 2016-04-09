@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="4511662c-72d4-4f82-9446-f8532c6f50a8">
+<html lang="en" class="pb-page" data-request-id="3ff5d7b9-5d58-41d3-9e6b-4993b829a779">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.iecr.6b00390;website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/iecred.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:iecred;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00390%3Fprg140729%3Dd1f98dad-4bc4-4be1-a89c-ca0017644838" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.6b00390?prg140729=d1f98dad-4bc4-4be1-a89c-ca0017644838&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.6b00390?prg140729=d1f98dad-4bc4-4be1-a89c-ca0017644838">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00390%3Fprg140729%3D53cd9b5f-2da4-43aa-84df-a839c02095b7" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.6b00390?prg140729=53cd9b5f-2da4-43aa-84df-a839c02095b7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.6b00390?prg140729=53cd9b5f-2da4-43aa-84df-a839c02095b7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -984,7 +984,25 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Zwoster%2C+Andy">Andy Zwoster</a></li>
                            <li><a href="/author/Heldebrant%2C+David+J">David J. Heldebrant</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.6b00028?src=recsys">A Green Modified Microsphere of Chitosan Encapsulating Dimethyl Fumarate and Cross-Linked by Vanillin and Its Application for Litchi Preservation</a>
+                            <div class="achsLabel">
+                             Industrial &amp; Engineering Chemistry Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zou</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A green sustained delivery biomaterial was prepared to encapsulate dimethyl fumarate (DMF) by an emulsion–cross-linking method for sustained release. The average size of the microspheres was 20–150 μm. The highest encapsulation efficiency and loading ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.iecr.6b00028?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.6b00028?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.6b00028?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.6b00028?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1067,9 +1085,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.iecr.6b00390" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00390%3Fprg140729%3D5a1d8300-4b0b-4ab5-98dd-7308f3379e6b&amp;doi=10.1021%2Facs.iecr.6b00390" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00390%3Fprg140729%3Dd474fe5d-0dc2-40b8-9b1b-6f0e0f939d5a&amp;doi=10.1021%2Facs.iecr.6b00390" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00390%3Fprg140729%3Dd1f98dad-4bc4-4be1-a89c-ca0017644838&amp;title=Measuring+Nitrous+Oxide+Mass+Transfer+into+Non-Aqueous+CO2BOL+CO2+Capture+Solvents&amp;doi=10.1021%2Facs.iecr.6b00390" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00390%3Fprg140729%3D53cd9b5f-2da4-43aa-84df-a839c02095b7&amp;title=Measuring+Nitrous+Oxide+Mass+Transfer+into+Non-Aqueous+CO2BOL+CO2+Capture+Solvents&amp;doi=10.1021%2Facs.iecr.6b00390" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

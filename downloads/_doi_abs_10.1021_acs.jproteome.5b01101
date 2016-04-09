@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5670dab5-79a0-487b-a1b0-ce3c7b64d210">
+<html lang="en" class="pb-page" data-request-id="f350fad2-3305-4a30-b079-49733588706b">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.jproteome.5b01101;journal:journal:jprobs;page:string:Article/Chapter View;issue:issue:10.1021/jprobs.ahead-of-print;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01101%3Fprg140729%3Df2ab3f47-8f39-4e86-840d-38cdf1043d95" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01101?prg140729=f2ab3f47-8f39-4e86-840d-38cdf1043d95&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01101?prg140729=f2ab3f47-8f39-4e86-840d-38cdf1043d95">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01101%3Fprg140729%3D94120aa0-7023-4ce1-90c8-146c81b181d4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01101?prg140729=94120aa0-7023-4ce1-90c8-146c81b181d4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01101?prg140729=94120aa0-7023-4ce1-90c8-146c81b181d4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1010,6 +1010,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b01158?src=recsys">SAFER, an Analysis Method of Quantitative Proteomic Data, Reveals New Interactors of the <i>C. elegans</i> Autophagic Protein LGG-1</a>
+                            <div class="achsLabel">
+                             Journal of Proteome Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Manil-Ségalen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sago</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Glatigny</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Redeker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Legouis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mucchielli-Giorgi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Affinity purifications followed by mass spectrometric analysis are used to identify protein–protein interactions. Because quantitative proteomic data are noisy, it is necessary to develop statistical methods to eliminate false-positives and identify true ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jproteome.5b01158?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.5b01158?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01158?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.5b01158?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jproteome.5b00981?src=recsys">Accounting for the Multiple Natures of Missing Values in Label-Free Quantitative Proteomics Data Sets to Compare Imputation Strategies</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
@@ -1026,6 +1042,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00981?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.5b00981?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.6b00006?src=recsys">The Peripheral Blood Eosinophil Proteome</a>
+                            <div class="achsLabel">
+                             Journal of Proteome Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wilkerson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Johansson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hebert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Westphall</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mathur</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jarjour</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schwantes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mosher</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Coon</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A system-wide understanding of biological processes requires a comprehensive knowledge of the proteins in the biological system. The eosinophil is a type of granulocytic leukocyte specified early in hematopoietic differentiation that participates in ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jproteome.6b00006?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.6b00006?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00006?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.6b00006?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.6b00070?src=recsys">High-Performance Chemical Isotope Labeling Liquid Chromatography–Mass Spectrometry for Profiling the Metabolomic Reprogramming Elicited by Ammonium Limitation in Yeast</a>
+                            <div class="achsLabel">
+                             Journal of Proteome Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Friis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schultz</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Information about how yeast metabolism is rewired in response to internal and external cues can inform the development of metabolic engineering strategies for food, fuel, and chemical production in this organism. We report a new metabolomics workflow for ...<sup></sup><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jproteome.6b00070?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.6b00070?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00070?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.6b00070?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jproteome.5b00901?src=recsys">Proteomic Biomarker Discovery in 1000 Human Plasma Samples with Mass Spectrometry</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
@@ -1041,50 +1089,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jproteome.5b00901?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00901?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.5b00901?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.6b00027?src=recsys">The physiological and iTRAQ-based proteomic analyses reveal the function of spermidine on improving drought tolerance in white clover</a>
-                            <div class="achsLabel">
-                             Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Endogenous spermidine interacting with phytohormones may be involved in regulation of differentially expressed proteins (DEPs) associated with drought tolerance in white clover. Plants treated with or without spermidine (50 µM) were subjected to 20% PEG ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.6b00027?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00027?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.6b00027?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b01105?src=recsys">Cleaning out the Litterbox of Proteomic Scientists’ Favorite Pet: Optimized Data Analysis Avoiding Trypsin Artifacts</a>
-                            <div class="achsLabel">
-                             Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schittmayer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fritz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liesinger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Griss</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Birner-Gruenberger</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>15</em> (4), pp 1222–1229</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Chemically modified trypsin is a standard reagent in proteomics experiments but is usually not considered in database searches. Modification of trypsin is supposed to protect the protease against autolysis and the resulting loss of activity. Here, we show ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.5b01105?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jproteome.5b01105?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01105?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.5b01105?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04123?src=recsys">Phosphoproteomics in the Age of Rapid and Deep Proteome Profiling</a>
-                            <div class="achsLabel">
-                             Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Riley</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Coon</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (1), pp 74–94</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04123?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04123?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04123?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04123?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jproteome.5b01097?src=recsys">Site-Specific Identification of Lysine Acetylation Stoichiometries in Mammalian Cells</a>
                             <div class="achsLabel">
@@ -1186,9 +1190,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jproteome.5b01101" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01101%3Fprg140729%3D50998318-2b5d-49a8-8fc7-e69d251c165a&amp;doi=10.1021%2Facs.jproteome.5b01101" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01101%3Fprg140729%3Db7cda14d-a3c5-4dfa-85d0-29182a0f5339&amp;doi=10.1021%2Facs.jproteome.5b01101" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01101%3Fprg140729%3Df2ab3f47-8f39-4e86-840d-38cdf1043d95&amp;title=Evaluation+of+the+mirn23a+Cluster+through+an+iTRAQ-based+Quantitative+Proteomic+Approach&amp;doi=10.1021%2Facs.jproteome.5b01101" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01101%3Fprg140729%3D94120aa0-7023-4ce1-90c8-146c81b181d4&amp;title=Evaluation+of+the+mirn23a+Cluster+through+an+iTRAQ-based+Quantitative+Proteomic+Approach&amp;doi=10.1021%2Facs.jproteome.5b01101" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

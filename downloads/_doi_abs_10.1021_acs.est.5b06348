@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b750d022-a48e-4dfb-bdf0-0f95ec2cd611">
+<html lang="en" class="pb-page" data-request-id="6626047a-9898-43bb-85a9-9ca5ddd35283">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.est.5b06348;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b06348%3Fprg140729%3Df06f0985-54ae-4923-8054-a5b083740751" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b06348?prg140729=f06f0985-54ae-4923-8054-a5b083740751&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b06348?prg140729=f06f0985-54ae-4923-8054-a5b083740751">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b06348%3Fprg140729%3D3faba20d-2418-47ca-9724-574f58743769" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b06348?prg140729=3faba20d-2418-47ca-9724-574f58743769&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b06348?prg140729=3faba20d-2418-47ca-9724-574f58743769">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1065,6 +1065,19 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b05014?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b05014?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys"><i>ES&amp;T</i>’s Best Papers of 2015</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sedlak</span> (Editor-in-Chief)
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.6b01454?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.6b01454?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.6b01454?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b05513?src=recsys">Time Dependence of the <sup>137</sup>Cs Concentration in Particles Discharged from Rice Paddies to Freshwater Bodies after the Fukushima Daiichi NPP Accident</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1080,19 +1093,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.5b05513?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.5b05513?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b05513?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys"><i>ES&amp;T</i>’s Best Papers of 2015</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sedlak</span> (Editor-in-Chief)
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.6b01454?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.6b01454?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.6b01454?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b04970?src=recsys">Impact to Underground Sources of Drinking Water and Domestic Wells from Production Well Stimulation and Completion Practices in the Pavillion, Wyoming, Field</a>
                             <div class="achsLabel">
@@ -1194,9 +1194,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.5b06348" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b06348%3Fprg140729%3D35edf0a0-866b-46dd-9441-489aa58d4e6d&amp;doi=10.1021%2Facs.est.5b06348" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b06348%3Fprg140729%3Db10a226c-3449-480c-9434-c7d1b7d7be23&amp;doi=10.1021%2Facs.est.5b06348" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b06348%3Fprg140729%3Df06f0985-54ae-4923-8054-a5b083740751&amp;title=Effect+of+Dust+Storms+on+the+Atmospheric+Microbiome+in+the+Eastern+Mediterranean&amp;doi=10.1021%2Facs.est.5b06348" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b06348%3Fprg140729%3D3faba20d-2418-47ca-9724-574f58743769&amp;title=Effect+of+Dust+Storms+on+the+Atmospheric+Microbiome+in+the+Eastern+Mediterranean&amp;doi=10.1021%2Facs.est.5b06348" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

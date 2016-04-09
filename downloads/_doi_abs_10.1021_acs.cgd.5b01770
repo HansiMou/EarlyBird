@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c1346a8b-17d3-4e6e-b29d-c35389343538">
+<html lang="en" class="pb-page" data-request-id="5765fba2-80af-4fee-8ce5-a55d8880aac3">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.cgd.5b01770;pageGroup:string:Publication Pages;issue:issue:10.1021/cgdefu.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:cgdefu">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01770%3Fprg140729%3Dfa66859d-5f75-4318-9421-167dee6ae988" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.cgd.5b01770?prg140729=fa66859d-5f75-4318-9421-167dee6ae988&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.cgd.5b01770?prg140729=fa66859d-5f75-4318-9421-167dee6ae988">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01770%3Fprg140729%3D3e7de739-652b-4966-bb27-622aba2495cc" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.cgd.5b01770?prg140729=3e7de739-652b-4966-bb27-622aba2495cc&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.cgd.5b01770?prg140729=3e7de739-652b-4966-bb27-622aba2495cc">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -945,19 +945,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i5"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i8"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i10"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i14"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1013,7 +1000,73 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Desper%2C+John">John Desper</a></li>
                            <li><a href="/author/%C4%90akovi%C4%87%2C+Marijana">Marijana Đaković</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.cgd.5b01660?src=recsys">Predicting the Effect of Solvent on the Crystal Habit of Small Organic Molecules</a>
+                            <div class="achsLabel">
+                             Crystal Growth &amp; Design
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tilbury</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Green</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marshall</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Doherty</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In order to develop a practical engineering tool for predicting the relative growth rates and morphology of solution-grown faceted crystals, a method for quickly determining solvent-modified crystal surface energies is required. The bulk interface ...Using the interfacial model of van Oss, Chaudhury and Good, we have developed a framework to account for the solvent effect within a mechanistic crystal growth model for small organic molecules. Testing against crystallization of biphenyl, naphthalene, adipic acid, and pentaerythritol demonstrates the ability to reproduce morphological changes induced by the solvent.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.cgd.5b01660?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.cgd.5b01660?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.cgd.5b01660?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.cgd.5b01660?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.cgd.5b01726?src=recsys">Nanoseed Assisted PVT Growth of Ultrathin 2D Pentacene Molecular Crystal Directly onto SiO<sub>2</sub> Substrate</a>
+                            <div class="achsLabel">
+                             Crystal Growth &amp; Design
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Arabi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mirza</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> High order of molecular packing and perfect semiconductor/dielectric interface are two key factors to achieve high performance for organic field-effect transistors (OFET). Moreover, the thin crystal offers an improved efficiency of carrier injection for ...<sub></sub><sup></sup><sup></sup><sup></sup>Exceptional in situ growth of ultrathin 2D pentacene molecular crystal was described. Extensive growth mechanism was illustrated by optimizing different parameters. Enhanced field effect performance was attributed to the use of ultrathin crystal.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.cgd.5b01726?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.cgd.5b01726?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.cgd.5b01726?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.cgd.5b01726?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.cgd.5b01647?src=recsys">Modulation of Calcium Oxalate Crystallization by Colloidal Selenium Nanoparticles–Polyphenol Complex</a>
+                            <div class="achsLabel">
+                             Crystal Growth &amp; Design
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Deng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bai</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The nanoSe<sup>0</sup>-polyphenol complexes with a 3:1 polyphenol/nanoSe<sup>0</sup> molar ratio were prepared by colloidal selenium nanoparticles (nanoSe<sup>0</sup>) modified with gallic acid (GA), propyl gallate (PG), and pyrogallic acid (PA), which were spherical with average ...<sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup>Three polyphenols ligate with nanoSe<sup>0</sup> to form the nanoSe<sup>0</sup>-polyphenol complex stabilized by hydrogen bonding interaction between polyphenols. NanoSe<sup>0</sup>-polyphenol could induce the formation of COD and COT crystals by electrostatic attraction between complexes and CaC<sub>2</sub>O<sub>4</sub> crystals. The polyphenol could also induce similar changes by hydrogen bonding interaction between polyphenols and C<sub>2</sub>O<sub>4</sub><sup>2−</sup> groups and electrostatic attraction between polyphenols and Ca<sup>2+</sup> ions.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.cgd.5b01647?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.cgd.5b01647?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.cgd.5b01647?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.cgd.5b01647?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.cgd.6b00346?src=recsys">Recognition of S···Cl Chalcogen Bonding in Metal-Bound Alkylthiocyanates</a>
+                            <div class="achsLabel">
+                             Crystal Growth &amp; Design
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yandanova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ivanov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuznetsov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Starikov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Starova</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kukushkin</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Reaction of K<sub>2</sub>[PtCl<sub>4</sub>] with excess AlkSCN in water gives the alkylthiocyanate complexes <i>trans</i>-[PtCl<sub>2</sub>(AlkSCN)<sub>2</sub>] (Alk = Et <b>1</b>, <sup><i>n</i></sup>Pr <b>2</b>; 80–85%). These species were studied, in particular, by X-ray crystallography. In the solid state, both <b>1</b> and <b>2</b> exhibit the ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub>Two platinum(II) alkylthiocyanate complexes <i>trans</i>-[PtCl<sub>2</sub>(AlkSCN)<sub>2</sub>] (Alk = Et, <sup><i>n</i></sup>Pr) demonstrate nets of the S···Cl chalcogen bonding in the solid state. The nature of weak interactions was investigated by XRD experiments and theoretical calculations.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.cgd.6b00346?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.cgd.6b00346?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.cgd.6b00346?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.cgd.6b00346?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1097,9 +1150,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.cgd.5b01770" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01770%3Fprg140729%3D50599f3d-71c9-49d6-a601-a2e1f4654222&amp;doi=10.1021%2Facs.cgd.5b01770" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01770%3Fprg140729%3D67db3dc6-0b2f-4eed-9e3a-fcd37debc21f&amp;doi=10.1021%2Facs.cgd.5b01770" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01770%3Fprg140729%3Dfa66859d-5f75-4318-9421-167dee6ae988&amp;title=Electrostatic+Potential+Differences+and+Halogen-Bond+Selectivity&amp;doi=10.1021%2Facs.cgd.5b01770" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01770%3Fprg140729%3D3e7de739-652b-4966-bb27-622aba2495cc&amp;title=Electrostatic+Potential+Differences+and+Halogen-Bond+Selectivity&amp;doi=10.1021%2Facs.cgd.5b01770" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

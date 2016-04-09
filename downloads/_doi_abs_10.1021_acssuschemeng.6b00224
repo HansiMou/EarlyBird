@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="822691c8-7a5a-4abb-bbc9-4b33135c0e60">
+<html lang="en" class="pb-page" data-request-id="9d40232d-d3ab-40cc-a22d-268ff060d988">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/ascecg.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:ascecg;article:article:10.1021/acssuschemeng.6b00224;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00224%3Fprg140729%3D6c606fdf-30c7-49bb-a96f-1ea9e4d903bf" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00224?prg140729=6c606fdf-30c7-49bb-a96f-1ea9e4d903bf&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00224?prg140729=6c606fdf-30c7-49bb-a96f-1ea9e4d903bf">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00224%3Fprg140729%3Dd1b156ac-2b78-4dbd-85a3-2d3b4736116d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00224?prg140729=d1b156ac-2b78-4dbd-85a3-2d3b4736116d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6b00224?prg140729=d1b156ac-2b78-4dbd-85a3-2d3b4736116d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -672,16 +672,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acssuschemeng.6b00218" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acssuschemeng.6b00303" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/ascecg/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1000,7 +990,105 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Rong%2C+Min+Zhi">Min Zhi Rong</a></li>
                            <li><a href="/author/Zhang%2C+Ming+Qiu">Ming Qiu Zhang</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b01666?src=recsys">Dynamically Cross-Linked Polydimethylsiloxane Networks with Ambient-Temperature Self-Healing</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schmolke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Perner</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Seiffert</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>48</em> (24), pp 8781–8788</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Dynamically cross-linked polymer networks have promising potential to serve as self-healing materials, but this is often limited to occur at elevated temperature. We overcome this limitation by refinement of an earlier approach to synthesize dynamically ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b01666?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b01666?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b01666?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b01666?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02751?src=recsys">Stress Relaxation and Self-Adhesion of Rubbers with Exchangeable Links</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Imbernon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Norvez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Leibler</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (6), pp 2172–2178</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> To get intrinsic adhesion or healing properties in a cross-linked rubber, two levers are possible: the inherent relaxation in permanently but lightly cross-linked elastomers or the relaxation due to exchange reactions as recently reported in the case of ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02751?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02751?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02751?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02751?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b00809?src=recsys">Self-Healing of a Cross-Linked Polymer with Dynamic Covalent Linkages at Mild Temperature and Evaluation at Macroscopic and Molecular Levels</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Imato</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahara</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Otsuka</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>48</em> (16), pp 5632–5639</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A lot of self-healing materials using dynamic bonding systems have been reported, while the focus is mainly on the macroscopic self-healing behavior such as visually recognizable healing. Because the healing originates from microscopic chemical reactions ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b00809?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b00809?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b00809?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b00809?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b01422?src=recsys">Use of Diels–Alder Chemistry for Thermoreversible Cross-Linking of Rubbers: The Next Step toward Recycling of Rubber Products?</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Polgar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van Duin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Broekhuis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Picchioni</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>48</em> (19), pp 7096–7105</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A proof of principle for the use of Diels–Alder chemistry as a thermoreversible cross-linking tool for rubber products is demonstrated. A commercial ethylene-propylene rubber grafted with maleic anhydride has been thermoreversibly cross-linked in two ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b01422?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b01422?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b01422?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b01422?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsmacrolett.5b00854?src=recsys">Anhydride-Based Reconfigurable Shape Memory Elastomers</a>
+                            <div class="achsLabel">
+                             ACS Macro Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lawton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tillman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mohammed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shipp</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mather</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>5</em> (2), pp 203–207</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Soft shape memory polymers typically embody a permanently memorized geometry that cannot be altered, and therefore a new sample must be fabricated each time a new structure is required. We present a shape memory elastomeric composite featuring ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsmacrolett.5b00854?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmacrolett.5b00854?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmacrolett.5b00854?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmacrolett.5b00854?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02756?src=recsys">Bioinspired Engineering of Sacrificial Metal–Ligand Bonds into Elastomers with Supramechanical Performance and Adaptive Recovery</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (5), pp 1781–1789</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Reinforcing rubbers and expanding their application galleries are two important issues in material science and engineering. In this work, we demonstrate a bioinspired design of high-performance and macroscopically responsive diene-rubber by engineering ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02756?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02756?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02756?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02756?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1084,9 +1172,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facssuschemeng.6b00224" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00224%3Fprg140729%3D926b2f43-f76f-42f0-9745-f06d3f41047c&amp;doi=10.1021%2Facssuschemeng.6b00224" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00224%3Fprg140729%3D1b0f886d-f42c-4742-97c9-0344d337a2b0&amp;doi=10.1021%2Facssuschemeng.6b00224" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00224%3Fprg140729%3D6c606fdf-30c7-49bb-a96f-1ea9e4d903bf&amp;title=Self-healing%2C+Reshaping%2C+and+Recycling+of+Vulcanized+Chloroprene+Rubber%3A+A+Case+Study+of+Multitask+Cyclic+Utilization+of+Cross-linked+Polymer&amp;doi=10.1021%2Facssuschemeng.6b00224" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.6b00224%3Fprg140729%3Dd1b156ac-2b78-4dbd-85a3-2d3b4736116d&amp;title=Self-healing%2C+Reshaping%2C+and+Recycling+of+Vulcanized+Chloroprene+Rubber%3A+A+Case+Study+of+Multitask+Cyclic+Utilization+of+Cross-linked+Polymer&amp;doi=10.1021%2Facssuschemeng.6b00224" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

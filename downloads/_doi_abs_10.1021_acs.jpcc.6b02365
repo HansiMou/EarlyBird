@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2e9b9825-d675-498a-8bc0-bc041bbdb4d9">
+<html lang="en" class="pb-page" data-request-id="bf698c47-9f2b-48cd-b911-8d9110ab73b9">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jpcc.6b02365">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02365%3Fprg140729%3Df6306335-fee2-4b65-ba2f-4ad07e72fb78" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b02365?prg140729=f6306335-fee2-4b65-ba2f-4ad07e72fb78&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b02365?prg140729=f6306335-fee2-4b65-ba2f-4ad07e72fb78">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02365%3Fprg140729%3Db2da3dff-d797-4f0e-a2d9-74a0fdd7564d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b02365?prg140729=b2da3dff-d797-4f0e-a2d9-74a0fdd7564d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b02365?prg140729=b2da3dff-d797-4f0e-a2d9-74a0fdd7564d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -691,16 +691,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b01273" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.6b00589" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -982,18 +972,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i7"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i12"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i15"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1118,37 +1096,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b11191?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b11191?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12153?src=recsys">Facile Synthesis and Recyclability of Thin Nylon Film-Supported <i>n</i>-Type ZnO/<i>p</i>-Type Ag<sub>2</sub>O Nano Composite for Visible Light Photocatalytic Degradation of Organic Dye</a>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04178?src=recsys">Sulfur-Doped g-C<sub>3</sub>N<sub>4</sub>/BiVO<sub>4</sub> Composite Photocatalyst for Water Oxidation under Visible Light</a>
                             <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Abdullah</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span> 
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Won</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Woo</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7144–7154</span>
+                             <span><span class="bold">2016</span> <em>28</em> (5), pp 1318–1324</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> ZnO/Ag<sub>2</sub>O nano composite powder had been successfully synthesized by coprecipitation method and been embedded into thin nylon film as well as tested for the degradation of organic dye solution under visible light illumination. After being embedded into ...<sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> To achieve sustainable utilization of solar energy, development of an efficient photocatalyst for water oxidation, the driving force of reductive solar fuel formation, is strongly needed. Herein, composite photocatalysts with bismuth vanadate (BiVO<sub>4</sub>) and ...<sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub>A composite photocatalyst with BiVO<sub>4</sub> and sulfur-doped g-C<sub>3</sub>N<sub>4</sub> was developed through impregnated coprecipitation. During impregnation, the surface of sulfur-doped g-C<sub>3</sub>N<sub>4</sub> was modified, resulting in an advantageous composition with BiVO<sub>4</sub>. Photocatalytic water oxidation was enhanced by 129%, and the charge carrier lifetime was extended by 349% versus that of pristine BiVO<sub>4</sub>.</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12153?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b12153?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12153?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12153?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.chemmater.5b04178?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.5b04178?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04178?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04178?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00428?src=recsys">BiVO<sub>4</sub> {010} and {110} Relative Exposure Extent: Governing Factor of Surface Charge Population and Photocatalytic Activity</a>
+                           <li><a href="/doi/abs/10.1021/acscatal.5b02922?src=recsys">Bridging the g-C<sub>3</sub>N<sub>4</sub> Interlayers for Enhanced Photocatalysis</a>
                             <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amal</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ng</span> 
+                             ACS Catalysis
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xiong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dong</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (7), pp 1400–1405</span>
+                             <span><span class="bold">2016</span> <em>6</em> (4), pp 2462–2472</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The {010} and {110} crystal facets of monoclinic bismuth vanadate (m-BiVO<sub>4</sub>) has been demonstrated to be the active reduction and oxidation sites, respectively. Here, we show using dual-faceted m-BiVO<sub>4</sub> with distinctly different dominant exposed facets, one ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Graphitic carbon nitride (g-C<sub>3</sub>N<sub>4</sub>) has been widely investigated and applied in photocatalysis and catalysis, but its performance is still unsatisfactory. Here, we demonstrated that K-doped g-C<sub>3</sub>N<sub>4</sub> with a unique electronic structure possessed highly enhanced ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.6b00428?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.6b00428?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00428?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00428?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acscatal.5b02922?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscatal.5b02922?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscatal.5b02922?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscatal.5b02922?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1201,7 +1179,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.6b02365" title="High-Res PDF: 8992 KB" target="_blank"> PDF <span class="details">(8992 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02365" title="Low-Res PDF: 862 KB" target="_blank"> PDF w/ Links <span class="details">(862 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02365" title="Low-Res PDF: 819 KB" target="_blank"> PDF w/ Links <span class="details">(819 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.6b02365" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1234,9 +1212,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b02365" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02365%3Fprg140729%3Dff82e37d-b225-4bc5-a1d5-9fede1b57e1a&amp;doi=10.1021%2Facs.jpcc.6b02365" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02365%3Fprg140729%3D7d59917b-c4f7-4a08-91e4-92415ca7c1c1&amp;doi=10.1021%2Facs.jpcc.6b02365" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02365%3Fprg140729%3Df6306335-fee2-4b65-ba2f-4ad07e72fb78&amp;title=Alkali-Induced+in+Situ+Fabrication+of+Bi2O4-Decorated+BiOBr+Nanosheets+with+Excellent+Photocatalytic+Performance&amp;doi=10.1021%2Facs.jpcc.6b02365" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02365%3Fprg140729%3Db2da3dff-d797-4f0e-a2d9-74a0fdd7564d&amp;title=Alkali-Induced+in+Situ+Fabrication+of+Bi2O4-Decorated+BiOBr+Nanosheets+with+Excellent+Photocatalytic+Performance&amp;doi=10.1021%2Facs.jpcc.6b02365" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

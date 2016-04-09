@@ -11,6 +11,7 @@ public class Config {
 	String folder = "download";
 	int weeknum = 1;
 	String cdp = "chromedriver";
+	String cachepath = "cache";
 
 	public Config() {
 		try {
@@ -28,6 +29,9 @@ public class Config {
 				}
 				else if (str.startsWith("ChromeDirverPath")){
 					this.cdp = str.split("::")[1];
+				}
+				else if (str.startsWith("CachePath")){
+					this.cachepath = str.split("::")[1];
 				}
 			}
 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b9102f8d-e017-4efd-84f0-568fad2eba1c">
+<html lang="en" class="pb-page" data-request-id="3dc26482-c42f-4900-aaf7-1e879a5944cc">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsami.6b01796;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01796%3Fprg140729%3Dec52275e-364d-49fa-b628-e80cb12f5c5c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01796?prg140729=ec52275e-364d-49fa-b628-e80cb12f5c5c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01796?prg140729=ec52275e-364d-49fa-b628-e80cb12f5c5c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01796%3Fprg140729%3Dca9fb0fb-e035-4e74-ae9b-d2c23d918e99" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01796?prg140729=ca9fb0fb-e035-4e74-ae9b-d2c23d918e99&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01796?prg140729=ca9fb0fb-e035-4e74-ae9b-d2c23d918e99">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -928,18 +928,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Procedure" href="#_i2"><span>Experimental Procedure</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i3"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i5"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i8"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1035,22 +1023,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b00377?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b00377?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.6b00912?src=recsys">Sea Cucumber-Inspired Autolytic Hydrogels Exhibiting Tunable High Mechanical Performances, Repairability, and Reusability</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Inspired by stimuli-responsive remarkable changes in consistency (hardening, softening, autolysis) of sea cucumbers, we synthesized a supramolecular polymer(SP) hydrogel directly by photoinitiated aqueous polymerization of <i>N</i>-acryloyl 2-glycine monomer ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.6b00912?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.6b00912?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.6b00912?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.6b00912?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b02359?src=recsys">Dual-Mode Encoded Magnetic Composite Microsphere Based on Fluorescence Reporters and Raman Probes as Covert Tag for Anticounterfeiting Applications</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1067,37 +1039,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b02359?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b02359?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.6b01183?src=recsys">Black Anatase Titania with Ultrafast Sodium-Storage Performances Stimulated by Oxygen Vacancies</a>
+                           <li><a href="/doi/abs/10.1021/acsami.6b00912?src=recsys">Sea Cucumber-Inspired Autolytic Hydrogels Exhibiting Tunable High Mechanical Performances, Repairability, and Reusability</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ji</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Nanostructured black anatase titania with oxygen vacancies (OVs) is efficiently obtained and employed as an anode in sodium-ion batteries (SIBs) for the first time. The incorporation of OVs into TiO<sub>2</sub> is demonstrated to render considerably enhanced-rate ...<sup></sup><sup></sup><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Inspired by stimuli-responsive remarkable changes in consistency (hardening, softening, autolysis) of sea cucumbers, we synthesized a supramolecular polymer(SP) hydrogel directly by photoinitiated aqueous polymerization of <i>N</i>-acryloyl 2-glycine monomer ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.6b01183?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.6b01183?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.6b01183?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.6b01183?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsami.6b00912?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b00912?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b00912?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b00912?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.6b01581?src=recsys">Live Cell MicroRNA Imaging Using Exonuclease III-Aided Recycling Amplification Based on Aggregation-Induced Emission Luminogens</a>
+                           <li><a href="/doi/abs/10.1021/acsami.5b12408?src=recsys">Solution-Processable Silicon Phthalocyanines in Electroluminescent and Photovoltaic Devices</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Min</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zysman-Colman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ghosh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Varghese</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chowdhury</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sharma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cordes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Slawin</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Samuel</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Enzyme-assisted detection strategies of microRNAs (miRNAs) <i>in vitro</i> have accomplished both great sensitivity and specificity. However, low expression of miRNAs and a complex environment in cells induces big challenges for monitoring and tracking miRNAs <i>in ...</i></span>
+                             <span><span class="bold">Abstract:</span> Phthalocyanines and their main group and metal complexes are important classes of organic semiconductor materials but are usually highly insoluble and so frequently need to be processed by vacuum deposition in devices. We report two highly soluble silicon ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.6b01581?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.6b01581?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.6b01581?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.6b01581?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsami.5b12408?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.5b12408?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.5b12408?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.5b12408?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.6b01491?src=recsys">Understanding Solvent Effects on the Properties of Two-Dimensional Transition Metal Dichalcogenides</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Du</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Two-dimensional (2D) transition metal dichalcogenides (TMDCs) have emerged as attractive direct bandgap semiconducting materials with remarkable properties. Recently, TMDC-based electronic and optoelectronic systems have been demonstrated with various ...<sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.6b01491?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b01491?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b01491?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b01491?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1150,7 +1138,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acsami.6b01796" title="High-Res PDF: 1209 KB" target="_blank"> PDF <span class="details">(1209 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsami.6b01796" title="Low-Res PDF: 350 KB" target="_blank"> PDF w/ Links <span class="details">(350 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsami.6b01796" title="Low-Res PDF: 352 KB" target="_blank"> PDF w/ Links <span class="details">(352 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acsami.6b01796" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1183,9 +1171,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b01796" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01796%3Fprg140729%3D8a1545f3-c632-4acc-b40c-ef66ded1f067&amp;doi=10.1021%2Facsami.6b01796" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01796%3Fprg140729%3D321373c4-1b04-4bc7-a12c-7ba6d0b6d4af&amp;doi=10.1021%2Facsami.6b01796" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01796%3Fprg140729%3Dec52275e-364d-49fa-b628-e80cb12f5c5c&amp;title=Relationship+between+Poling+Characteristics+and+Phase+Boundaries+of+Potassium%E2%80%93Sodium+Niobate+Ceramics&amp;doi=10.1021%2Facsami.6b01796" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01796%3Fprg140729%3Dca9fb0fb-e035-4e74-ae9b-d2c23d918e99&amp;title=Relationship+between+Poling+Characteristics+and+Phase+Boundaries+of+Potassium%E2%80%93Sodium+Niobate+Ceramics&amp;doi=10.1021%2Facsami.6b01796" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

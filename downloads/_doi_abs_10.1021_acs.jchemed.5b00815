@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="48964f7c-5a5f-404a-a62c-0300f8401764">
+<html lang="en" class="pb-page" data-request-id="c37c95bf-1f5b-4c08-a0c6-940126a69980">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;article:article:10.1021/acs.jchemed.5b00815;issue:issue:10.1021/jceda8.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00815%3Fprg140729%3D6ce40c56-b799-4d4b-b943-8a51e78d72d1" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00815?prg140729=6ce40c56-b799-4d4b-b943-8a51e78d72d1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00815?prg140729=6ce40c56-b799-4d4b-b943-8a51e78d72d1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00815%3Fprg140729%3Da1d579ab-14ba-4c44-8bbe-dfd631302b9c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00815?prg140729=a1d579ab-14ba-4c44-8bbe-dfd631302b9c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00815?prg140729=a1d579ab-14ba-4c44-8bbe-dfd631302b9c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -675,7 +675,7 @@ $(function(){
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jchemed.5b00671" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00847" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -934,13 +934,13 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">Advances in software and hardware have promoted the use of computational chemistry in all branches of chemical research to probe important chemical concepts and to support experimentation. Consequently, it has become imperative that students in the modern undergraduate curriculum become adept at performing simple calculations using computational software, interpreting computational data, and applying computational data to explain chemical phenomena. We utilize computational chemistry in a high-enrollment (&gt;1200 students/year), undergraduate organic chemistry laboratory course in a manner similar to that of organic chemistry researchers. We have employed WebMO as a web-based, easy-to-use, and free front-end interface for Gaussian09 that allows our students to complete ab initio and density functional theory (DFT) calculations throughout the curriculum. Rather than an isolated exposure to computational chemistry, our students use computational chemistry to obtain a deeper understanding of their experimental work throughout the entire semester. By integrating calculations into the curriculum, the focus moves away from performing the calculations to providing insight into chemical phenomena and understanding experimental results. We provide here both an overview of the introductory laboratory experiment and our integrated approach.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Second-year+Undergraduate&amp;qsSearchArea=AllField">Second-Year Undergraduate</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Curriculum&amp;qsSearchArea=AllField">Curriculum</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Organic+Chemistry&amp;qsSearchArea=AllField">Organic Chemistry</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Misconceptions%2Fdiscrepant+Events&amp;qsSearchArea=AllField">Misconceptions/Discrepant Events</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Computational+Chemistry&amp;qsSearchArea=AllField">Computational Chemistry</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Molecular+Modeling&amp;qsSearchArea=AllField">Molecular Modeling</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Mechanisms+Of+Reactions&amp;qsSearchArea=AllField">Mechanisms of Reactions</a>
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Second-year+Undergraduate&amp;qsSearchArea=AllField">Second-Year Undergraduate</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Curriculum&amp;qsSearchArea=AllField">Curriculum</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Organic+Chemistry&amp;qsSearchArea=AllField">Organic Chemistry</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Misconceptions%2Fdiscrepant+Events&amp;qsSearchArea=AllField">Misconceptions/Discrepant Events</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Computational+Chemistry&amp;qsSearchArea=AllField">Computational Chemistry</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Molecular+Modeling&amp;qsSearchArea=AllField">Molecular Modeling</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Mechanisms+Of+Reactions&amp;qsSearchArea=AllField">Mechanisms of Reactions</a>
                               </div>
                              </div>
                             </div>
@@ -1055,22 +1055,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00923?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00923?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00420?src=recsys">Chemical Information Literacy: p<i>K</i><sub>a</sub> Values—Where Do Students Go Wrong?</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Flynn</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Amellal</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>93</em> (1), pp 39–45</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Chemical information literacy is an essential skillset for navigating, evaluating, and using the wealth of print and online information. Accordingly, efforts are underway to improve students’ acquisition and mastery of this skillset. However, less is ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00420?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00420?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00420?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00420?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00781?src=recsys">A Quantum Chemistry Concept Inventory for Physical Chemistry Classes</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
@@ -1086,6 +1070,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jchemed.5b00781?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00781?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00781?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00634?src=recsys">Solving Simple Kinetics without Integrals</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Education
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hernández de la Peña</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The solution of simple kinetic equations is analyzed without referencing any topic from differential equations or integral calculus. Guided by the physical meaning of the rate equation, a systematic procedure is used to generate an approximate solution ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00634?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00634?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00634?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00634?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1171,9 +1171,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00815" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00815%3Fprg140729%3D76ce4253-cfe2-40c4-9d08-f25b4445d731&amp;doi=10.1021%2Facs.jchemed.5b00815" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00815%3Fprg140729%3Df295ad5d-e9d6-4cca-a30f-38cfd98f6ac1&amp;doi=10.1021%2Facs.jchemed.5b00815" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00815%3Fprg140729%3D6ce40c56-b799-4d4b-b943-8a51e78d72d1&amp;title=Integration+of+Computational+Chemistry+into+the+Undergraduate+Organic+Chemistry+Laboratory+Curriculum&amp;doi=10.1021%2Facs.jchemed.5b00815" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00815%3Fprg140729%3Da1d579ab-14ba-4c44-8bbe-dfd631302b9c&amp;title=Integration+of+Computational+Chemistry+into+the+Undergraduate+Organic+Chemistry+Laboratory+Curriculum&amp;doi=10.1021%2Facs.jchemed.5b00815" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1196,8 +1196,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrvPjUFe0EFibVg90H21EOLACvtfcHk0lhzro2X-Y7GtQ&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXDNgJRIsBKVtrnDmCxc-CThi25Vg2O3Mo_mBo4HJXs5&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrvPjUFe0EFibVg90H21EOLACvtfcHk0lhU7a0gHUStHg&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXDNgJRIsBKVtrnDmCxc-CThi25Vg2O3MlMxmTbsV-UI&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

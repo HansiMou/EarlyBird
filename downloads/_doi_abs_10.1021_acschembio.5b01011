@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="19cdf2b3-180a-43a6-af45-2578fff2a3f8">
+<html lang="en" class="pb-page" data-request-id="b4e04d16-0935-43a6-9d23-afe28d3fdbb0">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/acbcct.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:acbcct;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acschembio.5b01011">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01011%3Fprg140729%3D308b826b-227a-4e21-8ec6-7490fa0cefba" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b01011?prg140729=308b826b-227a-4e21-8ec6-7490fa0cefba&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b01011?prg140729=308b826b-227a-4e21-8ec6-7490fa0cefba">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01011%3Fprg140729%3D2384078e-4630-4f9f-8c8c-4091249f9e5d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b01011?prg140729=2384078e-4630-4f9f-8c8c-4091249f9e5d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b01011?prg140729=2384078e-4630-4f9f-8c8c-4091249f9e5d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -678,6 +678,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acschembio.6b00144" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1028,21 +1029,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acschembio.6b00110?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.6b00110?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acschembio.5b00968?src=recsys">Orthogonal Assays Clarify the Oxidative Biochemistry of Taxol P450 CYP725A4</a>
+                           <li><a href="/doi/abs/10.1021/acschembio.6b00046?src=recsys">Exploring Peptide Ligase Orthologs in Actinobacteria—Discovery of Pseudopeptide Natural Products, Ketomemicins</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Biggs</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rouck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kambalyal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Arnold</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">De Mey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">O’Neil-Johnson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Starks</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Das</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ajikumar</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ogasawara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kawata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Noike</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Satoh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Furihata</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dairi</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Natural product metabolic engineering potentially offers sustainable and affordable access to numerous valuable molecules. However, challenges in characterizing and assembling complex biosynthetic pathways have prevented more rapid progress in this field. ...</span>
+                             <span><span class="bold">Abstract:</span> We recently identified a novel peptide ligase (PGM1), an ATP-grasp-ligase, that catalyzes amide bond formation between (<i>S</i>)-2-(3,5-dihydroxy-4-methoxyphenyl)-2-guanidinoacetic acid and ribosomally supplied oligopeptides in pheganomycin biosynthesis. This ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.5b00968?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acschembio.5b00968?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.5b00968?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.5b00968?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acschembio.6b00046?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.6b00046?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acschembio.6b00046?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acschembio.6b00046?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00633?src=recsys">Molecular Characterization of the Cercosporin Biosynthetic Pathway in the Fungal Plant Pathogen <i>Cercospora nicotianae</i></a>
                             <div class="achsLabel">
@@ -1060,35 +1061,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00633?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00633?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acschembio.6b00046?src=recsys">Exploring peptide ligase orthologs in actinobacteria—discovery of pseudopeptide natural products, ketomemicins</a>
+                           <li><a href="/doi/abs/10.1021/acschembio.5b00968?src=recsys">Orthogonal Assays Clarify the Oxidative Biochemistry of Taxol P450 CYP725A4</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ogasawara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kawata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Noike</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Satoh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Furihata</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dairi</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Biggs</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rouck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kambalyal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Arnold</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">De Mey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">O’Neil-Johnson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Starks</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Das</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ajikumar</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We recently identified a novel peptide ligase (PGM1), an ATP-grasp-ligase, that catalyzes amide bond formation between (<i>S</i>)-2-(3,5-dihydroxy-4-methoxyphenyl)-2-guanidinoacetic acid and ribosomally supplied oligopeptides in pheganomycin biosynthesis. This ...</span>
+                             <span><span class="bold">Abstract:</span> Natural product metabolic engineering potentially offers sustainable and affordable access to numerous valuable molecules. However, challenges in characterizing and assembling complex biosynthetic pathways have prevented more rapid progress in this field. ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.6b00046?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.6b00046?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.6b00046?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acschembio.5b00968?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.5b00968?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acschembio.5b00968?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acschembio.5b00968?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acschembio.6b00144?src=recsys">“Transition state structure and inhibition of Rv0091, a 5-deoxyadenosine / 5-methylthioadenosine nucleosidase from Mycobacterium tuberculosis.”</a>
+                           <li><a href="/doi/abs/10.1021/acschembio.6b00064?src=recsys">Mass Spectrometry Reveals Protein Kinase CK2 High-Order Oligomerization <i>via</i> the Circular and Linear Assembly</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Namanja-Magliano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stratton</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schramm</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Seetoh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Matak-Vinković</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Abell</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> 5-methylthioadenosine/S-adenosylhomocysteine nucleosidase (MTAN) is a bacterial enzyme that catalyzes the hydrolysis of the N-ribosidic bond in 5-methylthioadenosine (MTA) and S-adenosylhomocysteine (SAH). MTAN activity has been linked to quorum ...</span>
+                             <span><span class="bold">Abstract:</span> CK2 is an intrinsically active protein kinase that is crucial for cellular viability. However, conventional kinase regulatory mechanisms do not apply to CK2, and its mode of regulation remains elusive. Interestingly, CK2 is known to undergo reversible ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.6b00144?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.6b00144?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.6b00144?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acschembio.6b00064?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.6b00064?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acschembio.6b00064?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acschembio.6b00064?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1173,9 +1176,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facschembio.5b01011" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01011%3Fprg140729%3Dd79c68fd-c5cf-4677-9a04-4eb4276fa53b&amp;doi=10.1021%2Facschembio.5b01011" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01011%3Fprg140729%3Dba5d5a72-7ccd-4d37-8876-b0d2c62ed183&amp;doi=10.1021%2Facschembio.5b01011" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01011%3Fprg140729%3D308b826b-227a-4e21-8ec6-7490fa0cefba&amp;title=An+Ancestral+Tryptophanyl-tRNA+Synthetase+Precursor+Achieves+High+Catalytic+Rate+Enhancement+without+Ordered+Ground-State+Tertiary+Structures&amp;doi=10.1021%2Facschembio.5b01011" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b01011%3Fprg140729%3D2384078e-4630-4f9f-8c8c-4091249f9e5d&amp;title=An+Ancestral+Tryptophanyl-tRNA+Synthetase+Precursor+Achieves+High+Catalytic+Rate+Enhancement+without+Ordered+Ground-State+Tertiary+Structures&amp;doi=10.1021%2Facschembio.5b01011" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

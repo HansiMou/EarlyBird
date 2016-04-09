@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="019bb8e8-25f4-4116-a1d6-0994fea07e2c">
+<html lang="en" class="pb-page" data-request-id="78f88498-f3a4-4078-9767-98d0be06b109">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:inocaj;pageGroup:string:Publication Pages;article:article:10.1021/acs.inorgchem.6b00169;issue:issue:10.1021/inocaj.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00169%3Fprg140729%3D21b94b17-4d74-46ab-9a02-4a06daf0b7e7" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00169?prg140729=21b94b17-4d74-46ab-9a02-4a06daf0b7e7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00169?prg140729=21b94b17-4d74-46ab-9a02-4a06daf0b7e7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00169%3Fprg140729%3Dd75eb750-eed3-4e5e-a1e0-f6a52d733e33" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00169?prg140729=d75eb750-eed3-4e5e-a1e0-f6a52d733e33&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00169?prg140729=d75eb750-eed3-4e5e-a1e0-f6a52d733e33">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1094,6 +1094,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b12827?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b12827?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b13088?src=recsys">Electronic Structure of a Cu<sup>II</sup>–Alkoxide Complex Modeling Intermediates in Copper-Catalyzed Alcohol Oxidations</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hayes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Porter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barrows</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaminsky</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mayer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stoll</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (12), pp 4132–4145</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In the copper-catalyzed oxidation of alcohols to aldehydes, a Cu<sup>II</sup>-alkoxide (Cu<sup>II</sup>–OR) intermediate is believed to modulate the αC–H bond strength of the deprotonated substrate to facilitate the oxidation. As a structural model for these intermediates, we ...<sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b13088?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b13088?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b13088?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b13088?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b12643?src=recsys">Oxygen Activation by Co(II) and a Redox Non-Innocent Ligand: Spectroscopic Characterization of a Radical–Co(II)–Superoxide Complex with Divergent Catalytic Reactivity</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1109,22 +1125,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.5b12643?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.5b12643?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b12643?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b12214?src=recsys">Intramolecular C–H and C–F Bond Oxygenation Mediated by a Putative Terminal Oxo Species in Tetranuclear Iron Complexes</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">de Ruiter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thompson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takase</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Agapie</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (5), pp 1486–1489</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Herein we report the intramolecular arene C–H and C–F bond oxygenation by tetranuclear iron complexes. Treatment of [LFe<sub>3</sub>(PhPz)<sub>3</sub>OFe][OTf]<sub>2</sub> (<b>1</b>) or its fluorinated analog [LFe<sub>3</sub>(F<sub>2</sub>ArPz)<sub>3</sub>OFe][OTf]<sub>2</sub> (<b>5</b>) with iodosobenzene results in the regioselective ...<sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b12214?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b12214?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b12214?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b12214?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1210,9 +1210,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.inorgchem.6b00169" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00169%3Fprg140729%3D7e4def05-7bc9-430f-bb64-cf44247a19c6&amp;doi=10.1021%2Facs.inorgchem.6b00169" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00169%3Fprg140729%3D7d690335-9b4e-4c92-9df7-bde71a11c363&amp;doi=10.1021%2Facs.inorgchem.6b00169" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00169%3Fprg140729%3D21b94b17-4d74-46ab-9a02-4a06daf0b7e7&amp;title=HFEPR+and+Computational+Studies+on+the+Electronic+Structure+of+a+High-Spin+Oxidoiron%28IV%29+Complex+in+Solution&amp;doi=10.1021%2Facs.inorgchem.6b00169" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00169%3Fprg140729%3Dd75eb750-eed3-4e5e-a1e0-f6a52d733e33&amp;title=HFEPR+and+Computational+Studies+on+the+Electronic+Structure+of+a+High-Spin+Oxidoiron%28IV%29+Complex+in+Solution&amp;doi=10.1021%2Facs.inorgchem.6b00169" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

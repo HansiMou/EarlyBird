@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="cb044a32-1d3c-4e00-9431-4f60eb1ccd96">
+<html lang="en" class="pb-page" data-request-id="a6bb729d-cf71-4383-964c-eaabb5ac202a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jprobs;page:string:Article/Chapter View;issue:issue:10.1021/jprobs.ahead-of-print;subPage:string:Abstract;article:article:10.1021/acs.jproteome.5b01125">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01125%3Fprg140729%3Df9d3c13c-1508-48a8-a372-e87c35d96fc9" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01125?prg140729=f9d3c13c-1508-48a8-a372-e87c35d96fc9&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01125?prg140729=f9d3c13c-1508-48a8-a372-e87c35d96fc9">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01125%3Fprg140729%3Dfdc8705c-3296-4f07-8a4f-2ced67d43a13" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01125?prg140729=fdc8705c-3296-4f07-8a4f-2ced67d43a13&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01125?prg140729=fdc8705c-3296-4f07-8a4f-2ced67d43a13">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -953,18 +953,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i2"><span>Materials and Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i20"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i27"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i33"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1066,22 +1054,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01122?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.5b01122?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b01089?src=recsys">Redox Imbalance Underlies the Fitness Defect Associated with Inactivation of the Pta-AckA Pathway in <i>Staphylococcus aureus</i></a>
-                            <div class="achsLabel">
-                             Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Marshall</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sadykov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bayles</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Powers</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>15</em> (4), pp 1205–1212</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The phosphotransacetylase-acetate kinase (Pta-AckA) pathway is thought to be a vital ATP generating pathway for <i>Staphylococcus aureus.</i> Disruption of the Pta-AckA pathway during overflow metabolism causes significant reduction in growth rate and viability, ...<sup></sup><sub></sub><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.5b01089?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jproteome.5b01089?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01089?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.5b01089?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jproteome.5b01073?src=recsys">Mechanisms of Phenotypic Rifampicin Tolerance in <i>Mycobacterium tuberculosis</i> Beijing Genotype Strain B0/W148 Revealed by Proteomics</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
@@ -1097,6 +1069,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jproteome.5b01073?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01073?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.5b01073?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b01089?src=recsys">Redox Imbalance Underlies the Fitness Defect Associated with Inactivation of the Pta-AckA Pathway in <i>Staphylococcus aureus</i></a>
+                            <div class="achsLabel">
+                             Journal of Proteome Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Marshall</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sadykov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bayles</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Powers</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>15</em> (4), pp 1205–1212</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The phosphotransacetylase-acetate kinase (Pta-AckA) pathway is thought to be a vital ATP generating pathway for <i>Staphylococcus aureus.</i> Disruption of the Pta-AckA pathway during overflow metabolism causes significant reduction in growth rate and viability, ...<sup></sup><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jproteome.5b01089?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.5b01089?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01089?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.5b01089?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jproteome.6b00049?src=recsys">Novel Metabolite Biomarkers of Huntington’s Disease As Detected by High-Resolution Mass Spectrometry</a>
                             <div class="achsLabel">
@@ -1114,21 +1102,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00049?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.6b00049?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.6b00070?src=recsys">High-Performance Chemical Isotope Labeling Liquid Chromatography–Mass Spectrometry for Profiling the Metabolomic Reprogramming Elicited by Ammonium Limitation in Yeast</a>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b00217?src=recsys">Serum Bile Acids Are Associated with Pathological Progression of Hepatitis B-Induced Cirrhosis</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Friis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schultz</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jia</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>15</em> (4), pp 1126–1134</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Information about how yeast metabolism is rewired in response to internal and external cues can inform the development of metabolic engineering strategies for food, fuel, and chemical production in this organism. We report a new metabolomics workflow for ...<sup></sup><sup></sup><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Recent metabonomic studies have identified an important role of bile acids in patients with liver cirrhosis. Serum bile acids, such as glycocholate (GCA), glycochenodeoxycholate (GCDCA), taurocholate (TCA), and taurochenodeoxycholate (TCDCA), increased ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.6b00070?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jproteome.6b00070?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00070?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.6b00070?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jproteome.5b00217?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.5b00217?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00217?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.5b00217?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1214,9 +1202,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jproteome.5b01125" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01125%3Fprg140729%3D8ea1b9ca-e0e1-44e7-a71e-38c41ac6f77e&amp;doi=10.1021%2Facs.jproteome.5b01125" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01125%3Fprg140729%3Da4544578-18a5-4584-82fe-9ae7ed5454c9&amp;doi=10.1021%2Facs.jproteome.5b01125" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01125%3Fprg140729%3Df9d3c13c-1508-48a8-a372-e87c35d96fc9&amp;title=Silencing+PRDX3+Inhibits+Growth+and+Promotes+Invasion+and+Extracellular+Matrix+Degradation+in+Hepatocellular+Carcinoma+Cells&amp;doi=10.1021%2Facs.jproteome.5b01125" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01125%3Fprg140729%3Dfdc8705c-3296-4f07-8a4f-2ced67d43a13&amp;title=Silencing+PRDX3+Inhibits+Growth+and+Promotes+Invasion+and+Extracellular+Matrix+Degradation+in+Hepatocellular+Carcinoma+Cells&amp;doi=10.1021%2Facs.jproteome.5b01125" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1239,9 +1227,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqESxXps0QqN7Vg90H21EOLACvtfcHk0ljvRrd6LpKqfA&amp;loc=%2FControllerServlet&amp;pubId=40026038" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGImd-rtXOT9UtQwD9OmoEd1PN36vMqAwPGkKGH4IlI94&amp;loc=%2FControllerServlet&amp;pubId=40026038" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScdm2qdyVDhvtrnDmCxc-CThi25Vg2O3Mn8GvXc0P0_q&amp;loc=%2FControllerServlet&amp;pubId=40026038" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqESxXps0QqN7Vg90H21EOLACvtfcHk0lj8-womFF_uMg&amp;loc=%2FControllerServlet&amp;pubId=40026038" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGImd-rtXOT9UtQwD9OmoEd2YctUg414nr7ATZUPrF6VK&amp;loc=%2FControllerServlet&amp;pubId=40026038" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScdm2qdyVDhvtrnDmCxc-CThi25Vg2O3Mg3pdtlDaWGO&amp;loc=%2FControllerServlet&amp;pubId=40026038" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

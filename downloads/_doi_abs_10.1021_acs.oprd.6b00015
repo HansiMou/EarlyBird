@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d67de1da-d92b-46b9-89e8-c834fa5f8b29">
+<html lang="en" class="pb-page" data-request-id="c2f4ecd7-025e-4859-a8b8-1252eff37806">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.oprd.6b00015;website:website:acspubs;issue:issue:10.1021/oprdfk.ahead-of-print;journal:journal:oprdfk;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.oprd.6b00015%3Fprg140729%3Dc974d231-0fe0-4dd7-829d-fffb0b9b1845" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.oprd.6b00015?prg140729=c974d231-0fe0-4dd7-829d-fffb0b9b1845&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.oprd.6b00015?prg140729=c974d231-0fe0-4dd7-829d-fffb0b9b1845">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.oprd.6b00015%3Fprg140729%3D3bd268e2-2889-4a72-8b3a-2faba31844fa" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.oprd.6b00015?prg140729=3bd268e2-2889-4a72-8b3a-2faba31844fa&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.oprd.6b00015?prg140729=3bd268e2-2889-4a72-8b3a-2faba31844fa">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1036,6 +1036,19 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.oprd.6b00012?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.oprd.6b00012?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.oprd.6b00042?src=recsys">Green Chemistry Articles of Interest to the Pharmaceutical Industry</a>
+                            <div class="achsLabel">
+                             Organic Process Research &amp; Development
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bandichhor</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Bhattacharya</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Bryan</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Diorazio</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Dunn</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Fraunhoffer</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Gallou</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Hayler</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Hickey</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Humphreys</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Richardson</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Roiban</span> , <span class="entryAuthor normal hlFld-ContribAuthor">White</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Wuyts</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.oprd.6b00042?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.oprd.6b00042?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.oprd.6b00042?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.oprd.6b00042?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.oprd.5b00325?src=recsys">Flow Chemistry: Recent Developments in the Synthesis of Pharmaceutical Products</a>
                             <div class="achsLabel">
                              Organic Process Research &amp; Development
@@ -1051,19 +1064,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.oprd.5b00325?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.oprd.5b00325?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.oprd.5b00325?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.oprd.6b00042?src=recsys">Green Chemistry Articles of Interest to the Pharmaceutical Industry</a>
-                            <div class="achsLabel">
-                             Organic Process Research &amp; Development
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bandichhor</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Bhattacharya</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Bryan</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Diorazio</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Dunn</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Fraunhoffer</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Gallou</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Hayler</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Hickey</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Humphreys</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Richardson</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Roiban</span> , <span class="entryAuthor normal hlFld-ContribAuthor">White</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Wuyts</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.oprd.6b00042?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.oprd.6b00042?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.oprd.6b00042?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.oprd.6b00042?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.oprd.6b00013?src=recsys">Safety Notables: Information from the Literature</a>
                             <div class="achsLabel">
@@ -1162,9 +1162,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.oprd.6b00015" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.oprd.6b00015%3Fprg140729%3D043a4b56-60bf-4f5e-bb95-4aa1cbc70936&amp;doi=10.1021%2Facs.oprd.6b00015" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.oprd.6b00015%3Fprg140729%3D552b2254-1f0d-463e-bfd7-f53bd1a023f2&amp;doi=10.1021%2Facs.oprd.6b00015" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.oprd.6b00015%3Fprg140729%3Dc974d231-0fe0-4dd7-829d-fffb0b9b1845&amp;title=Toward+a+More+Holistic+Framework+for+Solvent+Selection&amp;doi=10.1021%2Facs.oprd.6b00015" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.oprd.6b00015%3Fprg140729%3D3bd268e2-2889-4a72-8b3a-2faba31844fa&amp;title=Toward+a+More+Holistic+Framework+for+Solvent+Selection&amp;doi=10.1021%2Facs.oprd.6b00015" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1187,8 +1187,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp16WmsggJXI7Vg90H21EOLACvtfcHk0lggj-jaaq5fIA&amp;loc=%2FControllerServlet&amp;pubId=40026044" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXhoB-X4jc3htrnDmCxc-CThi25Vg2O3Mj1P_x5xt-68&amp;loc=%2FControllerServlet&amp;pubId=40026044" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp16WmsggJXI7Vg90H21EOLACvtfcHk0litjrBfyMc8jA&amp;loc=%2FControllerServlet&amp;pubId=40026044" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXhoB-X4jc3htrnDmCxc-CThi25Vg2O3MjpDWRbWGrjR&amp;loc=%2FControllerServlet&amp;pubId=40026044" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

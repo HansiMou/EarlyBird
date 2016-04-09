@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2094de94-8fb7-4454-9353-03ff38b73a1b">
+<html lang="en" class="pb-page" data-request-id="b4c5edb4-b5cb-406a-80ee-8249b5bbc943">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/estlcu.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:estlcu;article:article:10.1021/acs.estlett.6b00112;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00112%3Fprg140729%3Dc289cbec-7aca-45b3-977e-e3bcd8db2016" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00112?prg140729=c289cbec-7aca-45b3-977e-e3bcd8db2016&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00112?prg140729=c289cbec-7aca-45b3-977e-e3bcd8db2016">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00112%3Fprg140729%3D8282de1f-58ff-4445-8a70-e5f1e6b08430" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00112?prg140729=8282de1f-58ff-4445-8a70-e5f1e6b08430&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00112?prg140729=8282de1f-58ff-4445-8a70-e5f1e6b08430">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -693,7 +693,7 @@ $(function(){
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.estlett.6b00064" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.estlett.6b00046" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1056,6 +1056,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.estlett.5b00354?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.estlett.5b00354?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.estlett.6b00051?src=recsys">Microbial Rechargeable Battery: Energy Storage and Recovery through Acetate</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Molenaar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mol</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sleutels</span>, <span class="entryAuthor normal hlFld-ContribAuthor">ter Heijne</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Buisman</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Bioelectrochemical systems hold potential for both conversion of electricity into chemicals through microbial electrosynthesis (MES) and the provision of electrical power by oxidation of organics using microbial fuel cells (MFCs). This study provides a ...<sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.estlett.6b00051?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.estlett.6b00051?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.estlett.6b00051?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.estlett.6b00051?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b06376?src=recsys">Bioelectrochemical Chromium(VI) Removal in Plant-Microbial Fuel Cells</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1072,53 +1088,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b06376?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b06376?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.estlett.5b00303?src=recsys">Scalable and Continuous Water Deionization by Shock Electrodialysis</a>
+                           <li><a href="/doi/abs/10.1021/acs.estlett.6b00066?src=recsys">Superoxide-Mediated Extracellular Biosynthesis of Silver Nanoparticles by the Fungus <i>Fusarium oxysporum</i></a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schlumpberger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suss</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bazant</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>2</em> (12), pp 367–372</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Rising global demand for potable water is driving innovation in water treatment methods. Shock electrodialysis is a recently proposed technique that exploits deionization shock waves in porous media to purify water. In this letter, we present the first ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.estlett.5b00303?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.estlett.5b00303?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.estlett.5b00303?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.estlett.5b00303?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b05267?src=recsys">Microbial Electrochemical Monitoring of Volatile Fatty Acids during Anaerobic Digestion</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Angelidaki</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Volatile fatty acid (VFA) concentration is known as an important indicator to control and optimize anaerobic digestion (AD) process. In this study, an innovative VFA biosensor was developed based on the principle of a microbial desalination cell. The ...<sup></sup><sup></sup><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> The biosynthesis of silver nanoparticles (AgNPs) by microorganisms has become a hot topic in recent years, although its mechanism is still not well understood. Here we report the extracellular biosynthesis of AgNPs by the fungus <i>Fusarium oxysporum</i> through ...<sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b05267?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b05267?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b05267?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b05267?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.estlett.6b00066?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.estlett.6b00066?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.estlett.6b00066?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.estlett.6b00066?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.6b00066?src=recsys">Adhesion of <i>Shewanella oneidensis</i> MR-1 to Goethite: A Two-Dimensional Correlation Spectroscopic Study</a>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b02833?src=recsys">Graphene-Coated Hollow Fiber Membrane as the Cathode in Anaerobic Electrochemical Membrane Bioreactors – Effect of Configuration and Applied Voltage on Performance and Membrane Fouling</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jing</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Werner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Katuri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Logan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amy</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Saikaly</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Bacterial adhesion to mineral surfaces is an important but underappreciated process. To decipher the molecular level process and mechanism, the adhesion of <i>Shewanella oneidensis</i> MR-1 cells to goethite was investigated using flow-cell attenuated total ...</span>
+                             <span><span class="bold">Abstract:</span> Electrically conductive, graphene-coated, hollow-fiber porous membranes were used as cathodes in anaerobic electrochemical membrane bioreactors (AnEMBRs) operated at different applied voltages (0.7 and 0.9 V) using a new rectangular reactor configuration ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.6b00066?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.6b00066?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.6b00066?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.6b00066?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.est.5b02833?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b02833?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b02833?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b02833?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1204,9 +1204,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.estlett.6b00112" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00112%3Fprg140729%3D1ce7613e-ea1a-4c93-9c09-30778c674264&amp;doi=10.1021%2Facs.estlett.6b00112" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00112%3Fprg140729%3D6e722bba-1a5f-45fe-aca2-a68dcd9244d0&amp;doi=10.1021%2Facs.estlett.6b00112" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00112%3Fprg140729%3Dc289cbec-7aca-45b3-977e-e3bcd8db2016&amp;title=Rapid+Detection+and+Enumeration+of+Exoelectrogenic+Bacteria+in+Lake+Sediments+and+a+Wastewater+Treatment+Plant+Using+a+Coupled+WO3+Nanoclusters+and+Most+Probable+Number+Method&amp;doi=10.1021%2Facs.estlett.6b00112" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00112%3Fprg140729%3D8282de1f-58ff-4445-8a70-e5f1e6b08430&amp;title=Rapid+Detection+and+Enumeration+of+Exoelectrogenic+Bacteria+in+Lake+Sediments+and+a+Wastewater+Treatment+Plant+Using+a+Coupled+WO3+Nanoclusters+and+Most+Probable+Number+Method&amp;doi=10.1021%2Facs.estlett.6b00112" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

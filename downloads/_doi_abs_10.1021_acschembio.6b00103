@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d25fe93f-6741-4e7b-8a14-2b61d95977d0">
+<html lang="en" class="pb-page" data-request-id="88a6b233-b9d2-4b33-a542-7ace041b0797">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/acbcct.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acschembio.6b00103;journal:journal:acbcct;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -149,8 +149,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00103%3Fprg140729%3D252ea612-b01a-4ebb-b114-91d0d6fa9c02" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00103?prg140729=252ea612-b01a-4ebb-b114-91d0d6fa9c02&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00103?prg140729=252ea612-b01a-4ebb-b114-91d0d6fa9c02">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00103%3Fprg140729%3D5e25f256-6589-4c03-9e45-1e5ad785da53" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00103?prg140729=5e25f256-6589-4c03-9e45-1e5ad785da53&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00103?prg140729=5e25f256-6589-4c03-9e45-1e5ad785da53">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1092,22 +1092,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acschembio.6b00106?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.6b00106?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b12608?src=recsys">On-Demand Targeting: Investigating Biology with Proximity-Directed Chemistry</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poganik</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Aye</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3610–3622</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Proximity enhancement is a central chemical tenet underpinning an exciting suite of small-molecule toolsets that have allowed us to unravel many biological complexities. The leitmotif of this opus is “tethering”—a strategy in which a multifunctional small ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b12608?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b12608?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b12608?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b12608?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b12848?src=recsys">Real-Time Discrimination and Versatile Profiling of Spontaneous Reactive Oxygen Species in Living Organisms with a Single Fluorescent Probe</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1140,6 +1124,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b10928?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b10928?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12608?src=recsys">On-Demand Targeting: Investigating Biology with Proximity-Directed Chemistry</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poganik</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Aye</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3610–3622</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Proximity enhancement is a central chemical tenet underpinning an exciting suite of small-molecule toolsets that have allowed us to unravel many biological complexities. The leitmotif of this opus is “tethering”—a strategy in which a multifunctional small ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12608?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12608?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12608?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12608?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acschembio.5b00966?src=recsys">Boronic Acid for the Traceless Delivery of Proteins into Cells</a>
+                            <div class="achsLabel">
+                             ACS Chemical Biology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Andersen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lomax</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Raines</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>11</em> (2), pp 319–323</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The use of exogenous proteins as intracellular probes and therapeutic agents is in its infancy. A major hurdle has been the delivery of native proteins to an intracellular site of action. Herein, we report on a compact delivery vehicle that employs the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acschembio.5b00966?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.5b00966?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acschembio.5b00966?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acschembio.5b00966?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acschembio.6b00060?src=recsys">Chemically Modifying Viruses for Diverse Applications</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
@@ -1155,21 +1171,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acschembio.6b00060?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acschembio.6b00060?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.6b00060?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acschembio.5b01034?src=recsys">Six Biophysical Screening Methods Miss a Large Proportion of Crystallographically Discovered Fragment Hits: A Case Study</a>
-                            <div class="achsLabel">
-                             ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schiebel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Radeva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krimmer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stieler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ehrmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Metz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huschmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weiss</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mueller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heine</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Klebe</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Fragment-based lead discovery (FBLD) has become a pillar in drug development. Typical applications of this method comprise at least two biophysical screens as pre-filter and a follow-up crystallographic experiment on a subset of fragments. Clearly, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.5b01034?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.5b01034?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.5b01034?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1255,9 +1256,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facschembio.6b00103" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00103%3Fprg140729%3Dc4d21cfd-5ba6-4058-b9a6-6e5de25b12e2&amp;doi=10.1021%2Facschembio.6b00103" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00103%3Fprg140729%3Dabdea29f-615d-4c75-9a6c-c2f1a0bab21b&amp;doi=10.1021%2Facschembio.6b00103" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00103%3Fprg140729%3D252ea612-b01a-4ebb-b114-91d0d6fa9c02&amp;title=Synchronous+Bioimaging+of+Intracellular+pH+and+Chloride+Based+on+LSS+Fluorescent+Protein&amp;doi=10.1021%2Facschembio.6b00103" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00103%3Fprg140729%3D5e25f256-6589-4c03-9e45-1e5ad785da53&amp;title=Synchronous+Bioimaging+of+Intracellular+pH+and+Chloride+Based+on+LSS+Fluorescent+Protein&amp;doi=10.1021%2Facschembio.6b00103" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

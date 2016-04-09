@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="6bde0fa3-7050-4cb4-91ea-06545a3c33ea">
+<html lang="en" class="pb-page" data-request-id="beee4f5c-162c-4d67-bc74-e621ce65a4b4">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/cmatex.ahead-of-print;journal:journal:cmatex;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.chemmater.6b00114;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00114%3Fprg140729%3D49881220-50f8-4547-80bc-2a54acd1339b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00114?prg140729=49881220-50f8-4547-80bc-2a54acd1339b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00114?prg140729=49881220-50f8-4547-80bc-2a54acd1339b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00114%3Fprg140729%3D470c4a5d-df9d-4810-a66c-2bc212def51c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00114?prg140729=470c4a5d-df9d-4810-a66c-2bc212def51c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00114?prg140729=470c4a5d-df9d-4810-a66c-2bc212def51c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -969,18 +969,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i6"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i7"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i11"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1042,6 +1030,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04874?src=recsys">Growth Mechanism and Morphology of Hexagonal Boron Nitride</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yakobson</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>16</em> (2), pp 1398–1403</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Hexagonal boron nitride (h-BN) sheet is a structural analogue of graphene, yet its growth mechanism has been rarely studied, as complicated by its binary composition. Here, we reveal an atomistic growth mechanism for the h-BN islands by combining crystal ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b04874?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b04874?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04874?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04874?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b05556?src=recsys">Recent Advances in Two-Dimensional Materials beyond Graphene</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1073,22 +1077,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.chemmater.6b00430?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00430?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.6b00430?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04874?src=recsys">Growth Mechanism and Morphology of Hexagonal Boron Nitride</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yakobson</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>16</em> (2), pp 1398–1403</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Hexagonal boron nitride (h-BN) sheet is a structural analogue of graphene, yet its growth mechanism has been rarely studied, as complicated by its binary composition. Here, we reveal an atomistic growth mechanism for the h-BN islands by combining crystal ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b04874?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b04874?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04874?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04874?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b06254?src=recsys">Direct Growth of MoS<sub>2</sub>/h-BN Heterostructures <i>via</i> a Sulfide-Resistant Alloy</a>
                             <div class="achsLabel">
@@ -1122,18 +1110,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.5b03607?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.5b03607?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04394?src=recsys">Mechanism of Arsenic Monolayer Doping of Oxide-Free Si(111)</a>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b05847?src=recsys">Synthesis of Low-Density, Carbon-Doped, Porous Hexagonal Boron Nitride Solids</a>
                             <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Longo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mattson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vega</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cabrera</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cho</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chabal</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Thissen</span> 
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gautam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tiwary</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jose</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brunetto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ozden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vinod</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Raghavan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Biradar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Galvao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ajayan</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2015</span> <em>9</em> (12), pp 12088–12095</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Here, we report the scalable synthesis and characterization of low-density, porous, three-dimensional (3D) solids consisting of two-dimensional (2D) hexagonal boron nitride (h-BN) sheets. The structures are synthesized using bottom-up, low-temperature (∼...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.5b04394?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.5b04394?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04394?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04394?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsnano.5b05847?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b05847?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b05847?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b05847?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1219,9 +1210,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.chemmater.6b00114" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00114%3Fprg140729%3D742bd90b-7015-48dc-8e37-b5d1cc6fdcba&amp;doi=10.1021%2Facs.chemmater.6b00114" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00114%3Fprg140729%3D4ec01e04-b2d3-411a-8447-0b561d513dd6&amp;doi=10.1021%2Facs.chemmater.6b00114" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00114%3Fprg140729%3D49881220-50f8-4547-80bc-2a54acd1339b&amp;title=Trimethylamine+Borane%3A+A+New+Single-Source+Precursor+for+Monolayer+h-BN+Single+Crystals+and+h-BCN+Thin+Films&amp;doi=10.1021%2Facs.chemmater.6b00114" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00114%3Fprg140729%3D470c4a5d-df9d-4810-a66c-2bc212def51c&amp;title=Trimethylamine+Borane%3A+A+New+Single-Source+Precursor+for+Monolayer+h-BN+Single+Crystals+and+h-BCN+Thin+Films&amp;doi=10.1021%2Facs.chemmater.6b00114" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1244,8 +1235,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqj8dJt01rq0rVg90H21EOLACvtfcHk0lgpqgr4IZptag&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSVt2sykFrSm4trnDmCxc-CThi25Vg2O3MlwC5YWFTC7p&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqj8dJt01rq0rVg90H21EOLACvtfcHk0liVdA4uxmRUmA&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSVt2sykFrSm4trnDmCxc-CThi25Vg2O3MmxbajsIjEns&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="0d182edd-5518-4c19-8016-d89b4813d45d">
+<html lang="en" class="pb-page" data-request-id="f8d02a52-b81b-45a8-8aef-690d8e1b329a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/apchd5.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acsphotonics.6b00080;journal:journal:apchd5">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00080%3Fprg140729%3Da7a2c852-c0ee-45d5-a9cd-31ba6f9cdfc0" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.6b00080?prg140729=a7a2c852-c0ee-45d5-a9cd-31ba6f9cdfc0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.6b00080?prg140729=a7a2c852-c0ee-45d5-a9cd-31ba6f9cdfc0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00080%3Fprg140729%3D6cbe3061-2091-4488-9b70-e413a93ac30b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.6b00080?prg140729=6cbe3061-2091-4488-9b70-e413a93ac30b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.6b00080?prg140729=6cbe3061-2091-4488-9b70-e413a93ac30b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1016,6 +1016,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acsphotonics.6b00070?src=recsys">Plasmonic Scattering Back Reflector for Light Trapping in Flat Nano-Crystalline Silicon Solar Cells</a>
+                            <div class="achsLabel">
+                             ACS Photonics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">van Dijk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van de Groep</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Veldhuizen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Di Vece</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Polman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schropp</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Most types of thin film solar cells require light management to achieve sufficient light absorptance. We demonstrate a novel process for fabricating a scattering back reflector for flat, thin film hydrogenated nanocrystalline silicon (nc-Si:H) solar ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsphotonics.6b00070?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsphotonics.6b00070?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsphotonics.6b00070?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsphotonics.6b00070?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsphotonics.6b00042?src=recsys">Flexible Thin-Film InGaAs Photodiode Focal Plane Array</a>
                             <div class="achsLabel">
                              ACS Photonics
@@ -1048,69 +1064,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsphotonics.5b00637?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsphotonics.5b00637?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00034?src=recsys">Controlling Random Lasing with Three-Dimensional Plasmonic Nanorod Metamaterials</a>
+                           <li><a href="/doi/abs/10.1021/acsphotonics.5b00688?src=recsys">Quantifying the Plasmonic Character of Optical Excitations in Nanostructures</a>
                             <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Knitter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shalaev</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Boltasseva</span> 
+                             ACS Photonics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bursi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Calzolari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Corni</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Molinari</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Plasmonics has brought revolutionary advances to laser science by enabling deeply subwavelength nanolasers through surface plasmon amplification. However, the impact of plasmonics on other promising laser systems has so far remained elusive. Here, we ...</span>
+                             <span><span class="bold">Abstract:</span> The microscopic definition of plasmons in nanosystems is a tremendous challenge. Any sharp distinction of the excitation nature (nonplasmonic vs plasmonic) becomes blurred at the nanoscale, where quantum effects become important. Here we introduce the ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.6b00034?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.6b00034?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00034?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00034?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsphotonics.5b00688?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsphotonics.5b00688?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsphotonics.5b00688?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsphotonics.5b00688?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00323?src=recsys">Electromechanically Tunable Suspended Optical Nanoantenna</a>
+                           <li><a href="/doi/abs/10.1021/acsphotonics.6b00065?src=recsys">Directional Emission from Leaky and Guided Modes in GaAs Nanowires Measured by Cathodoluminescence</a>
                             <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Razinskas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feichtner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grossmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Christiansen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hecht</span> 
+                             ACS Photonics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Brenny</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abujetas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van Dam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sánchez-Gil</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rivas</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Polman</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Coupling mechanical degrees of freedom with plasmonic resonances has potential applications in optomechanics, sensing, and active plasmonics. Here we demonstrate a suspended two-wire plasmonic nanoantenna acting like a nanoelectrometer. The antenna wires ...</span>
+                             <span><span class="bold">Abstract:</span> We measure the polarization-resolved angular emission distribution from thin and thick GaAs nanowires (diameters ∼110 and ∼180 nm) with cathodoluminescence polarimetry. The nanowires, which horizontally rest on a thin carbon film, are excited by a 5 keV ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.6b00323?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.6b00323?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00323?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00323?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsphotonics.6b00065?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsphotonics.6b00065?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsphotonics.6b00065?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsphotonics.6b00065?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.6b00287?src=recsys">Coupling Emitters and Silver Nanowires to Achieve Long-Range Plasmon-Mediated Fluorescence Energy Transfer</a>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b05183?src=recsys">Biologically Inspired Organic Light-Emitting Diodes</a>
                             <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">de Torres</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ferrand</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Colas des Francs</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wenger</span> 
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kweon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yoo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jeong</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The development of quantum plasmonic circuitry requires efficient coupling between quantum emitters and plasmonic waveguides. A major experimental challenge is to simultaneously maximize the surface plasmon propagation length, the coupling efficiency into ...</span>
+                             <span><span class="bold">Abstract:</span> Many animal species employ highly conspicuous traits as courtship signals for successful mating. Fireflies utilize their bioluminescent light as visual courtship signals. In addition to efficient bioluminescent light emission, the structural components of ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.6b00287?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.6b00287?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.6b00287?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.6b00287?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00193?src=recsys">Theoretical Demonstration of the Ionic Barristor</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wallace</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cho</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>16</em> (3), pp 2090–2095</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In this Letter, we use first-principles simulations to demonstrate the absence of Fermi-level pinning when graphene is in contact with transition metal dichalcogenides (TMDs). We find that formation of either an ohmic or Schottky contact is possible. Then ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.6b00193?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.6b00193?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00193?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00193?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b05183?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b05183?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05183?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b05183?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1196,9 +1196,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsphotonics.6b00080" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00080%3Fprg140729%3Dcac78802-5f55-4591-b58d-88c363ca26dd&amp;doi=10.1021%2Facsphotonics.6b00080" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00080%3Fprg140729%3Da4d12c49-2488-4829-ac4a-af8dcccef9f6&amp;doi=10.1021%2Facsphotonics.6b00080" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00080%3Fprg140729%3Da7a2c852-c0ee-45d5-a9cd-31ba6f9cdfc0&amp;title=Flexible+Opto-Fluidic+Fluorescence+Sensors+Based+on+Heterogeneously+Integrated+Micro-VCSELs+and+Silicon+Photodiodes&amp;doi=10.1021%2Facsphotonics.6b00080" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.6b00080%3Fprg140729%3D6cbe3061-2091-4488-9b70-e413a93ac30b&amp;title=Flexible+Opto-Fluidic+Fluorescence+Sensors+Based+on+Heterogeneously+Integrated+Micro-VCSELs+and+Silicon+Photodiodes&amp;doi=10.1021%2Facsphotonics.6b00080" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

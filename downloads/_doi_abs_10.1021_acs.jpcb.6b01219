@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="25c45133-de11-4a6e-b3c3-e75fa185266e">
+<html lang="en" class="pb-page" data-request-id="1d1d5211-d011-4798-9e19-7ad28a463c74">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jpcbfk;pageGroup:string:Publication Pages;issue:issue:10.1021/jpcbfk.ahead-of-print;article:article:10.1021/acs.jpcb.6b01219;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01219%3Fprg140729%3D654a0117-1ec5-4bd4-a32c-7ff6a6cdcecb" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01219?prg140729=654a0117-1ec5-4bd4-a32c-7ff6a6cdcecb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01219?prg140729=654a0117-1ec5-4bd4-a32c-7ff6a6cdcecb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01219%3Fprg140729%3D0026f5bf-1c90-46d7-98d9-3b6b1c8d2350" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01219?prg140729=0026f5bf-1c90-46d7-98d9-3b6b1c8d2350&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01219?prg140729=0026f5bf-1c90-46d7-98d9-3b6b1c8d2350">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -689,6 +689,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcb.6b02092" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1016,15 +1017,16 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/doi/abs/10.1021/acs.jpcb.6b01012?src=recsys">Molecular Modeling of Water Interfaces: From Molecular Spectroscopy to Thermodynamics</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nagata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ohto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Backus</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bonn</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nagata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ohto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Backus</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bonn</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Understanding aqueous interfaces at the molecular level is not only of fundamental importance, but also highly relevant for a variety of disciplines. For instance, electrode-water interfaces are relevant for electrochemistry; mineral-water interfaces for ...</span>
+                             <span><span class="bold">Abstract:</span> Understanding aqueous interfaces at the molecular level is not only fundamentally important, but also highly relevant for a variety of disciplines. For instance, electrode–water interfaces are relevant for electrochemistry, as are mineral–water interfaces ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
                              <a href="/doi/abs/10.1021/acs.jpcb.6b01012?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b01012?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01012?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.6b01012?src=recsys">Hi-Res PDF</a>
                             </div></li>
@@ -1044,21 +1046,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.6b00059?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.6b00059?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01018?src=recsys">A Coarse-grained Theory of Biological Charge Transfer with Spatially and Temporally Correlated Noise</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Beratan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> System-environment interactions are essential in determining charge transfer (CT) rates and mechanisms. We developed a computationally accessible method, suitable to simulate CT in flexible molecules (i.e., DNA) with hundreds of sites, where the system-...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.6b01018?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01018?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01018?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01052?src=recsys">Protein Structural Memory Influences Ligand Binding Mode(s) and Unbinding Rates</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1075,21 +1062,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01052?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01052?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b07816?src=recsys">Toward an Enhanced Sampling Molecular Dynamics Method for Studying Ligand-Induced Conformational Changes in Proteins</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01890?src=recsys">Markovian and Non-Markovian Modeling of Membrane Dynamics with Milestoning</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Andersen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grouleff</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Needham</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Walker</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jensen</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cardenas</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Elber</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>119</em> (46), pp 14594–14603</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Current enhanced sampling molecular dynamics methods for studying large conformational changes in proteins suffer from certain limitations. These include, among others, the need for user defined collective variables, the prerequisite of both start and end ...</span>
+                             <span><span class="bold">Abstract:</span> We exploit atomically detailed simulations and the milestoning theory to extract coarse grained models of membrane kinetics and thermodynamics. Non-Markovian and Markovian theories for the phosphate group displacements are used to coarsely represent ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.5b07816?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.5b07816?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b07816?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.5b07816?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b01890?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b01890?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01890?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01890?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b10809?src=recsys">Hydration Free Energies of Molecular Ions from Theory and Simulation</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Misin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fedorov</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Palmer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (5), pp 975–983</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We present a theoretical/computational framework for accurate calculation of hydration free energies of ionized molecular species. The method is based on a molecular theory, 3D-RISM, combined with a recently developed pressure correction (PC+). The 3D-...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.5b10809?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.5b10809?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b10809?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.5b10809?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b00913?src=recsys">Demonstrating an Order-of-Magnitude Sampling Enhancement in Molecular Dynamics Simulations of Complex Protein Systems</a>
                             <div class="achsLabel">
@@ -1191,9 +1194,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcb.6b01219" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01219%3Fprg140729%3Deb3b697a-eb4e-4e8a-9935-4e84df33415e&amp;doi=10.1021%2Facs.jpcb.6b01219" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01219%3Fprg140729%3D9391ff55-c5fb-4644-af23-4fd5fc023f4a&amp;doi=10.1021%2Facs.jpcb.6b01219" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01219%3Fprg140729%3D654a0117-1ec5-4bd4-a32c-7ff6a6cdcecb&amp;title=Solvent+Fluctuations+Induce+Non-Markovian+Kinetics+in+Hydrophobic+Pocket-Ligand+Binding&amp;doi=10.1021%2Facs.jpcb.6b01219" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01219%3Fprg140729%3D0026f5bf-1c90-46d7-98d9-3b6b1c8d2350&amp;title=Solvent+Fluctuations+Induce+Non-Markovian+Kinetics+in+Hydrophobic+Pocket-Ligand+Binding&amp;doi=10.1021%2Facs.jpcb.6b01219" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

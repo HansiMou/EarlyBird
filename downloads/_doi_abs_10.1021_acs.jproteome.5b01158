@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="920f07c7-22a1-4842-b223-b1235bd1425f">
+<html lang="en" class="pb-page" data-request-id="a0f05aed-d574-407d-9169-7af7848a6f39">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jproteome.5b01158;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jprobs;page:string:Article/Chapter View;issue:issue:10.1021/jprobs.ahead-of-print;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01158%3Fprg140729%3D724b8ae7-ffd0-4381-aa2a-349ac73d24e9" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01158?prg140729=724b8ae7-ffd0-4381-aa2a-349ac73d24e9&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01158?prg140729=724b8ae7-ffd0-4381-aa2a-349ac73d24e9">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01158%3Fprg140729%3D93981b1d-9d5d-4549-bc2f-978e88ed1c86" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01158?prg140729=93981b1d-9d5d-4549-bc2f-978e88ed1c86&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.5b01158?prg140729=93981b1d-9d5d-4549-bc2f-978e88ed1c86">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -681,7 +681,7 @@ $(function(){
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jproteome.6b00006" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.jproteome.6b00257" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1038,21 +1038,21 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b01105?src=recsys">Cleaning out the Litterbox of Proteomic Scientists’ Favorite Pet: Optimized Data Analysis Avoiding Trypsin Artifacts</a>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b01101?src=recsys">Evaluation of the mirn23a Cluster through an iTRAQ-based Quantitative Proteomic Approach</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schittmayer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fritz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liesinger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Griss</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Birner-Gruenberger</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ludwig</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dahl</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hummon</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>15</em> (4), pp 1222–1229</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Chemically modified trypsin is a standard reagent in proteomics experiments but is usually not considered in database searches. Modification of trypsin is supposed to protect the protease against autolysis and the resulting loss of activity. Here, we show ...</span>
+                             <span><span class="bold">Abstract:</span> MicroRNAs (miRNAs) are post-transcriptional regulators of gene expression that are implicated in a number of disease states. MiRNAs can exist as individual entities or may be clustered and transcribed as a single polycistron. The mirn23a cluster consists ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.5b01105?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jproteome.5b01105?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01105?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.5b01105?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jproteome.5b01101?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.5b01101?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01101?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.5b01101?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jproteome.5b00981?src=recsys">Accounting for the Multiple Natures of Missing Values in Label-Free Quantitative Proteomics Data Sets to Compare Imputation Strategies</a>
                             <div class="achsLabel">
@@ -1070,37 +1070,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00981?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.5b00981?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b00997?src=recsys">Quantitation and Identification of Thousands of Human Proteoforms below 30 kDa</a>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.6b00006?src=recsys">The Peripheral Blood Eosinophil Proteome</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Durbin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fornelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fellers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doubleday</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Narita</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kelleher</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wilkerson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Johansson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hebert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Westphall</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mathur</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jarjour</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schwantes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mosher</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Coon</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>15</em> (3), pp 976–982</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Top-down proteomics is capable of identifying and quantitating unique proteoforms through the analysis of intact proteins. We extended the coverage of the label-free technique, achieving differential analysis of whole proteins &lt;30 kDa from the proteomes ...</span>
+                             <span><span class="bold">Abstract:</span> A system-wide understanding of biological processes requires a comprehensive knowledge of the proteins in the biological system. The eosinophil is a type of granulocytic leukocyte specified early in hematopoietic differentiation that participates in ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.5b00997?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jproteome.5b00997?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00997?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.5b00997?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jproteome.6b00006?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.6b00006?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00006?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.6b00006?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b00901?src=recsys">Proteomic Biomarker Discovery in 1000 Human Plasma Samples with Mass Spectrometry</a>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b01105?src=recsys">Cleaning out the Litterbox of Proteomic Scientists’ Favorite Pet: Optimized Data Analysis Avoiding Trypsin Artifacts</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cominetti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Núñez Galindo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Corthésy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oller Moreno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Irincheeva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Valsesia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Astrup</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saris</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hager</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kussmann</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dayon</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schittmayer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fritz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liesinger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Griss</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Birner-Gruenberger</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>15</em> (2), pp 389–399</span>
+                             <span><span class="bold">2016</span> <em>15</em> (4), pp 1222–1229</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The overall impact of proteomics on clinical research and its translation has lagged behind expectations. One recognized caveat is the limited size (subject numbers) of (pre)clinical studies performed at the discovery stage, the findings of which fail to ...</span>
+                             <span><span class="bold">Abstract:</span> Chemically modified trypsin is a standard reagent in proteomics experiments but is usually not considered in database searches. Modification of trypsin is supposed to protect the protease against autolysis and the resulting loss of activity. Here, we show ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.5b00901?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jproteome.5b00901?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00901?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.5b00901?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jproteome.5b01105?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.5b01105?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01105?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.5b01105?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jproteome.5b00911?src=recsys">From Correlation to Causality: Statistical Approaches to Learning Regulatory Relationships in Large-Scale Biomolecular Investigations</a>
                             <div class="achsLabel">
@@ -1118,21 +1118,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00911?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.5b00911?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b00870?src=recsys">PGx: Putting Peptides to BED</a>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b00997?src=recsys">Quantitation and Identification of Thousands of Human Proteoforms below 30 kDa</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Askenazi</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Ruggles</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Fenyö</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Durbin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fornelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fellers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doubleday</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Narita</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kelleher</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>15</em> (3), pp 795–799</span>
+                             <span><span class="bold">2016</span> <em>15</em> (3), pp 976–982</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Every molecular player in the cast of biology’s central dogma is being sequenced and quantified with increasing ease and coverage. To bring the resulting genomic, transcriptomic, and proteomic data sets into coherence, tools must be developed that do not ...</span>
+                             <span><span class="bold">Abstract:</span> Top-down proteomics is capable of identifying and quantitating unique proteoforms through the analysis of intact proteins. We extended the coverage of the label-free technique, achieving differential analysis of whole proteins &lt;30 kDa from the proteomes ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.5b00870?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jproteome.5b00870?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00870?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.5b00870?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jproteome.5b00997?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.5b00997?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b00997?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.5b00997?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1218,9 +1218,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jproteome.5b01158" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01158%3Fprg140729%3D0fcd948c-f48d-4f6e-8d98-24acaf867c5f&amp;doi=10.1021%2Facs.jproteome.5b01158" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01158%3Fprg140729%3Dfd97f575-3adb-4ecf-aa7b-5e1fab900228&amp;doi=10.1021%2Facs.jproteome.5b01158" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01158%3Fprg140729%3D724b8ae7-ffd0-4381-aa2a-349ac73d24e9&amp;title=SAFER%2C+an+Analysis+Method+of+Quantitative+Proteomic+Data%2C+Reveals+New+Interactors+of+the+C.+elegans+Autophagic+Protein+LGG-1&amp;doi=10.1021%2Facs.jproteome.5b01158" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.5b01158%3Fprg140729%3D93981b1d-9d5d-4549-bc2f-978e88ed1c86&amp;title=SAFER%2C+an+Analysis+Method+of+Quantitative+Proteomic+Data%2C+Reveals+New+Interactors+of+the+C.+elegans+Autophagic+Protein+LGG-1&amp;doi=10.1021%2Facs.jproteome.5b01158" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

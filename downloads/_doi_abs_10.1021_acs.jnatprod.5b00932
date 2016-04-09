@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="144f4d19-086f-40f4-9f07-0f7242fc0994">
+<html lang="en" class="pb-page" data-request-id="9bd630c7-a5a7-4f39-95b4-7bb74ece5857">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jnprdf;pageGroup:string:Publication Pages;article:article:10.1021/acs.jnatprod.5b00932;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jnprdf.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00932%3Fprg140729%3D3f05aeea-4846-4528-967b-8c68fa4292c4" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00932?prg140729=3f05aeea-4846-4528-967b-8c68fa4292c4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00932?prg140729=3f05aeea-4846-4528-967b-8c68fa4292c4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00932%3Fprg140729%3D244ba3d4-b77f-4be3-9757-13133498fae3" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00932?prg140729=244ba3d4-b77f-4be3-9757-13133498fae3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00932?prg140729=244ba3d4-b77f-4be3-9757-13133498fae3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -945,16 +945,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i8"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i20"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1045,6 +1035,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b01055?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jnatprod.5b01055?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.6b00095?src=recsys">Haliclonadiamine Derivatives and 6-<i>epi</i>-Monanchorin from the Marine Sponge <i>Halichondria panicea</i> Collected at Iriomote Island</a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Abdjul</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yamazaki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kanno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kirikoshi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ukai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Namikoshi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Four new haliclonadiamine analogues, (10<i>Z</i>,12<i>E</i>)-haliclonadiamine (<b>1</b>), (10<i>E</i>,12<i>Z</i>)-haliclonadiamine (<b>2</b>), and halichondriamines A (<b>3</b>) and B (<b>4</b>), were isolated from the Okinawan marine sponge <i>Halichondria panicea</i> together with haliclonadiamine (<b>5</b>) and papuamine ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.6b00095?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.6b00095?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.6b00095?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.6b00095?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jnatprod.5b01018?src=recsys">Chilenopeptins A and B, Peptaibols from the Chilean <i>Sepedonium</i> aff. <i>chalcipori</i> KSH 883</a>
                             <div class="achsLabel">
                              Journal of Natural Products
@@ -1077,37 +1083,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jnatprod.6b00009?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jnatprod.6b00009?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jnatprod.6b00095?src=recsys">Haliclonadiamine Derivatives and 6-<i>epi</i>-Monanchorin from the Marine Sponge <i>Halichondria panicea</i> Collected at Iriomote Island</a>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.6b00051?src=recsys">Wewakazole B, a Cytotoxic Cyanobactin from the Cyanobacterium <i>Moorea producens</i> Collected in the Red Sea</a>
                             <div class="achsLabel">
                              Journal of Natural Products
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Abdjul</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yamazaki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kanno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kirikoshi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ukai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Namikoshi</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lopez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Al-Lihaibi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alarif</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abdel-Lateff</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nogata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Washio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morikawa</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Okino</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Four new haliclonadiamine analogues, (10<i>Z</i>,12<i>E</i>)-haliclonadiamine (<b>1</b>), (10<i>E</i>,12<i>Z</i>)-haliclonadiamine (<b>2</b>), and halichondriamines A (<b>3</b>) and B (<b>4</b>), were isolated from the Okinawan marine sponge <i>Halichondria panicea</i> together with haliclonadiamine (<b>5</b>) and papuamine ...</span>
+                             <span><span class="bold">Abstract:</span> A mass spectrometry (MS)-guided isolation has led to the purification of a new cyanobactin, wewakazole B (<b>1</b>), along with the known compound curacin D from a Red Sea <i>Moorea producens</i>. The planar structure of <b>1</b> was elucidated using a combination of NMR and ...<sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jnatprod.6b00095?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jnatprod.6b00095?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.6b00095?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jnatprod.6b00095?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b01078?src=recsys">Callyazepin and (3<i>R</i>)-Methylazacyclodecane, Nitrogenous Macrocycles from a <i>Callyspongia</i> sp. Sponge</a>
-                            <div class="achsLabel">
-                             Journal of Natural Products
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Woo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oh</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shin</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Callyazepin (<b>1</b>) and (3<i>R</i>)-methylazacyclodecane (<b>2</b>), nitrogenous macrocycles, were isolated from a tropical <i>Callyspongia</i> sp. sponge. The combined spectroscopic analyses revealed that the structure of <b>1</b> is a bicyclic azepane ammonium salt of a novel ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jnatprod.5b01078?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jnatprod.5b01078?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b01078?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b01078?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jnatprod.6b00051?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.6b00051?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.6b00051?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.6b00051?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1193,9 +1183,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jnatprod.5b00932" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00932%3Fprg140729%3D15628fea-dab3-418c-9673-3cf50e7ee90a&amp;doi=10.1021%2Facs.jnatprod.5b00932" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00932%3Fprg140729%3Dab4ef9df-e47d-44cb-8e16-1de7a58e958f&amp;doi=10.1021%2Facs.jnatprod.5b00932" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00932%3Fprg140729%3D3f05aeea-4846-4528-967b-8c68fa4292c4&amp;title=Variochelins%2C+Lipopeptide+Siderophores+from+Variovorax+boronicumulans+Discovered+by+Genome+Mining&amp;doi=10.1021%2Facs.jnatprod.5b00932" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00932%3Fprg140729%3D244ba3d4-b77f-4be3-9757-13133498fae3&amp;title=Variochelins%2C+Lipopeptide+Siderophores+from+Variovorax+boronicumulans+Discovered+by+Genome+Mining&amp;doi=10.1021%2Facs.jnatprod.5b00932" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

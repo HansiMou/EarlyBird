@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5005cb09-492a-4a1b-8efd-2ce094c3c5b7">
+<html lang="en" class="pb-page" data-request-id="e49d8883-bd01-4d1c-8488-4df4dfad04ec">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.est.6b00431;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -137,8 +137,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00431%3Fprg140729%3D5128d043-23db-40c6-b952-e7f944584d32" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00431?prg140729=5128d043-23db-40c6-b952-e7f944584d32&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00431?prg140729=5128d043-23db-40c6-b952-e7f944584d32">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00431%3Fprg140729%3D0f23024c-e45e-48be-a270-ea0c561f2cd5" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00431?prg140729=0f23024c-e45e-48be-a270-ea0c561f2cd5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00431?prg140729=0f23024c-e45e-48be-a270-ea0c561f2cd5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1014,19 +1014,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.6b00266?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.6b00266?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b05072?src=recsys"><i>Environmental Science &amp; Technology</i> Presents the 2015 Reviewer Awards</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sedlak</span> (Editor) 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>49</em> (21), pp 12603–12604</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b05072?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b05072?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b05072?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b05072?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.6b00462?src=recsys">Environmental Malpractice</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1039,6 +1026,19 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.6b00462?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.6b00462?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.6b00462?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b05072?src=recsys"><i>Environmental Science &amp; Technology</i> Presents the 2015 Reviewer Awards</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sedlak</span> (Editor) 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>49</em> (21), pp 12603–12604</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b05072?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b05072?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b05072?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b05072?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b05653?src=recsys">Out of the Woods</a>
                             <div class="achsLabel">
@@ -1134,9 +1134,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.6b00431" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00431%3Fprg140729%3Dc249c185-ca2f-447a-9712-dfb6a595ec4c&amp;doi=10.1021%2Facs.est.6b00431" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00431%3Fprg140729%3D39e25de9-9c78-4fb5-aaaa-3d8b41f7afd3&amp;doi=10.1021%2Facs.est.6b00431" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00431%3Fprg140729%3D5128d043-23db-40c6-b952-e7f944584d32&amp;title=I+Want+You+to+Be+Fearless&amp;doi=10.1021%2Facs.est.6b00431" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00431%3Fprg140729%3D0f23024c-e45e-48be-a270-ea0c561f2cd5&amp;title=I+Want+You+to+Be+Fearless&amp;doi=10.1021%2Facs.est.6b00431" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

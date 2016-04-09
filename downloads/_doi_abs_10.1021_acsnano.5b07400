@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="18d2f611-9201-4bac-a620-5a2c5370f982">
+<html lang="en" class="pb-page" data-request-id="d9252b15-8eca-4c21-be1b-8515370fd84f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/ancac3.ahead-of-print;article:article:10.1021/acsnano.5b07400;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:ancac3;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07400%3Fprg140729%3D0c0017af-49d4-4ade-810e-aad6a683993b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b07400?prg140729=0c0017af-49d4-4ade-810e-aad6a683993b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b07400?prg140729=0c0017af-49d4-4ade-810e-aad6a683993b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07400%3Fprg140729%3Db2fb01d1-c8c4-458d-91f9-d07bf13582e4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b07400?prg140729=b2fb01d1-c8c4-458d-91f9-d07bf13582e4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b07400?prg140729=b2fb01d1-c8c4-458d-91f9-d07bf13582e4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -947,17 +947,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Outlook and Conclusions" href="#_i6"><span>Outlook and Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Methods" href="#_i7"><span>Experimental Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i14"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1042,6 +1031,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.6b01729?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.6b01729?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b00287?src=recsys">Coupling Emitters and Silver Nanowires to Achieve Long-Range Plasmon-Mediated Fluorescence Energy Transfer</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">de Torres</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ferrand</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Colas des Francs</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wenger</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The development of quantum plasmonic circuitry requires efficient coupling between quantum emitters and plasmonic waveguides. A major experimental challenge is to simultaneously maximize the surface plasmon propagation length, the coupling efficiency into ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.6b00287?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.6b00287?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b00287?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b00287?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b08095?src=recsys">Optical Nanoparticle Sorting Elucidates Synthesis of Plasmonic Nanotriangles</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1073,22 +1078,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsnano.6b00602?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsnano.6b00602?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.6b00602?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.6b00287?src=recsys">Coupling Emitters and Silver Nanowires to Achieve Long-Range Plasmon-Mediated Fluorescence Energy Transfer</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">de Torres</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ferrand</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Colas des Francs</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wenger</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The development of quantum plasmonic circuitry requires efficient coupling between quantum emitters and plasmonic waveguides. A major experimental challenge is to simultaneously maximize the surface plasmon propagation length, the coupling efficiency into ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.6b00287?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.6b00287?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.6b00287?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.6b00287?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.6b01108?src=recsys">Hot Carrier Extraction with Plasmonic Broadband Absorbers</a>
                             <div class="achsLabel">
@@ -1206,9 +1195,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsnano.5b07400" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07400%3Fprg140729%3D6c9c13d7-1d18-45c1-93f5-fc8518688729&amp;doi=10.1021%2Facsnano.5b07400" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07400%3Fprg140729%3D6be0b54b-2ccc-4816-8844-e1c47fbe6b36&amp;doi=10.1021%2Facsnano.5b07400" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07400%3Fprg140729%3D0c0017af-49d4-4ade-810e-aad6a683993b&amp;title=Silver+Nanoshell+Plasmonically+Controlled+Emission+of+Semiconductor+Quantum+Dots+in+the+Strong+Coupling+Regime&amp;doi=10.1021%2Facsnano.5b07400" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07400%3Fprg140729%3Db2fb01d1-c8c4-458d-91f9-d07bf13582e4&amp;title=Silver+Nanoshell+Plasmonically+Controlled+Emission+of+Semiconductor+Quantum+Dots+in+the+Strong+Coupling+Regime&amp;doi=10.1021%2Facsnano.5b07400" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1231,8 +1220,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo5e782Bj25wLVg90H21EOLACvtfcHk0lhhS3zRBUePTg&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSd1Plj_otip5trnDmCxc-CThi25Vg2O3MlyqtyVsGIVr&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo5e782Bj25wLVg90H21EOLACvtfcHk0lhJ0uhiqnAz4w&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSd1Plj_otip5trnDmCxc-CThi25Vg2O3MuhGlF8OSJ2e&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

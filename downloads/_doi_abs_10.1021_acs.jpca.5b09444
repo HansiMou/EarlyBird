@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ca66934b-f232-42b6-9e60-9cb43951435e">
+<html lang="en" class="pb-page" data-request-id="1052cf11-faa7-4e56-bc54-0328ae307091">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;article:article:10.1021/acs.jpca.5b09444;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -138,8 +138,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b09444%3Fprg140729%3D93dd12e1-1d71-4ced-8be7-2bfefb4fb058" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b09444?prg140729=93dd12e1-1d71-4ced-8be7-2bfefb4fb058&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b09444?prg140729=93dd12e1-1d71-4ced-8be7-2bfefb4fb058">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b09444%3Fprg140729%3Dd506d85a-8960-4de1-84ad-d7fe44f36af2" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b09444?prg140729=d506d85a-8960-4de1-84ad-d7fe44f36af2&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b09444?prg140729=d506d85a-8960-4de1-84ad-d7fe44f36af2">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1048,22 +1048,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b07824?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b07824?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b08280?src=recsys">Equilibrium Fermi’s Golden Rule Charge Transfer Rate Constants in the Condensed Phase: The Linearized Semiclassical Method vs Classical Marcus Theory</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sun</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Geva</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In this article, we present a comprehensive comparison between the linearized semiclassical expression for the equilibrium Fermi’s golden rule rate constant and the progression of more approximate expressions that lead to the classical Marcus expression. ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b08280?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b08280?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b08280?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b08280?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b10309?src=recsys">CD<sub>3</sub> Deformation Modes as Preferential Promoters of Methylamine-<i>d</i><sub>3</sub> to the First Electronic State</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1079,6 +1063,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpca.5b10309?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b10309?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b10309?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b08280?src=recsys">Equilibrium Fermi’s Golden Rule Charge Transfer Rate Constants in the Condensed Phase: The Linearized Semiclassical Method vs Classical Marcus Theory</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sun</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Geva</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In this article, we present a comprehensive comparison between the linearized semiclassical expression for the equilibrium Fermi’s golden rule rate constant and the progression of more approximate expressions that lead to the classical Marcus expression. ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.5b08280?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b08280?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b08280?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b08280?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1163,9 +1163,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.5b09444" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b09444%3Fprg140729%3D4619f0f9-49fa-44d8-91c1-d8b627649068&amp;doi=10.1021%2Facs.jpca.5b09444" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b09444%3Fprg140729%3Db58f7aeb-462f-4ad9-abf4-2d45b7673bb8&amp;doi=10.1021%2Facs.jpca.5b09444" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b09444%3Fprg140729%3D93dd12e1-1d71-4ced-8be7-2bfefb4fb058&amp;title=Field+Operators+in+Real+Space&amp;doi=10.1021%2Facs.jpca.5b09444" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b09444%3Fprg140729%3Dd506d85a-8960-4de1-84ad-d7fe44f36af2&amp;title=Field+Operators+in+Real+Space&amp;doi=10.1021%2Facs.jpca.5b09444" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1188,8 +1188,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqcP2hsIZIZ9bVg90H21EOLACvtfcHk0lgmM_AgrNuvRg&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSf80wcicrJIUtrnDmCxc-CThi25Vg2O3Mh3tmR9gq7eu&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqcP2hsIZIZ9bVg90H21EOLACvtfcHk0lhF_e7PFSwJ2g&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSf80wcicrJIUtrnDmCxc-CThi25Vg2O3Mo7-cEJf16rO&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

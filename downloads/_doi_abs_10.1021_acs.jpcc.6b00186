@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="6e8f1482-64df-4262-b5b7-a42e26126016">
+<html lang="en" class="pb-page" data-request-id="2ee5372f-3aa6-4f68-9e07-66a8c7f8e006">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jpcc.6b00186">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00186%3Fprg140729%3D013fb913-9b2a-44e6-a887-0de4d1bf8945" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00186?prg140729=013fb913-9b2a-44e6-a887-0de4d1bf8945&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00186?prg140729=013fb913-9b2a-44e6-a887-0de4d1bf8945">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00186%3Fprg140729%3D879cc6b6-6615-46b6-98d8-4e4ee085c8bc" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00186?prg140729=879cc6b6-6615-46b6-98d8-4e4ee085c8bc&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00186?prg140729=879cc6b6-6615-46b6-98d8-4e4ee085c8bc">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -694,16 +694,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.5b12410" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.6b00190" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1113,21 +1103,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01159?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b01159?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00190?src=recsys">Separate-Path Electron and Hole Transport Across π-Stacked Ferroelectrics for Photovoltaic Applications</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00496?src=recsys">Oxygen Intercalation Induced by Photocatalysis on the Surface of Hybrid Lead Halide Perovskites</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wawrzyniak-Adamczewska</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Wierzbowska</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rahimi-Iman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Electron and hole separate-path transport is theoretically found in the π-stacked organic layers and columns. This effect might be a solution for the charge recombination problem. The building molecules, named 1,3,5-tricyano-2,4,6-tricarboxy-benzene, ...</span>
+                             <span><span class="bold">Abstract:</span> Methylammonium lead iodide (MAPbI<sub>3</sub>) perovskite has emerged as a dazzling nova in the solar cell realm. However, the robustness or stability of the material exposed to different ambiences is a key issue. In this paper, resonance Raman spectroscopy is ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b00190?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b00190?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00190?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00190?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b00496?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b00496?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00496?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00496?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b12410?src=recsys"><i>Operando</i> Near Ambient Pressure XPS (NAP-XPS) Study of the Pt Electrochemical Oxidation in H<sub>2</sub>O and H<sub>2</sub>O/O<sub>2</sub> Ambients</a>
                             <div class="achsLabel">
@@ -1145,37 +1135,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12410?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b12410?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00496?src=recsys">Oxygen Intercalation Induced by Photocatalysis on the Surface of Hybrid Lead Halide Perovskites</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00190?src=recsys">Separate-Path Electron and Hole Transport Across π-Stacked Ferroelectrics for Photovoltaic Applications</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rahimi-Iman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wawrzyniak-Adamczewska</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Wierzbowska</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Methylammonium lead iodide (MAPbI<sub>3</sub>) perovskite has emerged as a dazzling nova in the solar cell realm. However, the robustness or stability of the material exposed to different ambiences is a key issue. In this paper, resonance Raman spectroscopy is ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Electron and hole separate-path transport is theoretically found in the π-stacked organic layers and columns. This effect might be a solution for the charge recombination problem. The building molecules, named 1,3,5-tricyano-2,4,6-tricarboxy-benzene, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b00496?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b00496?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00496?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00496?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b00190?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b00190?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00190?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00190?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01885?src=recsys">Nitrogen-Deficient ORR Active Sites Formation by Iron-Assisted Water Vapor Activation of Electrospun Carbon Nanofibers</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11929?src=recsys">Piezoelectricity of Functionalized Graphene: A Quantum-Mechanical Rationalization</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jeong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maurya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baik</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Su</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">El-Kelany</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carbonnière</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Erba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sotiropoulos</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Rérat</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Fe- and N-modified carbon nanofibers (Fe–CNF) were synthesized via electrospinning and pyrolysis as electrocatalysts for oxygen reduction reaction (ORR). In order to increase the exposed surface area with the active sites buried inside Fe–CNF, we ...<sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> A large out-of-plane piezoelectricity can be induced in graphene by carbon substitution. Several simple substitutions are considered where C atoms are replaced by heavier group-IV elements (Si, Ge, and Sn). A more complex functionalization (namely, ...<sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b01885?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b01885?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01885?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01885?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b11929?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b11929?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11929?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11929?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1228,7 +1218,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.6b00186" title="High-Res PDF: 864 KB" target="_blank"> PDF <span class="details">(864 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00186" title="Low-Res PDF: 266 KB" target="_blank"> PDF w/ Links <span class="details">(266 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00186" title="Low-Res PDF: 263 KB" target="_blank"> PDF w/ Links <span class="details">(263 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.6b00186" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1261,9 +1251,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b00186" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00186%3Fprg140729%3D32d4baab-c584-49c2-a361-76b95cf3314c&amp;doi=10.1021%2Facs.jpcc.6b00186" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00186%3Fprg140729%3D3aed3d9b-fd1f-4283-ba3b-c547214e4be8&amp;doi=10.1021%2Facs.jpcc.6b00186" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00186%3Fprg140729%3D013fb913-9b2a-44e6-a887-0de4d1bf8945&amp;title=Quantitative+Structure+of+an+Acetate+Dye+Molecule+Analogue+at+the+TiO2%E2%80%93Acetic+Acid+Interface&amp;doi=10.1021%2Facs.jpcc.6b00186" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00186%3Fprg140729%3D879cc6b6-6615-46b6-98d8-4e4ee085c8bc&amp;title=Quantitative+Structure+of+an+Acetate+Dye+Molecule+Analogue+at+the+TiO2%E2%80%93Acetic+Acid+Interface&amp;doi=10.1021%2Facs.jpcc.6b00186" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

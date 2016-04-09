@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="84c80f25-2990-41b1-918f-61b1eb64721e">
+<html lang="en" class="pb-page" data-request-id="f67f14f6-bd3b-44e2-b952-b788066198f5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;issue:issue:10.1021/jceda8.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jchemed.5b00635">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00635%3Fprg140729%3D749b7700-4d03-4111-b406-432dd1d93206" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00635?prg140729=749b7700-4d03-4111-b406-432dd1d93206&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00635?prg140729=749b7700-4d03-4111-b406-432dd1d93206">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00635%3Fprg140729%3D1d5038f2-8fe0-402b-9412-502e83c75a12" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00635?prg140729=1d5038f2-8fe0-402b-9412-502e83c75a12&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00635?prg140729=1d5038f2-8fe0-402b-9412-502e83c75a12">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -673,6 +673,16 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
+                       <div class="issueNavigator"> 
+                        <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jchemed.5b00357" title="Previous Article"> Previous Article </a> </span> 
+                        </div> 
+                        <div class="journalNavRightTd"> 
+                         <div class="next"> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00744" title="Next Article"> Next Article </a> 
+                         </div> 
+                        </div> 
+                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceda8/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -944,15 +954,15 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">Here we describe an acid rain neutralization laboratory experiment and its corresponding instructional video. This experiment has been developed and implemented for use in the teaching laboratory of a large introductory chemistry course at Brown University. It provides a contextually relevant example to introduce beginner-level students with little or no acid–base chemistry background to the basic theories of solution chemistry. First, students measure the conductivity of water samples with different ionic compositions, serving as an introduction to the conductivity of solutions. Second, to simulate the neutralization reaction between acid rain and limestone as it occurs in nature, students pass a sulfuric acid solution through a column containing calcium carbonate and monitor the conductivity of the resulting solution. Students are then required to graph conductivity versus volume of sulfuric acid added to the calcium carbonate column and use the resulting plot to calculate the equivalence point. Additionally, an instructional video containing animated features was created and utilized to engage students in learning new chemistry concepts by relating chemistry to their daily lives and helping them visualize experimental setups. Significantly, the experiment has been adapted to include the use of a pH probe or multimeter to make it more accessible to K–12 classrooms and teaching laboratories without access to conductivity probes.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=First-year+Undergraduate%2Fgeneral&amp;qsSearchArea=AllField">First-Year Undergraduate/General</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=High+School%2Fintroductory+Chemistry&amp;qsSearchArea=AllField">High School/Introductory Chemistry</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Hands-on+Learning%2Fmanipulatives&amp;qsSearchArea=AllField">Hands-On Learning/Manipulatives</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Collaborative%2Fcooperative+Learning&amp;qsSearchArea=AllField">Collaborative/Cooperative Learning</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Environmental+Chemistry&amp;qsSearchArea=AllField">Environmental Chemistry</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Conductivity&amp;qsSearchArea=AllField">Conductivity</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Green+Chemistry&amp;qsSearchArea=AllField">Green Chemistry</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Equipment%2Fapparatus&amp;qsSearchArea=AllField">Laboratory Equipment/Apparatus</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Instruction&amp;qsSearchArea=AllField">Laboratory Instruction</a>
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=First-year+Undergraduate%2Fgeneral&amp;qsSearchArea=AllField">First-Year Undergraduate/General</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=High+School%2Fintroductory+Chemistry&amp;qsSearchArea=AllField">High School/Introductory Chemistry</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Hands-on+Learning%2Fmanipulatives&amp;qsSearchArea=AllField">Hands-On Learning/Manipulatives</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Collaborative%2Fcooperative+Learning&amp;qsSearchArea=AllField">Collaborative/Cooperative Learning</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Environmental+Chemistry&amp;qsSearchArea=AllField">Environmental Chemistry</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Conductivity&amp;qsSearchArea=AllField">Conductivity</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Green+Chemistry&amp;qsSearchArea=AllField">Green Chemistry</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Equipment%2Fapparatus&amp;qsSearchArea=AllField">Laboratory Equipment/Apparatus</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Instruction&amp;qsSearchArea=AllField">Laboratory Instruction</a>
                               </div>
                              </div>
                             </div>
@@ -1056,22 +1066,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00497?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00497?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00284?src=recsys">Using Differential Scanning Calorimetry To Explore the Phase Behavior of Chocolate</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Smith</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Chocolate is certainly one of the most familiar and commercially successful products made from plant resources. This success has been built on many decades of careful optimization and innovation in the procedures used to transform the complex mixture of ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00284?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00284?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00284?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00284?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00325?src=recsys">Discovering Symmetry in Everyday Environments: A Creative Approach to Teaching Symmetry and Point Groups</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
@@ -1087,6 +1081,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jchemed.5b00325?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00325?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00325?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00284?src=recsys">Using Differential Scanning Calorimetry To Explore the Phase Behavior of Chocolate</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Education
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Smith</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Chocolate is certainly one of the most familiar and commercially successful products made from plant resources. This success has been built on many decades of careful optimization and innovation in the procedures used to transform the complex mixture of ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00284?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00284?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00284?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00284?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00314?src=recsys">Obtaining and Investigating Amphoteric Properties of Aluminum Oxide in a Hands-On Laboratory Experiment for High School Students</a>
                             <div class="achsLabel">
@@ -1188,9 +1198,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00635" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00635%3Fprg140729%3Df455149a-b9cf-4d1d-9290-ae644e5c2c25&amp;doi=10.1021%2Facs.jchemed.5b00635" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00635%3Fprg140729%3Dce00494e-19be-445f-ba8d-916fafa4e131&amp;doi=10.1021%2Facs.jchemed.5b00635" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00635%3Fprg140729%3D749b7700-4d03-4111-b406-432dd1d93206&amp;title=Development+and+Implementation+of+a+Simple%2C+Engaging+Acid+Rain+Neutralization+Experiment+and+Corresponding+Animated+Instructional+Video+for+Introductory+Chemistry+Students&amp;doi=10.1021%2Facs.jchemed.5b00635" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00635%3Fprg140729%3D1d5038f2-8fe0-402b-9412-502e83c75a12&amp;title=Development+and+Implementation+of+a+Simple%2C+Engaging+Acid+Rain+Neutralization+Experiment+and+Corresponding+Animated+Instructional+Video+for+Introductory+Chemistry+Students&amp;doi=10.1021%2Facs.jchemed.5b00635" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1213,8 +1223,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoD0xcn5QZ77rVg90H21EOLACvtfcHk0liCcXElMb08pQ&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSRouu2ENkmSYtrnDmCxc-CThi25Vg2O3Mpc7rh_ZraIw&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoD0xcn5QZ77rVg90H21EOLACvtfcHk0lj5Tv6T64Ev8Q&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSRouu2ENkmSYtrnDmCxc-CThi25Vg2O3Mq4dXjb64Bw7&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

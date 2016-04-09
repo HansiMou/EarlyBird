@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="70343b02-70e5-4dc9-8f62-66e4d103d1a4">
+<html lang="en" class="pb-page" data-request-id="3c92b405-3129-4233-8464-edb871dac38d">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.accounts.6b00023;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:achre4;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/achre4.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.accounts.6b00023%3Fprg140729%3D38731d33-3fa4-4c98-9d66-24a2223f3bdf" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.accounts.6b00023?prg140729=38731d33-3fa4-4c98-9d66-24a2223f3bdf&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.accounts.6b00023?prg140729=38731d33-3fa4-4c98-9d66-24a2223f3bdf">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.accounts.6b00023%3Fprg140729%3Dbde3715c-95be-46de-9641-a0c5b6334841" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.accounts.6b00023?prg140729=bde3715c-95be-46de-9641-a0c5b6334841&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.accounts.6b00023?prg140729=bde3715c-95be-46de-9641-a0c5b6334841">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -942,11 +942,11 @@ function addFlashMovie(id, flv, image) {
                              <p class="last">Published as part of the <i>Accounts of Chemical Research</i> special issue “<a href="http://pubs.acs.org/page/achre4/computational_catalysis.html" class="ext-link">Computational Catalysis for Organic Synthesis</a>”.</p>
                             </div>
                             <div id="authorBio">
-                             <span class="title" id="d29546e2245">Biography</span>
+                             <span class="title" id="d12144e2245">Biography</span>
                              <p class="last"><b>W. M. C. Sameera</b> was awarded a B.Sc. from the the University of Sri Jayewardenepura and a Ph.D. in computational chemistry from the University of Glasgow. He was an EPSRC Postdoctoral Fellow at the University of Oxford and then a postdoctoral fellow at the ICIQ. Then he was awarded a Marie Curie Fellowship (LASSIE, University of Gothenburg). He is currently a JSPS Fellow in the group of Prof. Keiji Morokuma. His research interests focus on QM/MM methods and computational inorganic chemistry.</p>
-                             <span class="title" id="d29546e2252">Biography</span>
+                             <span class="title" id="d12144e2252">Biography</span>
                              <p class="last"><b>Satoshi Maeda</b> received his Ph.D. from Tohoku University in 2007. In 2007–2010 he did postdoctoral work as a research fellow of the Japan Society for Promotion of Science. In 2010–2011 he was Assistant Professor of the Hakubi Project at Kyoto University. Since 2012 he has worked at Hokkaido University, first as an Assistant Professor until 2013 and currently as an Associate Professor. He has worked on the development of automated methods for systematic exploration of quantum-chemical potential energy surfaces.</p>
-                             <span class="title" id="d29546e2259">Biography</span>
+                             <span class="title" id="d12144e2259">Biography</span>
                              <p class="last"><b>Keiji Morokuma</b> finished his Ph.D. at Kyoto University under Kenichi Fukui and did postdoctoral work with Martin Karplus at Harvard and Columbia; he is proud to have had two Nobel Laureates as supervisors. In 1967–1977 he was a Professor at the University of Rochester, in 1977–1992 a Professor at the Institute for Molecular Science, Okazaki, Japan, and in 1993–2006 the William Emerson Professor at Emory University. Since 2006 he has been at the Fukui Institute for Fundamental Chemistry of Kyoto University.</p>
                             </div>
                            </div>
@@ -1053,6 +1053,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b12434?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b12434?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.accounts.5b00518?src=recsys">Catalysis by Design: Well-Defined Single-Site Heterogeneous Catalysts</a>
+                            <div class="achsLabel">
+                             Accounts of Chemical Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pelletier</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Basset</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Heterogeneous catalysis, a field important industrially and scientifically, is increasingly seeking and refining strategies to render itself more predictable. The main issue is due to the nature and the population of catalytically active sites. ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.accounts.5b00518?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.accounts.5b00518?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.accounts.5b00518?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.accounts.5b00518?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.accounts.6b00022?src=recsys">Syntheses and Transformations of α-Amino Acids via Palladium-Catalyzed Auxiliary-Directed sp<sup>3</sup> C–H Functionalization</a>
                             <div class="achsLabel">
                              Accounts of Chemical Research
@@ -1084,22 +1100,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.5b12150?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.5b12150?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b12150?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.accounts.5b00518?src=recsys">Catalysis by Design: Well-Defined Single-Site Heterogeneous Catalysts</a>
-                            <div class="achsLabel">
-                             Accounts of Chemical Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pelletier</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Basset</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Heterogeneous catalysis, a field important industrially and scientifically, is increasingly seeking and refining strategies to render itself more predictable. The main issue is due to the nature and the population of catalytically active sites. ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.accounts.5b00518?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.accounts.5b00518?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.accounts.5b00518?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.accounts.5b00518?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1184,9 +1184,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.accounts.6b00023" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.accounts.6b00023%3Fprg140729%3Df36e681a-a2a7-416f-9d89-c44167e64c01&amp;doi=10.1021%2Facs.accounts.6b00023" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.accounts.6b00023%3Fprg140729%3D4d5e64cf-3f45-4bdf-8f11-9c6a7fdbe1a1&amp;doi=10.1021%2Facs.accounts.6b00023" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.accounts.6b00023%3Fprg140729%3D38731d33-3fa4-4c98-9d66-24a2223f3bdf&amp;title=Computational+Catalysis+Using+the+Artificial+Force+Induced+Reaction+Method&amp;doi=10.1021%2Facs.accounts.6b00023" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.accounts.6b00023%3Fprg140729%3Dbde3715c-95be-46de-9641-a0c5b6334841&amp;title=Computational+Catalysis+Using+the+Artificial+Force+Induced+Reaction+Method&amp;doi=10.1021%2Facs.accounts.6b00023" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

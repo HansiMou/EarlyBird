@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a3301ef7-31d7-4bf5-8999-5735b63f494e">
+<html lang="en" class="pb-page" data-request-id="d8b5a7ae-390c-4070-8456-a5cd27b5f6a8">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;issue:issue:10.1021/jceda8.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.jchemed.5b00615;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00615%3Fprg140729%3De5fca578-650d-45f3-b4cf-5bdb99f31845" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00615?prg140729=e5fca578-650d-45f3-b4cf-5bdb99f31845&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00615?prg140729=e5fca578-650d-45f3-b4cf-5bdb99f31845">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00615%3Fprg140729%3D3a8b9cc9-3968-4bef-809c-40fb91e637cc" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00615?prg140729=3a8b9cc9-3968-4bef-809c-40fb91e637cc&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00615?prg140729=3a8b9cc9-3968-4bef-809c-40fb91e637cc">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -672,6 +672,16 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
+                       <div class="issueNavigator"> 
+                        <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jchemed.5b00844" title="Previous Article"> Previous Article </a> </span> 
+                        </div> 
+                        <div class="journalNavRightTd"> 
+                         <div class="next"> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00627" title="Next Article"> Next Article </a> 
+                         </div> 
+                        </div> 
+                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceda8/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -944,13 +954,13 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">A green, aza-Michael reaction is described that can be used to teach undergraduate students conjugate addition of nitrogen nucleophile to an α,β-unsaturated ester. Students analyze spectral data of the product obtained from the assigned reaction to determine product structure and propose the mechanism of its formation. The experiment requires simple glassware and can be performed during a 3 to 4 h laboratory period in the second semester of introductory organic chemistry after acyl substitution and conjugate addition have been covered in a lecture class.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Second-year+Undergraduate&amp;qsSearchArea=AllField">Second-Year Undergraduate</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Instruction&amp;qsSearchArea=AllField">Laboratory Instruction</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Problem+Solving%2Fdecision+Making&amp;qsSearchArea=AllField">Problem Solving/Decision Making</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Inquiry-based%2Fdiscovery+Learning&amp;qsSearchArea=AllField">Inquiry-Based/Discovery Learning</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Organic+Chemistry&amp;qsSearchArea=AllField">Organic Chemistry</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Synthesis&amp;qsSearchArea=AllField">Synthesis</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=NMR+Spectroscopy&amp;qsSearchArea=AllField">NMR Spectroscopy</a>
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Second-year+Undergraduate&amp;qsSearchArea=AllField">Second-Year Undergraduate</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Instruction&amp;qsSearchArea=AllField">Laboratory Instruction</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Problem+Solving%2Fdecision+Making&amp;qsSearchArea=AllField">Problem Solving/Decision Making</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Inquiry-based%2Fdiscovery+Learning&amp;qsSearchArea=AllField">Inquiry-Based/Discovery Learning</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Organic+Chemistry&amp;qsSearchArea=AllField">Organic Chemistry</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Synthesis&amp;qsSearchArea=AllField">Synthesis</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=NMR+Spectroscopy&amp;qsSearchArea=AllField">NMR Spectroscopy</a>
                               </div>
                              </div>
                             </div>
@@ -1184,9 +1194,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00615" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00615%3Fprg140729%3D81b73e20-c41a-4fcd-9e34-9fe8b0ca66e7&amp;doi=10.1021%2Facs.jchemed.5b00615" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00615%3Fprg140729%3D276ceb54-b878-441b-8611-5254c241816a&amp;doi=10.1021%2Facs.jchemed.5b00615" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00615%3Fprg140729%3De5fca578-650d-45f3-b4cf-5bdb99f31845&amp;title=Aza-Michael+Reaction+for+an+Undergraduate+Organic+Chemistry+Laboratory&amp;doi=10.1021%2Facs.jchemed.5b00615" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00615%3Fprg140729%3D3a8b9cc9-3968-4bef-809c-40fb91e637cc&amp;title=Aza-Michael+Reaction+for+an+Undergraduate+Organic+Chemistry+Laboratory&amp;doi=10.1021%2Facs.jchemed.5b00615" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1209,9 +1219,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoy4DApHeofa7Vg90H21EOLACvtfcHk0lgebl_EFqt9xg&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGNgt9hRt8CGytQwD9OmoEd0cVSZTFEBqiCqK1K2qu-t2&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUB-fMnJ8m11trnDmCxc-CThi25Vg2O3MimIc0GrOPGm&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoy4DApHeofa7Vg90H21EOLACvtfcHk0lh9Q7wu0llBYA&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGNgt9hRt8CGytQwD9OmoEd3-UlHZ9C3d0Mp9j-1qV8WO&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUB-fMnJ8m11trnDmCxc-CThi25Vg2O3MoNyB-DSk5Zk&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

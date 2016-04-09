@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1583fdf7-a6dd-40e9-a35a-aed90b3a039e">
+<html lang="en" class="pb-page" data-request-id="f1bf4d06-6bfa-49a9-998e-386b9322ba39">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.est.6b00319;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00319%3Fprg140729%3D281ae2e0-f299-4a98-9375-093709810382" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00319?prg140729=281ae2e0-f299-4a98-9375-093709810382&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00319?prg140729=281ae2e0-f299-4a98-9375-093709810382">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00319%3Fprg140729%3D54bdfa50-e7bb-49fd-9db4-e3e6c0f33c3a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00319?prg140729=54bdfa50-e7bb-49fd-9db4-e3e6c0f33c3a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00319?prg140729=54bdfa50-e7bb-49fd-9db4-e3e6c0f33c3a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1045,6 +1045,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b06164?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b06164?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b05952?src=recsys">Dermal Uptake from Airborne Organics as an Important Route of Human Exposure to E-Waste Combustion Fumes</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zeng</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Skin absorption of gaseous organic contaminants is an important and relevant mechanism in human exposure to such contaminants, but has not been adequately examined. This article demonstrates that dermal uptake from airborne contaminants could be ...Skin absorption of gaseous organic contaminants is an important and relevant mechanism in human exposure to such contaminants, but has not been adequately examined. This article demonstrates that dermal uptake from airborne contaminants could be recognized as a significant exposure route for local residents subjecting to combustion fume from e-waste recycling activities. It is particularly true for organic pollutants which have high dermal penetration rates and large skin-air partition coefficients, such as low molecular weight plasticizers and flame retardants.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b05952?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b05952?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b05952?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b05952?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b06252?src=recsys">Generation of Nanoparticles from Friction between Railway Brake Disks and Pads</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1076,22 +1092,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.5b06280?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.5b06280?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b06280?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b05671?src=recsys">Diurnal Variations of Air-Soil Exchange of Semivolatile Organic Compounds (PAHs, PCBs, OCPs, and PBDEs) in a Central European Receptor Area</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Degrendele</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Audy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hofman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kučerik</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kukučka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mulder</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Přibylová</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prokeš</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Šáňka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schaumann</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lammel</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Concentrations of polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), organochlorine pesticides (OCPs), and polybrominated diphenyl ethers (PBDEs) in air and soil, their fugacities, and the experimental soil-air partitioning ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b05671?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b05671?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b05671?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b05671?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b06069?src=recsys">Microplastic as a Vector for Chemicals in the Aquatic Environment: Critical Review and Model-Supported Reinterpretation of Empirical Studies</a>
                             <div class="achsLabel">
@@ -1193,9 +1193,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.6b00319" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00319%3Fprg140729%3D60b5268c-e88a-4c2b-92e2-597d3ede3c3c&amp;doi=10.1021%2Facs.est.6b00319" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00319%3Fprg140729%3Dbaba0dbb-d8f7-44c5-a4ee-73bc47444c2c&amp;doi=10.1021%2Facs.est.6b00319" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00319%3Fprg140729%3D281ae2e0-f299-4a98-9375-093709810382&amp;title=A+Model+Using+Local+Weather+Data+to+Determine+the+Effective+Sampling+Volume+for+PCB+Congeners+Collected+on+Passive+Air+Samplers&amp;doi=10.1021%2Facs.est.6b00319" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00319%3Fprg140729%3D54bdfa50-e7bb-49fd-9db4-e3e6c0f33c3a&amp;title=A+Model+Using+Local+Weather+Data+to+Determine+the+Effective+Sampling+Volume+for+PCB+Congeners+Collected+on+Passive+Air+Samplers&amp;doi=10.1021%2Facs.est.6b00319" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

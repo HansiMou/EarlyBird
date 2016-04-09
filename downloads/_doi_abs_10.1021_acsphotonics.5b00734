@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ffdfe1f6-bab7-41c5-824c-4e352df39ca9">
+<html lang="en" class="pb-page" data-request-id="48e8a102-3844-47cd-be46-1fafc2ee3baf">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acsphotonics.5b00734;website:website:acspubs;issue:issue:10.1021/apchd5.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:apchd5">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00734%3Fprg140729%3D685c212e-e7bc-4823-802c-c7bcd13b596b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.5b00734?prg140729=685c212e-e7bc-4823-802c-c7bcd13b596b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.5b00734?prg140729=685c212e-e7bc-4823-802c-c7bcd13b596b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00734%3Fprg140729%3Dd96d3c42-7d23-48e3-a79c-c5179315c4cd" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.5b00734?prg140729=d96d3c42-7d23-48e3-a79c-c5179315c4cd&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.5b00734?prg140729=d96d3c42-7d23-48e3-a79c-c5179315c4cd">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1035,22 +1035,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsphotonics.6b00026?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsphotonics.6b00026?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsphotonics.6b00140?src=recsys">Super-Resolution Structured Pump–Probe Microscopy</a>
-                            <div class="achsLabel">
-                             ACS Photonics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Massaro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hill</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Grumstrup</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Imaging excited-state dynamics in complex materials provides an important avenue for understanding the role played by micro- and nanoscale structural and compositional heterogeneity in the performance of active electronic and optoelectronic devices. Here, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsphotonics.6b00140?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsphotonics.6b00140?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsphotonics.6b00140?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsphotonics.6b00140?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsphotonics.5b00689?src=recsys">Compact Multilayer Film Structures for Ultrabroadband, Omnidirectional, and Efficient Absorption</a>
                             <div class="achsLabel">
                              ACS Photonics
@@ -1066,6 +1050,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsphotonics.5b00689?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsphotonics.5b00689?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsphotonics.5b00689?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsphotonics.6b00140?src=recsys">Super-Resolution Structured Pump–Probe Microscopy</a>
+                            <div class="achsLabel">
+                             ACS Photonics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Massaro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hill</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Grumstrup</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Imaging excited-state dynamics in complex materials provides an important avenue for understanding the role played by micro- and nanoscale structural and compositional heterogeneity in the performance of active electronic and optoelectronic devices. Here, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsphotonics.6b00140?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsphotonics.6b00140?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsphotonics.6b00140?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsphotonics.6b00140?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsphotonics.5b00586?src=recsys">Noble Metal Alloys for Plasmonics</a>
                             <div class="achsLabel">
@@ -1166,9 +1166,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsphotonics.5b00734" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00734%3Fprg140729%3D970062f2-265a-450c-975e-55a954415a1c&amp;doi=10.1021%2Facsphotonics.5b00734" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00734%3Fprg140729%3D80aea9a8-e9cf-4421-b428-c0f19d2e768a&amp;doi=10.1021%2Facsphotonics.5b00734" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00734%3Fprg140729%3D685c212e-e7bc-4823-802c-c7bcd13b596b&amp;title=Dynamics+of+Large+Femtosecond+Filament+Arrays%3A+Possibilities%2C+Limitations%2C+and+Trade-Offs&amp;doi=10.1021%2Facsphotonics.5b00734" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00734%3Fprg140729%3Dd96d3c42-7d23-48e3-a79c-c5179315c4cd&amp;title=Dynamics+of+Large+Femtosecond+Filament+Arrays%3A+Possibilities%2C+Limitations%2C+and+Trade-Offs&amp;doi=10.1021%2Facsphotonics.5b00734" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1191,8 +1191,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoUzPT3hY0jxrVg90H21EOLACvtfcHk0lhsH3wf9kFjQA&amp;loc=%2FControllerServlet&amp;pubId=385300848" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUo7iSrf109YtrnDmCxc-CThi25Vg2O3MpyKrVMwDUbh&amp;loc=%2FControllerServlet&amp;pubId=385300848" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoUzPT3hY0jxrVg90H21EOLACvtfcHk0lgg-aq622PiCw&amp;loc=%2FControllerServlet&amp;pubId=385300848" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUo7iSrf109YtrnDmCxc-CThi25Vg2O3MsVS8FIgi5JI&amp;loc=%2FControllerServlet&amp;pubId=385300848" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ac304b95-0a1c-4d30-9392-db1fdc7a1a4e">
+<html lang="en" class="pb-page" data-request-id="9d32dde6-a47d-4420-837e-0b19ed990d90">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jacsat.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jacsat;article:article:10.1021/jacs.6b02004;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -150,8 +150,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02004%3Fprg140729%3D69683cde-1c8d-42f7-b7f4-476dff1c3322" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b02004?prg140729=69683cde-1c8d-42f7-b7f4-476dff1c3322&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b02004?prg140729=69683cde-1c8d-42f7-b7f4-476dff1c3322">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02004%3Fprg140729%3D4f619b75-4a4a-4f60-aeef-4b4f8a7a4978" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b02004?prg140729=4f619b75-4a4a-4f60-aeef-4b4f8a7a4978&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b02004?prg140729=4f619b75-4a4a-4f60-aeef-4b4f8a7a4978">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -680,16 +680,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.6b01761" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/jacs.6b02173" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jacsat/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1071,22 +1061,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00853?src=recsys">A Facile Planar Fused-Ring Electron Acceptor for As-Cast Polymer Solar Cells with 8.71% Efficiency</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Su</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhan</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2973–2976</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A planar fused-ring electron acceptor (IC-C6IDT-IC) based on indacenodithiophene is designed and synthesized. IC-C6IDT-IC shows strong absorption in 500–800 nm with extinction coefficient of up to 2.4 × 10<sup>5</sup> M<sup>–1</sup> cm<sup>–1</sup> and high electron mobility of 1.1 × 10<sup>–...</sup><sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00853?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00853?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00853?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00853?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b11149?src=recsys">High-Performance Solution-Processed Non-Fullerene Organic Solar Cells Based on Selenophene-Containing Perylene Bisimide Acceptor</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1151,21 +1125,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b10735?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b10735?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b08556?src=recsys">Terthiophene-Based D–A Polymer with an Asymmetric Arrangement of Alkyl Chains That Enables Efficient Polymer Solar Cells</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01976?src=recsys">Adding Four Extra K-Regions to Hexa-<i>peri</i>-hexabenzocoronene</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dumslaff</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maghsoumi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Velpula</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mali</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Castiglioni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">De Feyter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tommasini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Narita</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Müllen</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>137</em> (44), pp 14149–14157</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We report a series of difluorobenzothiadizole (ffBT) and oligothiophene-based polymers with the oligothiophene unit being quaterthiophene (T4), terthiophene (T3), and bithiophene (T2). We demonstrate that a polymer based on ffBT and T3 with an asymmetric ...</span>
+                             <span><span class="bold">Abstract:</span> A multistep synthesis of hexa-<i>peri</i>-hexabenzocoronene (HBC) with four additional K-regions was developed through a precursor based on two benzotetraphene units bridged with <i>p</i>-phenylene, featuring preinstalled zigzag moieties. Characterization by laser ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b08556?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b08556?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b08556?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b08556?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b01976?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01976?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01976?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01976?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b09737?src=recsys">Significant Improvement of Semiconducting Performance of the Diketopyrrolopyrrole–Quaterthiophene Conjugated Polymer through Side-Chain Engineering via Hydrogen-Bonding</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (1), pp 173–185</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Three diketopyrrolopyrrole (DPP)–quaterthiophene conjugated polymers, <b>pDPP4T-1</b>, <b>pDPP4T-2</b>, and <b>pDPP4T-3</b>, in which the molar ratios of the urea-containing alkyl chains vs branching alkyl chains are 1:30, 1:20, and 1:10, respectively, were prepared and ...<sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b09737?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b09737?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b09737?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b09737?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1218,7 +1208,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/jacs.6b02004" title="High-Res PDF: 2650 KB" target="_blank"> PDF <span class="details">(2650 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b02004" title="Low-Res PDF: 494 KB" target="_blank"> PDF w/ Links <span class="details">(494 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b02004" title="Low-Res PDF: 486 KB" target="_blank"> PDF w/ Links <span class="details">(486 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/jacs.6b02004" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1251,9 +1241,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.6b02004" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02004%3Fprg140729%3Dd7e3e9a9-41c2-43fb-8f79-ee14285cba5e&amp;doi=10.1021%2Fjacs.6b02004" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02004%3Fprg140729%3D6d5465a3-93cc-4488-b360-1104870a5e3c&amp;doi=10.1021%2Fjacs.6b02004" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02004%3Fprg140729%3D69683cde-1c8d-42f7-b7f4-476dff1c3322&amp;title=High-Performance+Electron+Acceptor+with+Thienyl+Side+Chains+for+Organic+Photovoltaics&amp;doi=10.1021%2Fjacs.6b02004" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02004%3Fprg140729%3D4f619b75-4a4a-4f60-aeef-4b4f8a7a4978&amp;title=High-Performance+Electron+Acceptor+with+Thienyl+Side+Chains+for+Organic+Photovoltaics&amp;doi=10.1021%2Fjacs.6b02004" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

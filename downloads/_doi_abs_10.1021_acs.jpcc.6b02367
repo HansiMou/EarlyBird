@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="9e3a020a-6755-4950-8a67-a3bf49da69e4">
+<html lang="en" class="pb-page" data-request-id="7fe4afb0-ed12-4ebd-b46f-720c16f77d4f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;article:article:10.1021/acs.jpcc.6b02367;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02367%3Fprg140729%3D2b29faef-03d8-4658-8bcc-8057d5618e4d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b02367?prg140729=2b29faef-03d8-4658-8bcc-8057d5618e4d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b02367?prg140729=2b29faef-03d8-4658-8bcc-8057d5618e4d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02367%3Fprg140729%3Db818a514-d958-43f7-8aae-92581da9434e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b02367?prg140729=b818a514-d958-43f7-8aae-92581da9434e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b02367?prg140729=b818a514-d958-43f7-8aae-92581da9434e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -690,16 +690,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b01901" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.5b11036" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1026,20 +1016,100 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12050?src=recsys">Photocatalytic H<sub>2</sub> Generation Using Dewetted Pt-Decorated TiO<sub>2</sub> Nanotubes – Optimized Dewetting and Oxide Crystallization by a Multiple Annealing Process</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00435?src=recsys">Reactive Copper Deposition on Au(111) and Mo(001): Role of the Support in the Oxidation Process</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yoo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Altomare</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mokhtar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alshehri </span>, <span class="entryAuthor normal hlFld-ContribAuthor">Al-Thabaiti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mazare</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schmuki</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fedderwitz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Groß</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sträter</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nilius</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Photoelectron spectroscopy and scanning tunneling microscopy were used to study the oxidation characteristics of Cu atoms deposited on two different supports, Au(111) and Mo(001). While a thin, homogeneous Cu<sub>2</sub>O film grows on gold, metallic Cu deposits ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b00435?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b00435?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00435?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00435?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01400?src=recsys">Observation of an Ultrafast Exciton Hopping Channel in Organic Semiconducting Crystals</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kafle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kattel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> One of the major challenges in using organic semiconductors for photovoltaics is their extremely short exciton diffusion length. Recently, a number of studies have shown that the exciton transport range within the first few picoseconds after ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01400?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01400?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01400?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01400?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01504?src=recsys">New Insight into H<sub>2</sub>S Sensing Mechanism of Continuous SnO<sub>2</sub>–CuO Bilayer Thin Film: A Theoretical Macroscopic Approach</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Boroun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ghorbani</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moosavi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mohammadpour</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> SnO<sub>2</sub>–CuO is one the most promising systems for detection of detrimental H<sub>2</sub>S gas. Although previous experimental research has suggested a sulfidation reaction to explain selectivity toward H<sub>2</sub>S, little is known about the origin of change of electrical ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01504?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01504?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01504?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01504?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01344?src=recsys">Synthetic Control of Photophysical Process and Circularly Polarized Luminescence of [5]Carbohelicene Derivatives Substituted by Maleimide Units</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sakai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kubota</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuasa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Araki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sakanoue</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takenobu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wada</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kawai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hasobe</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A series of [5]carbohelicene derivatives substituted by electron-withdrawing maleimide and electron-donating methoxy, such as maleimide-substituted [5]carbohelicene (HeliIm) and methoxy-substituted HeliIm (MeO-HeliIm), were newly designed and synthesized ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01344?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01344?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01344?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01344?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01318?src=recsys">Decoupling a Thin Well-Ordered TiO<sub>2</sub>(110) Layer From a TiO<sub>2</sub>(110) Substrate With a Ti+Ta Mixed Oxide Interlayer</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Primorac</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuhlenbeck</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Freund</span>
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (ja), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In the present work we use TiO<sub>2</sub> nanotube arrays, deposit onto them a thin layer of Pt, dewet the Pt to nanoparticles and use the structures as photocatalyst to generate H<sub>2</sub>. In order to achieve a maximum H<sub>2</sub>-generation efficiency, on the one hand an optimal ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> A well-ordered TiO<sub>2</sub>(110) thin film has been successfully prepared on a rutile TiO<sub>2</sub>(110) single crystal substrate with a Ti+Ta mixed oxide interlayer. LEED and STM experiments show that the surface structure of the TiO<sub>2</sub> thin film is the same as that of a ...<sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12050?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12050?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12050?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01318?src=recsys">Abstract</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01318?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01318?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12314?src=recsys">Band Structure Engineering: Insights from Defects, Band Gap, and Electron Mobility, from Study of Magnesium Tantalate</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dupuis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (13), pp 6930–6937</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Anion doping of semiconductors with nitrogen is a strategy often adopted to narrow the band gap of semiconductors and increase the range of light absorption. However, the influence of nitrogen doping on the electron mobility in the semiconductor is not ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b12314?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b12314?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12314?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12314?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1092,7 +1162,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.6b02367" title="High-Res PDF: 6756 KB" target="_blank"> PDF <span class="details">(6756 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02367" title="Low-Res PDF: 555 KB" target="_blank"> PDF w/ Links <span class="details">(555 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02367" title="Low-Res PDF: 511 KB" target="_blank"> PDF w/ Links <span class="details">(511 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.6b02367" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1125,9 +1195,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b02367" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02367%3Fprg140729%3D1b6c2cdb-4cb7-4f1b-aa4f-54f1dca50b6e&amp;doi=10.1021%2Facs.jpcc.6b02367" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02367%3Fprg140729%3D597df563-29ba-4fd8-96e5-1a8dce49a013&amp;doi=10.1021%2Facs.jpcc.6b02367" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02367%3Fprg140729%3D2b29faef-03d8-4658-8bcc-8057d5618e4d&amp;title=Dynamic+Equilibrium+of+Reversible+Reactions+and+Migration+of+Hydrogen+Atoms+Mediated+by+Diffusive+Methanol+on+Rutile+TiO2+%28110%29-%281+%C3%97+1%29+Surface&amp;doi=10.1021%2Facs.jpcc.6b02367" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b02367%3Fprg140729%3Db818a514-d958-43f7-8aae-92581da9434e&amp;title=Dynamic+Equilibrium+of+Reversible+Reactions+and+Migration+of+Hydrogen+Atoms+Mediated+by+Diffusive+Methanol+on+Rutile+TiO2+%28110%29-%281+%C3%97+1%29+Surface&amp;doi=10.1021%2Facs.jpcc.6b02367" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

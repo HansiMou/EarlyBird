@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="bc497e40-dcb0-4307-a911-2fa42f88a1d7">
+<html lang="en" class="pb-page" data-request-id="59ce59eb-ca63-4a92-99cf-9aedc9c30e5c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jnprdf;article:article:10.1021/acs.jnatprod.5b00954;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jnprdf.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -149,8 +149,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00954%3Fprg140729%3D69dd61a9-7aae-43ec-b004-dcc2af70280e" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00954?prg140729=69dd61a9-7aae-43ec-b004-dcc2af70280e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00954?prg140729=69dd61a9-7aae-43ec-b004-dcc2af70280e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00954%3Fprg140729%3D4f801bc7-a947-445e-b43e-d90a39776a44" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00954?prg140729=4f801bc7-a947-445e-b43e-d90a39776a44&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00954?prg140729=4f801bc7-a947-445e-b43e-d90a39776a44">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1133,6 +1133,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jnatprod.6b00009?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jnatprod.6b00009?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00942?src=recsys">Pelianthinarubins A and B, Red Pyrroloquinoline Alkaloids from the Fruiting Bodies of the Mushroom <i>Mycena pelianthina</i></a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pulte</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wagner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kogler</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Spiteller</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Pelianthinarubin A (<b>1</b>) and pelianthinarubin B (<b>2</b>), two previously unknown pyrroloquinoline alkaloids, have been isolated from fruiting bodies of <i>Mycena pelianthina</i>. The structures of these alkaloids have been deduced from their HR-(+)-ESIMS and 2D NMR ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b00942?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b00942?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00942?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b00942?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00681?src=recsys">Galanthamine, Plicamine, and Secoplicamine Alkaloids from <i>Zephyranthes candida</i> and Their Anti-acetylcholinesterase and Anti-inflammatory Activities</a>
                             <div class="achsLabel">
                              Journal of Natural Products
@@ -1148,22 +1164,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jnatprod.5b00681?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00681?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jnatprod.5b00681?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b01080?src=recsys">Additional Insights into the Obtusallene Family: Components of <i>Laurencia marilzae</i></a>
-                            <div class="achsLabel">
-                             Journal of Natural Products
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gutiérrez-Cepeda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fernández</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Norte</span>, <span class="entryAuthor normal hlFld-ContribAuthor">López-Rodríguez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brito</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Muller</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Souto</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The obtusallenes are a significant subset of C<sub>15</sub>-halogenated acetogenins that incorporate 12-membered cyclic ethers. We have recently reported the isolation from <i>Laurencia marilzae</i> of 12-epoxyobtusallene IV (<b>1</b>) and its related α,β-unsaturated carboxylate ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jnatprod.5b01080?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jnatprod.5b01080?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b01080?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b01080?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1249,9 +1249,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jnatprod.5b00954" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00954%3Fprg140729%3D697fb62c-9e1d-4807-a13c-abe16259e307&amp;doi=10.1021%2Facs.jnatprod.5b00954" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00954%3Fprg140729%3D7009c4d0-d5a8-4bdb-91d8-50d6443d2e97&amp;doi=10.1021%2Facs.jnatprod.5b00954" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00954%3Fprg140729%3D69dd61a9-7aae-43ec-b004-dcc2af70280e&amp;title=ent-Labdane+Diterpenoids+from+the+Aerial+Parts+of+Eupatorium+obtusissmum&amp;doi=10.1021%2Facs.jnatprod.5b00954" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00954%3Fprg140729%3D4f801bc7-a947-445e-b43e-d90a39776a44&amp;title=ent-Labdane+Diterpenoids+from+the+Aerial+Parts+of+Eupatorium+obtusissmum&amp;doi=10.1021%2Facs.jnatprod.5b00954" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

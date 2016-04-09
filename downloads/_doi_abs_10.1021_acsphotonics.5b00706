@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="e5d09ea5-7492-48e8-9294-a19cc9e08ba8">
+<html lang="en" class="pb-page" data-request-id="56149581-3fad-4282-baaf-9fc112f5d365">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/apchd5.ahead-of-print;article:article:10.1021/acsphotonics.5b00706;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:apchd5">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00706%3Fprg140729%3D435fb99f-d532-4cbe-b7b7-eec2c21f2e09" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.5b00706?prg140729=435fb99f-d532-4cbe-b7b7-eec2c21f2e09&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.5b00706?prg140729=435fb99f-d532-4cbe-b7b7-eec2c21f2e09">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00706%3Fprg140729%3D5985deb2-146f-410e-bcb1-4a728aac0dc4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.5b00706?prg140729=5985deb2-146f-410e-bcb1-4a728aac0dc4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsphotonics.5b00706?prg140729=5985deb2-146f-410e-bcb1-4a728aac0dc4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1075,6 +1075,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsphotonics.5b00586?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsphotonics.5b00586?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsphotonics.6b00070?src=recsys">Plasmonic Scattering Back Reflector for Light Trapping in Flat Nano-Crystalline Silicon Solar Cells</a>
+                            <div class="achsLabel">
+                             ACS Photonics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">van Dijk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van de Groep</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Veldhuizen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Di Vece</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Polman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schropp</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Most types of thin film solar cells require light management to achieve sufficient light absorptance. We demonstrate a novel process for fabricating a scattering back reflector for flat, thin film hydrogenated nanocrystalline silicon (nc-Si:H) solar ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsphotonics.6b00070?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsphotonics.6b00070?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsphotonics.6b00070?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsphotonics.6b00070?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsphotonics.5b00689?src=recsys">Compact Multilayer Film Structures for Ultrabroadband, Omnidirectional, and Efficient Absorption</a>
                             <div class="achsLabel">
                              ACS Photonics
@@ -1106,22 +1122,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsphotonics.5b00727?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsphotonics.5b00727?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsphotonics.5b00727?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsphotonics.6b00047?src=recsys">Microwave Funneling through Sub-10 nm Nanogaps</a>
-                            <div class="achsLabel">
-                             ACS Photonics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jeong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bahk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rhie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We demonstrate microwave funneling through metallic gaps of nanometer-scale width, corresponding to λ/10 000 000. For achieving both resonant transmission and strong confinement of microwaves, we fabricate two types of samples with an extreme aspect ratio:...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsphotonics.6b00047?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsphotonics.6b00047?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsphotonics.6b00047?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsphotonics.6b00047?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1207,9 +1207,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsphotonics.5b00706" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00706%3Fprg140729%3Dbc63a085-6639-4348-9ce3-4add9b683da8&amp;doi=10.1021%2Facsphotonics.5b00706" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00706%3Fprg140729%3D2640744d-5b0f-4df8-9abd-fd6614ae3db1&amp;doi=10.1021%2Facsphotonics.5b00706" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00706%3Fprg140729%3D435fb99f-d532-4cbe-b7b7-eec2c21f2e09&amp;title=Planar+Light+Concentration+in+Micro-Si+Solar+Cells+Enabled+by+a+Metallic+Grating%E2%80%93Photonic+Crystal+Architecture&amp;doi=10.1021%2Facsphotonics.5b00706" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsphotonics.5b00706%3Fprg140729%3D5985deb2-146f-410e-bcb1-4a728aac0dc4&amp;title=Planar+Light+Concentration+in+Micro-Si+Solar+Cells+Enabled+by+a+Metallic+Grating%E2%80%93Photonic+Crystal+Architecture&amp;doi=10.1021%2Facsphotonics.5b00706" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1232,8 +1232,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo56qQyM-Thq7Vg90H21EOLACvtfcHk0lhMyrGMeEeQIQ&amp;loc=%2FControllerServlet&amp;pubId=385300848" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSTj-ukDYOgjxtrnDmCxc-CThi25Vg2O3Mg7tXvA31c16&amp;loc=%2FControllerServlet&amp;pubId=385300848" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo56qQyM-Thq7Vg90H21EOLACvtfcHk0ljXGN0I0HBO1g&amp;loc=%2FControllerServlet&amp;pubId=385300848" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSTj-ukDYOgjxtrnDmCxc-CThi25Vg2O3MiYorGZ0CX3V&amp;loc=%2FControllerServlet&amp;pubId=385300848" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

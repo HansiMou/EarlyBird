@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="960ca123-ff59-4f96-926d-bffaa7dfe748">
+<html lang="en" class="pb-page" data-request-id="c6a4edff-1b6d-4b94-8c81-503760c5ac7b">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsmedchemlett.6b00113;pageGroup:string:Publication Pages;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -154,8 +154,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00113%3Fprg140729%3Ddd758e5b-c862-40d6-8e0e-5bd682c38b68" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00113?prg140729=dd758e5b-c862-40d6-8e0e-5bd682c38b68&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00113?prg140729=dd758e5b-c862-40d6-8e0e-5bd682c38b68">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00113%3Fprg140729%3D4fb63bd9-db4b-48ce-be79-89b10cc6a948" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00113?prg140729=4fb63bd9-db4b-48ce-be79-89b10cc6a948&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00113?prg140729=4fb63bd9-db4b-48ce-be79-89b10cc6a948">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1033,6 +1033,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i9"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1140,22 +1148,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00075?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsmedchemlett.6b00075?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">How Beyond Rule of 5 Drugs and Clinical Candidates Bind to Their Targets</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Doak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dobritzsch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kihlberg</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>59</em> (6), pp 2312–2327</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> To improve discovery of drugs for difficult targets, the opportunities of chemical space beyond the rule of 5 (bRo5) were examined by retrospective analysis of a comprehensive set of structures for complexes between drugs and clinical candidates and their ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01286?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01286?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01286?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1171,6 +1163,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jmedchem.5b01963?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">How Beyond Rule of 5 Drugs and Clinical Candidates Bind to Their Targets</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Doak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dobritzsch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kihlberg</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>59</em> (6), pp 2312–2327</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> To improve discovery of drugs for difficult targets, the opportunities of chemical space beyond the rule of 5 (bRo5) were examined by retrospective analysis of a comprehensive set of structures for complexes between drugs and clinical candidates and their ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01286?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01286?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01286?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00060?src=recsys">Allosteric Glutaminase Inhibitors Based on a 1,4-Di(5-amino-1,3,4-thiadiazol-2-yl)butane Scaffold</a>
                             <div class="achsLabel">
@@ -1288,9 +1296,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.6b00113" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00113%3Fprg140729%3D1214a26d-0620-4813-9d5f-b3ec8cbf9bf0&amp;doi=10.1021%2Facsmedchemlett.6b00113" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00113%3Fprg140729%3D14dbbc24-d3df-4c8a-a94f-39814f69bc1e&amp;doi=10.1021%2Facsmedchemlett.6b00113" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00113%3Fprg140729%3Ddd758e5b-c862-40d6-8e0e-5bd682c38b68&amp;title=Discovery+of+a+Fluorinated+Enigmol+Analog+with+Enhanced+in+Vivo+Pharmacokinetic+and+Anti-Tumor+Properties&amp;doi=10.1021%2Facsmedchemlett.6b00113" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00113%3Fprg140729%3D4fb63bd9-db4b-48ce-be79-89b10cc6a948&amp;title=Discovery+of+a+Fluorinated+Enigmol+Analog+with+Enhanced+in+Vivo+Pharmacokinetic+and+Anti-Tumor+Properties&amp;doi=10.1021%2Facsmedchemlett.6b00113" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1313,8 +1321,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqI9VejADUeXrVg90H21EOLACvtfcHk0liVK7j-vJocHQ&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSe-q45Hv7LEJtrnDmCxc-CThi25Vg2O3MsvWxBlxo9Hw&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqI9VejADUeXrVg90H21EOLACvtfcHk0lgpPXMURctRMQ&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSe-q45Hv7LEJtrnDmCxc-CThi25Vg2O3MjXrongf2-XB&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="9f673be9-1c0d-442a-bee1-afdaed19d868">
+<html lang="en" class="pb-page" data-request-id="86ac488c-cbcd-43e7-a9b8-32215826045f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/ancac3.ahead-of-print;article:article:10.1021/acsnano.5b07692;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:ancac3;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07692%3Fprg140729%3Dba762815-2d78-4d02-966e-1d90b969d133" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b07692?prg140729=ba762815-2d78-4d02-966e-1d90b969d133&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b07692?prg140729=ba762815-2d78-4d02-966e-1d90b969d133">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07692%3Fprg140729%3D628ea603-a33a-428e-a87e-d59834bbeeb8" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b07692?prg140729=628ea603-a33a-428e-a87e-d59834bbeeb8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.5b07692?prg140729=628ea603-a33a-428e-a87e-d59834bbeeb8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -946,17 +946,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i3"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Procedures" href="#_i4"><span>Experimental Procedures</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i16"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1055,22 +1044,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.5b05879?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b05879?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.6b00509?src=recsys">Bioinspired Fabrication of Free-Standing Conducting Films with Hierarchical Surface Wrinkling Patterns</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ji</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3801–3808</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Mechanical instability has been shown to play an important role in the formation of wrinkle structures in biofilms, which not only can adopt instability modes as templates to regulate their 3D architectures but also can tune internal stresses to achieve ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.6b00509?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.6b00509?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.6b00509?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.6b00509?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b07458?src=recsys"><i>In Situ</i> Reactive Assembly of Scalable Core–Shell Sulfur–MnO<sub>2</sub> Composite Cathodes</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1087,21 +1060,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.5b07458?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b07458?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.6b00113?src=recsys">Catalyst-Free Growth of Three-Dimensional Graphene Flakes and Graphene/g-C<sub>3</sub>N<sub>4</sub> Composite for Hydrocarbon Oxidation</a>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b00479?src=recsys">Lithium Titanate Confined in Carbon Nanopores for Asymmetric Supercapacitors</a>
                             <div class="achsLabel">
                              ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Manivannan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jung</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Berdichevsky</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nese</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marder</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yushin</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3665–3673</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Mass production of high-quality graphene flakes is important for commercial applications. Graphene microsheets have been produced on an industrial scale by chemical and liquid-phase exfoliation of graphite. However, strong-interaction-induced interlayer ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Porous carbons suffer from low specific capacitance, while intercalation-type active materials suffer from limited rate when used in asymmetric supercapacitors. We demonstrate that nanoconfinement of intercalation-type lithium titanate (Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub>) ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.6b00113?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.6b00113?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.6b00113?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.6b00113?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsnano.6b00479?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.6b00479?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b00479?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b00479?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b00509?src=recsys">Bioinspired Fabrication of Free-Standing Conducting Films with Hierarchical Surface Wrinkling Patterns</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ji</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3801–3808</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Mechanical instability has been shown to play an important role in the formation of wrinkle structures in biofilms, which not only can adopt instability modes as templates to regulate their 3D architectures but also can tune internal stresses to achieve ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.6b00509?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.6b00509?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b00509?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b00509?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b07347?src=recsys">Long-Life and High-Areal-Capacity Li–S Batteries Enabled by a Light-Weight Polar Host with Intrinsic Polysulfide Adsorption</a>
                             <div class="achsLabel">
@@ -1203,9 +1192,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsnano.5b07692" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07692%3Fprg140729%3D5c6cabb1-a42d-465c-9f6c-3b268b49aa0d&amp;doi=10.1021%2Facsnano.5b07692" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07692%3Fprg140729%3D5effc995-03df-4c07-85f5-bd2439f6f057&amp;doi=10.1021%2Facsnano.5b07692" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07692%3Fprg140729%3Dba762815-2d78-4d02-966e-1d90b969d133&amp;title=Layer+Number+Dependence+of+Li%2B+Intercalation+on+Few-Layer+Graphene+and+Electrochemical+Imaging+of+Its+Solid%E2%80%93Electrolyte+Interphase+Evolution&amp;doi=10.1021%2Facsnano.5b07692" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.5b07692%3Fprg140729%3D628ea603-a33a-428e-a87e-d59834bbeeb8&amp;title=Layer+Number+Dependence+of+Li%2B+Intercalation+on+Few-Layer+Graphene+and+Electrochemical+Imaging+of+Its+Solid%E2%80%93Electrolyte+Interphase+Evolution&amp;doi=10.1021%2Facsnano.5b07692" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1228,8 +1217,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp_jcDc1-xSALVg90H21EOLACvtfcHk0ljk5X9fAn5QUA&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSbLyqR05hAj7trnDmCxc-CThi25Vg2O3MlQ-EOpTzbh1&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp_jcDc1-xSALVg90H21EOLACvtfcHk0lgo2J-_2mR5Qg&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSbLyqR05hAj7trnDmCxc-CThi25Vg2O3MtCFNThenOfy&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

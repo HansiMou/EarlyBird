@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="543b60a7-294d-45ef-82de-00c1b7e2ee8e">
+<html lang="en" class="pb-page" data-request-id="9212a473-9d82-4fd2-a5da-aa23acad981f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/asbcd6.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:asbcd6;wgroup:string:ACHS website Group;article:article:10.1021/acssynbio.5b00225;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssynbio.5b00225%3Fprg140729%3D0bc5ef6b-c120-4d3a-84e2-533f24f206b6" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssynbio.5b00225?prg140729=0bc5ef6b-c120-4d3a-84e2-533f24f206b6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssynbio.5b00225?prg140729=0bc5ef6b-c120-4d3a-84e2-533f24f206b6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssynbio.5b00225%3Fprg140729%3D3f032435-1452-46e2-923c-f5ddfa3d5b7a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssynbio.5b00225?prg140729=3f032435-1452-46e2-923c-f5ddfa3d5b7a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssynbio.5b00225?prg140729=3f032435-1452-46e2-923c-f5ddfa3d5b7a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1047,22 +1047,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acssynbio.5b00240?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acssynbio.5b00240?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acssynbio.5b00257?src=recsys">SEVA Linkers: A Versatile and Automatable DNA Backbone Exchange Standard for Synthetic Biology</a>
-                            <div class="achsLabel">
-                             ACS Synthetic Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cavaleiro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rennig</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nørholm</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> DNA vectors serve to maintain and select recombinant DNA in cell factories, and as design complexity increases, there is a greater need for well-characterized parts and methods for their assembly. Standards in synthetic biology are top priority, but ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acssynbio.5b00257?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acssynbio.5b00257?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acssynbio.5b00257?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acssynbio.5b00257?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acssynbio.5b00230?src=recsys">Rapid Diversification of BetI-Based Transcriptional Switches for the Control of Biosynthetic Pathways and Genetic Circuits</a>
                             <div class="achsLabel">
                              ACS Synthetic Biology
@@ -1079,21 +1063,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acssynbio.5b00230?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acssynbio.5b00230?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acssynbio.6b00011?src=recsys">A Droplet Microfluidic Platform for Automating Genetic Engineering</a>
+                           <li><a href="/doi/abs/10.1021/acssynbio.5b00257?src=recsys">SEVA Linkers: A Versatile and Automatable DNA Backbone Exchange Standard for Synthetic Biology</a>
                             <div class="achsLabel">
                              ACS Synthetic Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gach</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shih</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sustarich</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Keasling</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hillson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Adams</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Singh</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cavaleiro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rennig</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nørholm</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We present a water-in-oil droplet microfluidic platform for transformation, culture and expression of recombinant proteins in multiple host organisms including bacteria, yeast and fungi. The platform consists of a hybrid digital microfluidic/channel-based ...</span>
+                             <span><span class="bold">Abstract:</span> DNA vectors serve to maintain and select recombinant DNA in cell factories, and as design complexity increases, there is a greater need for well-characterized parts and methods for their assembly. Standards in synthetic biology are top priority, but ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acssynbio.6b00011?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acssynbio.6b00011?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acssynbio.6b00011?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acssynbio.6b00011?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acssynbio.5b00257?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acssynbio.5b00257?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acssynbio.5b00257?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acssynbio.5b00257?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acssynbio.6b00007?src=recsys">Metabolic Engineering of <i>Escherichia coli</i> for the Production of 3-Hydroxypropionic Acid and Malonic Acid through β-Alanine Route</a>
+                            <div class="achsLabel">
+                             ACS Synthetic Biology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cho</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> <i>Escherichia coli</i> was metabolically engineered to produce industrially important platform chemicals, 3-hydroxypropionic acid (3-HP) and malonic acid (MA), through the β-alanine (BA) route. First, various combinations of downstream enzymes were screened and ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acssynbio.6b00007?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acssynbio.6b00007?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acssynbio.6b00007?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acssynbio.6b00007?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1179,9 +1179,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facssynbio.5b00225" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssynbio.5b00225%3Fprg140729%3D1d1969c0-9819-4069-9d8c-5d237637f4da&amp;doi=10.1021%2Facssynbio.5b00225" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssynbio.5b00225%3Fprg140729%3Deab4fc9a-99aa-41f2-b3ec-3b511c2635ad&amp;doi=10.1021%2Facssynbio.5b00225" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssynbio.5b00225%3Fprg140729%3D0bc5ef6b-c120-4d3a-84e2-533f24f206b6&amp;title=Expanding+Biosensing+Abilities+through+Computer-Aided+Design+of+Metabolic+Pathways&amp;doi=10.1021%2Facssynbio.5b00225" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssynbio.5b00225%3Fprg140729%3D3f032435-1452-46e2-923c-f5ddfa3d5b7a&amp;title=Expanding+Biosensing+Abilities+through+Computer-Aided+Design+of+Metabolic+Pathways&amp;doi=10.1021%2Facssynbio.5b00225" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

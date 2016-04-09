@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1cf80fc8-1be1-41a2-9db5-efa216524b37">
+<html lang="en" class="pb-page" data-request-id="a8f76e94-1e12-4867-b999-ce9ee6818205">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jpclcd;article:article:10.1021/acs.jpclett.6b00436;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpclcd.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00436%3Fprg140729%3D460c7dda-c759-4d14-9847-624c7a43734c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00436?prg140729=460c7dda-c759-4d14-9847-624c7a43734c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00436?prg140729=460c7dda-c759-4d14-9847-624c7a43734c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00436%3Fprg140729%3D4865641d-fbb0-49ff-8ac6-8d72f48a69cb" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00436?prg140729=4865641d-fbb0-49ff-8ac6-8d72f48a69cb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00436?prg140729=4865641d-fbb0-49ff-8ac6-8d72f48a69cb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1003,6 +1003,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00269?src=recsys">Charge Carrier Lifetimes Exceeding 15 μs in Methylammonium Lead Iodide Single Crystals</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hutter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Savenije</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>7</em> (5), pp 923–928</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The charge carrier lifetime in organic–inorganic perovskites is one of the most important parameters for modeling and design of solar cells and other types of devices. In this work, we use CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> single crystal as a model system to study optical ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.6b00269?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.6b00269?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00269?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00269?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpclett.6b00002?src=recsys">Cesium Lead Halide Perovskites with Improved Stability for Tandem Solar Cells</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry Letters
@@ -1018,38 +1034,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpclett.6b00002?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00002?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpclett.6b00002?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.5b02870?src=recsys">Resolution of the Band Gap Prediction Problem for Materials Design</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Crowley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tahir-Kheli</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Goddard</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (7), pp 1198–1203</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> An important property with any new material is the band gap. Standard density functional theory methods grossly underestimate band gaps. This is known as the band gap problem. Here, we show that the hybrid B3PW91 density functional returns band gaps with ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.5b02870?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.5b02870?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.5b02870?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.5b02870?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00366?src=recsys">Approaching Bulk Carrier Dynamics in Organo-Halide Perovskite Nanocrystalline Films by Surface Passivation</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Stewart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grieco</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Larsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maier</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Asbury</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (7), pp 1148–1153</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The electronic properties of organo-halide perovskite absorbers described in the literature have been closely associated with their morphologies and processing conditions. However, the underlying origins of this dependence remain unclear. A combination of ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.6b00366?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.6b00366?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00366?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00366?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpclett.6b00299?src=recsys">Electron–Vibron Coupling at Metal–Organic Interfaces from Theory and Experiment</a>
                             <div class="achsLabel">
@@ -1067,37 +1051,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00299?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpclett.6b00299?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.accounts.5b00431?src=recsys">What Is Moving in Hybrid Halide Perovskite Solar Cells?</a>
-                            <div class="achsLabel">
-                             Accounts of Chemical Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Frost</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Walsh</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>49</em> (3), pp 528–535</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Organic–inorganic semiconductors, which adopt the perovskite crystal structure, have perturbed the landscape of contemporary photovoltaics research. High-efficiency solar cells can be produced with solution-processed active layers. The materials ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.accounts.5b00431?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.accounts.5b00431?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.accounts.5b00431?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.accounts.5b00431?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00269?src=recsys">Charge Carrier Lifetimes Exceeding 15 μs in Methylammonium Lead Iodide Single Crystals</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00348?src=recsys">Unusually Slow Electron Cooling to Charge-Transfer State in Gradient CdTeSe Alloy Nanocrystals Mediated through Mn Atom</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hutter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Savenije</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Debnath</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maiti</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ghosh</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (5), pp 923–928</span>
+                             <span><span class="bold">2016</span> <em>7</em> (7), pp 1359–1367</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The charge carrier lifetime in organic–inorganic perovskites is one of the most important parameters for modeling and design of solar cells and other types of devices. In this work, we use CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> single crystal as a model system to study optical ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> We have synthesized Mn-doped CdTeSe gradient alloy nanocrystals (NCs) by a colloidal synthetic method, and charge carrier dynamics have been revealed through ultrafast transient absorption (TA) spectroscopy. Due to the reactivity difference between Te and ...<sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.6b00269?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.6b00269?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00269?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00269?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpclett.6b00348?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.6b00348?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00348?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00348?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00376?src=recsys">Lead-Free Halide Double Perovskites via Heterovalent Substitution of Noble Metals</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Volonakis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Filip</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haghighirad</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sakai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wenger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Snaith</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Giustino</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>7</em> (7), pp 1254–1259</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Lead-based halide perovskites are emerging as the most promising class of materials for next-generation optoelectronics; however, despite the enormous success of lead-halide perovskite solar cells, the issues of stability and toxicity are yet to be ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.6b00376?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.6b00376?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00376?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00376?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00366?src=recsys">Approaching Bulk Carrier Dynamics in Organo-Halide Perovskite Nanocrystalline Films by Surface Passivation</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Stewart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grieco</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Larsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maier</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Asbury</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>7</em> (7), pp 1148–1153</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The electronic properties of organo-halide perovskite absorbers described in the literature have been closely associated with their morphologies and processing conditions. However, the underlying origins of this dependence remain unclear. A combination of ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.6b00366?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.6b00366?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00366?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00366?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1183,9 +1183,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpclett.6b00436" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00436%3Fprg140729%3D9eb391c7-bfb3-48f3-b4d2-be5f303f4376&amp;doi=10.1021%2Facs.jpclett.6b00436" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00436%3Fprg140729%3D04daa3bf-e762-449a-a4ec-481388dd33a9&amp;doi=10.1021%2Facs.jpclett.6b00436" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00436%3Fprg140729%3D460c7dda-c759-4d14-9847-624c7a43734c&amp;title=Excited+Electron+Dynamics+at+Semiconductor%E2%80%93Molecule+Type-II+Heterojunction+Interface%3A+First-Principles+Dynamics+Simulation&amp;doi=10.1021%2Facs.jpclett.6b00436" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00436%3Fprg140729%3D4865641d-fbb0-49ff-8ac6-8d72f48a69cb&amp;title=Excited+Electron+Dynamics+at+Semiconductor%E2%80%93Molecule+Type-II+Heterojunction+Interface%3A+First-Principles+Dynamics+Simulation&amp;doi=10.1021%2Facs.jpclett.6b00436" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

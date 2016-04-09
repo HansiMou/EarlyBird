@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ef96a0c8-1aca-4bd4-9068-7bc1f2da3eca">
+<html lang="en" class="pb-page" data-request-id="c7dfd1a0-46b0-42c6-a917-6a70de89ecc6">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.macromol.6b00418;issue:issue:10.1021/mamobx.ahead-of-print;journal:journal:mamobx;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00418%3Fprg140729%3D3b22cc0e-9e41-4a3e-9ad1-bff1e6139886" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00418?prg140729=3b22cc0e-9e41-4a3e-9ad1-bff1e6139886&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00418?prg140729=3b22cc0e-9e41-4a3e-9ad1-bff1e6139886">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00418%3Fprg140729%3D2eb678ad-c7a7-4d98-bb28-9370350548c8" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00418?prg140729=2eb678ad-c7a7-4d98-bb28-9370350548c8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00418?prg140729=2eb678ad-c7a7-4d98-bb28-9370350548c8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -950,6 +950,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i10"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i19"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i22"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1004,7 +1016,105 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Simon%2C+Yoan+C">Yoan C. Simon</a></li>
                            <li><a href="/author/Weder%2C+Christoph">Christoph Weder</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02538?src=recsys">Formation of Multidomain Hydrogels via Thermally Induced Assembly of PISA-Generated Triblock Terpolymer Nanogels</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">An</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Polymerization-induced self-assembly (PISA) is a rapidly evolving method for the efficient preparation of well-defined nano-objects. PISA-generated nano-objects have been explored in this work for the responsive formation of multidomain hydrogels by ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02538?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02538?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02538?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02538?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.6b00208?src=recsys">Synthesis and Characterization of Comb-Shaped Ring Polystyrenes</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Doi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Iwasa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Watanabe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nakamura</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Matsushita</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A series of comb-shaped ring polystyrene samples, RC, composed of a common ring backbone and multiple linear branches with three different lengths were successfully prepared. First, a highly purified ring backbone was synthesized by anionic ...<sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.6b00208?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.6b00208?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.6b00208?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.6b00208?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01697?src=recsys">Oil-in-Oil Emulsions Stabilized by Asymmetric Polymersomes Formed by AC + BC Block Polymer Co-Assembly</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Asano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">So</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lodge</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We demonstrate a facile route to asymmetric polymersomes by blending AC and BC block copolymers in oil-in-oil emulsions containing polystyrene (PS) and polybutadiene (PB) in chloroform (CHCl<sub>3</sub>). Polymersomes were prepared by mixing polystyrene-<i>b</i>-poly(...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01697?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01697?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01697?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01697?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02362?src=recsys">The Role of Mass and Length in the Sonochemistry of Polymers</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schaefer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Icli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weder</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lattuada</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kilbinger</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Simon</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (5), pp 1630–1636</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The ultrasound-induced cleavage of macromolecules has become a routine experiment in the emerging field of polymer mechanochemistry. To date, it has not been conclusively proven whether the molecular weight of a polymer or its contour length is the ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02362?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02362?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02362?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02362?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00097?src=recsys">Mechanogeneration of Acid from Oxime Sulfonates</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nagamani</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Moore</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (8), pp 2540–2543</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The generation of acid under mechanical force is potentially useful for initiating proton-catalyzed changes in polymeric materials. Here we demonstrate that oxime sulfonates—known photoacid generators—are also acid generators when activated mechanically. ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b00097?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00097?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00097?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00097?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02602?src=recsys">A Critical Appraisal of RAFT-Mediated Polymerization-Induced Self-Assembly</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Canning</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Armes</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (6), pp 1985–2001</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Recently, polymerization-induced self-assembly (PISA) has become widely recognized as a robust and efficient route to produce block copolymer nanoparticles of controlled size, morphology, and surface chemistry. Several reviews of this field have been ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02602?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02602?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02602?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02602?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1088,9 +1198,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.macromol.6b00418" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00418%3Fprg140729%3D51608062-3836-4e28-86a2-679528467dc1&amp;doi=10.1021%2Facs.macromol.6b00418" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00418%3Fprg140729%3Ddbaf5c6c-1b53-4eeb-b3e4-f2f52cd17ef8&amp;doi=10.1021%2Facs.macromol.6b00418" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00418%3Fprg140729%3D3b22cc0e-9e41-4a3e-9ad1-bff1e6139886&amp;title=Azo-Containing+Polymers+with+Degradation+On-Demand+Feature&amp;doi=10.1021%2Facs.macromol.6b00418" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00418%3Fprg140729%3D2eb678ad-c7a7-4d98-bb28-9370350548c8&amp;title=Azo-Containing+Polymers+with+Degradation+On-Demand+Feature&amp;doi=10.1021%2Facs.macromol.6b00418" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

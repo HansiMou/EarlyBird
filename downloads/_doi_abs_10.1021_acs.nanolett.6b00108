@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="007cf6bd-249d-498b-b51f-4d580d1e0eb8">
+<html lang="en" class="pb-page" data-request-id="dc07b753-644f-4a8e-808b-90d679fe53a6">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.nanolett.6b00108;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00108%3Fprg140729%3Dead26cee-ab33-44db-8b38-df564e6bdcf5" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00108?prg140729=ead26cee-ab33-44db-8b38-df564e6bdcf5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00108?prg140729=ead26cee-ab33-44db-8b38-df564e6bdcf5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00108%3Fprg140729%3De45c96ef-6802-4f04-8cd2-0d92e21f6b63" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00108?prg140729=e45c96ef-6802-4f04-8cd2-0d92e21f6b63&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00108?prg140729=e45c96ef-6802-4f04-8cd2-0d92e21f6b63">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -672,16 +672,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.nanolett.5b05183" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.nanolett.6b00460" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/nalefd/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1001,20 +991,53 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04735?src=recsys">Rethinking Coal: Thin Films of Solution Processed Natural Carbon Nanoparticles for Electronic Devices.</a>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b05012?src=recsys">Energy Transfer from Quantum Dots to Graphene and MoS<sub>2</sub>: The Role of Absorption and Screening in Two-Dimensional Materials</a>
                             <div class="achsLabel">
                              Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Keller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ferralis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Grossman</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Raja</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Montoya−Castillo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zultak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roquelet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chenet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van der Zande</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jockusch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reichman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brus</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Heinz</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Disordered carbon materials, both amorphous and with long-range order, have been used in a variety of applications, from conductive additives and contact materials, to transistors and photovoltaics. Here we show a flexible solution-based method of ...</span>
+                             <span><span class="bold">Abstract:</span> We report efficient nonradiative energy transfer (NRET) from core–shell, semiconducting quantum dots to adjacent two-dimensional sheets of graphene and MoS<sub>2</sub> of single- and few-layer thickness. We observe quenching of the photoluminescence (PL) from ...<sup></sup><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b04735?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04735?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04735?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b05012?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b05012?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05012?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b05012?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b05183?src=recsys">Biologically Inspired Organic Light-Emitting Diodes</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kweon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yoo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jeong</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Many animal species employ highly conspicuous traits as courtship signals for successful mating. Fireflies utilize their bioluminescent light as visual courtship signals. In addition to efficient bioluminescent light emission, the structural components of ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b05183?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b05183?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05183?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b05183?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00034?src=recsys">Controlling Random Lasing with Three-Dimensional Plasmonic Nanorod Metamaterials</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Knitter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shalaev</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Boltasseva</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Plasmonics has brought revolutionary advances to laser science by enabling deeply subwavelength nanolasers through surface plasmon amplification. However, the impact of plasmonics on other promising laser systems has so far remained elusive. Here, we ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00034?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00034?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00034?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00034?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.6b00331?src=recsys">Casp3/7-Instructed Intracellular Aggregation of Fe<sub>3</sub>O<sub>4</sub> Nanoparticles Enhances T<sub>2</sub> MR Imaging of Tumor Apoptosis</a>
                             <div class="achsLabel">
@@ -1032,52 +1055,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00331?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00331?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04218?src=recsys">Silver as Seed-Particle Material for GaAs Nanowires—Dictating Crystal Phase and Growth Direction by Substrate Orientation</a>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00068?src=recsys">Hyaluronidase To Enhance Nanoparticle-Based Photodynamic Tumor Therapy</a>
                             <div class="achsLabel">
                              Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lindberg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Whiticar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dick</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sköld</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nygård</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bolinsson</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Here we investigate the feasibility of silver as seed-particle material to synthesize GaAs nanowires and show that both crystal phase and growth direction can be controlled by choice of substrate orientation. A (111)B substrate orientation can be used to ...</span>
+                             <span><span class="bold">Abstract:</span> Photodynamic therapy (PDT) is considered as a safe and selective way to treat a wide range of cancers as well as nononcological disorders. However, as oxygen is required in the process of PDT, the hypoxic tumor microenvironment has largely limited the ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b04218?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b04218?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04218?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04218?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b06477?src=recsys">Cellular Delivery of Nanoparticles Revealed with Combined Optical and Isotopic Nanoscopy</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Proetto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Anderton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Szymanski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Patterson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kammeyer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nilewski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rush</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Evans</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Orr</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Howell</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Gianneschi</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Direct polymerization of an oxaliplatin analogue was used to reproducibly generate amphiphiles in one pot, which consistently and spontaneously self-assemble into well-defined nanoparticles (NPs). Despite inefficient drug leakage in cell-free assays, the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b06477?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b06477?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b06477?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b06477?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04183?src=recsys">Raman fingerprints of atomically precise graphene nanoribbons</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Verzhbitskiy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">De Corato</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ruini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Molinari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Narita</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schwab</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bruna</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yoon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Milana</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Müllen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ferrari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Casiraghi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Prezzi</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Bottom-up approaches allow the production of ultra-narrow and atomically precise graphene nanoribbons (GNRs), with electronic and optical properties controlled by the specific atomic structure. Combining Raman spectroscopy and ab-initio simulations, we ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b04183?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04183?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04183?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00068?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00068?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00068?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00068?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.6b01415?src=recsys">Acoustically Propelled Nanomotors for Intracellular siRNA Delivery</a>
                             <div class="achsLabel">
@@ -1179,9 +1171,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.6b00108" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00108%3Fprg140729%3Dabfda5e3-ed3a-43bd-a292-690d572933ce&amp;doi=10.1021%2Facs.nanolett.6b00108" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00108%3Fprg140729%3D6aaa9f85-4206-4b50-874e-24c2465dcdbc&amp;doi=10.1021%2Facs.nanolett.6b00108" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00108%3Fprg140729%3Dead26cee-ab33-44db-8b38-df564e6bdcf5&amp;title=Super-Resolution+Ultrasound+Imaging+in+Vivo+with+Transient+Laser-Activated+Nanodroplets&amp;doi=10.1021%2Facs.nanolett.6b00108" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00108%3Fprg140729%3De45c96ef-6802-4f04-8cd2-0d92e21f6b63&amp;title=Super-Resolution+Ultrasound+Imaging+in+Vivo+with+Transient+Laser-Activated+Nanodroplets&amp;doi=10.1021%2Facs.nanolett.6b00108" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

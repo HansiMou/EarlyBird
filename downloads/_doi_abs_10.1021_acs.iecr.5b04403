@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1fa6f01e-ba67-4915-bda4-fa0ff48f17ca">
+<html lang="en" class="pb-page" data-request-id="a39f100c-156e-41d1-9fbe-634b58224cb9">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.iecr.5b04403;pageGroup:string:Publication Pages;issue:issue:10.1021/iecred.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:iecred;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04403%3Fprg140729%3D7db1c992-636b-4a71-b970-3bf0c49ab125" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b04403?prg140729=7db1c992-636b-4a71-b970-3bf0c49ab125&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b04403?prg140729=7db1c992-636b-4a71-b970-3bf0c49ab125">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04403%3Fprg140729%3Da2a8ebcc-28a1-4a7d-86f8-3c94edbd6267" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b04403?prg140729=a2a8ebcc-28a1-4a7d-86f8-3c94edbd6267&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b04403?prg140729=a2a8ebcc-28a1-4a7d-86f8-3c94edbd6267">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -672,6 +672,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.iecr.6b00762" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1005,6 +1006,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.iecr.5b02707?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.iecr.5b02707?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.5b02748?src=recsys">Optimal Water Management under Uncertainty for Shale Gas Production</a>
+                            <div class="achsLabel">
+                             Industrial &amp; Engineering Chemistry Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lira-Barragán</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ponce-Ortega</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guillén-Gosálbez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">El-Halwagi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>55</em> (5), pp 1322–1335</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> This paper presents a mathematical programing formulation for synthesizing water networks associated with shale gas hydraulic fracturing operations while accounting for the system uncertainty. The proposed formulation yields strategic planning that ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.iecr.5b02748?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.5b02748?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b02748?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.5b02748?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/ie5008807?src=recsys">Optimal Production and Maintenance Planning of Biopharmaceutical Manufacturing under Performance Decay</a>
                             <div class="achsLabel">
                              Industrial &amp; Engineering Chemistry Research
@@ -1036,22 +1053,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.iecr.5b03224?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.iecr.5b03224?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.iecr.5b03224?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.iecr.5b02748?src=recsys">Optimal Water Management under Uncertainty for Shale Gas Production</a>
-                            <div class="achsLabel">
-                             Industrial &amp; Engineering Chemistry Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lira-Barragán</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ponce-Ortega</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guillén-Gosálbez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">El-Halwagi</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>55</em> (5), pp 1322–1335</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> This paper presents a mathematical programing formulation for synthesizing water networks associated with shale gas hydraulic fracturing operations while accounting for the system uncertainty. The proposed formulation yields strategic planning that ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.iecr.5b02748?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.iecr.5b02748?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b02748?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.iecr.5b02748?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.iecr.5b03431?src=recsys">Integrated Waste Management in Multiproduct Biorefineries: Systems Optimization and Analysis of a Real-Life Industrial Plant</a>
                             <div class="achsLabel">
@@ -1153,9 +1154,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.iecr.5b04403" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04403%3Fprg140729%3Dfe9b051a-2c0c-47c0-96ef-88c82d918066&amp;doi=10.1021%2Facs.iecr.5b04403" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04403%3Fprg140729%3D6da25d85-892f-46c1-bbdd-00bc4361d158&amp;doi=10.1021%2Facs.iecr.5b04403" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04403%3Fprg140729%3D7db1c992-636b-4a71-b970-3bf0c49ab125&amp;title=Integrated+Optimization+of+Upstream+and+Downstream+Processing+in+Biopharmaceutical+Manufacturing+under+Uncertainty%3A+A+Chance+Constrained+Programming+Approach&amp;doi=10.1021%2Facs.iecr.5b04403" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.5b04403%3Fprg140729%3Da2a8ebcc-28a1-4a7d-86f8-3c94edbd6267&amp;title=Integrated+Optimization+of+Upstream+and+Downstream+Processing+in+Biopharmaceutical+Manufacturing+under+Uncertainty%3A+A+Chance+Constrained+Programming+Approach&amp;doi=10.1021%2Facs.iecr.5b04403" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

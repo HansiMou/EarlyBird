@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8d3a770e-031f-4524-bb16-4eb903fb96ca">
+<html lang="en" class="pb-page" data-request-id="90a63b33-5f8d-4245-b683-56387232873c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jceaax.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.jced.5b00802;wgroup:string:ACHS website Group;journal:journal:jceaax;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00802%3Fprg140729%3D224071a8-5fc2-4c53-8b2c-9b6e973685c0" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00802?prg140729=224071a8-5fc2-4c53-8b2c-9b6e973685c0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00802?prg140729=224071a8-5fc2-4c53-8b2c-9b6e973685c0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00802%3Fprg140729%3D6c3aa521-2358-4951-8ebd-9216d6b55e16" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00802?prg140729=6c3aa521-2358-4951-8ebd-9216d6b55e16&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00802?prg140729=6c3aa521-2358-4951-8ebd-9216d6b55e16">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -670,16 +670,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jced.5b00934" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jced.6b00132" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceaax/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -940,20 +930,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Equations" href="#_i7"><span>Equations</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Results" href="#_i8"><span>Experimental Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i12"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i13"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i16"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1012,21 +988,21 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jced.6b00132?src=recsys">Insights on 1-Butyl-3-methylimidazolium Bis(trifluoromethylsulfonyl)imide + Ethanol Liquid Mixtures: A Molecular Dynamics Approach</a>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00882?src=recsys">Thermodynamics of 1,3-Dimethylurea in Eight Alcohols</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Alcalde</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Atilhan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Aparicio</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ouyang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The properties of 1-butyl-3-methylimidazolium bis(trifluoromethylsulfonil)imide + ethanol mixtures are studied through a computational approach using classical molecular dynamics simulations. This theoretical approach was developed on one side for ...</span>
+                             <span><span class="bold">Abstract:</span> In this work, solubility data of 1,3-dimethylurea (DMU) in methanol, ethanol, 1-propanol, 1-butanol, 1-pentanol, 1-hexanol, 1-heptanol, and 1-octanol were measured by synthetic method from <i>T</i> = 288.15 to 328.15 K at ordinary pressure. It turned out that ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.6b00132?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.6b00132?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.6b00132?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.6b00132?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jced.5b00882?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00882?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00882?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00882?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jced.5b00820?src=recsys">Volumetric and Refractive Properties of the Mixtures of 1,1,3,3-Tetramethyl-1,3-diphenyldisiloxane with Various Organosilicon Compounds at <i>T</i> = (308.15 to 328.15) K</a>
                             <div class="achsLabel">
@@ -1044,6 +1020,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00820?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00820?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.6b00132?src=recsys">Insights on 1-Butyl-3-methylimidazolium Bis(trifluoromethylsulfonyl)imide + Ethanol Liquid Mixtures: A Molecular Dynamics Approach</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Alcalde</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Atilhan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Aparicio</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The properties of 1-butyl-3-methylimidazolium bis(trifluoromethylsulfonil)imide + ethanol mixtures are studied through a computational approach using classical molecular dynamics simulations. This theoretical approach was developed on one side for ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.6b00132?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.6b00132?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.6b00132?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.6b00132?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jced.5b00662?src=recsys">Thermophysical Properties of Glycols and Glymes</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
@@ -1060,53 +1052,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00662?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00662?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b00882?src=recsys">Thermodynamics of 1,3-Dimethylurea in Eight Alcohols</a>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00934?src=recsys"><i>P</i>–ρ–<i>T</i> Data for 2-Butanol and <i>tert</i>-Butanol from 283.15 to 363.15 K and 303.15 to 363.15 K at Pressures up to 66 MPa</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ouyang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bravo-Sánchez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guerrero-Zárate</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Iglesias-Silva</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Estrada-Baltazar</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Bouchot</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In this work, solubility data of 1,3-dimethylurea (DMU) in methanol, ethanol, 1-propanol, 1-butanol, 1-pentanol, 1-hexanol, 1-heptanol, and 1-octanol were measured by synthetic method from <i>T</i> = 288.15 to 328.15 K at ordinary pressure. It turned out that ...</span>
+                             <span><span class="bold">Abstract:</span> We present densities of pure 2-butanol and <i>tert</i>-butanol from 283.15 to 363.15 K and 303.15 to 363.15 K at pressures up to 66 MPa. We have measured the densities using a vibrating tube densimeter, and the calibration of the apparatus uses the forced path ...<sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b00882?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b00882?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00882?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b00882?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jced.5b00934?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00934?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00934?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00934?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b00632?src=recsys">Determination of the Solid–Liquid Phase Diagram of the Binary System Propionic Acid/Water</a>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00857?src=recsys">Solubility Measurement and Correlation of (+)-Biotin Intermediate Lactone in Different Organic Solvents from 287.15 to 323.75 K</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Htira</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cogné</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gagnière</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mangin</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>61</em> (2), pp 806–812</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Solid–liquid phase diagram of the system water/propionic acid was achieved using two methods, the differential scanning calorimetry and a synthetic method. The liquidus curve is a simple eutectic diagram (89 wt % at 243 K) with an “S-shaped” form due to ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b00632?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b00632?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00632?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b00632?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b00918?src=recsys">Ternary and Quaternary Liquid–Liquid Equilibria for Systems of Methyl Butyl Ketone + Water + Hydroquinone + Phenol at 313.2 K and Atmospheric Pressure</a>
-                            <div class="achsLabel">
-                             Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qian</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Liquid–liquid equilibria (LLE) data of the quaternary system {methyl butyl ketone + phenol + hydroquinone + water} and two relevant ternary systems, {methyl butyl ketone + phenol + water} and {methyl butyl ketone + hydroquinone + water}, were measured at <i>...</i></span>
+                             <span><span class="bold">Abstract:</span> The solubilities of (+)-biotin intermediate lactone in methanol, toluene, tetrahydrofuran, dichloromethane, ethyl acetate, and <i>N</i>,<i>N</i>-dimethylformamide were determined at the investigated temperatures 287.15–323.75 K under pressure (<i>p</i> = 0.1 MPa) by a laser ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b00918?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b00918?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00918?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b00918?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jced.5b00857?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00857?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00857?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00857?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1159,7 +1135,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jced.5b00802" title="High-Res PDF: 829 KB" target="_blank"> PDF <span class="details">(829 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jced.5b00802" title="Low-Res PDF: 453 KB" target="_blank"> PDF w/ Links <span class="details">(453 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jced.5b00802" title="Low-Res PDF: 421 KB" target="_blank"> PDF w/ Links <span class="details">(421 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jced.5b00802" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1192,9 +1168,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jced.5b00802" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00802%3Fprg140729%3Da1f595fe-6b0b-48ae-9dde-7de47f60976e&amp;doi=10.1021%2Facs.jced.5b00802" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00802%3Fprg140729%3D5cc2b1c9-10fc-44e6-9182-4c9f1e48b977&amp;doi=10.1021%2Facs.jced.5b00802" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00802%3Fprg140729%3D224071a8-5fc2-4c53-8b2c-9b6e973685c0&amp;title=Thermodynamics+of+Amide+%2B+Amine+Mixtures.+1.+Volumetric%2C+Speed+of+Sound%2C+and+Refractive+Index+Data+for+N%2CN-Dimethylformamide+%2B+N-Propylpropan-1-amine%2C+%2B+N-Butylbutan-1-amine%2C+%2B+Butan-1-amine%2C+or+%2B+Hexan-1-amine+Systems+at+Several+Temperatures&amp;doi=10.1021%2Facs.jced.5b00802" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00802%3Fprg140729%3D6c3aa521-2358-4951-8ebd-9216d6b55e16&amp;title=Thermodynamics+of+Amide+%2B+Amine+Mixtures.+1.+Volumetric%2C+Speed+of+Sound%2C+and+Refractive+Index+Data+for+N%2CN-Dimethylformamide+%2B+N-Propylpropan-1-amine%2C+%2B+N-Butylbutan-1-amine%2C+%2B+Butan-1-amine%2C+or+%2B+Hexan-1-amine+Systems+at+Several+Temperatures&amp;doi=10.1021%2Facs.jced.5b00802" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

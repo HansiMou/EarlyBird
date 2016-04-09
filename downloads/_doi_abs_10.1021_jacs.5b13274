@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="072e0863-973a-456c-9f51-d7ad03edf330">
+<html lang="en" class="pb-page" data-request-id="d5dbfdc6-5f87-4d23-a48a-1844ac3dc265">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/jacs.5b13274;issue:issue:10.1021/jacsat.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jacsat;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13274%3Fprg140729%3D3523eb09-2129-424c-819b-1dccff95afdb" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13274?prg140729=3523eb09-2129-424c-819b-1dccff95afdb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13274?prg140729=3523eb09-2129-424c-819b-1dccff95afdb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13274%3Fprg140729%3Df043c62e-ca39-4228-9b0b-c4fc667813a3" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13274?prg140729=f043c62e-ca39-4228-9b0b-c4fc667813a3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13274?prg140729=f043c62e-ca39-4228-9b0b-c4fc667813a3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -673,16 +673,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.5b12472" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/jacs.6b00016" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jacsat/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1042,21 +1032,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00016?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00016?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01089?src=recsys">Construction of Smart Supramolecular Polymeric Hydrogels Cross-linked by Discrete Organoplatinum(II) Metallacycles via Post-Assembly Polymerization</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00345?src=recsys">Solution Structures of Hauser Base <sup><i>i</i></sup>Pr<sub>2</sub>NMgCl and <i>Turbo</i>-Hauser Base <sup><i>i</i></sup>Pr<sub>2</sub>NMgCl·LiCl in THF and the Influence of LiCl on the Schlenk-Equilibrium</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Neufeld</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Teuteberg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Herbst-Irmer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mata</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stalke</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Postassembly modification strategy has been successfully employed in the construction of discrete metallosupramolecular assemblies. However, the most known reports have been limited to the simple structural conversion through the easy covalent reactions, ...</span>
+                             <span><span class="bold">Abstract:</span> Grignard reagents that are at the simplest level described as “RMgX” (where R is an organic substituent and X a halide) are one of the most widely utilized classes of synthetic reagents. Lately, especially Grignard reagents with amido ligands of the type ...<sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01089?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01089?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01089?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01089?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b00345?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00345?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00345?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00345?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01244?src=recsys">Construction of Covalent Organic Frameworks Bearing Three Different Kinds of Pores through the Heterostructural Mixed Linker Strategy</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> It is very important to create novel topologies and improve structural complexity for covalent organic frameworks (COFs) that might lead to unprecedented properties and applications. Despite the progress achieved over the past decade, the structural ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01244?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01244?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01244?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01244?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b01285?src=recsys">The N–B Interaction through a Water Bridge: Understanding the Chemoselectivity of a Fluorescent Protein Based Probe for Peroxynitrite</a>
                             <div class="achsLabel">
@@ -1073,22 +1079,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.6b01285?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.6b01285?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b01285?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b12666?src=recsys">Synergetic Integration of Cu<sub>1.94</sub>S–Zn<sub><i>x</i></sub>Cd<sub>1–<i>x</i></sub>S Heteronanorods for Enhanced Visible-Light-Driven Photocatalytic Hydrogen Production</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4286–4289</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In this Communication, we present the integration of synergetic designs into high-quality, well-defined Cu<sub>1.94</sub>S–Zn<sub><i>x</i></sub>Cd<sub>1–<i>x</i></sub>S heteronanorods (0 ≤ <i>x</i> ≤ 1) for enhanced photocatalytic hydrogen evolution. These heteronanorods possess two light absorbers, intimate ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b12666?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b12666?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b12666?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b12666?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00479?src=recsys">One-Dimensional Fluorescent Silicon Nanorods Featuring Ultrahigh Photostability, Favorable Biocompatibility, and Excitation Wavelength-Dependent Emission Spectra</a>
                             <div class="achsLabel">
@@ -1157,7 +1147,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/jacs.5b13274" title="High-Res PDF: 1570 KB" target="_blank"> PDF <span class="details">(1570 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.5b13274" title="Low-Res PDF: 407 KB" target="_blank"> PDF w/ Links <span class="details">(407 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.5b13274" title="Low-Res PDF: 399 KB" target="_blank"> PDF w/ Links <span class="details">(399 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/jacs.5b13274" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1190,9 +1180,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.5b13274" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13274%3Fprg140729%3D3fd99fb0-5fe9-45a9-8829-00f0381f230d&amp;doi=10.1021%2Fjacs.5b13274" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13274%3Fprg140729%3D0c563e33-e70f-43c9-8254-8b83581299cb&amp;doi=10.1021%2Fjacs.5b13274" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13274%3Fprg140729%3D3523eb09-2129-424c-819b-1dccff95afdb&amp;title=Electric+Field+Induced+Reversible+Phase+Transition+in+Li+Doped+Phosphorene%3A+Shape+Memory+Effect+and+Superelasticity&amp;doi=10.1021%2Fjacs.5b13274" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13274%3Fprg140729%3Df043c62e-ca39-4228-9b0b-c4fc667813a3&amp;title=Electric+Field+Induced+Reversible+Phase+Transition+in+Li+Doped+Phosphorene%3A+Shape+Memory+Effect+and+Superelasticity&amp;doi=10.1021%2Fjacs.5b13274" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c5e3dc2e-2f95-4664-bc3f-83655b5fd841">
+<html lang="en" class="pb-page" data-request-id="480cc938-c636-4398-855e-191ed64a2315">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jnprdf;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jnatprod.5b00950;issue:issue:10.1021/jnprdf.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00950%3Fprg140729%3Da70ef4aa-698f-4e34-8809-c4b6800b815a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00950?prg140729=a70ef4aa-698f-4e34-8809-c4b6800b815a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00950?prg140729=a70ef4aa-698f-4e34-8809-c4b6800b815a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00950%3Fprg140729%3D22107e8f-30b4-43fb-a1e3-e74e067134cc" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00950?prg140729=22107e8f-30b4-43fb-a1e3-e74e067134cc&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.5b00950?prg140729=22107e8f-30b4-43fb-a1e3-e74e067134cc">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1044,6 +1044,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00799?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jnatprod.5b00799?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b01029?src=recsys">Rhodocomatulin-Type Anthraquinones from the Australian Marine Invertebrates <i>Clathria hirsuta</i> and <i>Comatula rotalaria</i></a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Khokhar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pierens</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hooper</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ekins</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Davis</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Chemical investigations of an Australian sponge, <i>Clathria hirsuta</i>, from the Great Barrier Reef, have resulted in the isolation of two known anthraquinones, rhodocomatulin 5,7-dimethyl ether (<b>1</b>) and rhodocomatulin 7-methyl ether (<b>2</b>). Additionally, four new ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b01029?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b01029?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b01029?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b01029?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jnatprod.6b00095?src=recsys">Haliclonadiamine Derivatives and 6-<i>epi</i>-Monanchorin from the Marine Sponge <i>Halichondria panicea</i> Collected at Iriomote Island</a>
                             <div class="achsLabel">
                              Journal of Natural Products
@@ -1060,69 +1076,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jnatprod.6b00095?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jnatprod.6b00095?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.orglett.6b00206?src=recsys">Noncyanogenic Cyanoglucoside Cyclooxygenase Inhibitors from <i>Simmondsia chinensis</i></a>
-                            <div class="achsLabel">
-                             Organic Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Abdel-Mageed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bayoumi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Al-wahaibi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sayed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abdelkader</span>, <span class="entryAuthor normal hlFld-ContribAuthor">El-Gamal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Two new noncyanogenic cyanoglucoside dimers, simmonosides A and B (<b>1</b> and <b>2</b>), were identified from the aqueous extract of jojoba (<i>Simmondsia chinensis</i>) leaves. Compounds <b>1</b> and <b>2</b> are the first examples of noncyanogenic cyanoglucoside dimers containing a ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.orglett.6b00206?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.orglett.6b00206?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.orglett.6b00206?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.orglett.6b00206?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b01018?src=recsys">Chilenopeptins A and B, Peptaibols from the Chilean <i>Sepedonium</i> aff. <i>chalcipori</i> KSH 883</a>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b01055?src=recsys">Natural Products as Sources of New Drugs from 1981 to 2014</a>
                             <div class="achsLabel">
                              Journal of Natural Products
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Otto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Laub</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wendt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Porzel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schmidt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Palfner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Becerra</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krüger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stadler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wessjohann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Westermann</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Arnold</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Newman</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Cragg</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>79</em> (3), pp 629–661</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The Chilean <i>Sepedonium</i> aff. <i>chalcipori</i> strain KSH 883, isolated from the endemic <i>Boletus loyo</i> Philippi, was studied in a polythetic approach based on chemical, molecular, and biological data. A taxonomic study of the strain using molecular data of the ITS,...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> This contribution is a completely updated and expanded version of the four prior analogous reviews that were published in this journal in 1997, 2003, 2007, and 2012. In the case of all approved therapeutic agents, the time frame has been extended to cover ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jnatprod.5b01018?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jnatprod.5b01018?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b01018?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b01018?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b01055?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b01055?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b01055?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b01055?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00893?src=recsys">Chermesins A–D: Meroterpenoids with a Drimane-Type Spirosesquiterpene Skeleton from the Marine Algal-Derived Endophytic Fungus <i>Penicillium chermesinum</i> EN-480</a>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00942?src=recsys">Pelianthinarubins A and B, Red Pyrroloquinoline Alkaloids from the Fruiting Bodies of the Mushroom <i>Mycena pelianthina</i></a>
                             <div class="achsLabel">
                              Journal of Natural Products
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pulte</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wagner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kogler</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Spiteller</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Chermesins A–D (<b>1</b>–<b>4</b>), four new spiromeroterpenoids containing a drimane-type sesquiterpene skeleton, were isolated and identified from the culture extract of <i>Penicillium chermesinum</i> EN-480, an endophytic fungus obtained from the inner tissue of the marine ...</span>
+                             <span><span class="bold">Abstract:</span> Pelianthinarubin A (<b>1</b>) and pelianthinarubin B (<b>2</b>), two previously unknown pyrroloquinoline alkaloids, have been isolated from fruiting bodies of <i>Mycena pelianthina</i>. The structures of these alkaloids have been deduced from their HR-(+)-ESIMS and 2D NMR ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jnatprod.5b00893?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jnatprod.5b00893?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00893?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b00893?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b00942?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b00942?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00942?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b00942?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b01117?src=recsys">Vobatensines A–F, Cytotoxic Iboga-Vobasine Bisindoles from <i>Tabernaemontana corymbosa</i></a>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00932?src=recsys">Variochelins, Lipopeptide Siderophores from <i>Variovorax boronicumulans</i> Discovered by Genome Mining</a>
                             <div class="achsLabel">
                              Journal of Natural Products
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Teoh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Low</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kam</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kurth</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schieferdecker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Athanasopoulou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Seccareccia</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nett</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Six new bisindole alkaloids of the iboga-vobasine type, vobatensines A–F (<b>1</b>–<b>6</b>), in addition to four known bisindoles (<b>8</b>–<b>11</b>), were isolated from a stem bark extract of a Malayan <i>Tabernaemontana corymbosa</i>. The structures of these alkaloids were determined ...</span>
+                             <span><span class="bold">Abstract:</span> Photoreactive siderophores have a major impact on the growth of planktonic organisms. To date, these molecules have mainly been reported from marine bacteria, although evidence is now accumulating that some terrestrial bacteria also harbor the ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jnatprod.5b01117?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jnatprod.5b01117?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b01117?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b01117?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b00932?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b00932?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00932?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b00932?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1208,9 +1208,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jnatprod.5b00950" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00950%3Fprg140729%3D446edcc6-e896-42a2-88ca-d2219121e368&amp;doi=10.1021%2Facs.jnatprod.5b00950" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00950%3Fprg140729%3D459dd405-3b5a-4e04-9961-887bd6139cf0&amp;doi=10.1021%2Facs.jnatprod.5b00950" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00950%3Fprg140729%3Da70ef4aa-698f-4e34-8809-c4b6800b815a&amp;title=Laxitextines+A+and+B%2C+Cyathane+Xylosides+from+the+Tropical+Fungus+Laxitextum+incrustatum&amp;doi=10.1021%2Facs.jnatprod.5b00950" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.5b00950%3Fprg140729%3D22107e8f-30b4-43fb-a1e3-e74e067134cc&amp;title=Laxitextines+A+and+B%2C+Cyathane+Xylosides+from+the+Tropical+Fungus+Laxitextum+incrustatum&amp;doi=10.1021%2Facs.jnatprod.5b00950" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ab22a97c-57a7-4152-8227-14eff991b1ee">
+<html lang="en" class="pb-page" data-request-id="67691ba7-261a-4065-a5a7-0fa74f77de51">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/cmatex.ahead-of-print;article:article:10.1021/acs.chemmater.6b00624;journal:journal:cmatex;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00624%3Fprg140729%3D74759338-13c9-49c6-ae9f-0dfd553162f1" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00624?prg140729=74759338-13c9-49c6-ae9f-0dfd553162f1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00624?prg140729=74759338-13c9-49c6-ae9f-0dfd553162f1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00624%3Fprg140729%3Dc16d4394-8746-4b7e-8498-ed59896ff8a8" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00624?prg140729=c16d4394-8746-4b7e-8498-ed59896ff8a8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00624?prg140729=c16d4394-8746-4b7e-8498-ed59896ff8a8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -931,18 +931,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i10"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i11"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i14"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1015,6 +1003,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.6b00218?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.6b00218?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00029?src=recsys">Hybrid Hairy Nanoparticle Electrolytes Stabilizing Lithium Metal Batteries</a>
+                            <div class="achsLabel">
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Choudhury</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Agrawal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jeng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Archer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Rechargeable batteries comprising an energetic metal (e.g., Li, Na, Al) at the anode provide unparalleled opportunities for increasing the energy stored in electrochemical cells on either a unit mass or volume basis. A major problem that has hindered ...<sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemmater.6b00029?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.6b00029?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00029?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00029?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemmater.5b04862?src=recsys">Revealing the Intrinsic Li Mobility in the Li<sub>2</sub>MnO<sub>3</sub> Lithium-Excess Material</a>
                             <div class="achsLabel">
                              Chemistry of Materials
@@ -1063,37 +1067,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.5b07347?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b07347?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00029?src=recsys">Hybrid Hairy Nanoparticle Electrolytes Stabilizing Lithium Metal Batteries</a>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b02569?src=recsys">High Energy Organic Cathode for Sodium Rechargeable Batteries</a>
                             <div class="achsLabel">
                              Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Choudhury</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Agrawal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jeng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Archer</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kwon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kang</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2015</span> <em>27</em> (21), pp 7258–7264</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Rechargeable batteries comprising an energetic metal (e.g., Li, Na, Al) at the anode provide unparalleled opportunities for increasing the energy stored in electrochemical cells on either a unit mass or volume basis. A major problem that has hindered ...<sup></sup><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Organic electrodes have attracted significant attention as alternatives to conventional inorganic electrodes in terms of sustainability and universal availability in natural systems. However, low working voltages and low energy densities are inherent ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.6b00029?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.6b00029?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00029?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00029?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00177?src=recsys">Li<sub>3</sub>Mo<sub>4</sub>P<sub>5</sub>O<sub>24</sub>: A Two-Electron Cathode for Lithium-Ion Batteries with Three-Dimensional Diffusion Pathways</a>
-                            <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chernova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Janssen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Omenya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Khalifah</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Whittingham</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The structure of the novel compound Li<sub>3</sub>Mo<sub>4</sub>P<sub>5</sub>O<sub>24</sub> has been solved from single crystal X-ray diffraction data. The Mo cations in Li<sub>3</sub>Mo<sub>4</sub>P<sub>5</sub>O<sub>24</sub> are present in four distinct types of MoO<sub>6</sub> octahedra, each of which has one open vertex at the corner participating ...<sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.6b00177?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.6b00177?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00177?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00177?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.chemmater.5b02569?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.5b02569?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b02569?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.5b02569?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1179,9 +1167,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.chemmater.6b00624" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00624%3Fprg140729%3Dc5736a9f-df70-4f2e-850a-76173449c49e&amp;doi=10.1021%2Facs.chemmater.6b00624" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00624%3Fprg140729%3Db08c0dfd-86ed-4a95-ab68-093f3c2347f6&amp;doi=10.1021%2Facs.chemmater.6b00624" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00624%3Fprg140729%3D74759338-13c9-49c6-ae9f-0dfd553162f1&amp;title=Long-Life%2C+High-Rate+Lithium-Organic+Batteries+Based+on+Naphthoquinone+Derivatives&amp;doi=10.1021%2Facs.chemmater.6b00624" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00624%3Fprg140729%3Dc16d4394-8746-4b7e-8498-ed59896ff8a8&amp;title=Long-Life%2C+High-Rate+Lithium-Organic+Batteries+Based+on+Naphthoquinone+Derivatives&amp;doi=10.1021%2Facs.chemmater.6b00624" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1204,8 +1192,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrehIdVTDCk37Vg90H21EOLACvtfcHk0ljBotUUs4h_mw&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSYL5CHQRQwWqtrnDmCxc-CThi25Vg2O3Mhit-ZlEWdpf&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrehIdVTDCk37Vg90H21EOLACvtfcHk0lj2VNfvKNUeEg&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSYL5CHQRQwWqtrnDmCxc-CThi25Vg2O3MoMZz2IMSBQb&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

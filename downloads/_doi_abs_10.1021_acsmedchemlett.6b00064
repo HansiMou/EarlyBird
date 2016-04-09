@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="0e6ff932-d8d0-435d-a18e-35717a887d4f">
+<html lang="en" class="pb-page" data-request-id="0f04524c-152c-4b62-b3ef-7db016f1e9bc">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;article:article:10.1021/acsmedchemlett.6b00064;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -166,8 +166,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00064%3Fprg140729%3D59ce30b5-048a-4a84-ae5a-2e325e325975" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00064?prg140729=59ce30b5-048a-4a84-ae5a-2e325e325975&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00064?prg140729=59ce30b5-048a-4a84-ae5a-2e325e325975">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00064%3Fprg140729%3D99d48c93-e5ce-49f7-8de1-afa3ab9f845d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00064?prg140729=99d48c93-e5ce-49f7-8de1-afa3ab9f845d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00064?prg140729=99d48c93-e5ce-49f7-8de1-afa3ab9f845d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -710,7 +710,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acsmedchemlett.6b00083" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acsmedchemlett.6b00039" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1065,6 +1065,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i11"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1216,21 +1224,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00014?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsmedchemlett.6b00014?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">How Beyond Rule of 5 Drugs and Clinical Candidates Bind to Their Targets</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Doak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dobritzsch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kihlberg</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lassalas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lasfargeas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">James</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vijayendran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brunden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kozlowski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huryn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ballatore</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>59</em> (6), pp 2312–2327</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> To improve discovery of drugs for difficult targets, the opportunities of chemical space beyond the rule of 5 (bRo5) were examined by retrospective analysis of a comprehensive set of structures for complexes between drugs and clinical candidates and their ...</span>
+                             <span><span class="bold">Abstract:</span> The replacement of a carboxylic acid with a surrogate structure, or (bio)-isostere, is a classical strategy in medicinal chemistry. The general underlying principle is that by maintaining the features of the carboxylic acid critical for biological ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01286?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01286?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01286?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01286?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01963?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01946?src=recsys">Hydrogen Bond Basicity Prediction for Medicinal Chemistry Design</a>
                             <div class="achsLabel">
@@ -1332,9 +1340,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.6b00064" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00064%3Fprg140729%3Da2eadf9b-49cd-4de4-b489-2374c120b220&amp;doi=10.1021%2Facsmedchemlett.6b00064" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00064%3Fprg140729%3Dc15de278-b847-469b-a849-3db9d14e8a58&amp;doi=10.1021%2Facsmedchemlett.6b00064" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00064%3Fprg140729%3D59ce30b5-048a-4a84-ae5a-2e325e325975&amp;title=Discovery+of+Potent%2C+Orally+Bioavailable+Inhibitors+of+Human+Cytomegalovirus&amp;doi=10.1021%2Facsmedchemlett.6b00064" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00064%3Fprg140729%3D99d48c93-e5ce-49f7-8de1-afa3ab9f845d&amp;title=Discovery+of+Potent%2C+Orally+Bioavailable+Inhibitors+of+Human+Cytomegalovirus&amp;doi=10.1021%2Facsmedchemlett.6b00064" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1357,9 +1365,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpBaJICa1ywnrVg90H21EOLACvtfcHk0liiEseylokU3w&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGFyBeGhMtmXCtQwD9OmoEd0h7vmgvPwiuNwYoNKimTfc&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSaH0_CbrFiCFtrnDmCxc-CThi25Vg2O3MjgdQGjfe0dw&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpBaJICa1ywnrVg90H21EOLACvtfcHk0ljLuHCtExbJhg&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGFyBeGhMtmXCtQwD9OmoEd3hAmO_tz2Q2lyy2tXuZaN7&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSaH0_CbrFiCFtrnDmCxc-CThi25Vg2O3MlxKYbupEfa5&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

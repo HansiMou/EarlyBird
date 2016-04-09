@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="e7159c00-6833-451d-8a32-166dd3ed57a9">
+<html lang="en" class="pb-page" data-request-id="b4fe3f58-897b-4200-a328-c8b0ba23d686">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;article:article:10.1021/acs.jpcc.5b12105;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -150,8 +150,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12105%3Fprg140729%3D7ac6c195-17be-418c-9c98-1d1e51c64f03" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12105?prg140729=7ac6c195-17be-418c-9c98-1d1e51c64f03&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12105?prg140729=7ac6c195-17be-418c-9c98-1d1e51c64f03">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12105%3Fprg140729%3Deaa3ecd9-c895-4671-b14d-a8802f2959f5" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12105?prg140729=eaa3ecd9-c895-4671-b14d-a8802f2959f5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12105?prg140729=eaa3ecd9-c895-4671-b14d-a8802f2959f5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -697,16 +697,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.5b08910" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.6b01196" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1072,6 +1062,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12580?src=recsys">Surface on Surface. Survey of the Monolayer Gold–Graphene Interaction from Au<sub>12</sub> and PAH via Relativistic DFT Calculations</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Muñoz-Castro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gomez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miranda-Rojas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mendizabal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zagal</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Arratia-Perez</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7358–7364</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Gold–graphene interaction at the interface is evaluated through different polyaromatic hydrocarbons (PAH), accounted by C<sub>6</sub>H<sub>6</sub>, C<sub>24</sub>H<sub>12</sub>, C<sub>54</sub>H<sub>16</sub>, and C<sub>96</sub>H<sub>18</sub>, focusing into different energetic terms related to the overall interaction. Our results characterize ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b12580?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b12580?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12580?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12580?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.6b00699?src=recsys">Inducing Ferromagnetic Behavior in Cu Nanoparticles and Thin Films through Nonstoichiometric Oxidation</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1104,22 +1110,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11777?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b11777?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12580?src=recsys">Surface on Surface. Survey of the Monolayer Gold–Graphene Interaction from Au<sub>12</sub> and PAH via Relativistic DFT Calculations</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Muñoz-Castro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gomez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miranda-Rojas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mendizabal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zagal</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Arratia-Perez</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7358–7364</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Gold–graphene interaction at the interface is evaluated through different polyaromatic hydrocarbons (PAH), accounted by C<sub>6</sub>H<sub>6</sub>, C<sub>24</sub>H<sub>12</sub>, C<sub>54</sub>H<sub>16</sub>, and C<sub>96</sub>H<sub>18</sub>, focusing into different energetic terms related to the overall interaction. Our results characterize ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12580?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b12580?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12580?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12580?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.6b00923?src=recsys">Anharmonicity and Confinement in Zeolites: Structure, Spectroscopy, and Adsorption Free Energy of Ethanol in H-ZSM-5</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1136,22 +1126,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00923?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b00923?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02616?src=recsys">In Situ Monitoring the Molecular Diffusion Process in Graphene Oxide Membranes by ATR-FTIR Spectroscopy</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7451–7456</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Graphene oxide (GO) membranes have been widely explored for molecular separation, but the molecular diffusion behavior inside GO membranes and the interaction between the diffusates and GO sheets during diffusion is still unclear and rarely studied. In ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b02616?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b02616?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02616?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02616?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b12676?src=recsys">Nonequilibrium Electron-Coupled Lithium Ion Diffusion in LiFePO<sub>4</sub>: Nonadiabatic Dynamics with Multistate Trajectory Approach</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1167,6 +1141,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcc.5b12676?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12676?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b12676?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11886?src=recsys">Can We Describe Graphene Confined Water Structures as Overlapping of Approaching Graphene–Water Interfacial Structures?</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chialvo</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Vlcek</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We investigate the microscopic mechanisms of the overlap of interfacial structures in confined fluids and attempt to answer the question whether the confined structures can be predicted from the original density profiles of individual solid–fluid ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b11886?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b11886?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11886?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11886?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1219,7 +1209,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.5b12105" title="High-Res PDF: 5092 KB" target="_blank"> PDF <span class="details">(5092 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12105" title="Low-Res PDF: 567 KB" target="_blank"> PDF w/ Links <span class="details">(567 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12105" title="Low-Res PDF: 548 KB" target="_blank"> PDF w/ Links <span class="details">(548 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.5b12105" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1251,9 +1241,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b12105" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12105%3Fprg140729%3D937f57fb-02fc-437f-bc86-24373df408f3&amp;doi=10.1021%2Facs.jpcc.5b12105" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12105%3Fprg140729%3Dce53282a-8041-4fdb-b13c-6a1f995199d2&amp;doi=10.1021%2Facs.jpcc.5b12105" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12105%3Fprg140729%3D7ac6c195-17be-418c-9c98-1d1e51c64f03&amp;title=Thermal+Conductivity+Comparison+of+Indium+Gallium+Zinc+Oxide+Thin+Films%3A+Dependence+on+Temperature%2C+Crystallinity%2C+and+Porosity&amp;doi=10.1021%2Facs.jpcc.5b12105" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12105%3Fprg140729%3Deaa3ecd9-c895-4671-b14d-a8802f2959f5&amp;title=Thermal+Conductivity+Comparison+of+Indium+Gallium+Zinc+Oxide+Thin+Films%3A+Dependence+on+Temperature%2C+Crystallinity%2C+and+Porosity&amp;doi=10.1021%2Facs.jpcc.5b12105" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

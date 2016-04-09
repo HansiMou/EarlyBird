@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2e99133f-5cf7-4efe-9dc5-6cf3ac59556e">
+<html lang="en" class="pb-page" data-request-id="daa6db24-3c43-4371-9425-a99684b15d49">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.inorgchem.6b00241;journal:journal:inocaj;pageGroup:string:Publication Pages;issue:issue:10.1021/inocaj.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00241%3Fprg140729%3D9a8437cb-2a3d-40f9-8815-862416c777e6" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00241?prg140729=9a8437cb-2a3d-40f9-8815-862416c777e6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00241?prg140729=9a8437cb-2a3d-40f9-8815-862416c777e6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00241%3Fprg140729%3D30e25857-93c9-4b90-8c1b-dc800072c617" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00241?prg140729=30e25857-93c9-4b90-8c1b-dc800072c617&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00241?prg140729=30e25857-93c9-4b90-8c1b-dc800072c617">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1056,22 +1056,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.inorgchem.6b00319?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.inorgchem.6b00319?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02850?src=recsys">Breaking the Barrier to Slow Water Exchange Rates for Optimal Magnetic Resonance Detection of paraCEST Agents</a>
-                            <div class="achsLabel">
-                             Inorganic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fernando</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Martins</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kiefer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Platas-Iglesias</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sherry</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>55</em> (6), pp 3007–3014</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> EuDOTA-tetraamide complexes as paraCEST agents offer an attractive platform for designing biological sensors and responsive agents. The early versions of these agents showed low sensitivity at temperature and power levels suitable for in vivo applications ...Physical-chemical factors known to influence water exchange rates in EuDOTA-tetraamide complexes were used to design new paraCEST agents with record slow water exchange kinetics. The solution structure of the complexes as determined by analysis of lanthanide-induced paramagnetic shifts compared favorably to the structures determined by DTF calculations. In vitro CEST experiments demonstrated that these slow water exchange systems translated to optimal CEST imaging of one of the complexes in mouse kidneys.</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.inorgchem.5b02850?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.inorgchem.5b02850?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02850?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.inorgchem.5b02850?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02918?src=recsys">Magnetic Anisotropies in Rhombic Lanthanide(III) Complexes Do Not Conform to Bleaney’s Theory</a>
                             <div class="achsLabel">
                              Inorganic Chemistry
@@ -1088,21 +1072,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02918?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.inorgchem.5b02918?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02716?src=recsys">Two Isostructural Coordination Polymers Showing Diverse Magnetic Behaviors: Weak Coupling (Ni<sup>II</sup>) and an Ordered Array of Single-Chain Magnets (Co<sup>II</sup>)</a>
+                           <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02850?src=recsys">Breaking the Barrier to Slow Water Exchange Rates for Optimal Magnetic Resonance Detection of paraCEST Agents</a>
                             <div class="achsLabel">
                              Inorganic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sañudo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Du</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fernando</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Martins</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kiefer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Platas-Iglesias</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sherry</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>55</em> (6), pp 3007–3014</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> EuDOTA-tetraamide complexes as paraCEST agents offer an attractive platform for designing biological sensors and responsive agents. The early versions of these agents showed low sensitivity at temperature and power levels suitable for in vivo applications ...Physical-chemical factors known to influence water exchange rates in EuDOTA-tetraamide complexes were used to design new paraCEST agents with record slow water exchange kinetics. The solution structure of the complexes as determined by analysis of lanthanide-induced paramagnetic shifts compared favorably to the structures determined by DTF calculations. In vitro CEST experiments demonstrated that these slow water exchange systems translated to optimal CEST imaging of one of the complexes in mouse kidneys.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.inorgchem.5b02850?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.inorgchem.5b02850?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02850?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.inorgchem.5b02850?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02678?src=recsys">Metal Complexes with Very Large Dipole Moments: the Anionic Carborane Nitriles 12-NC–CB<sub>11</sub>X<sub>11</sub><sup>–</sup> (X = H, F, CH<sub>3</sub>) as Ligands on Pt(II) and Pd(II)</a>
+                            <div class="achsLabel">
+                             Inorganic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Šembera</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Plutnar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Higelin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Janoušek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Císařová</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Michl</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Two isomorphic 3-D complexes with the formulas [M<sub>3</sub>(TPTA) (OH)<sub>2</sub>(H<sub>2</sub>O)<sub>4</sub>]<sub><i>n</i></sub> (M = Ni for <b>1</b> and Co for <b>2</b>; H<sub>4</sub>TPTA = [1,1′:4′,1″-terphenyl]-2′,3,3″,5′-tetracarboxylic acid) have been synthesized and magnetically characterized. Complexes <b>1</b> (Ni<sup>II</sup>) and <b>2</b> (Co<sup>II</sup>) have ...<sup></sup><sup></sup><sup></sup>Reported herein is two isostructural Co<sup>II</sup> and Ni<sup>II</sup> coordination frameworks with [1,1′:4′,1″-terphenyl]-2′,3,3″,5′-tetracarboxylate, which exhibit the unique (4,4)-connected topology and diverse magnetic behaviors from weak coupling (Ni<sup>II</sup>) to an ordered array of single-chain magnets (Co<sup>II</sup>). Further analysis of the magnetic results can reveal that the SCM behavior should arise from the smaller interaction between the individual chains in the 3-D structure.</span>
+                             <span><span class="bold">Abstract:</span> The anionic nitriles 1-R-12-NC–CB<sub>11</sub>H<sub>10</sub><sup>–</sup> (R = H, CH<sub>3</sub>, I, COOH), 12-NC-1-H–CB<sub>11</sub>Me<sub>10</sub><sup>–</sup>, and 12-NC-1-H–CB<sub>11</sub>F<sub>10</sub><sup>–</sup> were prepared, and three of them were examined for complex formation with (Et<sub>3</sub>P)<sub>2</sub>Pt(II) and (Et<sub>3</sub>P)<sub>2</sub>Pd(II). Several stable internally charge-...The use of the anionic carborane nitriles 12-NC−CB<sub>11</sub>X<sub>11</sub><sup>−</sup> as ligands on Pt(II) and Pd(II) endows the metal complexes with huge dipole moments. Such moieties could be useful for the construction of dipolar molecular rotors.</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.inorgchem.5b02716?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.inorgchem.5b02716?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02716?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.inorgchem.5b02716?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.inorgchem.5b02678?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.inorgchem.5b02678?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02678?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.inorgchem.5b02678?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1188,9 +1188,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.inorgchem.6b00241" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00241%3Fprg140729%3D6df81efc-c7fa-4786-8ae0-253a5422da2c&amp;doi=10.1021%2Facs.inorgchem.6b00241" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00241%3Fprg140729%3D4e37284b-f397-4177-8ec0-0d22ce4a1055&amp;doi=10.1021%2Facs.inorgchem.6b00241" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00241%3Fprg140729%3D9a8437cb-2a3d-40f9-8815-862416c777e6&amp;title=Gd3TCAS2%3A+An+Aquated+Gd3%2B-Thiacalix%5B4%5Darene+Sandwich+Cluster+with+Extremely+Slow+Ligand+Substitution+Kinetics&amp;doi=10.1021%2Facs.inorgchem.6b00241" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00241%3Fprg140729%3D30e25857-93c9-4b90-8c1b-dc800072c617&amp;title=Gd3TCAS2%3A+An+Aquated+Gd3%2B-Thiacalix%5B4%5Darene+Sandwich+Cluster+with+Extremely+Slow+Ligand+Substitution+Kinetics&amp;doi=10.1021%2Facs.inorgchem.6b00241" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

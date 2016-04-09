@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="fc5c87b1-f86f-4952-b3d6-72de4cbf5821">
+<html lang="en" class="pb-page" data-request-id="23ba32bc-a130-42eb-b854-13851de0fa6e">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/joceah.ahead-of-print;journal:journal:joceah;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.joc.6b00236;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00236%3Fprg140729%3De1288b79-da27-44c9-bd08-47dcd4e1907d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00236?prg140729=e1288b79-da27-44c9-bd08-47dcd4e1907d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00236?prg140729=e1288b79-da27-44c9-bd08-47dcd4e1907d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00236%3Fprg140729%3D13b3a718-c579-4bb7-8b58-cc215648dced" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00236?prg140729=13b3a718-c579-4bb7-8b58-cc215648dced&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00236?prg140729=13b3a718-c579-4bb7-8b58-cc215648dced">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -945,6 +945,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i4"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i10"><span>Conclusion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i11"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i84"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1003,22 +1015,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.joc.5b02443?src=recsys">Intramolecular Functionalization of Benzylic Methylene Adjacent to the Ring Nitrogen Atom in <i>N</i>-Aryltetrahydroisoquinoline Derivatives</a>
-                            <div class="achsLabel">
-                             The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang-Negrerie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Du</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Functionalization at the benzylic methylene group that is adjacent to the ring nitrogen atom in a series of <i>N</i>-aryltetrahydroisoquinoline compounds has been realized through intramolecular cross-dehydrogenative coupling reactions. The presented ...<sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.5b02443?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.5b02443?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.5b02443?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.5b02443?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.joc.6b00374?src=recsys">Asymmetric Three-Component Coupling Reaction of Alkyne, Enone, and Aldehyde Catalyzed by Chiral Phebox Ruthenium Catalysts</a>
                             <div class="achsLabel">
                              The Journal of Organic Chemistry
@@ -1034,6 +1030,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.joc.6b00374?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.joc.6b00374?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.joc.6b00374?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.joc.5b02443?src=recsys">Intramolecular Functionalization of Benzylic Methylene Adjacent to the Ring Nitrogen Atom in <i>N</i>-Aryltetrahydroisoquinoline Derivatives</a>
+                            <div class="achsLabel">
+                             The Journal of Organic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang-Negrerie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Du</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Functionalization at the benzylic methylene group that is adjacent to the ring nitrogen atom in a series of <i>N</i>-aryltetrahydroisoquinoline compounds has been realized through intramolecular cross-dehydrogenative coupling reactions. The presented ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.joc.5b02443?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.5b02443?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.5b02443?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.5b02443?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.joc.6b00020?src=recsys">Alkyne [2 + 2 + 2]-Cyclotrimerization Approach for Synthesis of 6,7-Cyclopropylallocolchicinoids</a>
                             <div class="achsLabel">
@@ -1067,37 +1079,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b10277?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b10277?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.joc.5b02664?src=recsys">Cu-Catalyzed Multicomponent Reaction of Styrenes, Perfluoroalkyl Halide, Alcohol, and <i>tert</i>-Butyl Hydroperoxide: One-Pot Synthesis of (<i>Z</i>)-β-Alkoxyperfluoroalkenone</a>
+                           <li><a href="/doi/abs/10.1021/acs.joc.6b00128?src=recsys">Synthesis of Cyclohexane-Fused Isocoumarins via Cationic Palladium(II)-Catalyzed Cascade Cyclization Reaction of Alkyne-Tethered Carbonyl Compounds Initiated by Intramolecular Oxypalladation of Ester-Substituted Aryl Alkynes</a>
                             <div class="achsLabel">
                              The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wan</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> An efficient synthesis of <i>Z</i>-perfluoroalkyl-substituted enones by a multicomponent reaction strategy has been described. A variety of elusive perfluoroalkylated enones are furnished under mild reaction conditions in good yields with unique chemo- and ...</span>
+                             <span><span class="bold">Abstract:</span> A cationic Pd(II)-catalyzed cascade cyclization reaction of alkyne-tethered carbonyl compounds was developed. This reaction is initiated by intramolecular oxypalladation of alkynes with an ester group followed by 1,2-addition of the formed C–Pd(II) bond ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.5b02664?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.5b02664?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.5b02664?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.5b02664?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.joc.6b00128?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.6b00128?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00128?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.6b00128?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.joc.5b02843?src=recsys">Copper-Catalyzed Multicomponent Domino Reaction of 2-Bromoaldehydes, Benzylamines, and Sodium Azide for the Assembly of Quinazoline Derivatives</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b10945?src=recsys">Aerobic Copper-Promoted Radical-Type Cleavage of Coordinated Cyanide Anion: Nitrogen Transfer to Aldehydes To Form Nitriles</a>
                             <div class="achsLabel">
-                             The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lei</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">You</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>81</em> (7), pp 3000–3006</span>
+                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2885–2888</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> An efficient three-component domino reaction of 2-bromoaldehydes, benzylamines, and sodium azide has been developed for the synthesis of quinazoline derivatives. This domino process involves copper-catalyzed S<sub>N</sub>Ar, oxidation/cyclization, and ...</span>
+                             <span><span class="bold">Abstract:</span> We have disclosed for the first time the copper-promoted C≡N triple bond cleavage of coordinated cyanide anion under a dioxygen atmosphere, which enables a nitrogen transfer to various aldehydes. Mechanistic study of this unprecedented transformation ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.5b02843?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.5b02843?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.5b02843?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.5b02843?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b10945?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b10945?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b10945?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b10945?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1183,9 +1195,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.joc.6b00236" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00236%3Fprg140729%3Dd2f7cc95-9e7f-43db-bb97-f6a5cf5b877b&amp;doi=10.1021%2Facs.joc.6b00236" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00236%3Fprg140729%3D5b970fc9-936b-4cfc-829a-bb7c18fd57ce&amp;doi=10.1021%2Facs.joc.6b00236" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00236%3Fprg140729%3De1288b79-da27-44c9-bd08-47dcd4e1907d&amp;title=Cu%28I%29-Catalyzed+Synthesis+of+Furan-Substituted+Allenes+by+Use+of+Conjugated+Ene-yne+Ketones+as+Carbene+Precursors&amp;doi=10.1021%2Facs.joc.6b00236" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00236%3Fprg140729%3D13b3a718-c579-4bb7-8b58-cc215648dced&amp;title=Cu%28I%29-Catalyzed+Synthesis+of+Furan-Substituted+Allenes+by+Use+of+Conjugated+Ene-yne+Ketones+as+Carbene+Precursors&amp;doi=10.1021%2Facs.joc.6b00236" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="f253aa8f-a7ea-474b-9f22-2a21ef9b545f">
+<html lang="en" class="pb-page" data-request-id="b9f23cd4-f516-42fc-aa16-fcdd28d8b38d">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/bichaw.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:bichaw;article:article:10.1021/acs.biochem.6b00175">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.6b00175%3Fprg140729%3D990e7c32-5131-4cd4-bd29-87aa92852e9c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b00175?prg140729=990e7c32-5131-4cd4-bd29-87aa92852e9c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b00175?prg140729=990e7c32-5131-4cd4-bd29-87aa92852e9c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.6b00175%3Fprg140729%3Dc4cebe70-cb0a-40e8-8211-aa6df542214b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b00175?prg140729=c4cebe70-cb0a-40e8-8211-aa6df542214b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b00175?prg140729=c4cebe70-cb0a-40e8-8211-aa6df542214b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1003,22 +1003,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.biochem.6b00145?src=recsys">Biochemical and Spectroscopic Characterization of a Radical <i>S</i>-Adenosyl-<span class="smallcaps">l</span>-methionine Enzyme Involved in the Formation of a Peptide Thioether Cross-Link</a>
-                            <div class="achsLabel">
-                             Biochemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bruender</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wilcoxen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Britt</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bandarian</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Peptide-derived natural products are a class of metabolites that afford the producing organism a selective advantage over other organisms in their biological niche. While the polypeptide antibiotics produced by the nonribosomal polypeptide synthetases (...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biochem.6b00145?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biochem.6b00145?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biochem.6b00145?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biochem.6b00145?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.biochem.6b00043?src=recsys">Substrate Binding Mode and Molecular Basis of a Specificity Switch in Oxalate Decarboxylase</a>
                             <div class="achsLabel">
                              Biochemistry
@@ -1035,21 +1019,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biochem.6b00043?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biochem.6b00043?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biochem.5b01299?src=recsys">Enhancing Mn(II)-Binding and Manganese Peroxidase Activity in a Designed Cytochrome <i>c</i> Peroxidase through Fine-Tuning Secondary-Sphere Interactions</a>
+                           <li><a href="/doi/abs/10.1021/acs.biochem.6b00145?src=recsys">Biochemical and Spectroscopic Characterization of a Radical <i>S</i>-Adenosyl-<span class="smallcaps">l</span>-methionine Enzyme Involved in the Formation of a Peptide Thioether Cross-Link</a>
                             <div class="achsLabel">
                              Biochemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hosseinzadeh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mirts</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pfister</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mayne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Robinson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tajkhorshid</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bruender</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wilcoxen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Britt</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bandarian</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>55</em> (10), pp 1494–1502</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Noncovalent second-shell interactions are important in controlling metal-binding affinity and activity in metalloenzymes, but fine-tuning these interactions in designed metalloenzymes has not been fully explored. As a result, most designed metalloenzymes ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Peptide-derived natural products are a class of metabolites that afford the producing organism a selective advantage over other organisms in their biological niche. While the polypeptide antibiotics produced by the nonribosomal polypeptide synthetases (...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biochem.5b01299?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biochem.5b01299?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biochem.5b01299?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biochem.5b01299?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.biochem.6b00145?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biochem.6b00145?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biochem.6b00145?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biochem.6b00145?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biochem.5b01217?src=recsys">Metal Ion Capture Mechanism of a Copper Metallochaperone</a>
+                            <div class="achsLabel">
+                             Biochemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chakravorty</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bayse</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Merz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>55</em> (3), pp 501–509</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A novel cation−π interaction between the bound Cu<sup>+</sup> metal ion and Trp44 in the periplasmic Cu<sup>+</sup>/Ag<sup>+</sup> metallochaperone <i>Escherichia coli</i> CusF protects Cu<sup>+</sup> from the oxidative influence of the periplasm. In a popular model of metal ion transfer, a conformational ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biochem.5b01217?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biochem.5b01217?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biochem.5b01217?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biochem.5b01217?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biochem.6b00061?src=recsys">Stopped-Flow Studies of the Reduction of the Copper Centers Suggest a Bifurcated Electron Transfer Pathway in Peptidylglycine Monooxygenase</a>
+                            <div class="achsLabel">
+                             Biochemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chauhan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hosseinzadeh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Blackburn</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>55</em> (13), pp 2008–2021</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Peptidylglycine monooxygenase (PHM) is a dicopper enzyme that plays a vital role in the amidation of glycine-extended pro-peptides. One of the crucial aspects of its chemistry is the transfer of two electrons from an electron-storing and -transferring ...<sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biochem.6b00061?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biochem.6b00061?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biochem.6b00061?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biochem.6b00061?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.biochem.5b01273?src=recsys">Cytoplasmic Heme-Binding Protein (HutX) from <i>Vibrio cholerae</i> Is an Intracellular Heme Transport Protein for the Heme-Degrading Enzyme, HutZ</a>
                             <div class="achsLabel">
@@ -1067,37 +1083,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biochem.5b01273?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biochem.5b01273?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b12004?src=recsys">Spectroscopic and Crystallographic Evidence for the Role of a Water-Containing H-Bond Network in Oxidase Activity of an Engineered Myoglobin</a>
+                           <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02603?src=recsys">Possible Peroxo State of the Dicopper Site of Particulate Methane Monooxygenase from Combined Quantum Mechanics and Molecular Mechanics Calculations</a>
                             <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Petrik</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Davydov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ross</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hoffman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span> 
+                             Inorganic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Itoyama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doitomi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kamachi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shiota</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yoshizawa</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (4), pp 1134–1137</span>
+                             <span><span class="bold">2016</span> <em>55</em> (6), pp 2771–2775</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Heme-copper oxidases (HCOs) catalyze efficient reduction of oxygen to water in biological respiration. Despite progress in studying native enzymes and their models, the roles of non-covalent interactions in promoting this activity are still not well ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Enzymatic methane hydroxylation is proposed to efficiently occur at the dinuclear copper site of particulate methane monooxygenase (pMMO), which is an integral membrane metalloenzyme in methanotrophic bacteria. The resting state and a possible peroxo ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub>The resting and peroxo states of the dicopper active site of pMMO are discussed by using QM/MM calculations. The resting state of the dicopper site is assignable to the mixed-valent Cu<sup>I</sup>Cu<sup>II</sup> state from a computed Cu−Cu distance of 2.62 Å. A μ-η<sup>2</sup>:η<sup>2</sup>-peroxo-Cu<sup>II</sup><sub>2</sub> structure is reasonably obtained by using the resting state structure and dioxygen. Optical features of the μ-η<sup>2</sup>:η<sup>2</sup>-peroxo-Cu<sup>II</sup><sub>2</sub> state are calculated and analyzed with TD-DFT calculations.</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b12004?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b12004?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b12004?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b12004?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biochem.5b01298?src=recsys">Structural and Biochemical Characterization of a Copper-Binding Mutant of the Organomercurial Lyase MerB: Insight into the Key Role of the Active Site Aspartic Acid in Hg–Carbon Bond Cleavage and Metal Binding Specificity</a>
-                            <div class="achsLabel">
-                             Biochemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wahba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lecoq</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stevenson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mansour</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cappadocia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lafrance-Vanasse</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wilkinson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sygusch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wilcox</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Omichinski</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>55</em> (7), pp 1070–1081</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In bacterial resistance to mercury, the organomercurial lyase (MerB) plays a key role in the detoxification pathway through its ability to cleave Hg–carbon bonds. Two cysteines (C96 and C159; <i>Escherichia coli</i> MerB numbering) and an aspartic acid (D99) ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biochem.5b01298?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biochem.5b01298?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biochem.5b01298?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biochem.5b01298?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.inorgchem.5b02603?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.inorgchem.5b02603?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02603?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.inorgchem.5b02603?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1183,9 +1183,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.biochem.6b00175" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.6b00175%3Fprg140729%3D597b9475-aabd-4f15-9329-03e983fa11bd&amp;doi=10.1021%2Facs.biochem.6b00175" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.6b00175%3Fprg140729%3D327f6f2c-037d-4fdd-b4fb-9567596ad050&amp;doi=10.1021%2Facs.biochem.6b00175" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.6b00175%3Fprg140729%3D990e7c32-5131-4cd4-bd29-87aa92852e9c&amp;title=The+CopC+Family%3A+Structural+and+Bioinformatic+Insights+into+a+Diverse+Group+of+Periplasmic+Copper+Binding+Proteins&amp;doi=10.1021%2Facs.biochem.6b00175" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.6b00175%3Fprg140729%3Dc4cebe70-cb0a-40e8-8211-aa6df542214b&amp;title=The+CopC+Family%3A+Structural+and+Bioinformatic+Insights+into+a+Diverse+Group+of+Periplasmic+Copper+Binding+Proteins&amp;doi=10.1021%2Facs.biochem.6b00175" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

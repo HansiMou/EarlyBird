@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="e0870309-9715-4f21-9f2d-539d54b509ba">
+<html lang="en" class="pb-page" data-request-id="ea526b0e-3d4e-4ab7-a8f3-e925ef98825b">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsami.6b00937;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00937%3Fprg140729%3D80a3fb89-1548-45c2-ace7-ffe4b4cb7d88" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00937?prg140729=80a3fb89-1548-45c2-ace7-ffe4b4cb7d88&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00937?prg140729=80a3fb89-1548-45c2-ace7-ffe4b4cb7d88">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00937%3Fprg140729%3D402371c3-54b6-4cb5-8214-980a4f1813ea" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00937?prg140729=402371c3-54b6-4cb5-8214-980a4f1813ea&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00937?prg140729=402371c3-54b6-4cb5-8214-980a4f1813ea">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -942,18 +942,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i3"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i4"><span>Materials and Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i16"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1021,6 +1009,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acsami.6b00284?src=recsys">Porous Covalent Triazine Polymer as a Potential Nanocargo for Cancer Therapy and Imaging</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Rengaraj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Puthiaraj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haldorai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hwang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kwon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Huh</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A microporous covalent triazine polymer (CTP) network with a high surface area was synthesized via the Friedel–Crafts reaction and employed as a potential transport system for drug delivery and controlled release. The CTP was transformed to the nanoscale ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.6b00284?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b00284?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b00284?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b00284?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b02622?src=recsys">Complex-Mediated Synthesis of Tantalum Oxyfluoride Hierarchical Nanostructures for Highly Efficient Photocatalytic Hydrogen Evolution</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1053,53 +1057,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.5b12528?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b12528?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.6b00284?src=recsys">Porous Covalent Triazine Polymer as a Potential Nanocargo for Cancer Therapy and Imaging</a>
+                           <li><a href="/doi/abs/10.1021/acsami.6b02075?src=recsys">A Systematic Study on the Influence of Electron-Acceptors in Phenanthrocarbazole Dye-Sensitized Solar Cells</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Rengaraj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Puthiaraj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haldorai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hwang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kwon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Huh</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A microporous covalent triazine polymer (CTP) network with a high surface area was synthesized via the Friedel–Crafts reaction and employed as a potential transport system for drug delivery and controlled release. The CTP was transformed to the nanoscale ...</span>
+                             <span><span class="bold">Abstract:</span> In this work, by conjugating 2-cyanoacrylic acid (CA), 4-(benzo[<i>c</i>][1,2,5]thiadiazol-7-yl)benzoic acid (BTBA), 4-(7-ethynylbenzo[<i>c</i>][1,2,5]thiadiazol-4-yl)benzoic acid (EBTBA), and 4-((7-ethynylbenzo[<i>c</i>][1,2,5]thiadiazol-4-yl)ethynyl)benzoic acid (EBTEBA) to ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.6b00284?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.6b00284?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.6b00284?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.6b00284?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b12687?src=recsys">Hybrid Self-Assembly during Evaporation Enables Drop-on-Demand Thin Film Devices</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Boley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hyun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">White</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thompson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kramer</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We propose and demonstrate a hybrid self-assembly process as the mechanism for producing strikingly uniform deposits from evaporating drops composed of cosolvents. This assembly process leverages both particle–fluid interactions to carry the particles to ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b12687?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b12687?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b12687?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b12687?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b10917?src=recsys">Graphene and Graphene-like Molecules: Prospects in Solar Cells</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Loh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tong</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (4), pp 1095–1102</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Graphene is constantly hyped as a game-changer for flexible transparent displays. However, to date, no solar cell fabricated on graphene electrodes has out-performed indium tin oxide in power conversion efficiency (PCE). This Perspective covers the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b10917?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b10917?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b10917?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b10917?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsami.6b02075?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b02075?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b02075?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b02075?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b02372?src=recsys">Mesoporous Hybrids of Reduced Graphene Oxide and Vanadium Pentoxide for Enhanced Performance in Lithium-Ion Batteries and Electrochemical Capacitors</a>
                             <div class="achsLabel">
@@ -1116,6 +1088,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsami.6b02372?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsami.6b02372?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b02372?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.5b12687?src=recsys">Hybrid Self-Assembly during Evaporation Enables Drop-on-Demand Thin Film Devices</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Boley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hyun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">White</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thompson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kramer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We propose and demonstrate a hybrid self-assembly process as the mechanism for producing strikingly uniform deposits from evaporating drops composed of cosolvents. This assembly process leverages both particle–fluid interactions to carry the particles to ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.5b12687?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.5b12687?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.5b12687?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.5b12687?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1201,9 +1189,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b00937" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00937%3Fprg140729%3D4e6c1894-2c2b-4e96-a881-100af7c87592&amp;doi=10.1021%2Facsami.6b00937" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00937%3Fprg140729%3D4f1e5f12-ff67-4478-87af-fc084f2ca3a0&amp;doi=10.1021%2Facsami.6b00937" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00937%3Fprg140729%3D80a3fb89-1548-45c2-ace7-ffe4b4cb7d88&amp;title=Intrinsic+Catalytic+Activity+of+Graphene+Defects+for+the+CoII%2FIII%28bpy%293+Dye-Sensitized+Solar+Cell+Redox+Mediator&amp;doi=10.1021%2Facsami.6b00937" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00937%3Fprg140729%3D402371c3-54b6-4cb5-8214-980a4f1813ea&amp;title=Intrinsic+Catalytic+Activity+of+Graphene+Defects+for+the+CoII%2FIII%28bpy%293+Dye-Sensitized+Solar+Cell+Redox+Mediator&amp;doi=10.1021%2Facsami.6b00937" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

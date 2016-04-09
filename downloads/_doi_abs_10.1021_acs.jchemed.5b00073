@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="565ae1e1-9daa-4bec-80e7-fdf315b59da3">
+<html lang="en" class="pb-page" data-request-id="7968fd7e-4937-49ef-8b08-cc785a0ab0be">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;issue:issue:10.1021/jceda8.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.jchemed.5b00073;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -152,8 +152,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00073%3Fprg140729%3Df23338de-767d-45b8-999f-59c86e402cc4" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00073?prg140729=f23338de-767d-45b8-999f-59c86e402cc4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00073?prg140729=f23338de-767d-45b8-999f-59c86e402cc4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00073%3Fprg140729%3D76cc8996-a98b-4b33-9cce-19e097cf58f6" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00073?prg140729=76cc8996-a98b-4b33-9cce-19e097cf58f6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00073?prg140729=76cc8996-a98b-4b33-9cce-19e097cf58f6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -680,6 +680,16 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
+                       <div class="issueNavigator"> 
+                        <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/ed5006932" title="Previous Article"> Previous Article </a> </span> 
+                        </div> 
+                        <div class="journalNavRightTd"> 
+                         <div class="next"> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00211" title="Next Article"> Next Article </a> 
+                         </div> 
+                        </div> 
+                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceda8/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -996,14 +1006,14 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">The rise in carbon dioxide (CO<sub>2</sub>) concentration in the Earth’s atmosphere, and the associated strengthening of the greenhouse effect, requires the development of low carbon technologies. New carbon capture processes are being developed to remove CO<sub>2</sub> that would otherwise be emitted from industrial processes and fossil fuel power stations. Given the increasing importance of this technology, we report on a new educational project, which is aimed to instill greater awareness of the role of CO<sub>2</sub> in climate change while stimulating student interest in science, technology, engineering, and the environment. The project was carried out by master students, that is, Cool<sub>L</sub>Cap team, who contributed to the design and manufacture of a pilot plant that demonstrates the basic operation of an amine scrubbing plant. The main goal of the project was to develop educational material and presentations for a range of audiences, from primary school to university students and academics. In this article, we present the project team’s approach to design, commission, and deliver the pilot plant and educational material as well as the feedback received from 267 students from a primary school and a university. We provide additional information to enable other educators to recreate our pilot plant design.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=General+Public&amp;qsSearchArea=AllField">General Public</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Elementary%2FMiddle+School+Science&amp;qsSearchArea=AllField">Elementary/Middle School Science</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=High+School%2FIntroductory+Chemistry&amp;qsSearchArea=AllField">High School/Introductory Chemistry</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Chemical+Engineering&amp;qsSearchArea=AllField">Chemical Engineering</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Environmental+Chemistry&amp;qsSearchArea=AllField">Environmental Chemistry</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Public+Understanding%2FOutreach&amp;qsSearchArea=AllField">Public Understanding/Outreach</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Communication%2FWriting&amp;qsSearchArea=AllField">Communication/Writing</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Equipment%2FApparatus&amp;qsSearchArea=AllField">Laboratory Equipment/Apparatus</a>
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=General+Public&amp;qsSearchArea=AllField">General Public</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Elementary%2FMiddle+School+Science&amp;qsSearchArea=AllField">Elementary/Middle School Science</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=High+School%2FIntroductory+Chemistry&amp;qsSearchArea=AllField">High School/Introductory Chemistry</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Chemical+Engineering&amp;qsSearchArea=AllField">Chemical Engineering</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Environmental+Chemistry&amp;qsSearchArea=AllField">Environmental Chemistry</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Public+Understanding%2FOutreach&amp;qsSearchArea=AllField">Public Understanding/Outreach</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Communication%2FWriting&amp;qsSearchArea=AllField">Communication/Writing</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Equipment%2FApparatus&amp;qsSearchArea=AllField">Laboratory Equipment/Apparatus</a>
                               </div>
                              </div>
                             </div>
@@ -1129,22 +1139,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00412?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00412?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00432?src=recsys">Design of a Dynamic Undergraduate Green Chemistry Course</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kennedy</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The green chemistry course taught at Westminster College (PA) incorporates nontraditional teaching techniques and texts to educate future chemists about the importance of using green chemistry principles. The course is designed to introduce green ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00432?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00432?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00432?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00432?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00630?src=recsys">Greening the Traffic Light: Air Oxidation of Vitamin C Catalyzed by Indicators</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
@@ -1160,6 +1154,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jchemed.5b00630?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00630?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00630?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00432?src=recsys">Design of a Dynamic Undergraduate Green Chemistry Course</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Education
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kennedy</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The green chemistry course taught at Westminster College (PA) incorporates nontraditional teaching techniques and texts to educate future chemists about the importance of using green chemistry principles. The course is designed to introduce green ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00432?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00432?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00432?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00432?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1245,9 +1255,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00073" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00073%3Fprg140729%3D0606dcf0-eb10-4727-9324-a29cc11e2763&amp;doi=10.1021%2Facs.jchemed.5b00073" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00073%3Fprg140729%3D21b029d2-2040-42e1-9c9b-be84de342956&amp;doi=10.1021%2Facs.jchemed.5b00073" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00073%3Fprg140729%3Df23338de-767d-45b8-999f-59c86e402cc4&amp;title=Designing+and+Demonstrating+a+Master+Student+Project+To+Explore+Carbon+Dioxide+Capture+Technology&amp;doi=10.1021%2Facs.jchemed.5b00073" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00073%3Fprg140729%3D76cc8996-a98b-4b33-9cce-19e097cf58f6&amp;title=Designing+and+Demonstrating+a+Master+Student+Project+To+Explore+Carbon+Dioxide+Capture+Technology&amp;doi=10.1021%2Facs.jchemed.5b00073" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1270,9 +1280,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqhGGEBZGZgSbVg90H21EOLACvtfcHk0lh5xkT5Sr_LkA&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGAIj1e6dlmEEtQwD9OmoEd0bFOOXRLmyrNbcH7zlxLN-&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXDAyFpmxb6ltrnDmCxc-CThi25Vg2O3MiAEo1gmLDwB&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqhGGEBZGZgSbVg90H21EOLACvtfcHk0lgEiB4tadY5bw&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGAIj1e6dlmEEtQwD9OmoEd32pP4QU8Nrr7k9mBKtiwdD&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSXDAyFpmxb6ltrnDmCxc-CThi25Vg2O3MoX_4exwQRvW&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

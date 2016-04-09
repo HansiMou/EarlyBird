@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="e0e5fecb-7ce2-44b1-b198-a53047858309">
+<html lang="en" class="pb-page" data-request-id="664cdc3a-2188-4a31-9302-e6106ab64145">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jproteome.6b00074;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jprobs;page:string:Article/Chapter View;issue:issue:10.1021/jprobs.ahead-of-print;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -153,8 +153,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00074%3Fprg140729%3Debe4a998-f553-419c-9050-11a29a88f850" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00074?prg140729=ebe4a998-f553-419c-9050-11a29a88f850&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00074?prg140729=ebe4a998-f553-419c-9050-11a29a88f850">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00074%3Fprg140729%3Da609e62d-da6b-45de-807c-4f0e65842d67" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00074?prg140729=a609e62d-da6b-45de-807c-4f0e65842d67&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00074?prg140729=a609e62d-da6b-45de-807c-4f0e65842d67">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1000,18 +1000,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Procedures" href="#_i2"><span>Experimental Procedures</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i13"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i18"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i21"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1123,6 +1111,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00070?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.6b00070?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.6b00006?src=recsys">The Peripheral Blood Eosinophil Proteome</a>
+                            <div class="achsLabel">
+                             Journal of Proteome Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wilkerson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Johansson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hebert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Westphall</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mathur</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jarjour</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schwantes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mosher</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Coon</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A system-wide understanding of biological processes requires a comprehensive knowledge of the proteins in the biological system. The eosinophil is a type of granulocytic leukocyte specified early in hematopoietic differentiation that participates in ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jproteome.6b00006?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.6b00006?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00006?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.6b00006?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jproteome.6b00073?src=recsys">Utilization of HPASubC for the Identification of Sinusoid-Specific Proteins in the Liver</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
@@ -1139,6 +1143,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00073?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.6b00073?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jproteome.5b01097?src=recsys">Site-Specific Identification of Lysine Acetylation Stoichiometries in Mammalian Cells</a>
+                            <div class="achsLabel">
+                             Journal of Proteome Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chung</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>15</em> (3), pp 1103–1113</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Functional characterization of the lysine acetylation pathway requires quantitative measurement of the modification abundance at the stoichiometry level. Here, we developed a systematic workflow for global untargeted identification of site-specific Lys ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jproteome.5b01097?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jproteome.5b01097?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01097?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jproteome.5b01097?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jproteome.5b01067?src=recsys">MALDI TOF/TOF-Based Approach for the Identification of <span class="smallcaps">d</span>- Amino Acids in Biologically Active Peptides and Proteins</a>
                             <div class="achsLabel">
                              Journal of Proteome Research
@@ -1154,38 +1174,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jproteome.5b01067?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jproteome.5b01067?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jproteome.5b01067?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.energyfuels.5b02779?src=recsys">Effect of Ethanol and Lactic Acid Pre-fermentation on Putrefactive Bacteria Suppression, Hydrolysis, and Methanogenesis of Food Waste</a>
-                            <div class="achsLabel">
-                             Energy &amp; Fuels
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Che</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Lactic acid pre-fermentation is widely used as an effective method for the bacteriostatic preservation of food waste, and ethanol pre-fermentation can alleviate acidification and maintain system stability of methane fermentation. This study investigated ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.energyfuels.5b02779?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.energyfuels.5b02779?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.energyfuels.5b02779?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.energyfuels.5b02779?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jproteome.6b00006?src=recsys">The Peripheral Blood Eosinophil Proteome</a>
-                            <div class="achsLabel">
-                             Journal of Proteome Research
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wilkerson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Johansson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hebert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Westphall</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mathur</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jarjour</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schwantes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mosher</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Coon</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A system-wide understanding of biological processes requires a comprehensive knowledge of the proteins in the biological system. The eosinophil is a type of granulocytic leukocyte specified early in hematopoietic differentiation that participates in ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jproteome.6b00006?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jproteome.6b00006?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jproteome.6b00006?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jproteome.6b00006?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1271,9 +1259,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jproteome.6b00074" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00074%3Fprg140729%3D4d8be4fd-c584-48ea-a0ba-f383edb2f8aa&amp;doi=10.1021%2Facs.jproteome.6b00074" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00074%3Fprg140729%3D56a1fd6a-6271-45f6-a05f-5b7328e9ce63&amp;doi=10.1021%2Facs.jproteome.6b00074" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00074%3Fprg140729%3Debe4a998-f553-419c-9050-11a29a88f850&amp;title=Quantitative+Mass+Spectrometry+Identifies+Novel+Host+Binding+Partners+for+Pathogenic+Escherichia+coli+Type+III+Secretion+System+Effectors&amp;doi=10.1021%2Facs.jproteome.6b00074" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jproteome.6b00074%3Fprg140729%3Da609e62d-da6b-45de-807c-4f0e65842d67&amp;title=Quantitative+Mass+Spectrometry+Identifies+Novel+Host+Binding+Partners+for+Pathogenic+Escherichia+coli+Type+III+Secretion+System+Effectors&amp;doi=10.1021%2Facs.jproteome.6b00074" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

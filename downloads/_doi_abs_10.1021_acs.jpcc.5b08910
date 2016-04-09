@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2657a3b9-a207-4ab1-994e-7b041a44ef13">
+<html lang="en" class="pb-page" data-request-id="d44b44fe-cbf7-4a29-a4cc-9f9b661cd80f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jpcc.5b08910">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b08910%3Fprg140729%3D333b0676-d93b-4a90-90fa-8966ba18da7c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b08910?prg140729=333b0676-d93b-4a90-90fa-8966ba18da7c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b08910?prg140729=333b0676-d93b-4a90-90fa-8966ba18da7c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b08910%3Fprg140729%3D3636bacf-6f56-4763-b29d-813d9df3ff2e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b08910?prg140729=3636bacf-6f56-4763-b29d-813d9df3ff2e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b08910?prg140729=3636bacf-6f56-4763-b29d-813d9df3ff2e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -689,16 +689,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b01977" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.5b12105" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -962,22 +952,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Model and Method" href="#_i2"><span>Model and Method</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Model Formulation" href="#_i3"><span>Model Formulation</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i4"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i8"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Appendix A: Calculation of the Free Volume in CNT Arrays" href="#_i9"><span>Appendix A: Calculation of the Free Volume in CNT Arrays</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Appendix B: Calculation of the Surface Area of Adsorption Layer" href="#_i10"><span>Appendix B: Calculation of the Surface Area of Adsorption Layer</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Appendix C: Calculation of the Volume per CNT Mass Unit for the Outer Adsorption" href="#_i11"><span>Appendix C: Calculation of the Volume per CNT Mass Unit for the Outer Adsorption</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i15"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1036,22 +1010,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00002?src=recsys">Numerical Modeling of Fracture-Resistant Sn Micropillars as Anode for Lithium Ion Batteries</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Qaiser</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hong</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Han</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 6953–6962</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Sn possesses three times higher capacity in comparison to graphite anode (372 mAhg<sup>–1</sup>) that makes it a promising candidate for enhanced performance Li ion batteries. Contrary to Si, Sn is compliant and ductile in nature and thus is expected to readily ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b00002?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b00002?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00002?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00002?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.6b01779?src=recsys">Heterogeneous Nucleation onto Ions and Neutralized Ions: Insights into Sign-Preference</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1067,6 +1025,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcc.6b01779?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01779?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b01779?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00002?src=recsys">Numerical Modeling of Fracture-Resistant Sn Micropillars as Anode for Lithium Ion Batteries</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Qaiser</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hong</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Han</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (13), pp 6953–6962</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Sn possesses three times higher capacity in comparison to graphite anode (372 mAhg<sup>–1</sup>) that makes it a promising candidate for enhanced performance Li ion batteries. Contrary to Si, Sn is compliant and ductile in nature and thus is expected to readily ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b00002?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b00002?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00002?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00002?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.6b02616?src=recsys">In Situ Monitoring the Molecular Diffusion Process in Graphene Oxide Membranes by ATR-FTIR Spectroscopy</a>
                             <div class="achsLabel">
@@ -1084,21 +1058,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02616?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b02616?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11586?src=recsys">Electrodeposition of Polypyrenes with Tunable Hydrophobicity, Water Adhesion, and Fluorescence Properties</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12245?src=recsys">Salt Solutions in Carbon Nanotubes: The Role of Cation−π Interactions</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ramos Chagas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Darmanin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Steenkeste</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gaucher</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Méallet-Renault</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Godeau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amigoni</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Guittard</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pham</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mortuza</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wood</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ogitsu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Buchsbaum</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Siwy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fornasiero</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schwegler</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7077–7087</span>
+                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7332–7338</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The control in surface hydrophobicity and water adhesion is extremely important for various applications in water harvesting, oil/water separation membrane, energy systems or biosensing, for example. Here, for the first time we show that the use of ...</span>
+                             <span><span class="bold">Abstract:</span> Understanding the structure of aqueous electrolytes at interfaces is essential for predicting and optimizing device performance for a wide variety of emerging energy and environmental technologies. In this work, we investigate the structure of two common ...<sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b11586?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b11586?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11586?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11586?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b12245?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b12245?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12245?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12245?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.6b01144?src=recsys">Tuning The Photoactivity of Zirconia Nanotubes-Based Photoanodes via Ultrathin Layers of ZrN: An Effective Approach toward Visible-Light Water Splitting</a>
                             <div class="achsLabel">
@@ -1116,21 +1090,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01144?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b01144?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02365?src=recsys">Alkali-Induced <i>in Situ</i> Fabrication of Bi<sub>2</sub>O<sub>4</sub>-Decorated BiOBr Nanosheets with Excellent Photocatalytic Performance</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11586?src=recsys">Electrodeposition of Polypyrenes with Tunable Hydrophobicity, Water Adhesion, and Fluorescence Properties</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yue</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yip</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wong</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ramos Chagas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Darmanin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Steenkeste</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gaucher</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Méallet-Renault</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Godeau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amigoni</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Guittard</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7077–7087</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A simple alkali (NaOH) post-treatment approach assisted with light irradiation to <i>in situ</i> obtain Bi<sub>2</sub>O<sub>4</sub> nanoparticle-decorated BiOBr nanosheets, brown BiOBr-0.01, is presented for the first time. Bi<sub>2</sub>O<sub>4</sub> nanoparticles are formed due to a combined action of ...<sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> The control in surface hydrophobicity and water adhesion is extremely important for various applications in water harvesting, oil/water separation membrane, energy systems or biosensing, for example. Here, for the first time we show that the use of ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b02365?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b02365?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02365?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02365?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b11586?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b11586?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11586?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11586?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1183,7 +1157,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.5b08910" title="High-Res PDF: 4039 KB" target="_blank"> PDF <span class="details">(4039 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.5b08910" title="Low-Res PDF: 826 KB" target="_blank"> PDF w/ Links <span class="details">(826 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.5b08910" title="Low-Res PDF: 797 KB" target="_blank"> PDF w/ Links <span class="details">(797 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.5b08910" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1216,9 +1190,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b08910" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b08910%3Fprg140729%3D1dca5632-b049-4e31-a4be-fe3e0de9b089&amp;doi=10.1021%2Facs.jpcc.5b08910" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b08910%3Fprg140729%3D53430a5d-a22a-4b53-80b3-1832c7255a51&amp;doi=10.1021%2Facs.jpcc.5b08910" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b08910%3Fprg140729%3D333b0676-d93b-4a90-90fa-8966ba18da7c&amp;title=Adsorption+and+Condensation+of+SO2+in+Double-Walled+Carbon+Nanotube+Arrays+Studied+by+Monte+Carlo+Simulations+and+Simple+Analytical+Models&amp;doi=10.1021%2Facs.jpcc.5b08910" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b08910%3Fprg140729%3D3636bacf-6f56-4763-b29d-813d9df3ff2e&amp;title=Adsorption+and+Condensation+of+SO2+in+Double-Walled+Carbon+Nanotube+Arrays+Studied+by+Monte+Carlo+Simulations+and+Simple+Analytical+Models&amp;doi=10.1021%2Facs.jpcc.5b08910" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

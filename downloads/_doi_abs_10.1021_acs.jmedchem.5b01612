@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d91a0d40-b293-4eed-882e-f33084359a37">
+<html lang="en" class="pb-page" data-request-id="ac5598b8-88f6-4450-a215-619f1fa228c7">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.jmedchem.5b01612;journal:journal:jmcmar;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -151,8 +151,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01612%3Fprg140729%3D58a4fe1d-b55d-46fb-a54a-7b515d5e70c8" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01612?prg140729=58a4fe1d-b55d-46fb-a54a-7b515d5e70c8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01612?prg140729=58a4fe1d-b55d-46fb-a54a-7b515d5e70c8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01612%3Fprg140729%3D2e5a38f5-db6a-4a6c-b539-debbffe97ef8" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01612?prg140729=2e5a38f5-db6a-4a6c-b539-debbffe97ef8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01612?prg140729=2e5a38f5-db6a-4a6c-b539-debbffe97ef8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1031,6 +1031,19 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Chemistry" href="#_i2"><span>Chemistry</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i7"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i12"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Methods" href="#_i13"><span>Experimental Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i65"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1162,37 +1175,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00064?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.6b00064?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.6b00088?src=recsys">Detection of <i>in Vitro</i> Metabolite Formation of Leflunomide: A Fluorescence Dynamics and Electronic Structure Study</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01657?src=recsys">Discovery of a Selective and Potent Inhibitor of Mitogen-Activated Protein Kinase-Interacting Kinases 1 and 2 (MNK1/2) Utilizing Structure-Based Drug Design</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sharma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gangopadhyay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mishra</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mishra</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Singh</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pfister</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Warne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doyle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Aikawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amiri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Appleton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stuart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fanidi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shafer</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The metabolic transformation of antirheumatic fluorescent drug leflunomide into its active metabolite teriflunomide through isoxazole ring opening has been monitored <i>in vitro</i> using steady state and time domain fluorescence spectroscopy and density ...</span>
+                             <span><span class="bold">Abstract:</span> The discovery of a highly potent and selective small molecule inhibitor <b>9</b> for in vitro target validation of MNK1/2 kinases is described. The aminopyrazine benzimidazole series was derived from an HTS hit and optimized by utilization of a docking model, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.6b00088?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.6b00088?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.6b00088?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.6b00088?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01657?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01657?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01657?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01657?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">A Real-World Perspective on Molecular Design</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01416?src=recsys">Synthesis and Biological Evaluation of Novel σ<sub>1</sub> Receptor Ligands for Treating Neuropathic Pain: 6-Hydroxypyridazinones</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kuhn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bissantz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ceccarelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haap</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Körner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuglstatter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lerner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mattei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neidhart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pinard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudolph</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schulz-Gasch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Woltering</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stahl</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qiu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We present a series of small molecule drug discovery case studies where computational methods were prospectively employed to impact Roche research projects, with the aim of highlighting those methods that provide real added value. Our brief accounts ...</span>
+                             <span><span class="bold">Abstract:</span> By use of the 6-hydroxypyridazinone framework, a new series of potent σ<sub>1</sub> receptor ligands associated with pharmacological antineuropathic pain activity was synthesized and is described in this article. In vitro receptor binding studies revealed high σ<sub>1</sub> ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01875?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01875?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01875?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01416?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01416?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01416?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01416?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1278,9 +1291,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.5b01612" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01612%3Fprg140729%3De017be1c-0042-40dd-86a3-5d72b4821059&amp;doi=10.1021%2Facs.jmedchem.5b01612" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01612%3Fprg140729%3D13789b34-caff-4e45-bebd-4198315c0178&amp;doi=10.1021%2Facs.jmedchem.5b01612" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01612%3Fprg140729%3D58a4fe1d-b55d-46fb-a54a-7b515d5e70c8&amp;title=Novel+Analogues+of+%28R%29-5-%28Methylamino%29-5%2C6-dihydro-4H-imidazo%5B4%2C5%2C1-ij%5Dquinolin-2%281H%29-one+%28Sumanirole%29+Provide+Clues+to+Dopamine+D2%2FD3+Receptor+Agonist+Selectivity&amp;doi=10.1021%2Facs.jmedchem.5b01612" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01612%3Fprg140729%3D2e5a38f5-db6a-4a6c-b539-debbffe97ef8&amp;title=Novel+Analogues+of+%28R%29-5-%28Methylamino%29-5%2C6-dihydro-4H-imidazo%5B4%2C5%2C1-ij%5Dquinolin-2%281H%29-one+%28Sumanirole%29+Provide+Clues+to+Dopamine+D2%2FD3+Receptor+Agonist+Selectivity&amp;doi=10.1021%2Facs.jmedchem.5b01612" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

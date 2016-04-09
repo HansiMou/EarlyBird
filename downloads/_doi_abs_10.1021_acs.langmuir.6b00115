@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1976e235-d051-4e21-9382-68aabb6ae69b">
+<html lang="en" class="pb-page" data-request-id="50cc42af-9e8d-4362-94f2-e103078d5bbd">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/langd5.ahead-of-print;article:article:10.1021/acs.langmuir.6b00115;pageGroup:string:Publication Pages;journal:journal:langd5;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00115%3Fprg140729%3D7877be77-0c12-423d-9727-1fa4a71433da" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00115?prg140729=7877be77-0c12-423d-9727-1fa4a71433da&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00115?prg140729=7877be77-0c12-423d-9727-1fa4a71433da">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00115%3Fprg140729%3D71222af1-f650-4490-ba7e-1d678c2410d7" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00115?prg140729=71222af1-f650-4490-ba7e-1d678c2410d7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00115?prg140729=71222af1-f650-4490-ba7e-1d678c2410d7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -674,6 +674,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.langmuir.5b04702" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1028,21 +1029,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00835?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.langmuir.6b00835?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00337?src=recsys">Self-oscillating Gel Accelerated while Sensing the Shape of an Aqueous Surface</a>
-                            <div class="achsLabel">
-                             Langmuir
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yoshii</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yamamoto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sumino</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nakata</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The reciprocating motion of a self-oscillating square gel induced by the Belousov-Zhabotinsky (BZ) reaction was investigated on an aqueous surface. The chemical wave propagated from the side at which the oxidation of the Ru-catalyst in the gel started. ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.langmuir.6b00337?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00337?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00337?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.langmuir.6b00352?src=recsys">Chiral-Linkage-Induced Hierarchical Ordering of Colloidal Achiral Nanotubes in their Thixotropic Gel</a>
                             <div class="achsLabel">
                              Langmuir
@@ -1059,21 +1045,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00352?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.langmuir.6b00352?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04753?src=recsys">Electrochemical Characterization of Layer-By-Layer Assembled Ferrocene-Modified Linear Poly(ethylenimine)/Enzyme Bioanodes for Glucose Sensor and Biofuel Cell Applications</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00073?src=recsys">Tuning Cellular Uptake of Molecular Probes by Rational Design of Their Assembly into Supramolecular Nanoprobes</a>
                             <div class="achsLabel">
-                             Langmuir
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Godman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">DeLuca</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McCollum</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schmidtke</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Glatzhofer</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lock</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reyes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cui</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>138</em> (10), pp 3533–3540</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Ferrocenylhexyl- and ferrocenylpropyl-modified linear poly(ethylenimine) (Fc-C<sub>6</sub>-LPEI, Fc-C<sub>3</sub>-LPEI) were used with periodate-modified glucose oxidase (p-GOX) in the layer-by-layer assembly of enzymatic bioanodes on gold. Fc-C<sub>6</sub>-LPEI/p-GOX and Fc-C<sub>3</sub>-LPEI/p-...<sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Intracellular sensing of pathologically relevant biomolecules could provide essential information for accurate evaluation of disease staging and progression, yet the poor cellular uptake of water-soluble molecular probes limits their use as protease ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.langmuir.5b04753?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.langmuir.5b04753?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04753?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04753?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b00073?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00073?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00073?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00073?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b11918?src=recsys">Self-Assembly of Structures with Addressable Complexity</a>
                             <div class="achsLabel">
@@ -1090,6 +1076,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.5b11918?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.5b11918?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b11918?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00267?src=recsys">Surfactant Behavior of Amphiphilic Polymer-Tethered Nanoparticles</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In recent years, an emerging research area has been the surfactant behavior of polymer-tethered nanoparticles. In this feature article, we have provided a general introduction to the synthesis, self-assembly, and interfacial activity of polymer-tethered ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.6b00267?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.6b00267?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00267?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00267?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1175,9 +1177,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.langmuir.6b00115" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00115%3Fprg140729%3D1197bd49-29a9-41a4-978e-c31af3952728&amp;doi=10.1021%2Facs.langmuir.6b00115" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00115%3Fprg140729%3D0b64b526-0a50-41bb-9f32-e807e8404f74&amp;doi=10.1021%2Facs.langmuir.6b00115" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00115%3Fprg140729%3D7877be77-0c12-423d-9727-1fa4a71433da&amp;title=Toward+Understanding+Whether+Interactive+Surface+Area+Could+Direct+Ordered+Macroscopic+Supramolecular+Self-Assembly&amp;doi=10.1021%2Facs.langmuir.6b00115" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00115%3Fprg140729%3D71222af1-f650-4490-ba7e-1d678c2410d7&amp;title=Toward+Understanding+Whether+Interactive+Surface+Area+Could+Direct+Ordered+Macroscopic+Supramolecular+Self-Assembly&amp;doi=10.1021%2Facs.langmuir.6b00115" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

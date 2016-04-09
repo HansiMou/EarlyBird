@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="16ee7e1e-e47c-4337-8239-6b7e6abbf31f">
+<html lang="en" class="pb-page" data-request-id="0049f2e5-c3f8-4d4e-8b00-0343c6320f91">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.est.5b05947;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05947%3Fprg140729%3Db7a63c74-fa38-41ae-a147-852d4b7e59e3" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05947?prg140729=b7a63c74-fa38-41ae-a147-852d4b7e59e3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05947?prg140729=b7a63c74-fa38-41ae-a147-852d4b7e59e3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05947%3Fprg140729%3Dc8e67a7e-2b6d-4b97-a75f-e84d88906f8a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05947?prg140729=c8e67a7e-2b6d-4b97-a75f-e84d88906f8a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05947?prg140729=c8e67a7e-2b6d-4b97-a75f-e84d88906f8a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1009,6 +1009,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b05398?src=recsys">Managing Microbial Risks from Indirect Wastewater Reuse for Irrigation in Urbanizing Watersheds</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Verbyla</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Symonds</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kafle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cairns</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Iriarte</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mercado Guzmán</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Coronado</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Breitbart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ledo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mihelcic</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Limited supply of clean water in urbanizing watersheds creates challenges for safely sustaining irrigated agriculture and global food security. On-farm interventions, such as riverbank filtration (RBF), are used in developing countries to treat irrigation ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b05398?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b05398?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b05398?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b05398?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b03827?src=recsys">What we breathe impacts our health: improving understanding of the link between air pollution and health</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1024,21 +1040,18 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b03827?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b03827?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b06367?src=recsys">Nighttime Chemistry and Morning Isoprene Can Drive Urban Ozone Downwind of a Major Deciduous Forest</a>
+                           <li><a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys"><i>ES&amp;T</i>’s Best Papers of 2015</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Millet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baasandorj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mitroo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Turner</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Williams</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sedlak</span> (Editor-in-Chief)
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Isoprene is the predominant non-methane volatile organic compound emitted to the atmosphere and shapes tropospheric composition and biogeochemistry through its effects on ozone, other oxidants, aerosols, and the nitrogen cycle. Isoprene is emitted ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b06367?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b06367?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b06367?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b06367?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.6b01454?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.6b01454?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.6b01454?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b06097?src=recsys">Inactivation of <i>Escherichia coli</i>, Bacteriophage MS2, and <i>Bacillus</i> Spores under UV/H<sub>2</sub>O<sub>2</sub> and UV/Peroxydisulfate Advanced Disinfection Conditions</a>
                             <div class="achsLabel">
@@ -1056,20 +1069,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b06097?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b06097?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.6b00201?src=recsys">Trophic magnification of organic chemicals - a global synthesis</a>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b06367?src=recsys">Nighttime Chemistry and Morning Isoprene Can Drive Urban Ozone Downwind of a Major Deciduous Forest</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Walters</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jardine</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cade</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kidd</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Muir</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Leipzig-Scott</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Millet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baasandorj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mitroo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Turner</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Williams</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Production of organic chemicals (OCs) is increasing exponentially, and some OCs biomagnify through food webs to potentially toxic levels. Biomagnification under field conditions is best described by trophic magnification factors (TMFs; per trophic level ...</span>
+                             <span><span class="bold">Abstract:</span> Isoprene is the predominant non-methane volatile organic compound emitted to the atmosphere and shapes tropospheric composition and biogeochemistry through its effects on ozone, other oxidants, aerosols, and the nitrogen cycle. Isoprene is emitted ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.6b00201?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.6b00201?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.6b00201?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.est.5b06367?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b06367?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b06367?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b06367?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.6b01058?src=recsys">A Picture Worth 250 Million Words (and Counting)</a>
                             <div class="achsLabel">
@@ -1083,19 +1097,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.6b01058?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.6b01058?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.6b01058?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys"><i>ES&amp;T</i>’s Best Papers of 2015</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sedlak</span> (Editor-in-Chief)
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.6b01454?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.6b01454?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.6b01454?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1181,9 +1182,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.5b05947" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05947%3Fprg140729%3Dd1e59f21-b5d0-4678-937b-029106c3e09f&amp;doi=10.1021%2Facs.est.5b05947" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05947%3Fprg140729%3Da57db566-757e-41de-9e1b-2f26eb3ddd87&amp;doi=10.1021%2Facs.est.5b05947" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05947%3Fprg140729%3Db7a63c74-fa38-41ae-a147-852d4b7e59e3&amp;title=Critical+Role+of+the+Immobile+Zone+in+Non-Fickian+Two-Phase+Transport%3A+A+New+Paradigm&amp;doi=10.1021%2Facs.est.5b05947" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05947%3Fprg140729%3Dc8e67a7e-2b6d-4b97-a75f-e84d88906f8a&amp;title=Critical+Role+of+the+Immobile+Zone+in+Non-Fickian+Two-Phase+Transport%3A+A+New+Paradigm&amp;doi=10.1021%2Facs.est.5b05947" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

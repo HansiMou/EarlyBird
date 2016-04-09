@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="52a7dd0c-16ef-4a07-ad05-63341680d9bb">
+<html lang="en" class="pb-page" data-request-id="9ce7e9ac-7442-46ce-bd9d-6260d187ebb5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:ancham;pageGroup:string:Publication Pages;article:article:10.1021/acs.analchem.6b00534;wgroup:string:ACHS website Group;issue:issue:10.1021/ancham.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00534%3Fprg140729%3Da7e7c2c7-3154-4e3a-b0e8-90db25cd76cc" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00534?prg140729=a7e7c2c7-3154-4e3a-b0e8-90db25cd76cc&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00534?prg140729=a7e7c2c7-3154-4e3a-b0e8-90db25cd76cc">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00534%3Fprg140729%3D2b472baa-627a-45a5-a3ca-5bfdab9d5635" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00534?prg140729=2b472baa-627a-45a5-a3ca-5bfdab9d5635&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00534?prg140729=2b472baa-627a-45a5-a3ca-5bfdab9d5635">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -679,10 +679,11 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.analchem.6b00400" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.analchem.5b04471" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.analchem.5b04154" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1008,37 +1009,37 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00337?src=recsys">Spectrally and Spatially Multiplexed Serological Array-in-Well Assay Utilizing Two-Color Upconversion Luminescence Imaging</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04154?src=recsys">Double-Strand Displacement Biosensor and Quencher-Free Fluorescence Strategy for Rapid Detection of MicroRNA</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kale</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Päkkilä</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vainio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahomaa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sirkka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lyytikäinen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Talha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kutsaya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Waris</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Julkunen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Soukka</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cai</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We demonstrate a simple dual-mode multiplexed array-in-well immunoassay for simultaneous classification and detection of serum IgG and IgM antibodies against influenza A and human adenoviruses based on the color and position of the upconversion ...<sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> We describe a facile quencher-free fluorescence strategy for rapid detection of microRNAs (miRNAs) by using a novel double-strand displacement sensor. The sensor is designed with an outstanding 2-aminopurine (2-AP) fluorophore as a probe and a predesigned ...<sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.6b00337?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.6b00337?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00337?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.6b00337?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.5b04154?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b04154?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04154?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b04154?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04863?src=recsys">Portable Upconversion Nanoparticles-Based Paper Device for Field Testing of Drug Abuse</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00195?src=recsys">Polydimethylsiloxane-Paper Hybrid Lateral Flow Assay for Highly Sensitive Point-of-Care Nucleic Acid Testing</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ge</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ren</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pingguan-Murphy</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (3), pp 1530–1534</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We report the first portable upconversion nanoparticles (UCNPs)-based paper device for road-side field testing of cocaine. Upon the recognition of cocaine by two pieces of rationally designed aptamer fragments, the luminescence of UCNPs immobilized on the ...</span>
+                             <span><span class="bold">Abstract:</span> In nucleic acid testing (NAT), gold nanoparticle (AuNP)-based lateral flow assays (LFAs) have received significant attention due to their cost-effectiveness, rapidity, and the ability to produce a simple colorimetric readout. However, the poor sensitivity ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04863?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04863?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04863?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04863?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00195?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.6b00195?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00195?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00195?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.5b04743?src=recsys">Pressed Paper-Based Dipstick for Detection of Foodborne Pathogens with Multistep Reactions</a>
                             <div class="achsLabel">
@@ -1056,21 +1057,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.5b04743?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.5b04743?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04154?src=recsys">Double-Strand Displacement Biosensor and Quencher-Free Fluorescence Strategy for Rapid Detection of MicroRNA</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00337?src=recsys">Spectrally and Spatially Multiplexed Serological Array-in-Well Assay Utilizing Two-Color Upconversion Luminescence Imaging</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cai</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kale</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Päkkilä</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vainio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahomaa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sirkka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lyytikäinen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Talha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kutsaya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Waris</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Julkunen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Soukka</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We describe a facile quencher-free fluorescence strategy for rapid detection of microRNAs (miRNAs) by using a novel double-strand displacement sensor. The sensor is designed with an outstanding 2-aminopurine (2-AP) fluorophore as a probe and a predesigned ...<sup></sup></span>
+                             <span><span class="bold">Abstract:</span> We demonstrate a simple dual-mode multiplexed array-in-well immunoassay for simultaneous classification and detection of serum IgG and IgM antibodies against influenza A and human adenoviruses based on the color and position of the upconversion ...<sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04154?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04154?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04154?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04154?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00337?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.6b00337?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00337?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00337?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.5b04538?src=recsys">A Method for Designing Instrument-Free Quantitative Immunoassays</a>
                             <div class="achsLabel">
@@ -1088,21 +1089,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.5b04538?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.5b04538?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00195?src=recsys">Polydimethylsiloxane-Paper Hybrid Lateral Flow Assay for Highly Sensitive Point-of-Care Nucleic Acid Testing</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04333?src=recsys">Broadly Applicable Strategy for the Fluorescence Based Detection and Differentiation of Glutathione and Cysteine/Homocysteine: Demonstration in Vitro and in Vivo</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ren</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pingguan-Murphy</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Foley</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Song</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>88</em> (7), pp 3638–3646</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In nucleic acid testing (NAT), gold nanoparticle (AuNP)-based lateral flow assays (LFAs) have received significant attention due to their cost-effectiveness, rapidity, and the ability to produce a simple colorimetric readout. However, the poor sensitivity ...</span>
+                             <span><span class="bold">Abstract:</span> Glutathione (GSH), cysteine (Cys), and homocysteine (Hcy) are small biomolecular thiols that are present in all cells and extracellular fluids of healthy mammals. It is well-known that each plays a separate, critically important role in human physiology ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.6b00195?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.6b00195?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00195?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.6b00195?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.5b04333?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b04333?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04333?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b04333?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1188,9 +1189,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.analchem.6b00534" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00534%3Fprg140729%3D496073c9-c14e-4899-a6c3-cf865af9d32a&amp;doi=10.1021%2Facs.analchem.6b00534" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00534%3Fprg140729%3D834a7fd5-aeb5-4241-bbce-35c8df7abf21&amp;doi=10.1021%2Facs.analchem.6b00534" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00534%3Fprg140729%3Da7e7c2c7-3154-4e3a-b0e8-90db25cd76cc&amp;title=Detection+of+Antibodies+in+Blood+Plasma+Using+Bioluminescent+Sensor+Proteins+and+a+Smartphone&amp;doi=10.1021%2Facs.analchem.6b00534" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00534%3Fprg140729%3D2b472baa-627a-45a5-a3ca-5bfdab9d5635&amp;title=Detection+of+Antibodies+in+Blood+Plasma+Using+Bioluminescent+Sensor+Proteins+and+a+Smartphone&amp;doi=10.1021%2Facs.analchem.6b00534" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

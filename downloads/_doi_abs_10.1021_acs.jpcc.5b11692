@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2f09a824-87a8-45a2-83d5-2c1bcd6f4968">
+<html lang="en" class="pb-page" data-request-id="0d498166-c2ea-496e-9b28-470c35a69311">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;article:article:10.1021/acs.jpcc.5b11692;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b11692%3Fprg140729%3D94413fe6-78ea-4cdf-87fd-5d9dc492ed79" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b11692?prg140729=94413fe6-78ea-4cdf-87fd-5d9dc492ed79&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b11692?prg140729=94413fe6-78ea-4cdf-87fd-5d9dc492ed79">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b11692%3Fprg140729%3D0b1d3f1f-1446-4f0c-adbf-82049fd414ec" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b11692?prg140729=0b1d3f1f-1446-4f0c-adbf-82049fd414ec&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b11692?prg140729=0b1d3f1f-1446-4f0c-adbf-82049fd414ec">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -943,18 +943,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i9"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i27"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i30"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1007,6 +995,32 @@ function addFlashMovie(id, flv, image) {
                           <a id="citing" name="citing"></a>
                           <p>Citation data is made available by participants in <a href="http://www.crossref.org">CrossRef's</a> Cited-by Linking service. For a more comprehensive list of citations to this article, users are encouraged to perform a search in <a href="http://scifinder.cas.org">SciFinder</a>. </p>
                           <ul id="citedBy">
+                           <li><img src="/appl/literatum/publisher/achs/journals/covergifs/jpccck/0/cover.jpg" alt="Cover Image" class="cover"><h2>
+                             <div class="art_title linkable">
+                              <a class="ref nowrap" href="/doi/abs/10.1021/acs.jpcc.6b01784"></a>
+                              <a href="/doi/abs/10.1021/acs.jpcc.6b01784">Spectroscopic Investigation for Oxygen Reduction and Evolution Reactions on Carbon Electrodes in Li–O<sub>2</sub> Battery</a>
+                             </div></h2>
+                            <div class="contributors">
+                             <span class="hlFld-ContribAuthor ">Yu<span class="NLM_x"> </span>Qiao</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve">
+                                and 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Shen<span class="NLM_x"> </span>Ye</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve"> 
+                              </x></span>
+                            </div>
+                            <div>
+                             <cite><span class="NLM_source">The Journal of Physical Chemistry C</span></cite>
+                             <strong>2016</strong> Article ASAP
+                            </div>
+                            <div class="deliverFormatsLinks">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01784">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01784" title="View the Full Text HTML">Full Text HTML</a> | 
+                             <a target="_blank" title="Full-Text PDF" href="/doi/pdf/10.1021/acs.jpcc.6b01784">PDF</a> | 
+                             <a title="Full-Text Enhanced PDF" target="_blank" href="/doi/pdfplus/10.1021/acs.jpcc.6b01784">PDF w/ Links</a>
+                            </div></li>
                            <li><img src="/appl/literatum/publisher/achs/journals/content/aamick/2016/aamick.2016.8.issue-13/aamick.2016.8.issue-13/20160406/aamick.2016.8.issue-13.cover.jpg" alt="Cover Image" class="cover"><h2>
                              <div class="art_title linkable">
                               <a class="ref nowrap" href="/doi/abs/10.1021/acsami.6b01775"></a>
@@ -1227,9 +1241,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b11692" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b11692%3Fprg140729%3D607930af-2f2f-4fab-9f64-2b41495bf4a4&amp;doi=10.1021%2Facs.jpcc.5b11692" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b11692%3Fprg140729%3D111e6c29-f4f5-457a-ba77-00484164927e&amp;doi=10.1021%2Facs.jpcc.5b11692" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b11692%3Fprg140729%3D94413fe6-78ea-4cdf-87fd-5d9dc492ed79&amp;title=Spectroscopic+Investigation+for+Oxygen+Reduction+and+Evolution+Reactions+with+Tetrathiafulvalene+as+a+Redox+Mediator+in+Li%E2%80%93O2+Battery&amp;doi=10.1021%2Facs.jpcc.5b11692" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b11692%3Fprg140729%3D0b1d3f1f-1446-4f0c-adbf-82049fd414ec&amp;title=Spectroscopic+Investigation+for+Oxygen+Reduction+and+Evolution+Reactions+with+Tetrathiafulvalene+as+a+Redox+Mediator+in+Li%E2%80%93O2+Battery&amp;doi=10.1021%2Facs.jpcc.5b11692" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1252,9 +1266,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrrreLdbiHGFbVg90H21EOLACvtfcHk0lhQixihQxioYw&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGJyilJDlP9W3tQwD9OmoEd2rp6l1CcN0TQIe50M8qkXJ&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSR4GSullm-y3trnDmCxc-CThi25Vg2O3MuLrxtY0YsId&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrrreLdbiHGFbVg90H21EOLACvtfcHk0lhyXC8RyKW1Vg&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGJyilJDlP9W3tQwD9OmoEd0GQEEZKnwbhpzcRxaaERjS&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSR4GSullm-y3trnDmCxc-CThi25Vg2O3MjKsrc8Mo0Ig&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

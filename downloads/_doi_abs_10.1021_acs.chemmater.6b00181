@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1fda8b31-141c-42c3-a790-65d8a7ad02aa">
+<html lang="en" class="pb-page" data-request-id="5cbfa4f5-4476-4f27-8e1d-9d786c6b981a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/cmatex.ahead-of-print;journal:journal:cmatex;article:article:10.1021/acs.chemmater.6b00181;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00181%3Fprg140729%3Dd4924824-d510-4b3b-bb85-503672098470" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00181?prg140729=d4924824-d510-4b3b-bb85-503672098470&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00181?prg140729=d4924824-d510-4b3b-bb85-503672098470">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00181%3Fprg140729%3De32d2091-e12f-46db-a4bb-49ae6c31e35a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00181?prg140729=e32d2091-e12f-46db-a4bb-49ae6c31e35a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00181?prg140729=e32d2091-e12f-46db-a4bb-49ae6c31e35a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -925,18 +925,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Methods" href="#_i3"><span>Experimental Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i7"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i15"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i18"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1008,22 +996,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b12785?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b12785?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04439?src=recsys">A General Method for Aluminum Incorporation into High-Silica Zeolites Prepared in Fluoride Media</a>
-                            <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Moteki</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Lobo</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>28</em> (2), pp 638–649</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The fluoride method of zeolite synthesis yields materials with unique characteristics such as high Si/Al ratio, large crystal size, and hydrophobic properties, and it has been advantageous for the synthesis of new pure-silica or high-silica zeolites. It ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.5b04439?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.5b04439?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04439?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04439?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acscatal.5b02480?src=recsys">Trimodal Porous Hierarchical SSZ-13 Zeolite with Improved Catalytic Performance in the Methanol-to-Olefins Reaction</a>
                             <div class="achsLabel">
                              ACS Catalysis
@@ -1039,6 +1011,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acscatal.5b02480?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acscatal.5b02480?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscatal.5b02480?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04439?src=recsys">A General Method for Aluminum Incorporation into High-Silica Zeolites Prepared in Fluoride Media</a>
+                            <div class="achsLabel">
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Moteki</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Lobo</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>28</em> (2), pp 638–649</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The fluoride method of zeolite synthesis yields materials with unique characteristics such as high Si/Al ratio, large crystal size, and hydrophobic properties, and it has been advantageous for the synthesis of new pure-silica or high-silica zeolites. It ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemmater.5b04439?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.5b04439?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04439?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04439?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemmater.5b04569?src=recsys">Assembly and Evolution of Amorphous Precursors in Zeolite L Crystallization</a>
                             <div class="achsLabel">
@@ -1072,18 +1060,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00031?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.6b00031?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b04578?src=recsys">Computationally Guided Synthesis of SSZ-52: A Zeolite for Engine Exhaust Clean-up</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b11355?src=recsys">Effects of Zeolite Structural Confinement on Adsorption Thermodynamics and Reaction Kinetics for Monomolecular Cracking and Dehydrogenation of <i>n</i>-Butane</a>
                             <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Davis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lew</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Benin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Elomari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zones</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Deem</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Janda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vlaisavljevich</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smit</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bell</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>28</em> (3), pp 708–711</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The effects of zeolite structure on the kinetics of <i>n</i>-butane monomolecular cracking and dehydrogenation are investigated for eight zeolites differing in the topology of channels and cages. Monte Carlo simulations are used to calculate enthalpy and entropy ...<sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.5b04578?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.5b04578?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04578?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.5b04578?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b11355?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b11355?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b11355?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b11355?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1169,9 +1160,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.chemmater.6b00181" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00181%3Fprg140729%3D07631dc7-5d63-45ff-9e8c-34bce2641175&amp;doi=10.1021%2Facs.chemmater.6b00181" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00181%3Fprg140729%3Daa5d6868-67f2-4d45-92e8-3319271b3b2f&amp;doi=10.1021%2Facs.chemmater.6b00181" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00181%3Fprg140729%3Dd4924824-d510-4b3b-bb85-503672098470&amp;title=Controlling+the+Isolation+and+Pairing+of+Aluminum+in+Chabazite+Zeolites+Using+Mixtures+of+Organic+and+Inorganic+Structure-Directing+Agents&amp;doi=10.1021%2Facs.chemmater.6b00181" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00181%3Fprg140729%3De32d2091-e12f-46db-a4bb-49ae6c31e35a&amp;title=Controlling+the+Isolation+and+Pairing+of+Aluminum+in+Chabazite+Zeolites+Using+Mixtures+of+Organic+and+Inorganic+Structure-Directing+Agents&amp;doi=10.1021%2Facs.chemmater.6b00181" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1194,9 +1185,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpyGk2BFk2QgbVg90H21EOLACvtfcHk0litA-CoN-3whQ&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGKXaoVsdMRRltQwD9OmoEd0k_MPQEXFeD6AATTDPvXT2&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSY8grWhlOOJptrnDmCxc-CThi25Vg2O3Mu2D40fsRE0S&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpyGk2BFk2QgbVg90H21EOLACvtfcHk0ljHd4HSGAJ36w&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGKXaoVsdMRRltQwD9OmoEd24mbAdycOu_noYG0vHPsTa&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSY8grWhlOOJptrnDmCxc-CThi25Vg2O3Mq2UeOM-LuQv&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

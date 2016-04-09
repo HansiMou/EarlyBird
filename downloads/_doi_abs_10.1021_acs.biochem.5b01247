@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8fc1060c-3ea8-496b-a4ca-6ae8c1838132">
+<html lang="en" class="pb-page" data-request-id="4e0f73fa-4dcc-4848-b2c0-667180694bde">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.biochem.5b01247;issue:issue:10.1021/bichaw.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:bichaw">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01247%3Fprg140729%3D807f5375-c667-464e-98d2-cbeb68bc653e" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b01247?prg140729=807f5375-c667-464e-98d2-cbeb68bc653e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b01247?prg140729=807f5375-c667-464e-98d2-cbeb68bc653e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01247%3Fprg140729%3Dd8feae69-0df9-4a8e-ae77-37cebaad474c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b01247?prg140729=d8feae69-0df9-4a8e-ae77-37cebaad474c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b01247?prg140729=d8feae69-0df9-4a8e-ae77-37cebaad474c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -944,17 +944,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i2"><span>Materials and Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i10"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i16"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i19"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1045,19 +1034,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acschembio.5b00832?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.5b00832?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biochem.6b00014?src=recsys">The Biochemistry of Chromatin Remodeling</a>
-                            <div class="achsLabel">
-                             Biochemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Copeland</span> (Guest Editor)
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>55</em> (11), pp 1555–1556</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biochem.6b00014?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biochem.6b00014?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biochem.6b00014?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biochem.6b00014?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.biochem.5b01108?src=recsys">Nucleosomes Inhibit Cas9 Endonuclease Activity <i>in Vitro</i></a>
                             <div class="achsLabel">
                              Biochemistry
@@ -1073,6 +1049,19 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.biochem.5b01108?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.biochem.5b01108?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biochem.5b01108?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biochem.6b00014?src=recsys">The Biochemistry of Chromatin Remodeling</a>
+                            <div class="achsLabel">
+                             Biochemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Copeland</span> (Guest Editor)
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>55</em> (11), pp 1555–1556</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biochem.6b00014?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biochem.6b00014?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biochem.6b00014?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biochem.6b00014?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.biochem.6b00125?src=recsys">Fluorescence Resonance Energy Transfer Characterization of DNA Wrapping in Closed and Open <i>Escherichia coli</i> RNA Polymerase−λP<sub>R</sub> Promoter Complexes</a>
                             <div class="achsLabel">
@@ -1090,21 +1079,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biochem.6b00125?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biochem.6b00125?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biochem.5b01347?src=recsys">Computer Simulations Reveal Substrate Specificity of Glycosidic Bond Cleavage in Native and Mutant Human Purine Nucleoside Phosphorylase</a>
+                           <li><a href="/doi/abs/10.1021/acs.biochem.5b01126?src=recsys">Relaxed Chromatin Formation and Weak Suppression of Homologous Pairing by the Testis-Specific Linker Histone H1T</a>
                             <div class="achsLabel">
                              Biochemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Isaksen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hopmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Åqvist</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Brandsdal</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Machida</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hayashida</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takaku</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fukuto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kinomura</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tashiro</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kurumizaka</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>55</em> (4), pp 637–646</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Purine nucleoside phosphorylase (PNP) catalyzes the reversible phosphorolysis of purine ribonucleosides and 2′-deoxyribonucleosides, yielding the purine base and (2′-deoxy)ribose 1-phosphate as products. While this enzyme has been extensively studied, ...</span>
+                             <span><span class="bold">Abstract:</span> Linker histones bind to nucleosomes and compact polynucleosomes into a higher-order chromatin configuration. Somatic and germ cell-specific linker histone subtypes have been identified and may have distinct functions. In this study, we reconstituted ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biochem.5b01347?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biochem.5b01347?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biochem.5b01347?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biochem.5b01347?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.biochem.5b01126?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biochem.5b01126?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biochem.5b01126?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biochem.5b01126?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1190,9 +1179,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.biochem.5b01247" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01247%3Fprg140729%3D9a5ac2bf-e7a9-4739-b6f5-f1d1b695b68f&amp;doi=10.1021%2Facs.biochem.5b01247" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01247%3Fprg140729%3D7f0ec22e-ab63-4af4-a0f8-d072f61ea694&amp;doi=10.1021%2Facs.biochem.5b01247" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01247%3Fprg140729%3D807f5375-c667-464e-98d2-cbeb68bc653e&amp;title=Single-Molecule+Studies+of+the+Linker+Histone+H1+Binding+to+DNA+and+the+Nucleosome&amp;doi=10.1021%2Facs.biochem.5b01247" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biochem.5b01247%3Fprg140729%3Dd8feae69-0df9-4a8e-ae77-37cebaad474c&amp;title=Single-Molecule+Studies+of+the+Linker+Histone+H1+Binding+to+DNA+and+the+Nucleosome&amp;doi=10.1021%2Facs.biochem.5b01247" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

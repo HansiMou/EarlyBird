@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="41deefe9-c520-445c-9fad-5d8d76ec7bb9">
+<html lang="en" class="pb-page" data-request-id="adb05028-11cd-4594-8424-3ddfc5c1945f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jpcbfk;pageGroup:string:Publication Pages;issue:issue:10.1021/jpcbfk.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpcb.6b02229;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b02229%3Fprg140729%3D7203013a-a519-43e2-959e-fba5e87079e8" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b02229?prg140729=7203013a-a519-43e2-959e-fba5e87079e8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b02229?prg140729=7203013a-a519-43e2-959e-fba5e87079e8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b02229%3Fprg140729%3D1f97e36b-d39e-498a-9621-2c6ec7df5c5a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b02229?prg140729=1f97e36b-d39e-498a-9621-2c6ec7df5c5a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b02229?prg140729=1f97e36b-d39e-498a-9621-2c6ec7df5c5a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -688,16 +688,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcb.6b01890" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcb.6b00381" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpcbfk/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1003,36 +993,101 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b12753?src=recsys">Femtosecond Heterodyne Transient Grating Studies of Nonradiative Deactivation of the S<sub>2</sub> (1<sup>1</sup>B<sub>u</sub><sup>+</sup>) State of Peridinin: Detection and Spectroscopic Assignment of an Intermediate in the Decay Pathway</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b00381?src=recsys"><i>Ab Initio</i> Molecular Dynamics Simulations and GIPAW NMR Calculations of a Lithium Borate Glass Melt</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ghosh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bishop</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roscioli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">LaFountain</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Frank</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Beck</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Femtosecond heterodyne transient grating spectroscopy was employed to investigate the nonradiative decay pathway from the S<sub>2</sub> (1<sup>1</sup>B<sub>u</sub><sup>+</sup>) state to the S<sub>1</sub> (2<sup>1</sup>A<sub>g</sub><sup>−</sup>) state of peridinin in methanol solution. Just as previously observed by this laboratory for β-...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.5b12753?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12753?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.5b12753?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01327?src=recsys">Recognition of Poly-Ubiquitins by the Proteasome through Protein Refolding Guided by Electrostatic and Hydrophobic Interactions</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vuković</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudack</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schulten</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ohkubo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tsuchida</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Iwadate</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Specificity of protein degradation by cellular proteasomes comes from tetra-ubiquitin recognition. We carry out molecular dynamics simulations to characterize how the ubiquitin receptor Rpn10 recognizes in the 26S proteasome K<sub>48</sub>-linked tetra-ubiquitin. In ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> The atomic structure of a molten 0.3Li<sub>2</sub>O–0.7B<sub>2</sub>O<sub>3</sub> glass at 1250 K was investigated using <i>ab initio</i> molecular dynamics (AIMD) simulations. The gauge including projector augmented wave (GIPAW) method was then employed for computing the chemical shift and ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.6b01327?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.6b01327?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01327?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01327?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b00381?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b00381?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b00381?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b00381?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01789?src=recsys">Ordered Self-Similar Patterns in Anisotropic Stochastic Growth</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yao</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Olvera de la Cruz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We propose an anisotropic stochastic growth model to rationalize the anisotropic self-assembly of supramolecules to form elongated two-dimensional ribbon structures in a recent experiment. The model exhibits distinct growth scenarios that are critically ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b01789?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b01789?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01789?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01789?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01890?src=recsys">Markovian and Non-Markovian Modeling of Membrane Dynamics with Milestoning</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cardenas</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Elber</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We exploit atomically detailed simulations and the milestoning theory to extract coarse grained models of membrane kinetics and thermodynamics. Non-Markovian and Markovian theories for the phosphate group displacements are used to coarsely represent ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b01890?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b01890?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01890?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01890?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b11461?src=recsys">Effect of the Titanium Nanoparticle on the Quantum Chemical Characterization of the Liquid Sodium Nanofluid</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Suzuki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bonnaud</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Williams</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Selvam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Aoki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miyano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miyamoto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saito</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ara</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Suspension state of a titanium nanoparticle in the liquid sodium was quantum chemically characterized by comparing physical characteristics, viz., electronic state, viscosity, and surface tension, with those of liquid sodium. The exterior titanium atoms ...<sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.5b11461?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.5b11461?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b11461?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.5b11461?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b11825?src=recsys">Exploration of Binding Interactions of Cu<sup>2+</sup> with <span class="smallcaps">d</span>-Penicillamine and its O- and Se- Analogues in Both Gas and Aqueous Phases: A Theoretical Approach</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ash</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Debnath</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Das</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We have theoretically explored the entire binding phenomena of <span class="smallcaps">d</span>-penicillamine and its O- and Se-analogues with Cu<sup>2+</sup> in both gas and aqueous phases. At first, a brief conformational analysis has been performed via −XH and −COOH rotations to investigate ...<sub></sub><sub></sub><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.5b11825?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.5b11825?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b11825?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.5b11825?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01793?src=recsys">Onset of the Electronic Absorption Spectra of Isolated and π-Stacked Oligomers of 5,6-Dihydroxyindole: An <i>Ab Initio</i> Study of the Building Blocks of Eumelanin</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tuna</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Udvarhelyi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sobolewski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Domcke</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Domratcheva</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Eumelanin is a naturally occurring skin pigment which is responsible for developing a suntan. The complex structure of eumelanin consists of π-stacked oligomers of various indole derivatives, such as the monomeric building block 5,6-dihydroxyindole (DHI). ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b01793?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b01793?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01793?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01793?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1085,7 +1140,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcb.6b02229" title="High-Res PDF: 2499 KB" target="_blank"> PDF <span class="details">(2499 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcb.6b02229" title="Low-Res PDF: 320 KB" target="_blank"> PDF w/ Links <span class="details">(320 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcb.6b02229" title="Low-Res PDF: 321 KB" target="_blank"> PDF w/ Links <span class="details">(321 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcb.6b02229" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1117,9 +1172,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcb.6b02229" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b02229%3Fprg140729%3D58dd230f-27a6-42c0-b2d2-4a74f0b46c73&amp;doi=10.1021%2Facs.jpcb.6b02229" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b02229%3Fprg140729%3Dd98af802-9ac7-4816-a863-edcb6ae20175&amp;doi=10.1021%2Facs.jpcb.6b02229" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b02229%3Fprg140729%3D7203013a-a519-43e2-959e-fba5e87079e8&amp;title=Combined+Electrical+and+Optical+Characterization+of+Polydiacetylene&amp;doi=10.1021%2Facs.jpcb.6b02229" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b02229%3Fprg140729%3D1f97e36b-d39e-498a-9621-2c6ec7df5c5a&amp;title=Combined+Electrical+and+Optical+Characterization+of+Polydiacetylene&amp;doi=10.1021%2Facs.jpcb.6b02229" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

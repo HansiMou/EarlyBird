@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="3714f6d2-1f16-4f04-8eec-88b3db1173cd">
+<html lang="en" class="pb-page" data-request-id="bbf78148-5a84-4adf-8293-d70ffa82af0f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;article:article:10.1021/acs.jpca.5b12541;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12541%3Fprg140729%3D21476485-24d6-4082-9bc8-7565209d80a3" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12541?prg140729=21476485-24d6-4082-9bc8-7565209d80a3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12541?prg140729=21476485-24d6-4082-9bc8-7565209d80a3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12541%3Fprg140729%3D1161d46b-e65c-4b29-a123-4d30348fe3ee" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12541?prg140729=1161d46b-e65c-4b29-a123-4d30348fe3ee&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12541?prg140729=1161d46b-e65c-4b29-a123-4d30348fe3ee">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1037,6 +1037,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b10667?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b10667?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b12335?src=recsys">Insights into the Electronic Structure of Molecules from Generalized Valence Bond Theory</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dunning</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takeshita</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lindquist</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (11), pp 1763–1778</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In this article we describe the unique insights into the electronic structure of molecules provided by generalized valence bond (GVB) theory. We consider selected prototypical hydrocarbons as well as a number of hypervalent molecules and a set of first- ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.5b12335?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b12335?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b12335?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b12335?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01168?src=recsys">Optimizing Vibrational Coordinates To Modulate Intermode Coupling</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1079,37 +1095,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b06652?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b06652?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b12335?src=recsys">Insights into the Electronic Structure of Molecules from Generalized Valence Bond Theory</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12434?src=recsys">Distinguishing Bonds</a>
                             <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dunning</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takeshita</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lindquist</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Rahm</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hoffmann</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (11), pp 1763–1778</span>
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3731–3744</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In this article we describe the unique insights into the electronic structure of molecules provided by generalized valence bond (GVB) theory. We consider selected prototypical hydrocarbons as well as a number of hypervalent molecules and a set of first- ...</span>
+                             <span><span class="bold">Abstract:</span> The energy change per electron in a chemical or physical transformation, Δ<i>E</i>/<i>n</i>, may be expressed as Δχ̅ + Δ(<i>V</i><sub>NN</sub> + ω)/<i>n</i>, where Δχ̅ is the average electron binding energy, a generalized electronegativity, Δ<i>V</i><sub>NN</sub> is the change in nuclear repulsions, and Δω is ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b12335?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b12335?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b12335?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b12335?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00488?src=recsys">Roaming Under the Microscope: Trajectory Study of Formaldehyde Dissociation</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Houston</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Conte</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bowman</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The photodissociation of formaldehyde was studied using quasi-classical trajectories to investigate “roaming,” or events involving trajectories that proceed far from the minimum energy pathway. Statistical analysis of trajectories performed over a range ...<sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00488?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00488?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00488?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00488?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b12434?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12434?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12434?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12434?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1194,9 +1194,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.5b12541" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12541%3Fprg140729%3D672acd4b-7fb0-4cce-a7d7-d72b77509d6e&amp;doi=10.1021%2Facs.jpca.5b12541" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12541%3Fprg140729%3Dbf87e441-e8ce-4871-a6c9-6486fad1044d&amp;doi=10.1021%2Facs.jpca.5b12541" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12541%3Fprg140729%3D21476485-24d6-4082-9bc8-7565209d80a3&amp;title=Scar+Functions%2C+Barriers+for+Chemical+Reactivity%2C+and+Vibrational+Basis+Sets&amp;doi=10.1021%2Facs.jpca.5b12541" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12541%3Fprg140729%3D1161d46b-e65c-4b29-a123-4d30348fe3ee&amp;title=Scar+Functions%2C+Barriers+for+Chemical+Reactivity%2C+and+Vibrational+Basis+Sets&amp;doi=10.1021%2Facs.jpca.5b12541" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1219,9 +1219,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq6RhgY7zEYfbVg90H21EOLACvtfcHk0ljDa6BIze69OQ&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGLApmdIvomEptQwD9OmoEd1aBCZxIeQKmRBuO0_cn3Zl&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSeTWX960JfPUtrnDmCxc-CThi25Vg2O3MpHEhLb40fY5&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq6RhgY7zEYfbVg90H21EOLACvtfcHk0liB5gcJ-qZtow&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGLApmdIvomEptQwD9OmoEd2_QJTfWifw3f70ZrV6UJTj&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSeTWX960JfPUtrnDmCxc-CThi25Vg2O3MrqmR3Lit7wq&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

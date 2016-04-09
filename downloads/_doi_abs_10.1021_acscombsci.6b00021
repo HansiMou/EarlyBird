@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b3bd2560-8e99-48a7-aa88-0b84e72c9ea0">
+<html lang="en" class="pb-page" data-request-id="f0882ae0-130c-43b4-8762-09042342800a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acscombsci.6b00021;pageGroup:string:Publication Pages;issue:issue:10.1021/acsccc.ahead-of-print;journal:journal:acsccc;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscombsci.6b00021%3Fprg140729%3D6aa064ec-c133-4d80-bbf2-9108c119c007" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscombsci.6b00021?prg140729=6aa064ec-c133-4d80-bbf2-9108c119c007&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscombsci.6b00021?prg140729=6aa064ec-c133-4d80-bbf2-9108c119c007">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscombsci.6b00021%3Fprg140729%3Df8f2318f-1312-4865-bbb9-8ef8dcd811a0" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscombsci.6b00021?prg140729=f8f2318f-1312-4865-bbb9-8ef8dcd811a0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscombsci.6b00021?prg140729=f8f2318f-1312-4865-bbb9-8ef8dcd811a0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -674,6 +674,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acscombsci.5b00192" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -1032,6 +1033,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpclett.5b01559?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpclett.5b01559?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acscatal.6b00269?src=recsys">Cu–Sn Bimetallic Catalyst for Selective Aqueous Electroreduction of CO<sub>2</sub> to CO</a>
+                            <div class="achsLabel">
+                             ACS Catalysis
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sarfraz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Garcia-Esparza</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jedidi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cavallo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Takanabe</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), pp 2842–2851</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report a selective and stable electrocatalyst utilizing non-noble metals consisting of Cu and Sn for the efficient and selective reduction of CO<sub>2</sub> to CO over a wide potential range. The bimetallic electrode was prepared through the electrodeposition of ...<sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acscatal.6b00269?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscatal.6b00269?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscatal.6b00269?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscatal.6b00269?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acscatal.5b02399?src=recsys">Trace Levels of Copper in Carbon Materials Show Significant Electrochemical CO<sub>2</sub> Reduction Activity</a>
                             <div class="achsLabel">
                              ACS Catalysis
@@ -1063,22 +1080,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acscatal.5b02550?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acscatal.5b02550?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscatal.5b02550?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acscatal.5b02543?src=recsys">In Situ Spectroscopic Study of CO<sub>2</sub> Electroreduction at Copper Electrodes in Acetonitrile</a>
-                            <div class="achsLabel">
-                             ACS Catalysis
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Figueiredo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ledezma-Yanez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Koper</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>6</em> (4), pp 2382–2392</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The electrochemical conversion of carbon dioxide (CO<sub>2</sub>) into valuable compounds is a promising route toward the valorization of this molecule of high environmental impact. Yet, an industrial process involving CO<sub>2</sub> electroreduction is still far from reality ...<sub></sub><sub></sub><sup></sup><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acscatal.5b02543?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acscatal.5b02543?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acscatal.5b02543?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acscatal.5b02543?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acscentsci.6b00022?src=recsys">A Direct Grain-Boundary-Activity Correlation for CO Electroreduction on Cu Nanoparticles</a>
                             <div class="achsLabel">
@@ -1180,9 +1181,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facscombsci.6b00021" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscombsci.6b00021%3Fprg140729%3D9832bdb1-3a92-465d-8cd2-08d97375e927&amp;doi=10.1021%2Facscombsci.6b00021" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscombsci.6b00021%3Fprg140729%3Dabee8665-f2b2-446e-a548-97ea1058a996&amp;doi=10.1021%2Facscombsci.6b00021" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscombsci.6b00021%3Fprg140729%3D6aa064ec-c133-4d80-bbf2-9108c119c007&amp;title=Systematic+Analysis+of+Electrochemical+CO2+Reduction+with+Various+Reaction+Parameters+using+Combinatorial+Reactors&amp;doi=10.1021%2Facscombsci.6b00021" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscombsci.6b00021%3Fprg140729%3Df8f2318f-1312-4865-bbb9-8ef8dcd811a0&amp;title=Systematic+Analysis+of+Electrochemical+CO2+Reduction+with+Various+Reaction+Parameters+using+Combinatorial+Reactors&amp;doi=10.1021%2Facscombsci.6b00021" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1337bf29-d43b-40a0-947f-231e7384b973">
+<html lang="en" class="pb-page" data-request-id="81ddf188-a88b-4eca-862b-a1db3f65dd22">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jceaax.ahead-of-print;article:article:10.1021/acs.jced.5b00882;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jceaax;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00882%3Fprg140729%3D027ae4e1-8adf-4be7-a351-3ed90a5db84d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00882?prg140729=027ae4e1-8adf-4be7-a351-3ed90a5db84d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00882?prg140729=027ae4e1-8adf-4be7-a351-3ed90a5db84d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00882%3Fprg140729%3Db207ea7b-c71d-4471-bdd4-019a96fcd238" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00882?prg140729=b207ea7b-c71d-4471-bdd4-019a96fcd238&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00882?prg140729=b207ea7b-c71d-4471-bdd4-019a96fcd238">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -674,16 +674,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jced.5b00820" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jced.5b00941" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceaax/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -974,19 +964,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Thermodynamic Models" href="#_i8"><span>Thermodynamic Models</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i11"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i20"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i23"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1065,6 +1042,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00820?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00820?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00802?src=recsys">Thermodynamics of Amide + Amine Mixtures. 1. Volumetric, Speed of Sound, and Refractive Index Data for <i>N,N</i>-Dimethylformamide + <i>N</i>-Propylpropan-1-amine, + <i>N</i>-Butylbutan-1-amine, + Butan-1-amine, or + Hexan-1-amine Systems at Several Temperatures</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hevia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cobos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">González</span>, <span class="entryAuthor normal hlFld-ContribAuthor">García de la Fuente</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sanz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Values of density (ρ), speed of sound (<i>c</i>) and refractive index (<i>n</i><sub>D</sub>) for <i>N</i>,<i>N</i>-dimethylformamide (DMF) + <i>N</i>-propylpropan-1-amine (DPA) or + butan-1-amine (BA) mixtures at (293.15−303.15) K, and for DMF + <i>N</i>-butylbutan-1-amine (DBA) or hexan-1-amine (HxA) ...<sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00802?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00802?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00802?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00802?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jced.5b00941?src=recsys">Volumetric Properties and Viscosity <i>B-</i>Coefficients for the Ternary Systems Epigallocatechin Gallate + MCl + H<sub>2</sub>O (M = Li, Na, K) at Temperatures 288.15–308.15 K</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
@@ -1080,22 +1073,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jced.5b00941?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00941?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00941?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b00857?src=recsys">Solubility Measurement and Correlation of (+)-Biotin Intermediate Lactone in Different Organic Solvents from 287.15 to 323.75 K</a>
-                            <div class="achsLabel">
-                             Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qian</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The solubilities of (+)-biotin intermediate lactone in methanol, toluene, tetrahydrofuran, dichloromethane, ethyl acetate, and <i>N</i>,<i>N</i>-dimethylformamide were determined at the investigated temperatures 287.15–323.75 K under pressure (<i>p</i> = 0.1 MPa) by a laser ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b00857?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b00857?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00857?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b00857?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jced.5b00366?src=recsys">Density and Excess Molar Volumes of 1-Butanol + Methanol + Electrolyte Systems in the Temperature Range 293.15–308.15 K</a>
                             <div class="achsLabel">
@@ -1113,6 +1090,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00366?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00366?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00857?src=recsys">Solubility Measurement and Correlation of (+)-Biotin Intermediate Lactone in Different Organic Solvents from 287.15 to 323.75 K</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qian</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The solubilities of (+)-biotin intermediate lactone in methanol, toluene, tetrahydrofuran, dichloromethane, ethyl acetate, and <i>N</i>,<i>N</i>-dimethylformamide were determined at the investigated temperatures 287.15–323.75 K under pressure (<i>p</i> = 0.1 MPa) by a laser ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00857?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00857?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00857?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00857?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jced.5b00365?src=recsys">Density and Viscosity for Binary Mixtures of the Ionic Liquid 2,2-Diethyl-1,1,3,3-Tetramethylguanidinium Ethyl Sulfate with Water, Methanol, or Ethanol</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
@@ -1128,22 +1121,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jced.5b00365?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00365?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00365?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b00565?src=recsys">Measurement and Correlation of the Solubility of Maltitol in Different Pure Solvents, Methanol–Water Mixtures, and Ethanol–Water Mixtures</a>
-                            <div class="achsLabel">
-                             Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Gong</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>61</em> (3), pp 1065–1070</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A gravimetric method was used to determine the solubility of maltitol in five pure solvents, methanol–water mixtures, and ethanol–water mixtures at different temperatures from 298.15 to 323.15 K. At a given temperature, the solubility of maltitol in the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b00565?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b00565?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00565?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b00565?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1196,7 +1173,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jced.5b00882" title="High-Res PDF: 453 KB" target="_blank"> PDF <span class="details">(453 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jced.5b00882" title="Low-Res PDF: 312 KB" target="_blank"> PDF w/ Links <span class="details">(312 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jced.5b00882" title="Low-Res PDF: 300 KB" target="_blank"> PDF w/ Links <span class="details">(300 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jced.5b00882" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1229,9 +1206,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jced.5b00882" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00882%3Fprg140729%3D2c030792-e0fd-4448-bdc7-8b77e783ad95&amp;doi=10.1021%2Facs.jced.5b00882" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00882%3Fprg140729%3D2e0fefd9-e72c-4a47-b16c-98fa0b694c2b&amp;doi=10.1021%2Facs.jced.5b00882" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00882%3Fprg140729%3D027ae4e1-8adf-4be7-a351-3ed90a5db84d&amp;title=Thermodynamics+of+1%2C3-Dimethylurea+in+Eight+Alcohols&amp;doi=10.1021%2Facs.jced.5b00882" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00882%3Fprg140729%3Db207ea7b-c71d-4471-bdd4-019a96fcd238&amp;title=Thermodynamics+of+1%2C3-Dimethylurea+in+Eight+Alcohols&amp;doi=10.1021%2Facs.jced.5b00882" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

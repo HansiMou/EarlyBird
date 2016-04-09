@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="18c93eae-9bad-4ec2-ab32-468ae3a60946">
+<html lang="en" class="pb-page" data-request-id="6d07cd97-bb45-47a7-8af7-2210cc408f8a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acsami.6b00963">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00963%3Fprg140729%3Dbf955b28-5097-49ba-bca1-ffae50f6410d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00963?prg140729=bf955b28-5097-49ba-bca1-ffae50f6410d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00963?prg140729=bf955b28-5097-49ba-bca1-ffae50f6410d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00963%3Fprg140729%3Db11c516f-0801-49c8-97d7-15418fd9381f" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00963?prg140729=b11c516f-0801-49c8-97d7-15418fd9381f&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00963?prg140729=b11c516f-0801-49c8-97d7-15418fd9381f">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1066,19 +1066,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b00376?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b00376?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemrev.5b00148?src=recsys">Nanochemistry and Nanomedicine for Nanoparticle-based Diagnostics and Therapy</a>
-                            <div class="achsLabel">
-                             Chemical Reviews
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Prasad</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>116</em> (5), pp 2826–2885</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemrev.5b00148?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemrev.5b00148?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00148?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemrev.5b00148?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.6b00043?src=recsys">Charge-Convertible Carbon Dots for Imaging-Guided Drug Delivery with Enhanced <i>in Vivo</i> Cancer Therapeutic Efficiency</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1095,6 +1082,51 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.6b00043?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.6b00043?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemrev.5b00148?src=recsys">Nanochemistry and Nanomedicine for Nanoparticle-based Diagnostics and Therapy</a>
+                            <div class="achsLabel">
+                             Chemical Reviews
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Prasad</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>116</em> (5), pp 2826–2885</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemrev.5b00148?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemrev.5b00148?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00148?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemrev.5b00148?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.6b01320?src=recsys">pH-Triggered Polypeptides Nanoparticles for Efficient BODIPY Imaging-Guided Near Infrared Photodynamic Therapy</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jing</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ruan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> An efficient pH-responsive multifunctional polypeptide micelle for simultaneous imaging and in vitro photodynamic therapy (PDT) has been prepared. The goal here is to detect and treat cancer cells by near-infrared fluorescence (NIRF) imaging and PDT ...<sub></sub><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.6b01320?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b01320?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b01320?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b01320?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b08145?src=recsys">Near Infrared-Guided Smart Nanocarriers for MicroRNA-Controlled Release of Doxorubicin/siRNA with Intracellular ATP as Fuel</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Min</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3637–3647</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In chemotherapy, it is a great challenge to recruit endogenous stimuli instead of external intervention for targeted delivery and controlled release; microRNAs are the most promising candidates due to their vital role during tumorigenesis and significant ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b08145?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b08145?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b08145?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b08145?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.6b00168?src=recsys">Intraparticle Molecular Orbital Engineering of Semiconducting Polymer Nanoparticles as Amplified Theranostics for <i>in Vivo</i> Photoacoustic Imaging and Photothermal Therapy</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1110,38 +1142,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsnano.6b00168?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsnano.6b00168?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.6b00168?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b07706?src=recsys">Intracellularly Acid-Switchable Multifunctional Micelles for Combinational Photo/Chemotherapy of the Drug-Resistant Tumor</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3496–3508</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The intrinsic or acquired drug resistance is the main challenge for cancer chemotherapy today. So far, many nanosized drug delivery systems (NDDS) have been exploited to combat cancer drug resistance. However, the therapy efficacy of current NDDS is ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b07706?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b07706?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b07706?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b07706?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.6b01664?src=recsys">Photosensitizer-Conjugated Hyaluronic Acid-Shielded Polydopamine Nanoparticles for Targeted Photomediated Tumor Therapy</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Na</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>8</em> (12), pp 7739–7747</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Photodynamic therapy (PDT) is a widely used clinical option for tumor therapy. However, the clinical utilization of conventional small-molecule photosensitizers (PSs) for PDT has been limited by their low selectivity for disease sites, and undesirable ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.6b01664?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.6b01664?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.6b01664?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.6b01664?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1227,9 +1227,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b00963" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00963%3Fprg140729%3D7a9f8d4b-d314-4632-bc3d-aae2dbbba990&amp;doi=10.1021%2Facsami.6b00963" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00963%3Fprg140729%3D01301638-d8a0-48b2-acd9-bc3c0e57fb91&amp;doi=10.1021%2Facsami.6b00963" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00963%3Fprg140729%3Dbf955b28-5097-49ba-bca1-ffae50f6410d&amp;title=Triple+Hit+with+Drug+Carriers%3A+pH-+and+Temperature-Responsive+Theranostics+for+Multimodal+Chemo-+and+Photothermal+Therapy+and+Diagnostic+Applications&amp;doi=10.1021%2Facsami.6b00963" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00963%3Fprg140729%3Db11c516f-0801-49c8-97d7-15418fd9381f&amp;title=Triple+Hit+with+Drug+Carriers%3A+pH-+and+Temperature-Responsive+Theranostics+for+Multimodal+Chemo-+and+Photothermal+Therapy+and+Diagnostic+Applications&amp;doi=10.1021%2Facsami.6b00963" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

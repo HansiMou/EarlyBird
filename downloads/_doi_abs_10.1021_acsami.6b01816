@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="555cc2d1-ca2f-465f-9903-7881abfd7530">
+<html lang="en" class="pb-page" data-request-id="957b6a85-367e-481a-a137-eb6a4c283d68">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;article:article:10.1021/acsami.6b01816;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01816%3Fprg140729%3D9457e034-5fa7-47ae-9a0b-69c897840d03" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01816?prg140729=9457e034-5fa7-47ae-9a0b-69c897840d03&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01816?prg140729=9457e034-5fa7-47ae-9a0b-69c897840d03">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01816%3Fprg140729%3D782878b5-f971-4097-9fa9-cf48ec3785ef" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01816?prg140729=782878b5-f971-4097-9fa9-cf48ec3785ef&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01816?prg140729=782878b5-f971-4097-9fa9-cf48ec3785ef">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -952,14 +952,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i7"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1061,22 +1053,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.5b12528?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b12528?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.6b00402?src=recsys">Suppressing the Coffee-Ring Effect in Semitransparent MnO<sub>2</sub> Film for a High-Performance Solar-Powered Energy Storage Window</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We introduce a simple and effective method to deposit a highly uniform and semitransparent MnO<sub>2</sub> film without coffee-ring effect (CRE) by adding ethanol into MnO<sub>2</sub> ink for transparent capacitive energy storage devices. By carefully controlling the amount of ...<sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.6b00402?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.6b00402?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.6b00402?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.6b00402?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b03176?src=recsys">CuWO<sub>4</sub> Nanoflake Array-Based Single-Junction and Heterojunction Photoanodes for Photoelectrochemical Water Oxidation</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1093,22 +1069,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b03176?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b03176?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.6b02622?src=recsys">Complex-Mediated Synthesis of Tantalum Oxyfluoride Hierarchical Nanostructures for Highly Efficient Photocatalytic Hydrogen Evolution</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Deng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Guan</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In this work, we have, for the first time, developed a facile wet-chemical route to obtain a novel photocatalytic material of tantalum oxyfluoride hierarchical nanostructures composed of amorphous cores and single crystalline TaO<sub>2</sub>F nanorod shells (ACHNs) ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.6b02622?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.6b02622?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.6b02622?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.6b02622?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b02372?src=recsys">Mesoporous Hybrids of Reduced Graphene Oxide and Vanadium Pentoxide for Enhanced Performance in Lithium-Ion Batteries and Electrochemical Capacitors</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1124,6 +1084,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsami.6b02372?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsami.6b02372?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b02372?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.6b00327?src=recsys">Solution-Processed 8-Hydroquinolatolithium as Effective Cathode Interlayer for High-Performance Polymer Solar Cells</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Solution-processed 8-hydroxyquinolinatolithium (s-Liq) was successfully applied as an efficient cathode interlayer in bulk heterojunction polymer solar cells (PSCs), giving rise to enhancement in device performance. The ultraviolet photoelectron spectra ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.6b00327?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b00327?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b00327?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b00327?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.6b00402?src=recsys">Suppressing the Coffee-Ring Effect in Semitransparent MnO<sub>2</sub> Film for a High-Performance Solar-Powered Energy Storage Window</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We introduce a simple and effective method to deposit a highly uniform and semitransparent MnO<sub>2</sub> film without coffee-ring effect (CRE) by adding ethanol into MnO<sub>2</sub> ink for transparent capacitive energy storage devices. By carefully controlling the amount of ...<sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.6b00402?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b00402?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b00402?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b00402?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1209,9 +1201,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b01816" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01816%3Fprg140729%3D634a1900-4a5d-4351-adca-e7418cf281fb&amp;doi=10.1021%2Facsami.6b01816" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01816%3Fprg140729%3D0f227eae-2d96-4254-9fa9-129c362d1418&amp;doi=10.1021%2Facsami.6b01816" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01816%3Fprg140729%3D9457e034-5fa7-47ae-9a0b-69c897840d03&amp;title=Enhanced+Luminance+of+Electrochemical+Cells+with+a+Rationally+Designed+Ionic+Iridium+Complex+and+an+Ionic+Additive&amp;doi=10.1021%2Facsami.6b01816" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01816%3Fprg140729%3D782878b5-f971-4097-9fa9-cf48ec3785ef&amp;title=Enhanced+Luminance+of+Electrochemical+Cells+with+a+Rationally+Designed+Ionic+Iridium+Complex+and+an+Ionic+Additive&amp;doi=10.1021%2Facsami.6b01816" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="f752199f-7cc7-4e7d-866b-0b103c059aed">
+<html lang="en" class="pb-page" data-request-id="f84791fc-5ba1-4a14-93fb-1fd67d71ed97">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/langd5.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.langmuir.6b00588;journal:journal:langd5;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00588%3Fprg140729%3D553a83d3-2c3b-409e-aa39-76d12e209a70" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00588?prg140729=553a83d3-2c3b-409e-aa39-76d12e209a70&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00588?prg140729=553a83d3-2c3b-409e-aa39-76d12e209a70">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00588%3Fprg140729%3D70f907f6-cb6a-4345-8a95-52461bb9f596" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00588?prg140729=70f907f6-cb6a-4345-8a95-52461bb9f596&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00588?prg140729=70f907f6-cb6a-4345-8a95-52461bb9f596">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1009,7 +1009,25 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Xiao%2C+Jianliang">Jianliang Xiao</a></li>
                            <li><a href="/author/Ding%2C+Yifu">Yifu Ding</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04706?src=recsys">Construction of Compact Polyelectrolyte Multilayers Inspired by Marine Mussel: Effects of Salt Concentration and pH As Observed by QCM-D and AFM</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Backes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Micciulla</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kayitmazer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">von Klitzing</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Biomimetic multilayers based on layer-by-layer (LbL) assembly were prepared as functional films with compact structure by incorporating the mussel-inspired catechol cross-linking. Dopamine-modified poly(acrylic acid) (PAADopa) was synthesized as a ...<sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.5b04706?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.5b04706?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04706?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04706?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1092,9 +1110,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.langmuir.6b00588" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00588%3Fprg140729%3D95be1cc1-ef26-419a-9650-f015326a8317&amp;doi=10.1021%2Facs.langmuir.6b00588" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00588%3Fprg140729%3D98014526-d160-4f11-bf75-3a0b9ffb7ad3&amp;doi=10.1021%2Facs.langmuir.6b00588" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00588%3Fprg140729%3D553a83d3-2c3b-409e-aa39-76d12e209a70&amp;title=Influences+of+Substrate+Adhesion+and+Particle+Size+on+the+Shape+Memory+Effect+of+Polystyrene+Particles&amp;doi=10.1021%2Facs.langmuir.6b00588" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00588%3Fprg140729%3D70f907f6-cb6a-4345-8a95-52461bb9f596&amp;title=Influences+of+Substrate+Adhesion+and+Particle+Size+on+the+Shape+Memory+Effect+of+Polystyrene+Particles&amp;doi=10.1021%2Facs.langmuir.6b00588" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

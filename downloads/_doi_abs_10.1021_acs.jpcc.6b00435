@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="71b7c3e9-626c-48ec-b086-53dab92f695a">
+<html lang="en" class="pb-page" data-request-id="f0dc82ca-68c2-4172-abb8-0cd8f23a6954">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;article:article:10.1021/acs.jpcc.6b00435;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00435%3Fprg140729%3Daa2d46bb-bb8e-4475-8b4c-093aed287b48" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00435?prg140729=aa2d46bb-bb8e-4475-8b4c-093aed287b48&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00435?prg140729=aa2d46bb-bb8e-4475-8b4c-093aed287b48">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00435%3Fprg140729%3Defbd781a-3c37-4878-8f08-b30a21990933" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00435?prg140729=efbd781a-3c37-4878-8f08-b30a21990933&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b00435?prg140729=efbd781a-3c37-4878-8f08-b30a21990933">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -688,16 +688,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b00305" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.6b01011" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1001,98 +991,101 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12050?src=recsys">Photocatalytic H<sub>2</sub> Generation Using Dewetted Pt-Decorated TiO<sub>2</sub> Nanotubes – Optimized Dewetting and Oxide Crystallization by a Multiple Annealing Process</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01400?src=recsys">Observation of an Ultrafast Exciton Hopping Channel in Organic Semiconducting Crystals</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yoo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Altomare</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mokhtar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alshehri </span>, <span class="entryAuthor normal hlFld-ContribAuthor">Al-Thabaiti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mazare</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schmuki</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In the present work we use TiO<sub>2</sub> nanotube arrays, deposit onto them a thin layer of Pt, dewet the Pt to nanoparticles and use the structures as photocatalyst to generate H<sub>2</sub>. In order to achieve a maximum H<sub>2</sub>-generation efficiency, on the one hand an optimal ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12050?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12050?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12050?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b13133?src=recsys">Growth and Structure of the First Layers of Ice on Ru(0001) and Pt(111)</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Maier</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lechner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Somorjai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Salmeron</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (9), pp 3145–3151</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Scanning tunneling microscopy was used to probe the structure and growth of the first few layers of water on Ru(0001) and Pt(111) at the molecular level. The surface-bound first layer is composed of a mixture of water molecules forming hexagonal ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b13133?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b13133?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b13133?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b13133?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00589?src=recsys">Surface Acid–Base Properties of Anion-Adsorbed Species at Pt(111) Electrode Surfaces in Contact with CO<sub>2</sub>-Containing Perchloric Acid Solutions</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Martínez-Hincapié</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Berná</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rodes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Climent</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Feliu</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kafle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kattel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Carbonate and bicarbonate adsorption on Pt(111) electrodes from CO<sub>2</sub>-saturated acidic solutions is investigated by cyclic voltammetry and Fourier transform infrared reflection absorption spectroscopy (FT-IRRAS). Spectroscopic results show carbonate and ...</span>
+                             <span><span class="bold">Abstract:</span> One of the major challenges in using organic semiconductors for photovoltaics is their extremely short exciton diffusion length. Recently, a number of studies have shown that the exciton transport range within the first few picoseconds after ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b00589?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b00589?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00589?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00589?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01400?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01400?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01400?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01400?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00743?src=recsys">Combination of Defects Plus Mixed Valence of Transition Metals: A Strong Strategy For Ferromagnetic Enhancement in ZnO Nanoparticles</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02367?src=recsys">Dynamic Equilibrium of Reversible Reactions and Migration of Hydrogen Atoms Mediated by Diffusive Methanol on Rutile TiO<sub>2</sub> (110)-(1 × 1) Surface</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Beltran Jimenez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barrero Meneses</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Punnoose</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In spite of several studies investigating the effect of co-doping ZnO nanoparticles with two different transition metals, there is no clarity on the combined effects of the transition metal (TM) dopants in modifying the properties of the host system such ...</span>
+                             <span><span class="bold">Abstract:</span> We report our investigation of the reversible reaction of methanol and the migration of hydrogen adatom (H<sub>ad</sub>) on TiO<sub>2</sub>(110)-(1 × 1) surface at various temperatures and methanol coverages using scanning tunneling microscopy joint with density functional ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b00743?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00743?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00743?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b02367?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b02367?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02367?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02367?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11330?src=recsys">Fast-Scan Cyclic Voltammetry Allows Determination of Electron-Transfer Kinetic Constants in Single Nanoparticle Collision</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01504?src=recsys">New Insight into H<sub>2</sub>S Sensing Mechanism of Continuous SnO<sub>2</sub>–CuO Bilayer Thin Film: A Theoretical Macroscopic Approach</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Percival</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Boroun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ghorbani</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moosavi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mohammadpour</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Here we report the use of Fast-Scan Cyclic Voltammetry (FSCV) to study transient nanoparticle (NP) collision experiments and determine the apparent heterogeneous electron-transfer (ET) rate constant k<sup>o</sup> and electrocatalytic activity of single NPs. ...<sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> SnO<sub>2</sub>–CuO is one the most promising systems for detection of detrimental H<sub>2</sub>S gas. Although previous experimental research has suggested a sulfidation reaction to explain selectivity toward H<sub>2</sub>S, little is known about the origin of change of electrical ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b11330?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11330?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11330?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01504?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01504?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01504?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01504?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b05286?src=recsys">Interplay between Steps and Oxygen Vacancies on Curved TiO<sub>2</sub>(110)</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01344?src=recsys">Synthetic Control of Photophysical Process and Circularly Polarized Luminescence of [5]Carbohelicene Derivatives Substituted by Maleimide Units</a>
                             <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Miccio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Setvin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Müller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abadía</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Piquero</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lobo-Checa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schiller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rogero</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schmid</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sánchez-Portal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Diebold</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ortega</span> 
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sakai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kubota</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuasa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Araki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sakanoue</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takenobu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wada</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kawai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hasobe</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>16</em> (3), pp 2017–2022</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A vicinal rutile TiO<sub>2</sub>(110) crystal with a smooth variation of atomic steps parallel to the [1–10] direction was analyzed locally with STM and ARPES. The step edge morphology changes across the samples, from [1–11] zigzag faceting to straight [1–10] steps. ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> A series of [5]carbohelicene derivatives substituted by electron-withdrawing maleimide and electron-donating methoxy, such as maleimide-substituted [5]carbohelicene (HeliIm) and methoxy-substituted HeliIm (MeO-HeliIm), were newly designed and synthesized ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b05286?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b05286?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05286?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b05286?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01344?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01344?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01344?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01344?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11362?src=recsys">Stable Pt Single Atoms and Nanoclusters on Ultrathin CuO Film and Their Performances in CO Oxidation</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Geng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (3), pp 1709–1715</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A series of model catalysts consisting of Pt single atoms and nanoclusters supported by monolayered CuO film grown at Cu(110) were successfully prepared, which could be stabilized well above room temperature and which exhibited a high performance in CO ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b11362?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b11362?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11362?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11362?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12365?src=recsys">Scanning Tunneling Microscopy Study of Ordered C<sub>60</sub> Submonolayer Films on Co/Au(111)</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kollamana</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Laux</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stöckl</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stadtmüller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cinchetti</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Aeschlimann</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We demonstrate the successful preparation of ordered C<sub>60</sub> films on Co/Au(111) by scanning tunneling microscopy (STM). In particular, we show that the C<sub>60</sub> molecules arrange in a close-packed hexagonal pattern after postdeposition annealing at <i>T</i> = 350 °C. ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b12365?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b12365?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12365?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12365?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1145,7 +1138,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.6b00435" title="High-Res PDF: 5311 KB" target="_blank"> PDF <span class="details">(5311 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00435" title="Low-Res PDF: 404 KB" target="_blank"> PDF w/ Links <span class="details">(404 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00435" title="Low-Res PDF: 389 KB" target="_blank"> PDF w/ Links <span class="details">(389 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.6b00435" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1177,9 +1170,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b00435" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00435%3Fprg140729%3D4f7b63d6-9582-4a5c-9071-c9bbf1e32456&amp;doi=10.1021%2Facs.jpcc.6b00435" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00435%3Fprg140729%3D92ffc562-7ce1-4acd-9842-0bfc7d03380b&amp;doi=10.1021%2Facs.jpcc.6b00435" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00435%3Fprg140729%3Daa2d46bb-bb8e-4475-8b4c-093aed287b48&amp;title=Reactive+Copper+Deposition+on+Au%28111%29+and+Mo%28001%29%3A+Role+of+the+Support+in+the+Oxidation+Process&amp;doi=10.1021%2Facs.jpcc.6b00435" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b00435%3Fprg140729%3Defbd781a-3c37-4878-8f08-b30a21990933&amp;title=Reactive+Copper+Deposition+on+Au%28111%29+and+Mo%28001%29%3A+Role+of+the+Support+in+the+Oxidation+Process&amp;doi=10.1021%2Facs.jpcc.6b00435" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

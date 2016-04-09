@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="47d26776-5ff2-4c8a-aa60-9c92f33e6b63">
+<html lang="en" class="pb-page" data-request-id="3a2376b5-4514-4194-94bb-18e257747e0f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:ancham;pageGroup:string:Publication Pages;article:article:10.1021/acs.analchem.5b03943;wgroup:string:ACHS website Group;issue:issue:10.1021/ancham.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b03943%3Fprg140729%3D5409f6fa-8d8e-43a1-9fec-5f1e5ec13801" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b03943?prg140729=5409f6fa-8d8e-43a1-9fec-5f1e5ec13801&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b03943?prg140729=5409f6fa-8d8e-43a1-9fec-5f1e5ec13801">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b03943%3Fprg140729%3Dab61eb8b-aec4-4b78-b6e9-7f7f5aebdbd5" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b03943?prg140729=ab61eb8b-aec4-4b78-b6e9-7f7f5aebdbd5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b03943?prg140729=ab61eb8b-aec4-4b78-b6e9-7f7f5aebdbd5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1009,6 +1009,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00535?src=recsys">Nonamplification Sandwich Assay Platform for Sensitive Nucleic Acid Detection Based on AuNPs Enumeration with the Dark-Field Microscope</a>
+                            <div class="achsLabel">
+                             Analytical Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A simple and efficient assay platform with high sensitivity, convenient implementation, and moderate cost in reagents and instrumentation is most appropriate for routine applications. On the basis of the gold nanoparticle (AuNP) enumeration signal readout ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00535?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.6b00535?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00535?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00535?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.6b00337?src=recsys">Spectrally and Spatially Multiplexed Serological Array-in-Well Assay Utilizing Two-Color Upconversion Luminescence Imaging</a>
                             <div class="achsLabel">
                              Analytical Chemistry
@@ -1025,21 +1041,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.6b00337?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.6b00337?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00535?src=recsys">Nonamplification Sandwich Assay Platform for Sensitive Nucleic Acid Detection Based on AuNPs Enumeration with the Dark-Field Microscope</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04814?src=recsys">Critical View on Electrochemical Impedance Spectroscopy Using the Ferri/Ferrocyanide Redox Couple at Gold Electrodes</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Vogt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Su</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gutiérrez-Sánchez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nöll</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A simple and efficient assay platform with high sensitivity, convenient implementation, and moderate cost in reagents and instrumentation is most appropriate for routine applications. On the basis of the gold nanoparticle (AuNP) enumeration signal readout ...<sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Electrochemical or faradaic impedance spectroscopy (EIS) using the ferri/ferrocyanide couple as a redox probe at gold working electrodes was evaluated with respect to its ability to monitor consecutive surface modification steps. As a model reaction, the ...<sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.6b00535?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.6b00535?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00535?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.6b00535?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.5b04814?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b04814?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04814?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b04814?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.5b04878?src=recsys">Two-Dimensional Mass Spectrometry for Proteomics, a Comparative Study with Cytochrome <i>c</i></a>
                             <div class="achsLabel">
@@ -1057,53 +1073,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.5b04878?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.5b04878?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04661?src=recsys">Cellulose-Based Biosensors for Esterase Detection</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00503?src=recsys">Invoking Direct Exciton–Plasmon Interactions by Catalytic Ag Deposition on Au Nanoparticles: Photoelectrochemical Bioanalysis with High Efficiency</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Derikvand</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barrett</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Brumer</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (6), pp 2989–2993</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Cellulose has emerged as an attractive substrate for the production of economical, disposable, point-of-care (POC) analytical devices. Development of novel methods of (bio)activation is central to broadening the application space of cellulosic materials. ...</span>
+                             <span><span class="bold">Abstract:</span> In this work, direct exciton–plasmon interactions (EPI) between CdS quantum dots (QDs) and Ag nanoparticles (NPs) were invoked ingeniously by catalytic Ag deposition on Au NPs for the stimulation of high efficient damping effect toward the excitonic ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04661?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04661?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04661?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04661?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00503?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.6b00503?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00503?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00503?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00327?src=recsys">A Silver DNAzyme</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04190?src=recsys">Multiplexed Detection of Epigenetic Markers Using Quantum Dot (QD)-Encoded Hydrogel Microparticles</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Saran</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yeom</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Son</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tag</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Im</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cho</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (7), pp 4014–4020</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Silver is a very common heavy metal, and its detection is of significant analytical importance. DNAzymes are DNA-based catalysts; they typically recruit divalent and trivalent metal ions for catalysis. Herein, we report a silver-specific RNA-cleaving ...<sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Epigenetic alterations in gene expression are influenced by experiences and environment, resulting in significant variation of epigenetic markers from individual to individual. Therefore, it is imperative to measure various epigenetic markers ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.6b00327?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.6b00327?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00327?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.6b00327?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00012?src=recsys">Protein Binding Bends the Gold Nanoparticle Capped DNA Sequence: Toward Novel Energy-Transfer-Based Photoelectrochemical Protein Detection</a>
-                            <div class="achsLabel">
-                             Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ruan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (7), pp 3864–3871</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In this work, we present a novel energy-transfer (ET)-based photoelectrochemical (PEC) probing of DNA–protein interactions, which associates intimately with many important intracellular processes in transcriptional regulatory networks. Specifically, Au ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.6b00012?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.6b00012?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00012?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.6b00012?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.5b04190?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b04190?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04190?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b04190?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1189,9 +1189,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.analchem.5b03943" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b03943%3Fprg140729%3D9ed53095-3d7e-48a0-87f4-2af013a29e74&amp;doi=10.1021%2Facs.analchem.5b03943" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b03943%3Fprg140729%3D5fefbb11-35ba-4d19-980a-59685c1bc676&amp;doi=10.1021%2Facs.analchem.5b03943" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b03943%3Fprg140729%3D5409f6fa-8d8e-43a1-9fec-5f1e5ec13801&amp;title=Indirect+Detection+of+Glycosidases+Using+Amperometry&amp;doi=10.1021%2Facs.analchem.5b03943" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.5b03943%3Fprg140729%3Dab61eb8b-aec4-4b78-b6e9-7f7f5aebdbd5&amp;title=Indirect+Detection+of+Glycosidases+Using+Amperometry&amp;doi=10.1021%2Facs.analchem.5b03943" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

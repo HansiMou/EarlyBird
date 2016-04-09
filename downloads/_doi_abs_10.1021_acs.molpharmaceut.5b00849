@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="520e72ce-ffbf-47e4-93f5-6ae53094e561">
+<html lang="en" class="pb-page" data-request-id="3975a805-862b-400b-9be9-dc9dc0b4562b">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.molpharmaceut.5b00849;issue:issue:10.1021/mpohbp.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:mpohbp;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00849%3Fprg140729%3D78b2505e-4395-4839-82bb-93f850eaf023" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00849?prg140729=78b2505e-4395-4839-82bb-93f850eaf023&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00849?prg140729=78b2505e-4395-4839-82bb-93f850eaf023">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00849%3Fprg140729%3De7d3f4c6-6dfe-4b6a-bc9a-d875e29f6bb3" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00849?prg140729=e7d3f4c6-6dfe-4b6a-bc9a-d875e29f6bb3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00849?prg140729=e7d3f4c6-6dfe-4b6a-bc9a-d875e29f6bb3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -952,6 +952,20 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Methods" href="#_i2"><span>Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Vitreous Chamber" href="#_i7"><span>Vitreous Chamber</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Aqueous Chamber" href="#_i8"><span>Aqueous Chamber</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i12"><span>Results</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i18"><span>Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i25"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -960,12 +974,12 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">Intravitreal injection of anti-VEGF (vascular endothelial growth factor) antibodies or antibody fragments has been shown to be a highly effective treatment for neovascular age-related macular degeneration (wet AMD). The ocular half-life (<i>t</i><sub>1/2</sub>) of these large molecules, determined in ocular fluids or derived from serum levels, varies with molecular size and is larger in humans than in preclinical animal species. The high affinity binding of VEGF to these molecules lowers the free concentration of VEGF and reduces its occupancy on VEGF receptors in ocular tissues. To understand the biophysical determinants of <i>t</i><sub>1/2</sub> for anti-VEGF antibodies and the time-course of VEGF in ocular fluids, we developed a mechanistic model of intravitreal pharmacokinetics (IVT PK) for anti-VEGF antibodies and combined it with a mechanistic model of the pharmacodynamics (RVR PD) of VEGF suppression by ranibizumab, an anti-VEGF recombinant, humanized monoclonal antibody fragment (Fab). Our IVT PK model predicts that the ocular <i>t</i><sub>1/2</sub> of a large molecule will be approximately four-times the calculated value of its vitreous diffusion time (<i>T</i><sub>diff</sub>), defined as <i>r</i><sub>vit</sub><sup>2</sup>/6<i>D</i>, where <i>r</i><sub>vit</sub> is the radius of the vitreous chamber in that species (modeled as a sphere), and <i>D</i> is the diffusion coefficient of the molecule in physiological saline at 37 °C obtained from the Stokes–Einstein relation. This prediction is verified from a compilation of data and calculations on various large molecules in the human, monkey, rabbit, and rat and is consistent with the reported <i>t</i><sub>1/2</sub> values of ranibizumab in humans (mean value 7.9 days) and the calculated <i>T</i><sub>diff</sub> of 1.59 days. Our RVR PD model is based on the publication of Saunders et al. (<i>Br. J. Ophthalmol.</i> <b>2015</b>, <i>99</i>, 1554−1559) who reported data on the time-course of VEGF levels in aqueous humor samples obtained from 31 patients receiving ranibizumab treatment for wet AMD and developed a compartmental mathematical model to describe the VEGF suppression profiles. We modified Saunders’ model with the known 2:1 stoichiometry of ranibizumab-VEGF binding and included the association and dissociation kinetics of the binding reactions. Using the RVR PD model, we reanalyzed Saunders’ data to estimate the <i>in vivo</i> dissociation constant (<i>K</i><sub>D</sub>) between ranibizumab and VEGF. Our analysis demonstrates the delicate interrelationship between the <i>in vivo</i> K<sub>D</sub> value and the intravitreal half-life and yields an <i>in vivo</i> <i>K</i><sub>D</sub> estimate that is appreciably larger than the <i>in vitro</i> <i>K</i><sub>D</sub> estimates reported in the literature. Potential explanations for the difference between the <i>in vivo</i> and <i>in vitro</i> <i>K</i><sub>D</sub> values, which appear to reflect the different methodologies and experimental conditions, are discussed. We conclude that the combined mechanistic model of IVT PK and RVR PD provides a useful framework for simulating the effects of dose, <i>K</i><sub>D</sub>, and the molecular weight of VEGF-binding molecules on the duration of VEGF suppression.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Intravitreal&amp;qsSearchArea=AllField">intravitreal</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Pharmacokinetics&amp;qsSearchArea=AllField">pharmacokinetics</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=VEGF&amp;qsSearchArea=AllField">VEGF</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Ranibizumab&amp;qsSearchArea=AllField">ranibizumab</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Neovascular+Age-related+Macular+Degeneration&amp;qsSearchArea=AllField">neovascular age-related macular degeneration</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Mechanistic+Modeling&amp;qsSearchArea=AllField">mechanistic modeling</a>
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Intravitreal&amp;qsSearchArea=AllField">intravitreal</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Pharmacokinetics&amp;qsSearchArea=AllField">pharmacokinetics</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=VEGF&amp;qsSearchArea=AllField">VEGF</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Ranibizumab&amp;qsSearchArea=AllField">ranibizumab</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Neovascular+Age-related+Macular+Degeneration&amp;qsSearchArea=AllField">neovascular age-related macular degeneration</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Mechanistic+Modeling&amp;qsSearchArea=AllField">mechanistic modeling</a>
                               </div>
                              </div>
                             </div>
@@ -1200,9 +1214,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.molpharmaceut.5b00849" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00849%3Fprg140729%3Dbf6f452b-26e9-4022-ac85-7bf05792442e&amp;doi=10.1021%2Facs.molpharmaceut.5b00849" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00849%3Fprg140729%3Dc2ac9445-eafe-4bc6-ab27-4df18ed4f049&amp;doi=10.1021%2Facs.molpharmaceut.5b00849" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00849%3Fprg140729%3D78b2505e-4395-4839-82bb-93f850eaf023&amp;title=A+Mechanistic+Model+of+the+Intravitreal+Pharmacokinetics+of+Large+Molecules+and+the+Pharmacodynamic+Suppression+of+Ocular+Vascular+Endothelial+Growth+Factor+Levels+by+Ranibizumab+in+Patients+with+Neovascular+Age-Related+Macular+Degeneration&amp;doi=10.1021%2Facs.molpharmaceut.5b00849" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00849%3Fprg140729%3De7d3f4c6-6dfe-4b6a-bc9a-d875e29f6bb3&amp;title=A+Mechanistic+Model+of+the+Intravitreal+Pharmacokinetics+of+Large+Molecules+and+the+Pharmacodynamic+Suppression+of+Ocular+Vascular+Endothelial+Growth+Factor+Levels+by+Ranibizumab+in+Patients+with+Neovascular+Age-Related+Macular+Degeneration&amp;doi=10.1021%2Facs.molpharmaceut.5b00849" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1225,9 +1239,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqgUzHVC2wFqLVg90H21EOLACvtfcHk0lh4luthdImp4g&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGLLbZuwa73JdtQwD9OmoEd0MtWLACMShZAKqCsdy89hB&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSbGJlc7sn1uZtrnDmCxc-CThi25Vg2O3MuStI8V_OHYN&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqgUzHVC2wFqLVg90H21EOLACvtfcHk0ljzw7KgsbrBuQ&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGLLbZuwa73JdtQwD9OmoEd3OrfXRmwCGEc3NiEeK0gLU&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSbGJlc7sn1uZtrnDmCxc-CThi25Vg2O3MjZP2m1g-CKR&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

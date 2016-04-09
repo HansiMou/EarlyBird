@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="785d5590-9b76-4f35-826c-b3c4aafa2f5d">
+<html lang="en" class="pb-page" data-request-id="9f7ddaff-f484-4c23-a7e6-7c8928dccced">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jmedchem.5b01338;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jmcmar;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01338%3Fprg140729%3Db6cc58f2-9c71-4d74-b685-c3f90ae81b4a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01338?prg140729=b6cc58f2-9c71-4d74-b685-c3f90ae81b4a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01338?prg140729=b6cc58f2-9c71-4d74-b685-c3f90ae81b4a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01338%3Fprg140729%3D5eae713f-eca0-4a6e-a327-5ce416ae96a7" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01338?prg140729=5eae713f-eca0-4a6e-a327-5ce416ae96a7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01338?prg140729=5eae713f-eca0-4a6e-a327-5ce416ae96a7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -937,14 +937,31 @@ function addFlashMovie(id, flv, image) {
                              <a href="mailto:DavidJesseCummins@gmail.com">DavidJesseCummins@gmail.com</a>.
                             </div>
                             <div id="authorBio">
-                             <span class="title" id="d26650e1087">Biography</span>
+                             <span class="title" id="d1e1087">Biography</span>
                              <p class="last"><b>David J. Cummins</b> is a Senior Research Advisor at Eli Lilly Headquarters, Indianapolis, Indiana, U.S. He joined Eli Lilly in 1997, the same year he earned his Ph.D. in Mathematical Statistics from North Carolina State University. Before that he spent 5 years at GSK (Glaxo-Wellcome at the time) in Research Triangle Park, North Carolina, as a Statistical Research Associate in Drug Discovery Informatics. He is author and co-inventor on over 20 patents, book chapters, and scientific publications.</p>
-                             <span class="title" id="d26650e1094">Biography</span>
+                             <span class="title" id="d1e1094">Biography</span>
                              <p class="last"><b>Michael A. Bell</b> is a Research Scientist at Eli Lilly Headquarters, Indianapolis, Indiana, U.S. In 2001 he earned an M.S. in Computer Science from University of North Carolina, Chapel Hill. He has supported the Statistical community at Eli Lilly as a Computer Scientist since 2004.</p>
                             </div>
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Multiparameter Optimization: A Brief Review" href="#_i3"><span>Multiparameter Optimization: A Brief Review</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="The Molecule Selection Toolkit: A High Level Overview" href="#_i4"><span>The Molecule Selection Toolkit: A High Level Overview</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Utility Functions" href="#_i5"><span>Utility Functions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Weighted Desirability" href="#_i6"><span>Weighted Desirability</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Biased Spread Design" href="#_i7"><span>Biased Spread Design</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Putting It All Together" href="#_i8"><span>Putting It All Together</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Commercial Software" href="#_i9"><span>Commercial Software</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i10"><span>Conclusion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i17"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1001,22 +1018,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lassalas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lasfargeas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">James</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vijayendran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brunden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kozlowski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thomas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huryn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ballatore</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The replacement of a carboxylic acid with a surrogate structure, or (bio)-isostere, is a classical strategy in medicinal chemistry. The general underlying principle is that by maintaining the features of the carboxylic acid critical for biological ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01963?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01849?src=recsys">De Novo Design at the Edge of Chaos</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1096,6 +1097,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jmedchem.5b01746?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01746?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01746?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01913?src=recsys">Bcl-2/MDM2 Dual Inhibitors Based on Universal Pyramid-Like α-Helical Mimetics</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> No α-helical mimetic that exhibits Bcl-2/MDM2 dual inhibition has been rationally designed due to the different helicities of the α-helixes at their binding interfaces. Herein, we extracted a one-turn α-helix-mimicking <i>ortho</i>-triarene unit from <i>o</i>-phenylene ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01913?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01913?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01913?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01913?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1181,9 +1198,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.5b01338" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01338%3Fprg140729%3D565e5e22-4e18-4217-b13f-6b2aa3352bec&amp;doi=10.1021%2Facs.jmedchem.5b01338" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01338%3Fprg140729%3D45d5c46d-54c7-4785-9595-76692a39e7a6&amp;doi=10.1021%2Facs.jmedchem.5b01338" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01338%3Fprg140729%3Db6cc58f2-9c71-4d74-b685-c3f90ae81b4a&amp;title=Integrating+Everything%3A+The+Molecule+Selection+Toolkit%2C+a+System+for+Compound+Prioritization+in+Drug+Discovery&amp;doi=10.1021%2Facs.jmedchem.5b01338" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01338%3Fprg140729%3D5eae713f-eca0-4a6e-a327-5ce416ae96a7&amp;title=Integrating+Everything%3A+The+Molecule+Selection+Toolkit%2C+a+System+for+Compound+Prioritization+in+Drug+Discovery&amp;doi=10.1021%2Facs.jmedchem.5b01338" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1206,8 +1223,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoku881PDGb_rVg90H21EOLACvtfcHk0liOaYtMlpADNA&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSRyTYtn_xI6DtrnDmCxc-CThi25Vg2O3MsBObIWJJtYE&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoku881PDGb_rVg90H21EOLACvtfcHk0lhGT4YGXOJnLg&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSRyTYtn_xI6DtrnDmCxc-CThi25Vg2O3Ms7WPnSgNcIM&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

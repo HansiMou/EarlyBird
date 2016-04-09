@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="4feeeb84-8edb-425b-9599-d817ee8a67ff">
+<html lang="en" class="pb-page" data-request-id="f5966712-6fe2-4703-8f45-38003e84cb91">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;article:article:10.1021/acs.jpcc.6b01595;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01595%3Fprg140729%3De66616b3-b8fc-43fa-8276-19837b90ed63" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01595?prg140729=e66616b3-b8fc-43fa-8276-19837b90ed63&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01595?prg140729=e66616b3-b8fc-43fa-8276-19837b90ed63">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01595%3Fprg140729%3D0ef6f5e2-a19c-4c34-b10e-ad5a70cf86b3" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01595?prg140729=0ef6f5e2-a19c-4c34-b10e-ad5a70cf86b3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01595?prg140729=0ef6f5e2-a19c-4c34-b10e-ad5a70cf86b3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -694,16 +694,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b01159" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.6b01802" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -994,18 +984,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i8"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i11"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i14"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1069,22 +1047,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01802?src=recsys">Molecular Dynamics Simulations of Hydrogen Diffusion in Aluminum</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">El Gabaly</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stavila</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Allendorf</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Hydrogen diffusion impacts the performance of solid-state hydrogen storage materials and contributes to the embrittlement of structural materials under hydrogen-containing environments. In atomistic simulations, the diffusion energy barriers are usually ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b01802?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b01802?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01802?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01802?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.6b00801?src=recsys">Size Effect of Atomic Gold Clusters for Carbon Monoxide Passivation at Ru<sub>core</sub>–Pt<sub>shell</sub> Nanocatalysts</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1100,6 +1062,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcc.6b00801?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00801?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b00801?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01802?src=recsys">Molecular Dynamics Simulations of Hydrogen Diffusion in Aluminum</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">El Gabaly</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stavila</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Allendorf</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Hydrogen diffusion impacts the performance of solid-state hydrogen storage materials and contributes to the embrittlement of structural materials under hydrogen-containing environments. In atomistic simulations, the diffusion energy barriers are usually ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01802?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01802?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01802?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01802?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.6b00190?src=recsys">Separate-Path Electron and Hole Transport Across π-Stacked Ferroelectrics for Photovoltaic Applications</a>
                             <div class="achsLabel">
@@ -1149,21 +1127,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01977?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.6b01977?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12045?src=recsys">Local Structure of V Dopants in TiO<sub>2</sub> Nanoparticles: X-ray Absorption Spectroscopy, Including Ab-Initio and Full Potential Simulations</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01702?src=recsys">Ligand-Free Noble Metal Nanocluster Catalysts on Carbon Supports via “Soft” Nitriding</a>
                             <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Rossi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Calizzi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Di Cintio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Magkos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amidani</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pasquini</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Boscherini</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mosa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rusling</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suib</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">He</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Doping with transition metals is an effective method to enhance visible-light absorption in TiO<sub>2</sub> nanoparticles and to improve the efficiency of many photocatalytic processes under solar radiation. A determination of the incorporation site of the dopant ...<sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> We report a robust, universal “soft” nitriding method to grow <i>in situ</i> ligand-free ultrasmall noble metal nanocatalysts (UNMN; e.g., Au, Pd, and Pt) onto carbon. Using low-temperature urea pretreatment at 300 °C, soft nitriding enriches nitrogen-containing ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12045?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b12045?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12045?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12045?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b01702?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01702?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01702?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01702?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1216,7 +1194,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.6b01595" title="High-Res PDF: 2094 KB" target="_blank"> PDF <span class="details">(2094 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01595" title="Low-Res PDF: 764 KB" target="_blank"> PDF w/ Links <span class="details">(764 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01595" title="Low-Res PDF: 746 KB" target="_blank"> PDF w/ Links <span class="details">(746 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.6b01595" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1249,9 +1227,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b01595" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01595%3Fprg140729%3Db1d15b02-2db5-477f-8646-107d0cec6f4c&amp;doi=10.1021%2Facs.jpcc.6b01595" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01595%3Fprg140729%3Da0262d8d-ab1a-475b-81b3-c15660cd40f1&amp;doi=10.1021%2Facs.jpcc.6b01595" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01595%3Fprg140729%3De66616b3-b8fc-43fa-8276-19837b90ed63&amp;title=Promoted+Multimetal+Oxide+Catalysts+for+the+Generation+of+Hydrogen+via+Ammonia+Decomposition&amp;doi=10.1021%2Facs.jpcc.6b01595" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01595%3Fprg140729%3D0ef6f5e2-a19c-4c34-b10e-ad5a70cf86b3&amp;title=Promoted+Multimetal+Oxide+Catalysts+for+the+Generation+of+Hydrogen+via+Ammonia+Decomposition&amp;doi=10.1021%2Facs.jpcc.6b01595" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

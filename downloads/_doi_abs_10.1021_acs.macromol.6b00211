@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c13870e6-5a17-48ac-b5d0-bc6cc9bc28a1">
+<html lang="en" class="pb-page" data-request-id="e9cc330d-4b5b-478d-ad76-d984d4370617">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/mamobx.ahead-of-print;journal:journal:mamobx;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.macromol.6b00211">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00211%3Fprg140729%3D091d497f-184d-4b0d-8a2d-0d45410afbb0" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00211?prg140729=091d497f-184d-4b0d-8a2d-0d45410afbb0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00211?prg140729=091d497f-184d-4b0d-8a2d-0d45410afbb0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00211%3Fprg140729%3D1b3b1417-25d0-4a64-8259-160ba17fd856" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00211?prg140729=1b3b1417-25d0-4a64-8259-160ba17fd856&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00211?prg140729=1b3b1417-25d0-4a64-8259-160ba17fd856">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1109,22 +1109,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02649?src=recsys">Branched Block Copolymers for Tuning of Morphology and Feature Size in Thin Film Nanolithography</a>
-                            <div class="achsLabel">
-                             Macromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Minehara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pitet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meijer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hawker</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>49</em> (6), pp 2318–2326</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A library of Y-shaped poly(dimethylsiloxane) (PDMS)-<i>b</i>-poly(<span class="smallcaps">d</span>,<span class="smallcaps">l</span>-lactide) (PLA) diblock copolymers and their corresponding linear counterparts were synthesized, and their morphologies and feature sizes in bulk and thin films were compared using small-angle ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.macromol.5b02649?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.macromol.5b02649?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02649?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.macromol.5b02649?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.macromol.5b02602?src=recsys">A Critical Appraisal of RAFT-Mediated Polymerization-Induced Self-Assembly</a>
                             <div class="achsLabel">
                              Macromolecules
@@ -1140,6 +1124,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.macromol.5b02602?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.macromol.5b02602?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.macromol.5b02602?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02649?src=recsys">Branched Block Copolymers for Tuning of Morphology and Feature Size in Thin Film Nanolithography</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Minehara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pitet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meijer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hawker</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (6), pp 2318–2326</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A library of Y-shaped poly(dimethylsiloxane) (PDMS)-<i>b</i>-poly(<span class="smallcaps">d</span>,<span class="smallcaps">l</span>-lactide) (PLA) diblock copolymers and their corresponding linear counterparts were synthesized, and their morphologies and feature sizes in bulk and thin films were compared using small-angle ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02649?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02649?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02649?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02649?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsmacrolett.6b00091?src=recsys">Tough and Sustainable Graft Block Copolymer Thermoplastics</a>
                             <div class="achsLabel">
@@ -1290,9 +1290,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.macromol.6b00211" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00211%3Fprg140729%3D1f312620-0e0d-48b1-baee-5d0d1aacf3c1&amp;doi=10.1021%2Facs.macromol.6b00211" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00211%3Fprg140729%3D50d67920-37c5-4600-8b1b-cc59556f3e92&amp;doi=10.1021%2Facs.macromol.6b00211" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00211%3Fprg140729%3D091d497f-184d-4b0d-8a2d-0d45410afbb0&amp;title=Aliphatic+Polyester+Block+Polymer+Design&amp;doi=10.1021%2Facs.macromol.6b00211" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.macromol.6b00211%3Fprg140729%3D1b3b1417-25d0-4a64-8259-160ba17fd856&amp;title=Aliphatic+Polyester+Block+Polymer+Design&amp;doi=10.1021%2Facs.macromol.6b00211" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1315,9 +1315,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrfhJ6LQUTfwrVg90H21EOLACvtfcHk0lhwzJtsjTAWdg&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGBMyRU9Dn0-AtQwD9OmoEd2uZoGoIYbKIyHuMk84-h-W&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUiAvtoCxzYutrnDmCxc-CThi25Vg2O3MrkYhiG75MjI&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrfhJ6LQUTfwrVg90H21EOLACvtfcHk0li3Q24kbeJ7nA&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGBMyRU9Dn0-AtQwD9OmoEd2YctUg414nr0U4hclMWh5N&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSUiAvtoCxzYutrnDmCxc-CThi25Vg2O3Mu1oWKM_czQO&amp;loc=%2FControllerServlet&amp;pubId=40026040" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

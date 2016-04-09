@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="0068c6d8-28ed-4ec6-a5e1-6010ea5a721e">
+<html lang="en" class="pb-page" data-request-id="649b0b32-1555-4cfb-825f-77edb0505103">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:bcches;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/bcches.ahead-of-print;article:article:10.1021/acs.bioconjchem.6b00074;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.bioconjchem.6b00074%3Fprg140729%3Da921c4db-b7ce-4a9a-a244-cbe81341185c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.bioconjchem.6b00074?prg140729=a921c4db-b7ce-4a9a-a244-cbe81341185c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.bioconjchem.6b00074?prg140729=a921c4db-b7ce-4a9a-a244-cbe81341185c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.bioconjchem.6b00074%3Fprg140729%3D901d238f-4b4d-44fd-8a43-3458f93a42c1" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.bioconjchem.6b00074?prg140729=901d238f-4b4d-44fd-8a43-3458f93a42c1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.bioconjchem.6b00074?prg140729=901d238f-4b4d-44fd-8a43-3458f93a42c1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1065,6 +1065,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.bioconjchem.6b00043?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.bioconjchem.6b00043?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.bioconjchem.5b00682?src=recsys">Site-Specific Conjugation of Peptides and Proteins via Rebridging of Disulfide Bonds Using the Thiol–Yne Coupling Reaction</a>
+                            <div class="achsLabel">
+                             Bioconjugate Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Griebenow</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dilmaç</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Greven</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bräse</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Herein, we describe an extension of our previously reported photomediated disulfide rebridging methodology to the conjugation of peptides and proteins. The methodology proved to be reproducible with various alkynes and different peptides. This study ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.bioconjchem.5b00682?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.bioconjchem.5b00682?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.bioconjchem.5b00682?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.bioconjchem.5b00682?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.bioconjchem.6b00054?src=recsys">Development of Solid-Phase Site-Specific Conjugation and Its Application toward Generation of Dual Labeled Antibody and Fab Drug Conjugates</a>
                             <div class="achsLabel">
                              Bioconjugate Chemistry
@@ -1081,53 +1097,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.bioconjchem.6b00054?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.bioconjchem.6b00054?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.bioconjchem.5b00553?src=recsys">Simultaneous Site-Specific Dual Protein Labeling Using Protein Prenyltransferases</a>
+                           <li><a href="/doi/abs/10.1021/acs.bioconjchem.6b00057?src=recsys">Renal Targeting: Peptide-Based Drug Delivery to Proximal Tubule Cells</a>
                             <div class="achsLabel">
                              Bioconjugate Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Blanden</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sudheer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gangopadhyay</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rashidian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hougland</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Distefano</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wischnjow</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sarko</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Janzer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaufman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Beijer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brings</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haberkorn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Larbig</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kübelbeck</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mier</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>26</em> (12), pp 2542–2553</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Site-specific protein labeling is an important technique in protein chemistry and is used for diverse applications ranging from creating protein conjugates to protein immobilization. Enzymatic reactions, including protein prenylation, have been widely ...</span>
+                             <span><span class="bold">Abstract:</span> Kidney-specific drug targeting is an attractive strategy to reduce unwanted side effects and to enhance drug efficacy within the renal tissue. For this purpose a novel kidney-specific drug carrier was developed. The peptide sequence (KKEEE)<sub>3</sub>K triggers ...<sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.bioconjchem.5b00553?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.bioconjchem.5b00553?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.bioconjchem.5b00553?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.bioconjchem.5b00553?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.bioconjchem.6b00057?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.bioconjchem.6b00057?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.bioconjchem.6b00057?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.bioconjchem.6b00057?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.bioconjchem.5b00613?src=recsys">Simple Method To Prepare Oligonucleotide-Conjugated Antibodies and Its Application in Multiplex Protein Detection in Single Cells</a>
+                           <li><a href="/doi/abs/10.1021/acs.bioconjchem.6b00094?src=recsys">Versatile Supramolecular Gene Vector Based on Host–Guest Interaction</a>
                             <div class="achsLabel">
                              Bioconjugate Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Holcomb</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ooi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Majonis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Unger</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ramakrishnan</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hennink</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van Steenbergen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhuo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>27</em> (1), pp 217–225</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The diversity of nucleic acid sequences enables genomics studies in a highly multiplexed format. Since multiplex protein detection is still a challenge, it would be useful to use genomics tools for this purpose. This can be accomplished by conjugating ...</span>
+                             <span><span class="bold">Abstract:</span> It is a great challenge to arrange multiple functional components into one gene vector system to overcome the extra- and intracellular obstacles for gene therapy. In this study, we developed a supramolecular approach for constructing a versatile gene ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.bioconjchem.5b00613?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.bioconjchem.5b00613?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.bioconjchem.5b00613?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.bioconjchem.5b00613?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.bioconjchem.5b00457?src=recsys">Site-Specific Labeling of Protein Lysine Residues and N-Terminal Amino Groups with Indoles and Indole-Derivatives</a>
-                            <div class="achsLabel">
-                             Bioconjugate Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Larda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pichugin</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Prosser</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>26</em> (12), pp 2376–2383</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Indoles and indole-derivatives can be used to site-specifically label proteins on lysine and N-terminal amino groups under mild, nondenaturing reaction conditions. Hen egg white lysozyme (HEWL) and α-lactalbumin were labeled with indole, fluoroindole, or ...<sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.bioconjchem.5b00457?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.bioconjchem.5b00457?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.bioconjchem.5b00457?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.bioconjchem.5b00457?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.bioconjchem.6b00094?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.bioconjchem.6b00094?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.bioconjchem.6b00094?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.bioconjchem.6b00094?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1212,9 +1212,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.bioconjchem.6b00074" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.bioconjchem.6b00074%3Fprg140729%3Dbab98359-6e81-41a0-91c7-4f0c742ff229&amp;doi=10.1021%2Facs.bioconjchem.6b00074" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.bioconjchem.6b00074%3Fprg140729%3D06025875-cf45-478c-8604-8f34c57db85c&amp;doi=10.1021%2Facs.bioconjchem.6b00074" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.bioconjchem.6b00074%3Fprg140729%3Da921c4db-b7ce-4a9a-a244-cbe81341185c&amp;title=Peptide-Mediated+Specific+Immobilization+of+Catalytically+Active+Cytochrome+P450+BM3+Variant&amp;doi=10.1021%2Facs.bioconjchem.6b00074" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.bioconjchem.6b00074%3Fprg140729%3D901d238f-4b4d-44fd-8a43-3458f93a42c1&amp;title=Peptide-Mediated+Specific+Immobilization+of+Catalytically+Active+Cytochrome+P450+BM3+Variant&amp;doi=10.1021%2Facs.bioconjchem.6b00074" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

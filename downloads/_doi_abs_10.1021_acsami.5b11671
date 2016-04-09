@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b75c7cd8-63ad-4409-81fa-e9a61e2ceb9f">
+<html lang="en" class="pb-page" data-request-id="7508cdb9-85cb-4936-8298-2a667074a321">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;article:article:10.1021/acsami.5b11671;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -150,8 +150,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11671%3Fprg140729%3D314ec0fd-e0ce-427c-9cab-528bafc802ac" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11671?prg140729=314ec0fd-e0ce-427c-9cab-528bafc802ac&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11671?prg140729=314ec0fd-e0ce-427c-9cab-528bafc802ac">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11671%3Fprg140729%3Df108668e-2ecb-4081-8daa-d935dbdb416c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11671?prg140729=f108668e-2ecb-4081-8daa-d935dbdb416c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11671?prg140729=f108668e-2ecb-4081-8daa-d935dbdb416c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -987,19 +987,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i2"><span>Materials and Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i11"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i17"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i18"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i22"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1120,6 +1107,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.5b08270?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b08270?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.5b09344?src=recsys">Tuning the Range of Polyacrylamide Gel Stiffness for Mechanobiology Applications</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Denisin</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Pruitt</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Adjusting the acrylamide monomer and cross-linker content in polyacrylamide gels controls the hydrogel stiffness, yet the reported elastic modulus for the same formulations varies widely and these discrepancies are frequently attributed to different ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.5b09344?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.5b09344?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.5b09344?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.5b09344?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.5b08126?src=recsys">Study of Osteoclast Adhesion to Cortical Bone Surfaces: A Correlative Microscopy Approach for Concomitant Imaging of Cellular Dynamics and Surface Modifications</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1136,37 +1139,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.5b08126?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b08126?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b11178?src=recsys">Organic Amine-Mediated Synthesis of Polymer and Carbon Microspheres: Mechanism Insight and Energy-Related Applications</a>
+                           <li><a href="/doi/abs/10.1021/acsami.5b12114?src=recsys">Silk as a Biomaterial to Support Long-Term Three-Dimensional Tissue Cultures</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qiao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ling</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Long</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>8</em> (7), pp 4851–4861</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A general organic amine-mediated synthesis of polymer microspheres is developed based on the copolymerization of resorcinol, formaldehyde, and various organic amines at room temperature. Structure formation and evolution of colloidal microspheres in the ...<sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b11178?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b11178?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b11178?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b11178?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b09344?src=recsys">Tuning the Range of Polyacrylamide Gel Stiffness for Mechanobiology Applications</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Denisin</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Pruitt</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Abbott</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kimmerling</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cairns</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kaplan</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Adjusting the acrylamide monomer and cross-linker content in polyacrylamide gels controls the hydrogel stiffness, yet the reported elastic modulus for the same formulations varies widely and these discrepancies are frequently attributed to different ...</span>
+                             <span><span class="bold">Abstract:</span> Tissue engineering has broad and diverse impacts on a variety of different applications from tissue regeneration to drug screening. While two-dimensional (2-D) cell culture platforms are suitable for tissue interfaces where planar surfaces are relevant, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b09344?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b09344?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b09344?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b09344?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsami.5b12114?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.5b12114?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.5b12114?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.5b12114?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1252,9 +1239,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.5b11671" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11671%3Fprg140729%3D752b76d8-89f2-4575-bfd0-dff738f966fd&amp;doi=10.1021%2Facsami.5b11671" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11671%3Fprg140729%3Db4ed0f31-0d0b-41d9-be55-b78e0d752013&amp;doi=10.1021%2Facsami.5b11671" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11671%3Fprg140729%3D314ec0fd-e0ce-427c-9cab-528bafc802ac&amp;title=Nanotopography-Induced+Structural+Anisotropy+and+Sarcomere+Development+in+Human+Cardiomyocytes+Derived+from+Induced+Pluripotent+Stem+Cells&amp;doi=10.1021%2Facsami.5b11671" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11671%3Fprg140729%3Df108668e-2ecb-4081-8daa-d935dbdb416c&amp;title=Nanotopography-Induced+Structural+Anisotropy+and+Sarcomere+Development+in+Human+Cardiomyocytes+Derived+from+Induced+Pluripotent+Stem+Cells&amp;doi=10.1021%2Facsami.5b11671" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1277,9 +1264,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqVbCgkJBJ95bVg90H21EOLACvtfcHk0lhlt5JKxRAwMw&amp;loc=%2FControllerServlet&amp;pubId=40667956" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGEj6OLXDWEtFtQwD9OmoEd1alLdYMSoQ3Wj8218KuBbM&amp;loc=%2FControllerServlet&amp;pubId=40667956" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScNIdlM_RehCtrnDmCxc-CThi25Vg2O3MmYkG-jbyTP2&amp;loc=%2FControllerServlet&amp;pubId=40667956" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqVbCgkJBJ95bVg90H21EOLACvtfcHk0lhTEfxi1SyrHw&amp;loc=%2FControllerServlet&amp;pubId=40667956" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGEj6OLXDWEtFtQwD9OmoEd3KJSm6k4zqrje_-rE2ulNB&amp;loc=%2FControllerServlet&amp;pubId=40667956" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScNIdlM_RehCtrnDmCxc-CThi25Vg2O3MtjQxNdDdIvO&amp;loc=%2FControllerServlet&amp;pubId=40667956" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

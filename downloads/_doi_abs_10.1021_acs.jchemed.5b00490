@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="e5001ec2-7716-4451-90f9-8bf1094216a4">
+<html lang="en" class="pb-page" data-request-id="5cac999b-9c62-42b2-90a2-327f33824fcd">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;issue:issue:10.1021/jceda8.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.jchemed.5b00490;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00490%3Fprg140729%3D6ddb32ab-e089-49bf-a0c0-a6896d127d92" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00490?prg140729=6ddb32ab-e089-49bf-a0c0-a6896d127d92&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00490?prg140729=6ddb32ab-e089-49bf-a0c0-a6896d127d92">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00490%3Fprg140729%3D1860a9d0-643d-4895-bceb-c6c865c81ee0" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00490?prg140729=1860a9d0-643d-4895-bceb-c6c865c81ee0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00490?prg140729=1860a9d0-643d-4895-bceb-c6c865c81ee0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -671,6 +671,16 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
+                       <div class="issueNavigator"> 
+                        <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jchemed.5b00170" title="Previous Article"> Previous Article </a> </span> 
+                        </div> 
+                        <div class="journalNavRightTd"> 
+                         <div class="next"> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00394" title="Next Article"> Next Article </a> 
+                         </div> 
+                        </div> 
+                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceda8/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1024,22 +1034,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00646?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00646?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00170?src=recsys">Measuring Structural and Electronic Effects on Keto–Enol Equilibrium in 1,3-Dicarbonyl Compounds</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Young</span>, <span class="entryAuthor normal hlFld-ContribAuthor">DeBlasio</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hamann</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Nuclear magnetic resonance (NMR) spectroscopy is an integral part of the undergraduate chemistry curriculum. In addition to structure determination, NMR spectroscopy is used to analyze chemical reactions and equilibria in situ. Determination of the ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00170?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00170?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00170?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00170?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00577?src=recsys">An Intensive Training Program for Effective Teaching Assistants in Chemistry</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
@@ -1055,6 +1049,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jchemed.5b00577?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00577?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00577?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00170?src=recsys">Measuring Structural and Electronic Effects on Keto–Enol Equilibrium in 1,3-Dicarbonyl Compounds</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Education
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Young</span>, <span class="entryAuthor normal hlFld-ContribAuthor">DeBlasio</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hamann</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Nuclear magnetic resonance (NMR) spectroscopy is an integral part of the undergraduate chemistry curriculum. In addition to structure determination, NMR spectroscopy is used to analyze chemical reactions and equilibria in situ. Determination of the ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00170?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00170?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00170?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00170?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00578?src=recsys">Development of an Advanced Training Course for Teachers and Researchers in Chemistry</a>
                             <div class="achsLabel">
@@ -1088,21 +1098,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00524?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00524?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00160?src=recsys">Deducing Reaction Mechanism: A Guide for Students, Researchers, and Instructors</a>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00394?src=recsys">Introducing Aliphatic Substitution with a Discovery Experiment Using Competing Electrophiles</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Meek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pitman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Miller</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Curran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mostovoy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Curran</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Berger</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>93</em> (2), pp 275–286</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> An introductory guide to deducing the mechanism of chemical reactions is presented. Following a typical workflow for probing reaction mechanism, the guide introduces a wide range of kinetic and mechanistic tools. In addition to serving as a broad ...</span>
+                             <span><span class="bold">Abstract:</span> A facile, discovery-based experiment is described that introduces aliphatic substitution in an introductory undergraduate organic chemistry curriculum. Unlike other discovery-based experiments that examine substitution using two competing nucleophiles ...<sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00160?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00160?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00160?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00160?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00394?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00394?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00394?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00394?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1187,9 +1197,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00490" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00490%3Fprg140729%3Da3659d3f-6cb4-45a9-a978-6806604ed61a&amp;doi=10.1021%2Facs.jchemed.5b00490" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00490%3Fprg140729%3Da787f37f-d0db-4c3f-b44b-29be6e31969b&amp;doi=10.1021%2Facs.jchemed.5b00490" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00490%3Fprg140729%3D6ddb32ab-e089-49bf-a0c0-a6896d127d92&amp;title=Demonstration+Show+That+Promotes+and+Assesses+Conceptual+Understanding+Using+the+Structure+of+Drama&amp;doi=10.1021%2Facs.jchemed.5b00490" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00490%3Fprg140729%3D1860a9d0-643d-4895-bceb-c6c865c81ee0&amp;title=Demonstration+Show+That+Promotes+and+Assesses+Conceptual+Understanding+Using+the+Structure+of+Drama&amp;doi=10.1021%2Facs.jchemed.5b00490" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1212,8 +1222,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq9Rcge-d5n27Vg90H21EOLACvtfcHk0lihQ7tncMsIzw&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSdaD7mwdS2ECtrnDmCxc-CThi25Vg2O3Mjzuh4B7-8Ck&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq9Rcge-d5n27Vg90H21EOLACvtfcHk0lhtA8YA6Vtk0g&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSdaD7mwdS2ECtrnDmCxc-CThi25Vg2O3MtvKcwuijw2o&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

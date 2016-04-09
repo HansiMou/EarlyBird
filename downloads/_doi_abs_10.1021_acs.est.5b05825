@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8980c2b0-0b26-4e4f-98b7-12f18cf6b250">
+<html lang="en" class="pb-page" data-request-id="bd3f4ee5-54e6-493c-ad6d-63f5c95b58db">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;article:article:10.1021/acs.est.5b05825;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05825%3Fprg140729%3D870d083c-9d05-4b56-9281-fb175e52bfe2" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05825?prg140729=870d083c-9d05-4b56-9281-fb175e52bfe2&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05825?prg140729=870d083c-9d05-4b56-9281-fb175e52bfe2">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05825%3Fprg140729%3Db917746b-1ffa-4ddf-ba4f-ef745d44bfc6" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05825?prg140729=b917746b-1ffa-4ddf-ba4f-ef745d44bfc6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05825?prg140729=b917746b-1ffa-4ddf-ba4f-ef745d44bfc6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1063,21 +1063,50 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.6b00058?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.6b00058?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.6b00030?src=recsys">Measuring Personal Exposure to Organophosphate Flame Retardants Using Silicone Wristbands and Hand Wipes</a>
+                           <li><a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys"><i>ES&amp;T</i>’s Best Papers of 2015</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hammel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hoffman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Webster</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Anderson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stapleton</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sedlak</span> (Editor-in-Chief)
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.6b01454?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.6b01454?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.6b01454?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b04491?src=recsys">Spatial Differences and Costs of Emissions at U.S. Airport Hubs</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nahlik</span> , <span class="entryAuthor normal hlFld-ContribAuthor">Chester</span> (Assistant Professor) , <span class="entryAuthor normal hlFld-ContribAuthor">Ryerson</span> (Assistant Professor) , <span class="entryAuthor normal hlFld-ContribAuthor">Fraser</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Organophosphate flame retardants (PFRs) are widely used as replacements for polybrominated diphenyl ethers in consumer products. With high detection in indoor environments and increasing toxicological evidence suggesting a potential for adverse health ...<sub></sub></span>
+                             <span><span class="bold">Abstract:</span> As local governments plan to expand airport infrastructure and build air service, monetized estimates of damages from air pollution are important for balancing environmental impacts. While it is well-known that aircraft emissions near airports directly ...<sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.6b00030?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.6b00030?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.6b00030?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.6b00030?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.est.5b04491?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b04491?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b04491?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b04491?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b05354?src=recsys">Complete and Partial Photo-oxidation of Dissolved Organic Matter Draining Permafrost Soils</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ward</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Cory</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>50</em> (7), pp 3545–3553</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Photochemical degradation of dissolved organic matter (DOM) to carbon dioxide (CO<sub>2</sub>) and partially oxidized compounds is an important component of the carbon cycle in the Arctic. Thawing permafrost soils will change the chemical composition of DOM exported ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b05354?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b05354?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b05354?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b05354?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b06141?src=recsys">Use of Temperature Sensors to Determine Exclusivity of Improved Stove Use and Associated Household Air Pollution Reductions in Kenya</a>
                             <div class="achsLabel">
@@ -1094,38 +1123,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.5b06141?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.5b06141?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b06141?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b04314?src=recsys">Photochemistry of Dissolved Black Carbon Released from Biochar: Reactive Oxygen Species Generation and Phototransformation</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alvarez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>50</em> (3), pp 1218–1226</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Dissolved black carbon (BC) released from biochar can be one of the more photoactive components in the dissolved organic matter (DOM) pool. Dissolved BC was mainly composed of aliphatics and aromatics substituted by aromatic C−O and carboxyl/ester/quinone ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b04314?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b04314?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b04314?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b04314?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b06280?src=recsys">Chemical Pollutants Sorbed to Ingested Microbeads from Personal Care Products Accumulate in Fish</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wardrop</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shimeta</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nugegoda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morrison</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Miranda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Clarke</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>50</em> (7), pp 4037–4044</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The prevalence of microplastics (&lt;5 mm) in natural environments has become a widely recognized global problem. Microplastics have been shown to sorb chemical pollutants from their surrounding environment, thus raising concern as to their role in the ...<sup></sup><sup></sup><sub></sub><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b06280?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b06280?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b06280?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b06280?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1211,9 +1208,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.5b05825" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05825%3Fprg140729%3D5b0c16d4-918c-477b-8ab6-7fcfbd51609f&amp;doi=10.1021%2Facs.est.5b05825" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05825%3Fprg140729%3D9e3aea0e-5e70-451c-b1db-fbd379c684a1&amp;doi=10.1021%2Facs.est.5b05825" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05825%3Fprg140729%3D870d083c-9d05-4b56-9281-fb175e52bfe2&amp;title=Leaching+of+Terbutryn+and+Its+Photodegradation+Products+from+Artificial+Walls+under+Natural+Weather+Conditions&amp;doi=10.1021%2Facs.est.5b05825" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05825%3Fprg140729%3Db917746b-1ffa-4ddf-ba4f-ef745d44bfc6&amp;title=Leaching+of+Terbutryn+and+Its+Photodegradation+Products+from+Artificial+Walls+under+Natural+Weather+Conditions&amp;doi=10.1021%2Facs.est.5b05825" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2f6d88aa-35fb-4906-9f7a-7c403ac0e817">
+<html lang="en" class="pb-page" data-request-id="17fd8336-ca69-480f-b8de-a0dd353c44f2">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/langd5.ahead-of-print;article:article:10.1021/acs.langmuir.6b00082;pageGroup:string:Publication Pages;journal:journal:langd5;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00082%3Fprg140729%3D1ff75679-6843-4898-b66c-c5b987a724e3" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00082?prg140729=1ff75679-6843-4898-b66c-c5b987a724e3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00082?prg140729=1ff75679-6843-4898-b66c-c5b987a724e3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00082%3Fprg140729%3D369d5e5a-e296-410c-9b1d-dab72d5ccb24" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00082?prg140729=369d5e5a-e296-410c-9b1d-dab72d5ccb24&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b00082?prg140729=369d5e5a-e296-410c-9b1d-dab72d5ccb24">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -959,6 +959,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i2"><span>Materials and Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i8"><span>Results</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i16"><span>Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i21"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1035,22 +1047,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00448?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.langmuir.6b00448?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04433?src=recsys">Membrane Sterols Modulate the Binding Mode of Amphotericin B without Affecting Its Affinity for a Lipid Bilayer</a>
-                            <div class="achsLabel">
-                             Langmuir
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Neumann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wieczor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zielinska</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baginski</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Czub</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Membrane-active antibiotics are known to selectively target certain pathogens based on cell membrane properties, such as fluidity, lipid ordering, and phase behavior. These are in turn modulated by the composition of a lipid bilayer and in particular by ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.langmuir.5b04433?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.langmuir.5b04433?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04433?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04433?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.langmuir.6b00478?src=recsys">A Blue-Light-Emitting BODIPY Probe for Lipid Membranes</a>
                             <div class="achsLabel">
                              Langmuir
@@ -1066,6 +1062,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.langmuir.6b00478?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00478?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.langmuir.6b00478?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04433?src=recsys">Membrane Sterols Modulate the Binding Mode of Amphotericin B without Affecting Its Affinity for a Lipid Bilayer</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Neumann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wieczor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zielinska</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baginski</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Czub</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Membrane-active antibiotics are known to selectively target certain pathogens based on cell membrane properties, such as fluidity, lipid ordering, and phase behavior. These are in turn modulated by the composition of a lipid bilayer and in particular by ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.5b04433?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.5b04433?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04433?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04433?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.langmuir.6b00587?src=recsys">Real-Time Monitoring of Chemical and Topological Rearrangements in Solidifying Amphiphilic Polymer Co-Networks: Understanding Surface Demixing</a>
                             <div class="achsLabel">
@@ -1199,9 +1211,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.langmuir.6b00082" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00082%3Fprg140729%3Dc693c9c5-d0fb-4df4-8cb9-93a7e3c35464&amp;doi=10.1021%2Facs.langmuir.6b00082" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00082%3Fprg140729%3D12af8248-7ba8-4322-ad2a-ea28426de442&amp;doi=10.1021%2Facs.langmuir.6b00082" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00082%3Fprg140729%3D1ff75679-6843-4898-b66c-c5b987a724e3&amp;title=Regulation+of+Sticholysin+II-Induced+Pore+Formation+by+Lipid+Bilayer+Composition%2C+Phase+State%2C+and+Interfacial+Properties&amp;doi=10.1021%2Facs.langmuir.6b00082" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.6b00082%3Fprg140729%3D369d5e5a-e296-410c-9b1d-dab72d5ccb24&amp;title=Regulation+of+Sticholysin+II-Induced+Pore+Formation+by+Lipid+Bilayer+Composition%2C+Phase+State%2C+and+Interfacial+Properties&amp;doi=10.1021%2Facs.langmuir.6b00082" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

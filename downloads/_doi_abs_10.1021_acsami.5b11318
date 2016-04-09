@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c21fdede-093e-4fb5-b643-30c4d29d1c99">
+<html lang="en" class="pb-page" data-request-id="74ff5b7e-d27a-4c47-88f9-5d92d6b90fa7">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;article:article:10.1021/acsami.5b11318;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11318%3Fprg140729%3Dbcfbdaf5-bcec-4bcb-8e90-dfad3c8f9bb2" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11318?prg140729=bcfbdaf5-bcec-4bcb-8e90-dfad3c8f9bb2&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11318?prg140729=bcfbdaf5-bcec-4bcb-8e90-dfad3c8f9bb2">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11318%3Fprg140729%3Da29ebb35-5428-4337-865d-6037ec47e35b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11318?prg140729=a29ebb35-5428-4337-865d-6037ec47e35b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.5b11318?prg140729=a29ebb35-5428-4337-865d-6037ec47e35b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1069,37 +1069,34 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.5b11317?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b11317?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.6b00043?src=recsys">Charge-Convertible Carbon Dots for Imaging-Guided Drug Delivery with Enhanced <i>in Vivo</i> Cancer Therapeutic Efficiency</a>
+                           <li><a href="/doi/abs/10.1021/acs.chemrev.5b00148?src=recsys">Nanochemistry and Nanomedicine for Nanoparticle-based Diagnostics and Therapy</a>
                             <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">An</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span> 
+                             Chemical Reviews
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Prasad</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>116</em> (5), pp 2826–2885</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemrev.5b00148?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemrev.5b00148?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00148?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemrev.5b00148?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.6b01348?src=recsys">Reversible and Dynamic Fluorescence Imaging of Cellular Redox Self-Regulation Using Fast-Responsive Near-Infrared Ge-Pyronines</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jing</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Carbon dots (CDs) are remarkable nanocarriers due to their promising optical and biocompatible capabilities. However, their practical applicability in cancer therapeutics is limited by their insensitive surface properties to complicated tumor ...</span>
+                             <span><span class="bold">Abstract:</span> Cellular self-regulation of reactive oxygen species (ROS) stress via glutathione (GSH) antioxidant repair plays a crucial role in maintaining redox balance, which affects various physiological and pathological pathways. In this work, we developed a simple ...<sup></sup><sup></sup><sup></sup><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.6b00043?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.6b00043?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.6b00043?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.6b00043?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b05575?src=recsys">Self-Targeting Fluorescent Carbon Dots for Diagnosis of Brain Cancer Cells</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ruan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jing</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>9</em> (11), pp 11455–11461</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A new type of carbon dots (CD-Asp) with targeting function toward brain cancer glioma was synthesized <i>via</i> a straightforward pyrolysis route by using <span class="smallcaps">d</span>-glucose and <span class="smallcaps">l</span>-aspartic acid as starting materials. The as-prepared CD-Asp exhibits not only excellent ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b05575?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b05575?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b05575?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b05575?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsami.6b01348?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b01348?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b01348?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b01348?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1185,9 +1182,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.5b11318" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11318%3Fprg140729%3D42cfdff1-0c16-4b78-a63d-78ba026bb04d&amp;doi=10.1021%2Facsami.5b11318" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11318%3Fprg140729%3D76c2fa2a-46d8-4f50-8a86-b862d3c83fc7&amp;doi=10.1021%2Facsami.5b11318" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11318%3Fprg140729%3Dbcfbdaf5-bcec-4bcb-8e90-dfad3c8f9bb2&amp;title=Red+Fluorescent+Carbon+Nanoparticle-Based+Cell+Imaging+Probe&amp;doi=10.1021%2Facsami.5b11318" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.5b11318%3Fprg140729%3Da29ebb35-5428-4337-865d-6037ec47e35b&amp;title=Red+Fluorescent+Carbon+Nanoparticle-Based+Cell+Imaging+Probe&amp;doi=10.1021%2Facsami.5b11318" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

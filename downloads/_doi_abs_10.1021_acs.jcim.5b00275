@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="bf603b46-42c1-4677-9c0e-51af86dc4614">
+<html lang="en" class="pb-page" data-request-id="7d14e2da-618b-4ea2-ba76-86493a787e3f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jcim.5b00275;pageGroup:string:Publication Pages;issue:issue:10.1021/jcisd8.ahead-of-print;journal:journal:jcisd8;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00275%3Fprg140729%3Df88a6291-5283-45c7-ab64-8be5d75cd2f8" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00275?prg140729=f88a6291-5283-45c7-ab64-8be5d75cd2f8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00275?prg140729=f88a6291-5283-45c7-ab64-8be5d75cd2f8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00275%3Fprg140729%3D8b5c1a53-e9e9-4ef5-805f-7fa526e748bd" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00275?prg140729=8b5c1a53-e9e9-4ef5-805f-7fa526e748bd&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00275?prg140729=8b5c1a53-e9e9-4ef5-805f-7fa526e748bd">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -946,18 +946,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i2"><span>Materials and Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i3"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i12"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i15"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1097,22 +1085,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jcim.5b00504?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jcim.5b00504?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jcim.5b00387?src=recsys">CSAR Benchmark Exercise 2013: Evaluation of Results from a Combined Computational Protein Design, Docking, and Scoring/Ranking Challenge</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Information and Modeling
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Damm-Ganamet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dunbar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahmed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chinnaswamy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Delproposto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kubish</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tinberg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Khare</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doyle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stuckey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baker</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Carlson</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Community Structure–Activity Resource (CSAR) conducted a benchmark exercise to evaluate the current computational methods for protein design, ligand docking, and scoring/ranking. The exercise consisted of three phases. The first phase required the ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jcim.5b00387?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jcim.5b00387?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jcim.5b00387?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jcim.5b00387?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jcim.5b00477?src=recsys">Integration of Ligand and Structure Based Approaches for CSAR-2014</a>
                             <div class="achsLabel">
                              Journal of Chemical Information and Modeling
@@ -1144,6 +1116,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jcim.5b00337?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jcim.5b00337?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jcim.5b00337?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jcim.5b00387?src=recsys">CSAR Benchmark Exercise 2013: Evaluation of Results from a Combined Computational Protein Design, Docking, and Scoring/Ranking Challenge</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Information and Modeling
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Damm-Ganamet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dunbar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahmed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chinnaswamy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Delproposto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kubish</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tinberg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Khare</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doyle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stuckey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Baker</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Carlson</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Community Structure–Activity Resource (CSAR) conducted a benchmark exercise to evaluate the current computational methods for protein design, ligand docking, and scoring/ranking. The exercise consisted of three phases. The first phase required the ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jcim.5b00387?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jcim.5b00387?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jcim.5b00387?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jcim.5b00387?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jcim.5b00278?src=recsys">Evaluation of the Wilma-SIE Virtual Screening Method in Community Structure–Activity Resource 2013 and 2014 Blind Challenges</a>
                             <div class="achsLabel">
@@ -1246,9 +1234,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jcim.5b00275" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00275%3Fprg140729%3D1566f358-0b32-4f6e-a5ed-091d6e476aee&amp;doi=10.1021%2Facs.jcim.5b00275" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00275%3Fprg140729%3D9adac2f3-2e54-420f-9bf3-15fea5779ebf&amp;doi=10.1021%2Facs.jcim.5b00275" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00275%3Fprg140729%3Df88a6291-5283-45c7-ab64-8be5d75cd2f8&amp;title=HybridDock%3A+A+Hybrid+Protein%E2%80%93Ligand+Docking+Protocol+Integrating+Protein-+and+Ligand-Based+Approaches&amp;doi=10.1021%2Facs.jcim.5b00275" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00275%3Fprg140729%3D8b5c1a53-e9e9-4ef5-805f-7fa526e748bd&amp;title=HybridDock%3A+A+Hybrid+Protein%E2%80%93Ligand+Docking+Protocol+Integrating+Protein-+and+Ligand-Based+Approaches&amp;doi=10.1021%2Facs.jcim.5b00275" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1271,10 +1259,10 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo49lcCqkeb-rVg90H21EOLACvtfcHk0ljRO77eAI4SjA&amp;loc=%2FControllerServlet&amp;pubId=40026030" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaLlNb-CX1r9itQwD9OmoEd0MfoQaoD0LZ1n4n3TnEBCD&amp;loc=%2FControllerServlet&amp;pubId=40026030" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScmBJlXSmQLWtrnDmCxc-CThi25Vg2O3MhF7Un1jIQGr&amp;loc=%2FControllerServlet&amp;pubId=40026030" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202456&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fciting.jsf%3Fl%3Dg2Ei4BFBAtcGbHEaWbzAajj2VwKqR5v6tWD3QfbUQ4sAK-19weTSWNE7vt4AjhKM&amp;loc=%2FControllerServlet&amp;pubId=40026030" title="Retrieve All References Citing this Article" target="scifinder">Retrieve All References Citing this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo49lcCqkeb-rVg90H21EOLACvtfcHk0lidNV35xMOxRA&amp;loc=%2FControllerServlet&amp;pubId=40026030" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaLlNb-CX1r9itQwD9OmoEd1HGBCSbour1R-m1PBBbYbm&amp;loc=%2FControllerServlet&amp;pubId=40026030" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScmBJlXSmQLWtrnDmCxc-CThi25Vg2O3MuX59qaCZI8V&amp;loc=%2FControllerServlet&amp;pubId=40026030" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202456&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fciting.jsf%3Fl%3Dg2Ei4BFBAtcGbHEaWbzAajj2VwKqR5v6tWD3QfbUQ4sAK-19weTSWF7xIqYiViIm&amp;loc=%2FControllerServlet&amp;pubId=40026030" title="Retrieve All References Citing this Article" target="scifinder">Retrieve All References Citing this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

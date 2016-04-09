@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b5a7d8cf-a9e3-426f-8d88-b5ea8d094d24">
+<html lang="en" class="pb-page" data-request-id="f46af7a0-6a79-4d98-915f-486d4c341f9c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:ancham;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/ancham.ahead-of-print;article:article:10.1021/acs.analchem.6b00195;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -149,8 +149,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00195%3Fprg140729%3D1ebb9d87-39fc-4015-b8ec-0e9b8aa738a8" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00195?prg140729=1ebb9d87-39fc-4015-b8ec-0e9b8aa738a8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00195?prg140729=1ebb9d87-39fc-4015-b8ec-0e9b8aa738a8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00195%3Fprg140729%3Dc6561e97-ec37-4df9-bc57-cbe0431b1bad" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00195?prg140729=c6561e97-ec37-4df9-bc57-cbe0431b1bad&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00195?prg140729=c6561e97-ec37-4df9-bc57-cbe0431b1bad">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1024,17 +1024,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i10"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i15"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i18"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1148,6 +1137,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.6b00337?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.6b00337?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00535?src=recsys">Nonamplification Sandwich Assay Platform for Sensitive Nucleic Acid Detection Based on AuNPs Enumeration with the Dark-Field Microscope</a>
+                            <div class="achsLabel">
+                             Analytical Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A simple and efficient assay platform with high sensitivity, convenient implementation, and moderate cost in reagents and instrumentation is most appropriate for routine applications. On the basis of the gold nanoparticle (AuNP) enumeration signal readout ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00535?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.6b00535?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00535?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00535?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04190?src=recsys">Multiplexed Detection of Epigenetic Markers Using Quantum Dot (QD)-Encoded Hydrogel Microparticles</a>
+                            <div class="achsLabel">
+                             Analytical Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yeom</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Son</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tag</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Im</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cho</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Epigenetic alterations in gene expression are influenced by experiences and environment, resulting in significant variation of epigenetic markers from individual to individual. Therefore, it is imperative to measure various epigenetic markers ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.analchem.5b04190?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b04190?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04190?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b04190?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.5b02822?src=recsys">Analytical Devices Based on Direct Synthesis of DNA on Paper</a>
                             <div class="achsLabel">
                              Analytical Chemistry
@@ -1163,38 +1184,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.analchem.5b02822?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.analchem.5b02822?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.5b02822?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04154?src=recsys">Double-Strand Displacement Biosensor and Quencher-Free Fluorescence Strategy for Rapid Detection of MicroRNA</a>
-                            <div class="achsLabel">
-                             Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cai</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We describe a facile quencher-free fluorescence strategy for rapid detection of microRNAs (miRNAs) by using a novel double-strand displacement sensor. The sensor is designed with an outstanding 2-aminopurine (2-AP) fluorophore as a probe and a predesigned ...<sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04154?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04154?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04154?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04154?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04538?src=recsys">A Method for Designing Instrument-Free Quantitative Immunoassays</a>
-                            <div class="achsLabel">
-                             Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lathwal</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Sikes</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (6), pp 3194–3202</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Colorimetric readouts are widely used in point-of-care diagnostic immunoassays to indicate either the presence or the absence of an analyte. For a variety of reasons, it is more difficult to quantify rather than simply detect an analyte using a ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04538?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04538?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04538?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04538?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1280,9 +1269,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.analchem.6b00195" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00195%3Fprg140729%3D7ada904e-dd12-47ab-8a3b-34624e307ab5&amp;doi=10.1021%2Facs.analchem.6b00195" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00195%3Fprg140729%3D120827ae-3731-4fd2-8ab5-09c975d9ff22&amp;doi=10.1021%2Facs.analchem.6b00195" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00195%3Fprg140729%3D1ebb9d87-39fc-4015-b8ec-0e9b8aa738a8&amp;title=Polydimethylsiloxane-Paper+Hybrid+Lateral+Flow+Assay+for+Highly+Sensitive+Point-of-Care+Nucleic+Acid+Testing&amp;doi=10.1021%2Facs.analchem.6b00195" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00195%3Fprg140729%3Dc6561e97-ec37-4df9-bc57-cbe0431b1bad&amp;title=Polydimethylsiloxane-Paper+Hybrid+Lateral+Flow+Assay+for+Highly+Sensitive+Point-of-Care+Nucleic+Acid+Testing&amp;doi=10.1021%2Facs.analchem.6b00195" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

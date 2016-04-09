@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="95891760-13c1-44d9-bc1e-8274799c8e78">
+<html lang="en" class="pb-page" data-request-id="486dbba7-99fa-4bd3-93f2-016896373918">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jceaax.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jceaax;article:article:10.1021/acs.jced.5b01043;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b01043%3Fprg140729%3D049faf4c-6e5e-4777-a06f-9e813ede7954" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b01043?prg140729=049faf4c-6e5e-4777-a06f-9e813ede7954&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b01043?prg140729=049faf4c-6e5e-4777-a06f-9e813ede7954">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b01043%3Fprg140729%3Df1ac619b-4923-4265-98e0-0df491cdf7cd" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b01043?prg140729=f1ac619b-4923-4265-98e0-0df491cdf7cd&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b01043?prg140729=f1ac619b-4923-4265-98e0-0df491cdf7cd">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -671,16 +671,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jced.5b01015" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jced.5b01089" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceaax/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -946,18 +936,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experiments" href="#_i2"><span>Experiments</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i6"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i15"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i18"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1033,6 +1011,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00927?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00927?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00771?src=recsys">Liquid–Liquid Equilibrium of Hydrophilic Alcohols with Three Different Salts of Chloride: Experiment and Correlation</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Khayati</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Gholitabar</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Ternary liquid–liquid phase equilibria were investigated at 298.15 K for hydrophilic alcohols (2-propanol/1-propanol) + different salts of chloride (KCl/NaCl/CaCl<sub>2</sub>) + water systems. The phase-forming and salting-out capabilities of the mentioned salts ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00771?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00771?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00771?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00771?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jced.5b01089?src=recsys">Effect of Solvent and pH on the Extraction of Carbolic Acid from Aqueous Solution by TOMAC</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
@@ -1065,22 +1059,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b01015?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b01015?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b00771?src=recsys">Liquid–Liquid Equilibrium of Hydrophilic Alcohols with Three Different Salts of Chloride: Experiment and Correlation</a>
-                            <div class="achsLabel">
-                             Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Khayati</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Gholitabar</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Ternary liquid–liquid phase equilibria were investigated at 298.15 K for hydrophilic alcohols (2-propanol/1-propanol) + different salts of chloride (KCl/NaCl/CaCl<sub>2</sub>) + water systems. The phase-forming and salting-out capabilities of the mentioned salts ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b00771?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b00771?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00771?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b00771?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jced.5b00969?src=recsys">Thermodynamic Properties of the β-Diketone–ZnSO<sub>4</sub>–(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>–NH<sub>3(aq)</sub>–H<sub>2</sub>O System</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
@@ -1097,21 +1075,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00969?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00969?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b00945?src=recsys">Using Molecular Simulations To Develop Reliable Design Tools and Correlations for Engineering Applications of Aqueous Electrolyte Solutions</a>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00938?src=recsys">Phase Equilibria for the Aqueous Reciprocal Quaternary System K<sup>+</sup>, Mg<sup>2+</sup>//Cl<sup>–</sup>, Borate–H<sub>2</sub>O at 298 K</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hinkle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jameson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Murad</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zeng</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Many industrial processes involve processing aqueous electrolyte solutions. There is thus a need for accurate theories to predict their thermophysical properties. Recent studies have shown that the size of the hydrated ion plays an important role in ...</span>
+                             <span><span class="bold">Abstract:</span> The phase equilibria of the quaternary system K<sup>+</sup>, Mg<sup>2+</sup>//Cl<sup>–</sup>, borate–H<sub>2</sub>O were studied at <i>T</i> = 298 K using an isothermal dissolution method. On the basis of the experimental data, the stable equilibrium phase diagram and the diagrams of the density versus ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b00945?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b00945?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00945?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b00945?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jced.5b00938?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00938?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00938?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00938?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1164,7 +1142,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jced.5b01043" title="High-Res PDF: 1075 KB" target="_blank"> PDF <span class="details">(1075 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jced.5b01043" title="Low-Res PDF: 399 KB" target="_blank"> PDF w/ Links <span class="details">(399 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jced.5b01043" title="Low-Res PDF: 379 KB" target="_blank"> PDF w/ Links <span class="details">(379 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jced.5b01043" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1197,9 +1175,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jced.5b01043" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b01043%3Fprg140729%3Df444b595-51c1-4c57-9c9d-88b2a4c63ab2&amp;doi=10.1021%2Facs.jced.5b01043" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b01043%3Fprg140729%3D71f94c3d-1672-4605-ab32-073f591d7267&amp;doi=10.1021%2Facs.jced.5b01043" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b01043%3Fprg140729%3D049faf4c-6e5e-4777-a06f-9e813ede7954&amp;title=Measurement+and+Correlation+of+Solubilities+and+Solution+Thermodynamics+for+N%2CN-Diethylformamide+%2B+MCl+%28M+%3D+Na%2C+K%2C+Rb%2C+and+Cs%29+%2B+Water+Systems+in+the+Temperature+Range+288.15%E2%80%93338.15+K&amp;doi=10.1021%2Facs.jced.5b01043" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b01043%3Fprg140729%3Df1ac619b-4923-4265-98e0-0df491cdf7cd&amp;title=Measurement+and+Correlation+of+Solubilities+and+Solution+Thermodynamics+for+N%2CN-Diethylformamide+%2B+MCl+%28M+%3D+Na%2C+K%2C+Rb%2C+and+Cs%29+%2B+Water+Systems+in+the+Temperature+Range+288.15%E2%80%93338.15+K&amp;doi=10.1021%2Facs.jced.5b01043" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1222,9 +1200,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqy-7a4kxGM4rVg90H21EOLACvtfcHk0lgfjUIYdLgxCA&amp;loc=%2FControllerServlet&amp;pubId=40026027" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGJMQ67goMQR4tQwD9OmoEd18Vnm3BBvVxOeddBcwwnNb&amp;loc=%2FControllerServlet&amp;pubId=40026027" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSVqOYPRzZTa_trnDmCxc-CThi25Vg2O3MtXwoNMq5tAs&amp;loc=%2FControllerServlet&amp;pubId=40026027" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqy-7a4kxGM4rVg90H21EOLACvtfcHk0lhNpY5-9z-v8g&amp;loc=%2FControllerServlet&amp;pubId=40026027" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGJMQ67goMQR4tQwD9OmoEd3OrfXRmwCGEdsSDs7y5Wdj&amp;loc=%2FControllerServlet&amp;pubId=40026027" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSVqOYPRzZTa_trnDmCxc-CThi25Vg2O3Mmb5y893NK1P&amp;loc=%2FControllerServlet&amp;pubId=40026027" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

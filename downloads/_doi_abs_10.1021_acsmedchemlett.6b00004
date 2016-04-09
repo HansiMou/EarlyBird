@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2996d797-ea66-4316-ae03-5b7acba929fd">
+<html lang="en" class="pb-page" data-request-id="957c309a-6ae0-4541-8a43-eba81ff715eb">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acsmedchemlett.6b00004;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -153,8 +153,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00004%3Fprg140729%3D47f81f48-3921-4f15-a6cb-b6c787892390" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00004?prg140729=47f81f48-3921-4f15-a6cb-b6c787892390&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00004?prg140729=47f81f48-3921-4f15-a6cb-b6c787892390">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00004%3Fprg140729%3Ddaf95bf5-46fd-45ae-a1d1-bd0ab3daab2e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00004?prg140729=daf95bf5-46fd-45ae-a1d1-bd0ab3daab2e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.6b00004?prg140729=daf95bf5-46fd-45ae-a1d1-bd0ab3daab2e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -695,16 +695,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acsmedchemlett.5b00309" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acsmedchemlett.6b00040" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/amclct/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1021,6 +1011,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i10"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1175,21 +1173,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsmedchemlett.5b00495?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsmedchemlett.5b00495?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsmedchemlett.5b00368?src=recsys">Discovery of Pyrazolopyridones as a Novel Class of Gyrase B Inhibitors Using Structure Guided Design</a>
+                           <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00014?src=recsys">Identification of a Potent and Selective GPR4 Antagonist as a Drug Lead for the Treatment of Myocardial Infarction</a>
                             <div class="achsLabel">
                              ACS Medicinal Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cross</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mesleh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Romero</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bevan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poutsiaka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Epie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Daniel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shotwell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chamberlain</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Andersen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ryan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Metcalf</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Silverman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nguyen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lippa</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dolle</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fukuda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ito</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Watari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mogi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Arisawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Okajima</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kurose</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shuto</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The ATPase subunit of DNA gyrase B is an attractive antibacterial target due to high conservation across bacteria and the essential role it plays in DNA replication. A novel class of pyrazolopyridone inhibitors was discovered by optimizing a fragment ...</span>
+                             <span><span class="bold">Abstract:</span> GPR4, a pH-sensing G protein-coupled receptor, is highly expressed in endothelial cells and may be activated in myocardial infarction due the decreased tissue pH. We are interested in GPR4 antagonists as potential effective pharmacologic tools and/or drug ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsmedchemlett.5b00368?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsmedchemlett.5b00368?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.5b00368?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsmedchemlett.5b00368?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsmedchemlett.6b00014?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmedchemlett.6b00014?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00014?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmedchemlett.6b00014?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1242,7 +1240,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acsmedchemlett.6b00004" title="High-Res PDF: 939 KB" target="_blank"> PDF <span class="details">(939 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00004" title="Low-Res PDF: 344 KB" target="_blank"> PDF w/ Links <span class="details">(344 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00004" title="Low-Res PDF: 329 KB" target="_blank"> PDF w/ Links <span class="details">(329 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acsmedchemlett.6b00004" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1275,9 +1273,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.6b00004" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00004%3Fprg140729%3D5cf40d64-d6db-49f7-9ad6-d3e2debd43f7&amp;doi=10.1021%2Facsmedchemlett.6b00004" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00004%3Fprg140729%3Dfc889924-3488-4caf-83c2-fb6d95d1bca5&amp;doi=10.1021%2Facsmedchemlett.6b00004" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00004%3Fprg140729%3D47f81f48-3921-4f15-a6cb-b6c787892390&amp;title=Development+of+Novel+1%2C2%2C3%2C4-Tetrahydroquinoline+Scaffolds+as+Potent+NF-%CE%BAB+Inhibitors+and+Cytotoxic+Agents&amp;doi=10.1021%2Facsmedchemlett.6b00004" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.6b00004%3Fprg140729%3Ddaf95bf5-46fd-45ae-a1d1-bd0ab3daab2e&amp;title=Development+of+Novel+1%2C2%2C3%2C4-Tetrahydroquinoline+Scaffolds+as+Potent+NF-%CE%BAB+Inhibitors+and+Cytotoxic+Agents&amp;doi=10.1021%2Facsmedchemlett.6b00004" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1300,9 +1298,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrY6oOV3k9HZbVg90H21EOLACvtfcHk0lg0MMoZ8cOf0w&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGG64v62Klj3ltQwD9OmoEd1aBCZxIeQKmcORfDEB_E_U&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQoS3yqm7uv6trnDmCxc-CThi25Vg2O3Mvc20voX3Njl&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrY6oOV3k9HZbVg90H21EOLACvtfcHk0lhVf1y8veAqDA&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGG64v62Klj3ltQwD9OmoEd2_QJTfWifw3XOzRd_2yrbe&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQoS3yqm7uv6trnDmCxc-CThi25Vg2O3MsUaufCEoq6c&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

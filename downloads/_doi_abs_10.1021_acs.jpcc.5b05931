@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="063af5b4-6a21-4f96-a826-5444296d6416">
+<html lang="en" class="pb-page" data-request-id="a41249f2-4c18-4164-8630-c558b76234d2">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.jpcc.5b05931;website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b05931%3Fprg140729%3D9ee2fe84-1e64-4fb4-9dad-529ebb49ba3c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b05931?prg140729=9ee2fe84-1e64-4fb4-9dad-529ebb49ba3c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b05931?prg140729=9ee2fe84-1e64-4fb4-9dad-529ebb49ba3c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b05931%3Fprg140729%3D50dab764-8fd2-4a3e-bfac-654977591b59" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b05931?prg140729=50dab764-8fd2-4a3e-bfac-654977591b59&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b05931?prg140729=50dab764-8fd2-4a3e-bfac-654977591b59">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -960,18 +960,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i3"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Summary" href="#_i4"><span>Summary</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i8"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1077,22 +1065,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b03234?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b03234?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b04560?src=recsys">Super-Nernstian Shifts of Interfacial Proton-Coupled Electron Transfers: Origin and Effect of Noncovalent Interactions</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wildi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cabello</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zoloff Michoff</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vélez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leiva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Calvente</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Andreu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cuesta</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Anions whose specific adsorption involves a proton-coupled electron transfer (PCET) include adsorbed OH (OH<sub>ad</sub>), which plays an enormously relevant role in many fuel-cell reactions. OH<sub>ad</sub> formation has often been found to happen in alkaline solutions at ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b04560?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b04560?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b04560?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b04560?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b03917?src=recsys">Reflection Microspectroscopic Study of Laser Trapping Assembling of Polystyrene Nanoparticles at Air/Solution Interface</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1124,6 +1096,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpcc.5b05142?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b05142?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b05142?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b04560?src=recsys">Super-Nernstian Shifts of Interfacial Proton-Coupled Electron Transfers: Origin and Effect of Noncovalent Interactions</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wildi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cabello</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zoloff Michoff</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vélez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leiva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Calvente</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Andreu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cuesta</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Anions whose specific adsorption involves a proton-coupled electron transfer (PCET) include adsorbed OH (OH<sub>ad</sub>), which plays an enormously relevant role in many fuel-cell reactions. OH<sub>ad</sub> formation has often been found to happen in alkaline solutions at ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b04560?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b04560?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b04560?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b04560?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1209,9 +1197,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b05931" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b05931%3Fprg140729%3De40e5c0e-bcd2-4444-9675-42a840098eaa&amp;doi=10.1021%2Facs.jpcc.5b05931" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b05931%3Fprg140729%3Dfcab048c-5c7f-4044-b22d-58a2d763712b&amp;doi=10.1021%2Facs.jpcc.5b05931" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b05931%3Fprg140729%3D9ee2fe84-1e64-4fb4-9dad-529ebb49ba3c&amp;title=Quantitative+Determination+of+the+Raman+Enhancement+of+Ag30%28CO%2925+and+Ag50%28CO%2940+Matrix+Isolated+in+Solid+Carbon+Monoxide&amp;doi=10.1021%2Facs.jpcc.5b05931" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b05931%3Fprg140729%3D50dab764-8fd2-4a3e-bfac-654977591b59&amp;title=Quantitative+Determination+of+the+Raman+Enhancement+of+Ag30%28CO%2925+and+Ag50%28CO%2940+Matrix+Isolated+in+Solid+Carbon+Monoxide&amp;doi=10.1021%2Facs.jpcc.5b05931" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

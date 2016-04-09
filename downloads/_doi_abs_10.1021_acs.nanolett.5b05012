@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="84556aac-3fb8-4a6d-a30a-d8ec84910137">
+<html lang="en" class="pb-page" data-request-id="6a1f4508-bb17-4896-a6b7-8d27503017af">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.nanolett.5b05012;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -153,8 +153,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05012%3Fprg140729%3D63e3fd44-9c1f-4480-a7e1-36a9c22c594c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05012?prg140729=63e3fd44-9c1f-4480-a7e1-36a9c22c594c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05012?prg140729=63e3fd44-9c1f-4480-a7e1-36a9c22c594c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05012%3Fprg140729%3D642e0b95-2ed3-4e13-856b-5d2854c59375" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05012?prg140729=642e0b95-2ed3-4e13-856b-5d2854c59375&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05012?prg140729=642e0b95-2ed3-4e13-856b-5d2854c59375">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -689,7 +689,7 @@ $(function(){
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.nanolett.6b00034" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.nanolett.5b04218" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1152,6 +1152,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.5b05556?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b05556?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04513?src=recsys">Defect-Tolerant Monolayer Transition Metal Dichalcogenides</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pandey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rasmussen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kuhar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Olsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jacobsen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Thygesen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Localized electronic states formed inside the band gap of a semiconductor due to crystal defects can be detrimental to the material’s optoelectronic properties. Semiconductors with a lower tendency to form defect induced deep gap states are termed defect-...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b04513?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b04513?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04513?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04513?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.5b03954?src=recsys">Stark Effect Spectroscopy of Mono- and Few-Layer MoS<sub>2</sub></a>
                             <div class="achsLabel">
                              Nano Letters
@@ -1168,21 +1184,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.5b03954?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.5b03954?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04141?src=recsys">Hybrid, Gate-Tunable, van der Waals p–n Heterojunctions from Pentacene and MoS<sub>2</sub></a>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Chemically Tailoring Semiconducting Two-Dimensional Transition Metal Dichalcogenides and Black Phosphorus</a>
                             <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jariwala</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Howell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sangwan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Filippone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Turrisi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marks</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lauhon</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hersam</span> 
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ryder</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wood</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wells</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hersam</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>16</em> (1), pp 497–503</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The recent emergence of a wide variety of two-dimensional (2D) materials has created new opportunities for device concepts and applications. In particular, the availability of semiconducting transition metal dichalcogenides, in addition to semimetallic ...<sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Two-dimensional (2D) semiconducting transition metal dichalcogenides (TMDCs) and black phosphorus (BP) have beneficial electronic, optical, and physical properties at the few-layer limit. As atomically thin materials, 2D TMDCs and BP are highly sensitive ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b04141?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b04141?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04141?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04141?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.6b01091?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b01091?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b01091?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.5b04066?src=recsys">Electrically Tunable Valley-Light Emitting Diode (vLED) Based on CVD-Grown Monolayer WS<sub>2</sub></a>
                             <div class="achsLabel">
@@ -1200,37 +1216,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04066?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.5b04066?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.6b00980?src=recsys">Interlayer Transition and Infrared Photodetection in Atomically Thin Type-II MoTe<sub>2</sub>/MoS<sub>2</sub> van der Waals Heterostructures</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zeng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Duan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dai</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3852–3858</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We demonstrate the type-II staggered band alignment in MoTe<sub>2</sub>/MoS<sub>2</sub> van der Waals (vdW) heterostructures and an interlayer optical transition at ∼1.55 μm. The photoinduced charge separation between the MoTe<sub>2</sub>/MoS<sub>2</sub> vdW heterostructure is verified by Kelvin ...<sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.6b00980?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.6b00980?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.6b00980?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.6b00980?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b05066?src=recsys">Low-Resistance 2D/2D Ohmic Contacts: A Universal Approach to High-Performance WSe<sub>2</sub>, MoS<sub>2</sub>, and MoSe<sub>2</sub> Transistors</a>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04141?src=recsys">Hybrid, Gate-Tunable, van der Waals p–n Heterojunctions from Pentacene and MoS<sub>2</sub></a>
                             <div class="achsLabel">
                              Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chuang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chamlagain</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koehler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Perera</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mandrus</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tománek</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jariwala</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Howell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sangwan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Filippone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Turrisi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marks</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lauhon</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hersam</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>16</em> (3), pp 1896–1902</span>
+                             <span><span class="bold">2016</span> <em>16</em> (1), pp 497–503</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We report a new strategy for fabricating 2D/2D low-resistance ohmic contacts for a variety of transition metal dichalcogenides (TMDs) using van der Waals assembly of substitutionally doped TMDs as drain/source contacts and TMDs with no intentional doping ...<sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> The recent emergence of a wide variety of two-dimensional (2D) materials has created new opportunities for device concepts and applications. In particular, the availability of semiconducting transition metal dichalcogenides, in addition to semimetallic ...<sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b05066?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b05066?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05066?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b05066?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b04141?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b04141?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04141?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04141?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1283,7 +1283,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.nanolett.5b05012" title="High-Res PDF: 2020 KB" target="_blank"> PDF <span class="details">(2020 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05012" title="Low-Res PDF: 352 KB" target="_blank"> PDF w/ Links <span class="details">(352 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05012" title="Low-Res PDF: 353 KB" target="_blank"> PDF w/ Links <span class="details">(353 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.nanolett.5b05012" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1317,9 +1317,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.5b05012" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05012%3Fprg140729%3Da18187fd-cfe3-460d-8c8b-4425924eeb32&amp;doi=10.1021%2Facs.nanolett.5b05012" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05012%3Fprg140729%3D16f1f316-6042-4788-b3e6-138dcb2b444d&amp;doi=10.1021%2Facs.nanolett.5b05012" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05012%3Fprg140729%3D63e3fd44-9c1f-4480-a7e1-36a9c22c594c&amp;title=Energy+Transfer+from+Quantum+Dots+to+Graphene+and+MoS2%3A+The+Role+of+Absorption+and+Screening+in+Two-Dimensional+Materials&amp;doi=10.1021%2Facs.nanolett.5b05012" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.5b05012%3Fprg140729%3D642e0b95-2ed3-4e13-856b-5d2854c59375&amp;title=Energy+Transfer+from+Quantum+Dots+to+Graphene+and+MoS2%3A+The+Role+of+Absorption+and+Screening+in+Two-Dimensional+Materials&amp;doi=10.1021%2Facs.nanolett.5b05012" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

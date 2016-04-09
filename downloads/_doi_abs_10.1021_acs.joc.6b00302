@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="7c366134-f068-4bcc-98c9-423f7b087adc">
+<html lang="en" class="pb-page" data-request-id="2acbd620-3b97-4e8c-849d-2ea8202f5da4">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/joceah.ahead-of-print;journal:journal:joceah;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.joc.6b00302;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00302%3Fprg140729%3Df5f03192-ef37-4795-8cd3-8785deeca114" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00302?prg140729=f5f03192-ef37-4795-8cd3-8785deeca114&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00302?prg140729=f5f03192-ef37-4795-8cd3-8785deeca114">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00302%3Fprg140729%3D44d8db3f-f7ca-4838-886d-b9329cfd95d1" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00302?prg140729=44d8db3f-f7ca-4838-886d-b9329cfd95d1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.6b00302?prg140729=44d8db3f-f7ca-4838-886d-b9329cfd95d1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1025,22 +1025,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.joc.5b02894?src=recsys">Highly Diastereoselective Route to α-Glucosidase Inhibitors, Neosalacinol and Neoponkoranol</a>
-                            <div class="achsLabel">
-                             The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tanabe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Matsuda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kunikata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tsutsui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Balakishan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marumoto</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Muraoka</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A facile and highly diastereoselective route to potent natural α-glucosidase inhibitors, i.e., neosalacinol (<b>4</b>) and neoponkoranol (<b>6</b>), isolated from the traditional Ayurvedic medicine “<i>Salacia</i>” was developed by intramolecular cyclization of appropriately ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.5b02894?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.5b02894?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.5b02894?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.5b02894?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.joc.6b00148?src=recsys">Purinyl N<sup>3</sup>-Directed Palladium-Catalyzed C–H Alkoxylation of <i>N</i><sup>9</sup>-Arylpurines: A Late-Stage Strategy to Synthesize <i>N</i><sup>9</sup>-(<i>ortho</i>-Alkoxyl)arylpurines</a>
                             <div class="achsLabel">
                              The Journal of Organic Chemistry
@@ -1057,20 +1041,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.joc.6b00148?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.joc.6b00148?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.joc.6b00327?src=recsys">Stereoselective Total Synthesis of (−)-Renieramycin T</a>
+                           <li><a href="/doi/abs/10.1021/acs.joc.5b02190?src=recsys">Synthesis of Naphthylpyridines from Unsymmetrical Naphthylheptadiynes and the Configurational Stability of the Biaryl Axis</a>
                             <div class="achsLabel">
                              The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yokoya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Toyoshima</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suzuki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Le</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Williams</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Saito</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fischer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Siegle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Checinski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fischer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kral</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thede</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Trapp</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hapke</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A stereoselective total synthesis of (−)-Renieramycin T (1t) from a key tetrahydroisoquinoline intermediate previously utilized in our formal total synthesis of Ecteinascidin 743 is described. The synthesis features a concise approach for construction of ...</span>
+                             <span><span class="bold">Abstract:</span> A series of different unsymmetrically substituted naphthyl-based diynes were synthesized. These substrates formed the foundation for the assembly of novel biaryls containing pyridine moieties with differently substituted five-membered rings in the ...<sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.6b00327?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00327?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.6b00327?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.joc.5b02190?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.5b02190?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.5b02190?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.5b02190?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.joc.5b02664?src=recsys">Cu-Catalyzed Multicomponent Reaction of Styrenes, Perfluoroalkyl Halide, Alcohol, and <i>tert</i>-Butyl Hydroperoxide: One-Pot Synthesis of (<i>Z</i>)-β-Alkoxyperfluoroalkenone</a>
+                            <div class="achsLabel">
+                             The Journal of Organic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> An efficient synthesis of <i>Z</i>-perfluoroalkyl-substituted enones by a multicomponent reaction strategy has been described. A variety of elusive perfluoroalkylated enones are furnished under mild reaction conditions in good yields with unique chemo- and ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.joc.5b02664?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.5b02664?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.5b02664?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.5b02664?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.joc.6b00308?src=recsys">Construction of Substituted Benzenes via Pd-Catalyzed Cross-Coupling/Cyclization Reaction of Vinyl Halides and Terminal Alkynes</a>
                             <div class="achsLabel">
@@ -1088,36 +1089,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.joc.6b00308?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.joc.6b00308?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.joc.6b00340?src=recsys">Synthesis and Characterization of Two Unsymmetrical Indenofluorene Analogues: Benzo[5,6]-s-indaceno[1,2-b]thiophene and Benzo[5,6]-s-indaceno[2,1-b]thiophene</a>
+                           <li><a href="/doi/abs/10.1021/acs.joc.6b00149?src=recsys">Two Scalable Syntheses of (<i>S</i>)-2-Methylazetidine</a>
                             <div class="achsLabel">
                              The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Marshall</span>, <span class="entryAuthor normal hlFld-ContribAuthor">O'Neal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zakharov</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Haley</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dowling</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fernando</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold">2016</span> <em>81</em> (7), pp 3031–3036</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The synthesis and characterization of two benzo-indaceno-thiophene compounds (anti-BIT and syn-BIT) are described. Two sequential Suzuki cross-couplings utilizing the halogen selectivity of this reaction permit modular assembly of asymmetric indeno[1,2-b]...</span>
+                             <span><span class="bold">Abstract:</span> Two orthogonal routes for preparing (<i>S</i>)-2-methylazetidine as a bench stable, crystalline (<i>R</i>)-(−)-CSA salt are presented. One route features the in situ generation and cyclization of a 1,3-bis-triflate to form the azetidine ring, while the second route ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.6b00340?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00340?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.6b00340?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.joc.6b00149?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.6b00149?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00149?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.6b00149?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.joc.6b00424?src=recsys">Synthesis of Imidates: TFA-Mediated Regioselective Amide Alkylation Using Meerwein’s Reagent</a>
+                           <li><a href="/doi/abs/10.1021/acs.joc.6b00113?src=recsys">One-Pot Synthesis and Evaluation of Antileishmanial Activities of Functionalized <i>S</i>-Alkyl/Aryl Benzothiazole-2-carbothioate Scaffold</a>
                             <div class="achsLabel">
                              The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Popov</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Somfai</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shadab</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Khan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ali</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Khan</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Regioselective <i>O</i>-alkylation of an amide to form the corresponding imidate is a common synthetic problem, often resulting in varying amounts of <i>N</i>-alkylation. Screening existing methods for converting amides to imidates gave inconsistent or irreproducible ...</span>
+                             <span><span class="bold">Abstract:</span> The synthesis of hitherto unreported <i>S</i>-alkyl/aryl benzothiazole-2-carbothioate is reported from thiols, oxalyl chloride, and 2-aminothiophenols using 10 mol % <i>n</i>-tetrabutylammonium iodide (TBAI) as catalyst in acetonitrile through multicomponent reaction (...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.6b00424?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.6b00424?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00424?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.6b00424?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.joc.6b00113?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.6b00113?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00113?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.6b00113?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1203,9 +1205,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.joc.6b00302" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00302%3Fprg140729%3D442bf4c1-9998-4d9b-a128-0b7b64156526&amp;doi=10.1021%2Facs.joc.6b00302" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00302%3Fprg140729%3D16d18504-430b-42da-a698-eac3e5512deb&amp;doi=10.1021%2Facs.joc.6b00302" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00302%3Fprg140729%3Df5f03192-ef37-4795-8cd3-8785deeca114&amp;title=Enantioselective+Synthesis+of+Dideoxy-tetrafluorinated+Hexoses&amp;doi=10.1021%2Facs.joc.6b00302" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.6b00302%3Fprg140729%3D44d8db3f-f7ca-4838-886d-b9329cfd95d1&amp;title=Enantioselective+Synthesis+of+Dideoxy-tetrafluorinated+Hexoses&amp;doi=10.1021%2Facs.joc.6b00302" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

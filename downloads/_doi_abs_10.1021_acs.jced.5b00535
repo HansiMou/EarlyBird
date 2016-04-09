@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="f0201294-12cb-44ea-a198-d9ec502ed66b">
+<html lang="en" class="pb-page" data-request-id="e70d7109-c7d0-418a-933f-2ce7cce7222a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jceaax.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jceaax;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jced.5b00535">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00535%3Fprg140729%3D6f7301d0-475c-4a00-a10b-e2a2c01f39ec" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00535?prg140729=6f7301d0-475c-4a00-a10b-e2a2c01f39ec&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00535?prg140729=6f7301d0-475c-4a00-a10b-e2a2c01f39ec">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00535%3Fprg140729%3D54e2919e-fef3-42b2-b8d7-ff42d55d10f6" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00535?prg140729=54e2919e-fef3-42b2-b8d7-ff42d55d10f6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00535?prg140729=54e2919e-fef3-42b2-b8d7-ff42d55d10f6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -669,16 +669,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jced.5b00803" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jced.5b00901" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceaax/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1037,22 +1027,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00627?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00627?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b00679?src=recsys">Melting Points of Potential Liquid Organic Hydrogen Carrier Systems Consisting of <i>N</i>-Alkylcarbazoles</a>
-                            <div class="achsLabel">
-                             Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Stark</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Keil</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schug</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Müller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wasserscheid</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Arlt</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Liquid organic hydrogen carriers (LOHCs) represent an attractive concept for storing hydrogen by the hydrogenation of usually aromatic compounds. One of the best investigated LOHCs is <i>N</i>-ethylcarbazole because of its favorable thermodynamic properties. ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b00679?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b00679?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00679?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b00679?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jced.5b00821?src=recsys">Influence of Inorganic Salts on the Phase Equilibrium of Triton X-114 Aqueous Two-Phase Systems</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
@@ -1069,21 +1043,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00821?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00821?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b00580?src=recsys">Density and Viscosity of the Ternary Systems [NMP][MSA] + LaCl<sub>3</sub> + H<sub>2</sub>O, [NMP][BSA] + LaCl<sub>3</sub> + H<sub>2</sub>O, and [NMP][<i>p</i>-TSA] + LaCl<sub>3</sub> + H<sub>2</sub>O at Different Temperatures and Atmospheric Pressure</a>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00679?src=recsys">Melting Points of Potential Liquid Organic Hydrogen Carrier Systems Consisting of <i>N</i>-Alkylcarbazoles</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Stark</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Keil</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schug</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Müller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wasserscheid</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Arlt</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The densities and viscosities are measured in the temperature range (293.15 to 308.15) K and atmospheric pressure for the ternary systems [NMP][MSA] (1-methyl-2-pyrrolidinonium methanesulfonate) + LaCl<sub>3</sub> (lanthanum chloride) + H<sub>2</sub>O, [NMP][BSA] (1-methyl-2-...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Liquid organic hydrogen carriers (LOHCs) represent an attractive concept for storing hydrogen by the hydrogenation of usually aromatic compounds. One of the best investigated LOHCs is <i>N</i>-ethylcarbazole because of its favorable thermodynamic properties. ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b00580?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b00580?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00580?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b00580?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jced.5b00679?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00679?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00679?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00679?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00803?src=recsys">Liquid–Liquid Equilibria for Ternary Systems of Water + Methoxycyclopentane + Alcohol (Methanol, Ethanol, 1-Propanol, or 2-Propanol)</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wales</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Joos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Probst</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vadlani</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Anthony</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Rezac</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Liquid–liquid equilibria data were determined for four ternary systems of water + alcohol + methoxycyclopentane (CPME); the alcohols used were methanol, ethanol, 1-propanol, and 2-propanol. All measurements were performed at 298.15 K and atmospheric ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00803?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00803?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00803?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00803?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1168,9 +1158,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jced.5b00535" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00535%3Fprg140729%3Dfde38473-c82c-4512-8506-97a1cad8ef3f&amp;doi=10.1021%2Facs.jced.5b00535" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00535%3Fprg140729%3D7780e120-4ef4-43cc-a469-5e767f49a854&amp;doi=10.1021%2Facs.jced.5b00535" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00535%3Fprg140729%3D6f7301d0-475c-4a00-a10b-e2a2c01f39ec&amp;title=Densities+and+Molar+Volumes+of+Aqueous+Solutions+of+LiClO4+at+Temperatures+from+293+K+to+343+K&amp;doi=10.1021%2Facs.jced.5b00535" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00535%3Fprg140729%3D54e2919e-fef3-42b2-b8d7-ff42d55d10f6&amp;title=Densities+and+Molar+Volumes+of+Aqueous+Solutions+of+LiClO4+at+Temperatures+from+293+K+to+343+K&amp;doi=10.1021%2Facs.jced.5b00535" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1193,8 +1183,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq7fQ-CxQQyvrVg90H21EOLACvtfcHk0ljb2Z-SIpqt3Q&amp;loc=%2FControllerServlet&amp;pubId=40026027" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQoin3J0doWBtrnDmCxc-CThi25Vg2O3MvoeYl1yxJPe&amp;loc=%2FControllerServlet&amp;pubId=40026027" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq7fQ-CxQQyvrVg90H21EOLACvtfcHk0lh8CRf89QYDQQ&amp;loc=%2FControllerServlet&amp;pubId=40026027" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQoin3J0doWBtrnDmCxc-CThi25Vg2O3MlJ7NJmdsnJp&amp;loc=%2FControllerServlet&amp;pubId=40026027" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

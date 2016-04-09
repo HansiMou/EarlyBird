@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="77ef8a00-3c8f-4cd7-90b7-b0d1ad7b665c">
+<html lang="en" class="pb-page" data-request-id="09e2c6b7-70ec-425b-a914-62e43187c43b">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jafcau;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.jafc.5b04616;issue:issue:10.1021/jafcau.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jafc.5b04616%3Fprg140729%3D9f24fb0e-0c06-4d84-9e91-788d41edd861" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jafc.5b04616?prg140729=9f24fb0e-0c06-4d84-9e91-788d41edd861&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jafc.5b04616?prg140729=9f24fb0e-0c06-4d84-9e91-788d41edd861">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jafc.5b04616%3Fprg140729%3D016ee267-15d1-4ea7-a5eb-4cfb29857fb8" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jafc.5b04616?prg140729=016ee267-15d1-4ea7-a5eb-4cfb29857fb8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jafc.5b04616?prg140729=016ee267-15d1-4ea7-a5eb-4cfb29857fb8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1019,22 +1019,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jafc.6b00379?src=recsys">Introduction to the 1st International Symposium on Phytochemicals in Medicine and Food (ISPMF 2015)</a>
-                            <div class="achsLabel">
-                             Journal of Agricultural and Food Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jassbi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>64</em> (12), pp 2439–2441</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The 1st International Symposium on Phytochemicals in Medicine and Food (ISPMF 2015) was held in Shanghai, China, from June 26th to 29th, 2015. The 1st ISPMF was organized by the Phytochemical Society of Europe (PSE) and the Phytochemical Society of Asia (...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jafc.6b00379?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jafc.6b00379?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jafc.6b00379?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jafc.6b00379?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jafc.5b06150?src=recsys">Identification of Penicillin G Metabolites under Various Environmental Conditions Using UHPLC-MS/MS</a>
                             <div class="achsLabel">
                              Journal of Agricultural and Food Chemistry
@@ -1050,6 +1034,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jafc.5b06150?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jafc.5b06150?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jafc.5b06150?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jafc.6b00379?src=recsys">Introduction to the 1st International Symposium on Phytochemicals in Medicine and Food (ISPMF 2015)</a>
+                            <div class="achsLabel">
+                             Journal of Agricultural and Food Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jassbi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>64</em> (12), pp 2439–2441</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The 1st International Symposium on Phytochemicals in Medicine and Food (ISPMF 2015) was held in Shanghai, China, from June 26th to 29th, 2015. The 1st ISPMF was organized by the Phytochemical Society of Europe (PSE) and the Phytochemical Society of Asia (...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jafc.6b00379?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jafc.6b00379?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jafc.6b00379?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jafc.6b00379?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jafc.5b04913?src=recsys">Isolation of Nicotinic Acid (Vitamin B3) and <i>N</i>-Propylamine after Myosmine Peroxidation</a>
                             <div class="achsLabel">
@@ -1099,21 +1099,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jafc.5b03681?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jafc.5b03681?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jafc.5b04726?src=recsys">Distribution of Animal Drugs between Skim Milk and Milk Fat Fractions in Spiked Whole Milk: Understanding the Potential Impact on Commercial Milk Products</a>
+                           <li><a href="/doi/abs/10.1021/acs.jafc.5b05304?src=recsys">Simulating Human and Environmental Exposure from Hand-Held Knapsack Pesticide Application: Be-WetSpa-Pest, an Integrative, Spatially Explicit Modeling Approach</a>
                             <div class="achsLabel">
                              Journal of Agricultural and Food Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hakk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shappell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lupton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shelver</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fanaselle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oryang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yeung</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hoelzer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gaalswyk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pouillot</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Van Doren</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Binder</span>, <span class="entryAuthor normal hlFld-ContribAuthor">García-Santos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Andreoli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Diaz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feola</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wittensoeldner</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>64</em> (1), pp 326–335</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Seven animal drugs [penicillin G (PENG), sulfadimethoxine (SDMX), oxytetracycline (OTET), erythromycin (ERY), ketoprofen (KETO), thiabendazole (THIA), and ivermectin (IVR)] were used to evaluate the drug distribution between milk fat and skim milk ...</span>
+                             <span><span class="bold">Abstract:</span> This paper presents an integrative and spatially explicit modeling approach for analyzing human and environmental exposure from pesticide application of smallholders in the potato-producing Andean region in Colombia. The modeling approach fulfills the ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jafc.5b04726?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jafc.5b04726?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jafc.5b04726?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jafc.5b04726?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jafc.5b05304?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jafc.5b05304?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jafc.5b05304?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jafc.5b05304?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1199,9 +1199,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jafc.5b04616" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jafc.5b04616%3Fprg140729%3D6888aeda-a130-498b-9b8f-df8c38f9ea9f&amp;doi=10.1021%2Facs.jafc.5b04616" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jafc.5b04616%3Fprg140729%3D82d9d14c-dfaf-4c6b-82bd-d4a84902b159&amp;doi=10.1021%2Facs.jafc.5b04616" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jafc.5b04616%3Fprg140729%3D9f24fb0e-0c06-4d84-9e91-788d41edd861&amp;title=Organomineral+Interactions+and+Herbicide+Sorption+in+Brazilian+Tropical+and+Subtropical+Oxisols+under+No-Tillage&amp;doi=10.1021%2Facs.jafc.5b04616" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jafc.5b04616%3Fprg140729%3D016ee267-15d1-4ea7-a5eb-4cfb29857fb8&amp;title=Organomineral+Interactions+and+Herbicide+Sorption+in+Brazilian+Tropical+and+Subtropical+Oxisols+under+No-Tillage&amp;doi=10.1021%2Facs.jafc.5b04616" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1224,9 +1224,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpvB53mChrqlLVg90H21EOLACvtfcHk0lgyO4BegedAaw&amp;loc=%2FControllerServlet&amp;pubId=40026026" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaH8XM5oBAq9jtQwD9OmoEd0eSk6gataSlijto1bQhQRC&amp;loc=%2FControllerServlet&amp;pubId=40026026" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSVP5mSOj0XyXtrnDmCxc-CThi25Vg2O3Mi5Kt7ZGwzEE&amp;loc=%2FControllerServlet&amp;pubId=40026026" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpvB53mChrqlLVg90H21EOLACvtfcHk0lhPuNAGcWVJIA&amp;loc=%2FControllerServlet&amp;pubId=40026026" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaH8XM5oBAq9jtQwD9OmoEd2jMWp_C5zEdOv7u4GhTZGk&amp;loc=%2FControllerServlet&amp;pubId=40026026" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSVP5mSOj0XyXtrnDmCxc-CThi25Vg2O3MqDc0B40VYgF&amp;loc=%2FControllerServlet&amp;pubId=40026026" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

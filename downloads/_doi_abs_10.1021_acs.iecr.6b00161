@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="92ec0a6a-5ef1-4cd8-9c91-cdc9af62517b">
+<html lang="en" class="pb-page" data-request-id="6c87bf29-db30-4591-aa78-b3030a5ed276">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;article:article:10.1021/acs.iecr.6b00161;issue:issue:10.1021/iecred.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:iecred;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00161%3Fprg140729%3D94a098ac-6e78-4092-b716-a5f91808beed" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.6b00161?prg140729=94a098ac-6e78-4092-b716-a5f91808beed&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.6b00161?prg140729=94a098ac-6e78-4092-b716-a5f91808beed">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00161%3Fprg140729%3D1967ac2c-cb02-4e8b-a928-30d440622dbe" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.6b00161?prg140729=1967ac2c-cb02-4e8b-a928-30d440622dbe&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.iecr.6b00161?prg140729=1967ac2c-cb02-4e8b-a928-30d440622dbe">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1002,7 +1002,73 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Bhargava%2C+Suresh+K">Suresh K. Bhargava</a></li>
                            <li><a href="/author/Chary%2C+Komandur+V+R">Komandur V. R. Chary</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.5b02283?src=recsys">Optimal Input Signal Design for Identification of Interactive and Ill-Conditioned Systems</a>
+                            <div class="achsLabel">
+                             Industrial &amp; Engineering Chemistry Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kumar</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Narasimhan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Optimal input design is the process of generating informative inputs that can be used to generate good quality dynamic models using minimal resources. In this work, we propose an optimization-based input design method for identification of ill-conditioned ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.iecr.5b02283?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.5b02283?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b02283?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.5b02283?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.6b00039?src=recsys">Assembled Block Copolymer Stabilized High Internal Phase Emulsion Hydrogels for Enhancing Oil Safety</a>
+                            <div class="achsLabel">
+                             Industrial &amp; Engineering Chemistry Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Accidental spills and subsequent fires during oil storage and transportation periods cause serious damage to environments. Herein, we present a novel route to enhance oil safety by transforming oils into high internal phase emulsion (HIPE) hydrogels. ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.iecr.6b00039?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.6b00039?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.6b00039?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.6b00039?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.6b00374?src=recsys">Optimization of Adsorption-Based Natural Gas Dryers</a>
+                            <div class="achsLabel">
+                             Industrial &amp; Engineering Chemistry Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Al Wahedi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rabie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Al Shaiba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Geuzebroek</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Daoutidis</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Common approaches in designing natural gas dryers are based on empirical algebraic correlations and design heuristics. Such approaches fail to capture the process physics and are generally not optimal. In this work a new method for the design of natural ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.iecr.6b00374?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.6b00374?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.6b00374?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.6b00374?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.iecr.5b04529?src=recsys">Influence of Gas Sparging Intermittence on Ultrafiltration Performance of Anaerobic Suspensions</a>
+                            <div class="achsLabel">
+                             Industrial &amp; Engineering Chemistry Research
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Vera</span>, <span class="entryAuthor normal hlFld-ContribAuthor">González</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ruigómez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gómez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Delgado</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A novel strategy for membrane fouling control based on combination of intermittent gas sparging and transmembrane pressure set-point (TMP<sub>sp</sub>) for backwashing initiation was assessed at laboratory scale. Ultrafiltration of anaerobic suspensions, complex and ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.iecr.5b04529?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.iecr.5b04529?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.iecr.5b04529?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.iecr.5b04529?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1086,9 +1152,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.iecr.6b00161" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00161%3Fprg140729%3Daf57884f-c257-4c67-b28b-f1eead161516&amp;doi=10.1021%2Facs.iecr.6b00161" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00161%3Fprg140729%3D581d9525-33ff-4b7a-9b66-df3c045799da&amp;doi=10.1021%2Facs.iecr.6b00161" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00161%3Fprg140729%3D94a098ac-6e78-4092-b716-a5f91808beed&amp;title=Activity+and+Selectivity+of+Platinum%E2%80%93Copper+Bimetallic+Catalysts+Supported+on+Mordenite+for+Glycerol+Hydrogenolysis+to+1%2C3-Propanediol&amp;doi=10.1021%2Facs.iecr.6b00161" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.iecr.6b00161%3Fprg140729%3D1967ac2c-cb02-4e8b-a928-30d440622dbe&amp;title=Activity+and+Selectivity+of+Platinum%E2%80%93Copper+Bimetallic+Catalysts+Supported+on+Mordenite+for+Glycerol+Hydrogenolysis+to+1%2C3-Propanediol&amp;doi=10.1021%2Facs.iecr.6b00161" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

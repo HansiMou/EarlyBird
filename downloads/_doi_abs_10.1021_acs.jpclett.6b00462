@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d712f9a3-6ba2-4d3b-b893-d26edcf92dac">
+<html lang="en" class="pb-page" data-request-id="a607fb36-e739-4fc3-913c-6c1a57abae05">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jpclcd;article:article:10.1021/acs.jpclett.6b00462;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpclcd.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00462%3Fprg140729%3D728bb377-6fae-4c10-8291-854241f1873d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00462?prg140729=728bb377-6fae-4c10-8291-854241f1873d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00462?prg140729=728bb377-6fae-4c10-8291-854241f1873d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00462%3Fprg140729%3D83b1dd81-1450-4fdb-8147-70ccd89b5954" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00462?prg140729=83b1dd81-1450-4fdb-8147-70ccd89b5954&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00462?prg140729=83b1dd81-1450-4fdb-8147-70ccd89b5954">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1047,7 +1047,105 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Bohme%2C+Diethard+K">Diethard K. Bohme</a></li>
                            <li><a href="/author/Scheier%2C+Paul">Paul Scheier</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00299?src=recsys">Electron–Vibron Coupling at Metal–Organic Interfaces from Theory and Experiment</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Rosenow</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jakob</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Tonner</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), pp 1422–1427</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We study the significance and characteristics of interfacial dynamical charge transfer at metal–organic interfaces for the organic semiconductor model system 1,4,5,8-naphthalene-tetra-carboxylic dianhydride (NTCDA) on Ag(111) quantitatively. We combine ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.6b00299?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.6b00299?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00299?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00299?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.5b02870?src=recsys">Resolution of the Band Gap Prediction Problem for Materials Design</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Crowley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tahir-Kheli</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Goddard</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>7</em> (7), pp 1198–1203</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> An important property with any new material is the band gap. Standard density functional theory methods grossly underestimate band gaps. This is known as the band gap problem. Here, we show that the hybrid B3PW91 density functional returns band gaps with ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.5b02870?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.5b02870?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.5b02870?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.5b02870?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.5b02471?src=recsys">Current-Driven Hydrogen Desorption from Graphene: Experiment and Theory</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Seideman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guisinger</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Guest</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>7</em> (3), pp 486–494</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Electron-stimulated desorption of hydrogen from the graphene/SiC(0001) surface at room temperature was investigated with ultrahigh vacuum scanning tunneling microscopy and ab initio calculations in order to elucidate the desorption mechanisms and ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.5b02471?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.5b02471?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.5b02471?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.5b02471?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12434?src=recsys">Distinguishing Bonds</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Rahm</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hoffmann</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3731–3744</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The energy change per electron in a chemical or physical transformation, Δ<i>E</i>/<i>n</i>, may be expressed as Δχ̅ + Δ(<i>V</i><sub>NN</sub> + ω)/<i>n</i>, where Δχ̅ is the average electron binding energy, a generalized electronegativity, Δ<i>V</i><sub>NN</sub> is the change in nuclear repulsions, and Δω is ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12434?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12434?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12434?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12434?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.5b02756?src=recsys">Excimers and Exciplexes in Photoinitiated Processes of Oligonucleotides</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Spata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Matsika</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>7</em> (6), pp 976–984</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A lot has been learned about the physical and chemical transformations that originate from the absorption of light by DNA, and computational chemistry has played a critical role in revealing the mechanisms of how these transformations occur. Nucleic acids ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.5b02756?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.5b02756?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.5b02756?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.5b02756?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00223?src=recsys">Identical Binding Energies and Work Functions for Distinct Adsorption Structures: Olympicenes on the Cu(111) Surface</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schuler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moll</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meyer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gross</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Tkatchenko</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>7</em> (6), pp 1022–1027</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Reliability is one of the major concerns and challenges in designing organic/inorganic interfaces for (opto)electronic applications. Even small structural differences for molecules on substrates can result in a significant variation in the interface ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.6b00223?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.6b00223?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00223?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00223?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1131,13 +1229,13 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpclett.6b00462" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00462%3Fprg140729%3D54e51f98-3224-415e-8b44-bdd8994ac019&amp;doi=10.1021%2Facs.jpclett.6b00462" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00462%3Fprg140729%3Db0277fb3-7fdc-4b03-9674-ff0fc577d2f8&amp;doi=10.1021%2Facs.jpclett.6b00462" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00462%3Fprg140729%3D728bb377-6fae-4c10-8291-854241f1873d&amp;title=Building+Carbon+Bridges+on+and+between+Fullerenes+in+Helium+Nanodroplets&amp;doi=10.1021%2Facs.jpclett.6b00462" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpclett.6b00462%3Fprg140729%3D83b1dd81-1450-4fdb-8147-70ccd89b5954&amp;title=Building+Carbon+Bridges+on+and+between+Fullerenes+in+Helium+Nanodroplets&amp;doi=10.1021%2Facs.jpclett.6b00462" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px rights-permissions"> <a id="rightsAndPermissions" title="Rights &amp; Permissions" href="/servlet/linkout?type=rightslink&amp;url=rpt%3Dn%26pageCount%3D6%26issn%3D1948-7185%26endPage%3D1445%26copyright%3DAmerican%2BChemical%2BSociety%26startPage%3D1440%26contentID%3Dacs.jpclett.6b00462%26publication%3Djpclcd%26author%3DSerge%2BA.%2BKrasnokutski%252C%2BMartin%2BKuhn%252C%2BAlexander%2BKaiser%252C%2Bet%2Bal%26title%3DBuilding%2BCarbon%2BBridges%2Bon%2Band%2Bbetween%2BFullerenes%2Bin%2BHelium%2BNanodroplets%26orderBeanReset%3Dtrue%26publisherName%3Dacs%26imprint%3DAmerican%2BChemical%2BSociety%26volumeNum%3D0%26issueNum%3D0%26publicationDate%3DApril%2B2016" target="_blank"> Rights &amp; Permissions 
+                             <li class="icon-item icon-item-24px rights-permissions"> <a id="rightsAndPermissions" title="Rights &amp; Permissions" href="/page/rightslinkno.jsp " target="_blank"> Rights &amp; Permissions 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px citation-alerts"> <a href="/action/addCitationAlert?doi=10.1021%2Facs.jpclett.6b00462" title="Citation Alerts"> Citation Alerts 
                                <div class="icon-24px"></div> </a> </li> 

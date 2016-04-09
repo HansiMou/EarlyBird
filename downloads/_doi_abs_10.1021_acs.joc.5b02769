@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="dbbc2598-322d-4328-86a3-673ecbecd90b">
+<html lang="en" class="pb-page" data-request-id="f259d5ea-f870-4f95-8459-55923a71b91d">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/joceah.ahead-of-print;journal:journal:joceah;pageGroup:string:Publication Pages;article:article:10.1021/acs.joc.5b02769;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02769%3Fprg140729%3Db2d02d5e-0d10-4cdf-a8d8-6b5c6b33b08b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02769?prg140729=b2d02d5e-0d10-4cdf-a8d8-6b5c6b33b08b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02769?prg140729=b2d02d5e-0d10-4cdf-a8d8-6b5c6b33b08b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02769%3Fprg140729%3Da26654f5-29fa-4cc7-9e82-85bd3b7679a8" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02769?prg140729=a26654f5-29fa-4cc7-9e82-85bd3b7679a8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02769?prg140729=a26654f5-29fa-4cc7-9e82-85bd3b7679a8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -929,6 +929,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i3"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Summary" href="#_i10"><span>Summary</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i11"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i32"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1001,21 +1013,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00250?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00250?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.joc.6b00194?src=recsys">A Nitrogen-Assisted One-Pot Heteroaryl Ketone Synthesis from Carboxylic Acids and Heteroaryl Halides</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01375?src=recsys">Enantioselective Synthesis of Chiral Piperidines via the Stepwise Dearomatization/Borylation of Pyridines</a>
                             <div class="achsLabel">
-                             The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Demkiw</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Araki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Elliott</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Franklin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fukuzumi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hicks</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hosoi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hukui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ishimaru</span>, <span class="entryAuthor normal hlFld-ContribAuthor">O’Brien</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Omori</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mineno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mizufune</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sawada</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sawai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kubota</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Watanabe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hayama</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ito</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4338–4341</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A practical and highly effective one-pot synthesis of versatile heteroaryl ketones directly from carboxylic acids and heteroaryl halides under mild conditions is reported. This method does not require derivatization of carboxylic acids (preparation of ...</span>
+                             <span><span class="bold">Abstract:</span> We have developed a novel approach for the synthesis of enantioenriched 3-boryl-tetrahydropyridines via the Cu(I)-catalyzed regio-, diastereo-, and enantioselective protoborylation of 1,2-dihydropyridines, which were obtained by the partial reduction of ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.6b00194?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.6b00194?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00194?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.6b00194?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b01375?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01375?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01375?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01375?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.joc.5b02443?src=recsys">Intramolecular Functionalization of Benzylic Methylene Adjacent to the Ring Nitrogen Atom in <i>N</i>-Aryltetrahydroisoquinoline Derivatives</a>
                             <div class="achsLabel">
@@ -1033,21 +1045,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.joc.5b02443?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.joc.5b02443?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01375?src=recsys">Enantioselective Synthesis of Chiral Piperidines via the Stepwise Dearomatization/Borylation of Pyridines</a>
+                           <li><a href="/doi/abs/10.1021/acs.joc.6b00194?src=recsys">A Nitrogen-Assisted One-Pot Heteroaryl Ketone Synthesis from Carboxylic Acids and Heteroaryl Halides</a>
                             <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kubota</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Watanabe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hayama</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ito</span> 
+                             The Journal of Organic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Demkiw</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Araki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Elliott</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Franklin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fukuzumi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hicks</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hosoi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hukui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ishimaru</span>, <span class="entryAuthor normal hlFld-ContribAuthor">O’Brien</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Omori</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mineno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mizufune</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sawada</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sawai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4338–4341</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We have developed a novel approach for the synthesis of enantioenriched 3-boryl-tetrahydropyridines via the Cu(I)-catalyzed regio-, diastereo-, and enantioselective protoborylation of 1,2-dihydropyridines, which were obtained by the partial reduction of ...</span>
+                             <span><span class="bold">Abstract:</span> A practical and highly effective one-pot synthesis of versatile heteroaryl ketones directly from carboxylic acids and heteroaryl halides under mild conditions is reported. This method does not require derivatization of carboxylic acids (preparation of ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01375?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01375?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01375?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01375?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.joc.6b00194?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.joc.6b00194?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.joc.6b00194?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.joc.6b00194?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b01728?src=recsys">Enantioselective Photocatalytic [3 + 2] Cycloadditions of Aryl Cyclopropyl Ketones</a>
                             <div class="achsLabel">
@@ -1165,9 +1177,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.joc.5b02769" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02769%3Fprg140729%3Df7806f2e-d335-4efe-a557-17ef69941530&amp;doi=10.1021%2Facs.joc.5b02769" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02769%3Fprg140729%3Da8e3b759-6b29-4e3a-ba46-ac0ffa2801d9&amp;doi=10.1021%2Facs.joc.5b02769" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02769%3Fprg140729%3Db2d02d5e-0d10-4cdf-a8d8-6b5c6b33b08b&amp;title=Synergistic+Catalysis%3A+Pd%28II%29+Catalyzed+Oxidation+of+1%2C4-Dihydroquinones+in+the+Pd%28II%29+Catalyzed+1%2C4-Oxidation+of+Cyclic+1%2C3-Dienes&amp;doi=10.1021%2Facs.joc.5b02769" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02769%3Fprg140729%3Da26654f5-29fa-4cc7-9e82-85bd3b7679a8&amp;title=Synergistic+Catalysis%3A+Pd%28II%29+Catalyzed+Oxidation+of+1%2C4-Dihydroquinones+in+the+Pd%28II%29+Catalyzed+1%2C4-Oxidation+of+Cyclic+1%2C3-Dienes&amp;doi=10.1021%2Facs.joc.5b02769" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1190,8 +1202,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpib80NL8shG7Vg90H21EOLACvtfcHk0ljVPOsGqIBPFA&amp;loc=%2FControllerServlet&amp;pubId=40026046" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGIwuL7qLhCtItQwD9OmoEd0bFOOXRLmyrPIJqPPZGvi7&amp;loc=%2FControllerServlet&amp;pubId=40026046" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpib80NL8shG7Vg90H21EOLACvtfcHk0lhSxU-ycNqsgA&amp;loc=%2FControllerServlet&amp;pubId=40026046" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGIwuL7qLhCtItQwD9OmoEd32pP4QU8Nrr-tqkeSoCd97&amp;loc=%2FControllerServlet&amp;pubId=40026046" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

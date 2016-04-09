@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="55d1e2f8-51ab-4829-bb48-58151a59e6c7">
+<html lang="en" class="pb-page" data-request-id="23bbf895-24a4-4ad6-8072-eb08f2d01ffe">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/jcisd8.ahead-of-print;journal:journal:jcisd8;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jcim.5b00554">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00554%3Fprg140729%3Df4bfcb75-579b-4709-b484-832e68cb614a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00554?prg140729=f4bfcb75-579b-4709-b484-832e68cb614a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00554?prg140729=f4bfcb75-579b-4709-b484-832e68cb614a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00554%3Fprg140729%3D3b7ec825-b783-4abf-afb5-14cd48b1b78c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00554?prg140729=3b7ec825-b783-4abf-afb5-14cd48b1b78c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jcim.5b00554?prg140729=3b7ec825-b783-4abf-afb5-14cd48b1b78c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1069,22 +1069,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jcim.5b00744?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jcim.5b00744?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jcim.5b00644?src=recsys">The Fragment Molecular Orbital Method Reveals New Insight into the Chemical Nature of GPCR–Ligand Interactions</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Information and Modeling
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Heifetz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chudyk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gleave</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Aldeghi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cherezov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fedorov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Biggin</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bodkin</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>56</em> (1), pp 159–172</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Our interpretation of ligand–protein interactions is often informed by high-resolution structures, which represent the cornerstone of structure-based drug design. However, visual inspection and molecular mechanics approaches cannot explain the full ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jcim.5b00644?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jcim.5b00644?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jcim.5b00644?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jcim.5b00644?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jcim.5b00587?src=recsys">Adaptive BP-Dock: An Induced Fit Docking Approach for Full Receptor Flexibility</a>
                             <div class="achsLabel">
                              Journal of Chemical Information and Modeling
@@ -1101,21 +1085,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jcim.5b00587?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jcim.5b00587?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b02008?src=recsys">Docking Screens for Novel Ligands Conferring New Biology</a>
+                           <li><a href="/doi/abs/10.1021/acs.jcim.5b00712?src=recsys">Knowledge-Based Optimization of Molecular Geometries Using Crystal Structures</a>
                             <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Irwin</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Shoichet</span> 
+                             Journal of Chemical Information and Modeling
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cole</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Groom</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Korb</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McCabe</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shields</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> It is now plausible to dock libraries of 10 million molecules against targets over several days or weeks. When the molecules screened are commercially available, they may be rapidly tested to find new leads. Although docking retains important liabilities (...</span>
+                             <span><span class="bold">Abstract:</span> This paper describes a novel way to use the structural information contained in the Cambridge Structural Database (CSD) to drive geometry optimization of organic molecules. We describe how CSD structural information is transformed into objective functions ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b02008?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b02008?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b02008?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b02008?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jcim.5b00712?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jcim.5b00712?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jcim.5b00712?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jcim.5b00712?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jcim.5b00644?src=recsys">The Fragment Molecular Orbital Method Reveals New Insight into the Chemical Nature of GPCR–Ligand Interactions</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Information and Modeling
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Heifetz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chudyk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gleave</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Aldeghi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cherezov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fedorov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Biggin</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bodkin</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>56</em> (1), pp 159–172</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Our interpretation of ligand–protein interactions is often informed by high-resolution structures, which represent the cornerstone of structure-based drug design. However, visual inspection and molecular mechanics approaches cannot explain the full ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jcim.5b00644?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jcim.5b00644?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jcim.5b00644?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jcim.5b00644?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1201,9 +1201,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jcim.5b00554" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00554%3Fprg140729%3Db1b110b2-8df1-49b2-8df4-0995c8843120&amp;doi=10.1021%2Facs.jcim.5b00554" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00554%3Fprg140729%3Def0ca48c-827d-4999-8308-1af37ef5d566&amp;doi=10.1021%2Facs.jcim.5b00554" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00554%3Fprg140729%3Df4bfcb75-579b-4709-b484-832e68cb614a&amp;title=Prediction+of+Loops+in+G+Protein-Coupled+Receptor+Homology+Models%3A+Effect+of+Imprecise+Surroundings+and+Constraints&amp;doi=10.1021%2Facs.jcim.5b00554" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jcim.5b00554%3Fprg140729%3D3b7ec825-b783-4abf-afb5-14cd48b1b78c&amp;title=Prediction+of+Loops+in+G+Protein-Coupled+Receptor+Homology+Models%3A+Effect+of+Imprecise+Surroundings+and+Constraints&amp;doi=10.1021%2Facs.jcim.5b00554" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

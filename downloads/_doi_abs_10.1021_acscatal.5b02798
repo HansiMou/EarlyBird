@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="82bb344f-004d-4ecd-9ea4-195200165d85">
+<html lang="en" class="pb-page" data-request-id="7559f236-ad1e-42ff-ac61-3172b45ada11">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/accacs.ahead-of-print;journal:journal:accacs;wgroup:string:ACHS website Group;article:article:10.1021/acscatal.5b02798;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscatal.5b02798%3Fprg140729%3De57ce5d7-2783-46ca-8007-d40e56b832e0" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscatal.5b02798?prg140729=e57ce5d7-2783-46ca-8007-d40e56b832e0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscatal.5b02798?prg140729=e57ce5d7-2783-46ca-8007-d40e56b832e0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscatal.5b02798%3Fprg140729%3D2c0c84c8-face-4e7b-bce7-eb8d985ddc2b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscatal.5b02798?prg140729=2c0c84c8-face-4e7b-bce7-eb8d985ddc2b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscatal.5b02798?prg140729=2c0c84c8-face-4e7b-bce7-eb8d985ddc2b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -949,18 +949,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Methods" href="#_i2"><span>Experimental Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i6"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i11"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i14"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1061,6 +1049,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acscatal.6b00104?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscatal.6b00104?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01970?src=recsys">Photocatalytic CO<sub>2</sub> Reduction Using Cu(I) Photosensitizers with a Fe(II) Catalyst</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Takeda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ohashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sekine</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ishitani</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4354–4357</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Photocatalytic systems developed from complexes with only abundant metals, i.e., Cu<sup>I</sup>(dmp)(P)<sub>2</sub><sup>+</sup> (dmp =2,9-dimethyl-1,10-phenanthroline; P = phosphine ligand) as a redox photosensitizer and Fe<sup>II</sup>(dmp)<sub>2</sub>(NCS)<sub>2</sub> as a catalyst, produced CO as the main product by ...<sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01970?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01970?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01970?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01970?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acscatal.5b02922?src=recsys">Bridging the g-C<sub>3</sub>N<sub>4</sub> Interlayers for Enhanced Photocatalysis</a>
                             <div class="achsLabel">
                              ACS Catalysis
@@ -1108,22 +1112,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acscatal.5b02643?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acscatal.5b02643?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscatal.5b02643?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01970?src=recsys">Photocatalytic CO<sub>2</sub> Reduction Using Cu(I) Photosensitizers with a Fe(II) Catalyst</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Takeda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ohashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sekine</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ishitani</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4354–4357</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Photocatalytic systems developed from complexes with only abundant metals, i.e., Cu<sup>I</sup>(dmp)(P)<sub>2</sub><sup>+</sup> (dmp =2,9-dimethyl-1,10-phenanthroline; P = phosphine ligand) as a redox photosensitizer and Fe<sup>II</sup>(dmp)<sub>2</sub>(NCS)<sub>2</sub> as a catalyst, produced CO as the main product by ...<sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01970?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01970?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01970?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01970?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1209,9 +1197,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facscatal.5b02798" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscatal.5b02798%3Fprg140729%3D6712ece0-9d73-40e3-a593-a0727c6de2f0&amp;doi=10.1021%2Facscatal.5b02798" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscatal.5b02798%3Fprg140729%3Db56f1f48-8a65-41b7-afaa-1059b05e04c2&amp;doi=10.1021%2Facscatal.5b02798" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscatal.5b02798%3Fprg140729%3De57ce5d7-2783-46ca-8007-d40e56b832e0&amp;title=Visible-Light-Driven+Oxidative+Coupling+Reactions+of+Amines+by+Photoactive+WS2+Nanosheets&amp;doi=10.1021%2Facscatal.5b02798" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscatal.5b02798%3Fprg140729%3D2c0c84c8-face-4e7b-bce7-eb8d985ddc2b&amp;title=Visible-Light-Driven+Oxidative+Coupling+Reactions+of+Amines+by+Photoactive+WS2+Nanosheets&amp;doi=10.1021%2Facscatal.5b02798" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c18922b8-0738-462e-a9b3-3cff83eaf6ce">
+<html lang="en" class="pb-page" data-request-id="9f3e9158-4a6d-4314-9dbd-24b19ae75455">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jpcc.5b12288">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12288%3Fprg140729%3D651d9940-c7a9-4c63-b20e-5ec65446c9d7" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12288?prg140729=651d9940-c7a9-4c63-b20e-5ec65446c9d7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12288?prg140729=651d9940-c7a9-4c63-b20e-5ec65446c9d7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12288%3Fprg140729%3D69c0a980-fd0f-4edf-9ad4-23d48c5754f2" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12288?prg140729=69c0a980-fd0f-4edf-9ad4-23d48c5754f2&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12288?prg140729=69c0a980-fd0f-4edf-9ad4-23d48c5754f2">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -694,16 +694,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.5b11496" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.5b12779" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1052,37 +1042,101 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12057?src=recsys">In Situ Electrochemical Raman Spectroscopy of Air-Oxidized Semiconducting Single-Walled Carbon Nanotube Bundles in Aqueous Sulfuric Acid Solution</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b12779?src=recsys">Oxygen and Hydrogen Peroxide Reduction on Polycrystalline Platinum in Acid Electrolytes: Effects of Bromide Adsorption</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ogino</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Itoh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mabuchi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yokoyama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Motomiya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tohji</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sato</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jebaraj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Georgescu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Scherson</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 7133–7143</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In this study, we oxidized approximately 90% semiconducting, highly crystalline single-walled carbon nanotube (hc-SWCNT) bundles in the atmosphere at 450 °C for 30 min to obtain SWCNTs modified with oxygen-containing functional groups and investigated not ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Changes in the electrocatalytic activity of Pt for the oxygen and hydrogen peroxide reduction reactions (ORR and HPRR, respectively) in an aqueous acidic electrolyte induced by the adsorption of bromide, as a model impurity, have been investigated using ...<sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub><sup></sup></sub><sub></sub><sub></sub><sub><sup></sup></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b12057?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b12057?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12057?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12057?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b12779?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b12779?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12779?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b12779?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00053?src=recsys">Interplay between Electrical Relaxation and Structural Properties in Hybrid Membrane Based on PVDF–HFP and Functionalized Silica Network</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11036?src=recsys">Electronic Dynamics in Natural Iron Pyrite Studied by Broadband Transient Reflection Spectroscopy</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dos Santos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dubrunfaut</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Badot</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Laberty-Robert</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sorenson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Patrow</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dawlaty</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 6963–6970</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The description of the proton transport in multiscale hybrid membrane in their “dry state” and at various temperatures was performed by using broadband dielectric spectroscopy. Permittivity and conductivity have been measured on a wide frequency range ...<sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Iron pyrite (FeS<sub>2</sub>) is an abundant natural mineral with interesting physical and chemical properties, including its near IR bandgap and extremely high absorption coefficient throughout the visible range. The dynamics of photoinitiated carriers and their ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.6b00053?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.6b00053?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00053?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00053?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b11036?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b11036?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11036?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11036?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01354?src=recsys">Adsorption Effect on Wetting in a Copper/Lead System</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Timoshenko</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Traskine</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhevnenko</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Protsenko</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Complex analysis of interfacial thermodynamics was performed for a lead–copper binary system. Contact angle on polycrystalline copper and surface tension was measured for saturated Pb–Cu alloys at 390–1000 and 390–800 °C temperature ranges ...<sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01354?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01354?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01354?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01354?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00143?src=recsys">Synthesis and Linear and Nonlinear Photophysical Characterization of Two Symmetrical Pyrene-Terminated Squaraine Derivatives</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ballestas-Barrientos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Woodward</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moreshead</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bondar</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Belfield</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Two indole-based squaraine dyes, bearing two pyrenyl groups through vinyl or ethynyl linkers, were synthesized with the aim of enhancing the intramolecular charge transfer interaction in addition to improving their optical properties. The absorption and ...<sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b00143?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b00143?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00143?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00143?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00954?src=recsys">Bay-Extended, Distorted Perylene Esters Showing Visible Luminescence after Ultraviolet Excitation: Photophysical and Electrochemical Analysis</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Vollbrecht</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wiebeler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neuba</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bock</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schumacher</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kitzerow</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Perylene derivatives with a unilaterally and bilaterally extended core show luminescence in the visible wavelength range (500–600 nm) that can be excited by absorption in the ultraviolet range (360–370 nm). This unusual behavior is investigated by means ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b00954?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b00954?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00954?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00954?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11496?src=recsys">Relationship between Site Symmetry, Spin State, and Doping Concentration for Co(II) or Co(III) in β-NaYF<sub>4</sub></a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Berry</span>, <span class="entryAuthor normal hlFld-ContribAuthor">May</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kilin</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Magnetic dopants provide versatile tunability of properties for transparent host matrix materials, semiconductors, and nanostructured materials. The relationship between doping concentration, site symmetry, crystal-field splitting, and spin state for Co(...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b11496?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b11496?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11496?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11496?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1135,7 +1189,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.5b12288" title="High-Res PDF: 3836 KB" target="_blank"> PDF <span class="details">(3836 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12288" title="Low-Res PDF: 497 KB" target="_blank"> PDF w/ Links <span class="details">(497 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.5b12288" title="Low-Res PDF: 471 KB" target="_blank"> PDF w/ Links <span class="details">(471 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.5b12288" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1167,9 +1221,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b12288" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12288%3Fprg140729%3D06098323-7917-4ddb-aa5c-6c0de9bea811&amp;doi=10.1021%2Facs.jpcc.5b12288" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12288%3Fprg140729%3Dd4150631-2c9e-4bbe-934d-91e42571f7ca&amp;doi=10.1021%2Facs.jpcc.5b12288" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12288%3Fprg140729%3D651d9940-c7a9-4c63-b20e-5ec65446c9d7&amp;title=Structural+Characterization%2C+Optical+Properties%2C+and+Phase+Transitions+of+In1%E2%80%93xSnx+Alloy+Thin+Films&amp;doi=10.1021%2Facs.jpcc.5b12288" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12288%3Fprg140729%3D69c0a980-fd0f-4edf-9ad4-23d48c5754f2&amp;title=Structural+Characterization%2C+Optical+Properties%2C+and+Phase+Transitions+of+In1%E2%80%93xSnx+Alloy+Thin+Films&amp;doi=10.1021%2Facs.jpcc.5b12288" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

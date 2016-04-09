@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="f265f6a4-7442-4b2b-9e91-17e6a8fcc625">
+<html lang="en" class="pb-page" data-request-id="20bc0537-2827-4928-9633-cf190e755c35">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/acbcct.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:acbcct;article:article:10.1021/acschembio.6b00110;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00110%3Fprg140729%3Df1d0364a-0d85-4249-85cf-c5dbf3a76af0" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00110?prg140729=f1d0364a-0d85-4249-85cf-c5dbf3a76af0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00110?prg140729=f1d0364a-0d85-4249-85cf-c5dbf3a76af0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00110%3Fprg140729%3D43758775-5320-47b0-b91d-c5260e4b7007" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00110?prg140729=43758775-5320-47b0-b91d-c5260e4b7007&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00110?prg140729=43758775-5320-47b0-b91d-c5260e4b7007">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1072,15 +1072,16 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/doi/abs/10.1021/acschembio.5b01034?src=recsys">Six Biophysical Screening Methods Miss a Large Proportion of Crystallographically Discovered Fragment Hits: A Case Study</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schiebel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Radeva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krimmer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stieler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ehrmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Metz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huschmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weiss</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mueller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heine</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Klebe</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schiebel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Radeva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krimmer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stieler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ehrmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Metz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huschmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weiss</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mueller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heine</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Klebe</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Fragment-based lead discovery (FBLD) has become a pillar in drug development. Typical applications of this method comprise at least two biophysical screens as pre-filter and a follow-up crystallographic experiment on a subset of fragments. Clearly, ...</span>
+                             <span><span class="bold">Abstract:</span> Fragment-based lead discovery (FBLD) has become a pillar in drug development. Typical applications of this method comprise at least two biophysical screens as prefilter and a follow-up crystallographic experiment on a subset of fragments. Clearly, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
                              <a href="/doi/abs/10.1021/acschembio.5b01034?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.5b01034?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acschembio.5b01034?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.5b01034?src=recsys">Hi-Res PDF</a>
                             </div></li>
@@ -1100,21 +1101,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acschembio.5b01014?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.5b01014?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acschembio.5b00996?src=recsys">Molecular Recognition of Lys and Arg Methylation</a>
+                           <li><a href="/doi/abs/10.1021/acschembio.5b00944?src=recsys">Structural and Kinetic Characterization of Diazabicyclooctanes as Dual Inhibitors of Both Serine-β-Lactamases and Penicillin-Binding Proteins</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Beaver</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Waters</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">King</span>, <span class="entryAuthor normal hlFld-ContribAuthor">King</span>, <span class="entryAuthor normal hlFld-ContribAuthor">French</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brouillette</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Asli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alexander</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vuckovic</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maiti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Parr</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brown</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Malouin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Strynadka</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wright</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>11</em> (3), pp 643–653</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A network of reader proteins and enzymes precisely controls gene transcription through the dynamic addition, removal, and recognition of post-translational modifications (PTMs) of histone tails. Histone PTMs work in concert with this network to regulate ...</span>
+                             <span><span class="bold">Abstract:</span> Avibactam is a diazabicyclooctane β-lactamase inhibitor possessing outstanding but incomplete efficacy against multidrug-resistant Gram-negative pathogens in combination with β-lactam antibiotics. Significant pharmaceutical investment in generating ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.5b00996?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acschembio.5b00996?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.5b00996?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.5b00996?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acschembio.5b00944?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.5b00944?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acschembio.5b00944?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acschembio.5b00944?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1200,9 +1201,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facschembio.6b00110" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00110%3Fprg140729%3D5067ab1a-51b2-4014-a244-013cb7da42b9&amp;doi=10.1021%2Facschembio.6b00110" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00110%3Fprg140729%3D7a933bc2-ab3a-4d0c-8cfa-98f2c7db9b52&amp;doi=10.1021%2Facschembio.6b00110" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00110%3Fprg140729%3Df1d0364a-0d85-4249-85cf-c5dbf3a76af0&amp;title=Potent+Inhibitors+of+Acetyltransferase+Eis+Overcome+Kanamycin+Resistance+in+Mycobacterium+tuberculosis&amp;doi=10.1021%2Facschembio.6b00110" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00110%3Fprg140729%3D43758775-5320-47b0-b91d-c5260e4b7007&amp;title=Potent+Inhibitors+of+Acetyltransferase+Eis+Overcome+Kanamycin+Resistance+in+Mycobacterium+tuberculosis&amp;doi=10.1021%2Facschembio.6b00110" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

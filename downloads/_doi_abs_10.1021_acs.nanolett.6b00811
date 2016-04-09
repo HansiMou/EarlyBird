@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="caa0db82-4ab9-410b-b90d-bdf9f7ab444c">
+<html lang="en" class="pb-page" data-request-id="a5f81bd7-8fbd-4a04-b34e-f674cd367810">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;article:article:10.1021/acs.nanolett.6b00811;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00811%3Fprg140729%3Db439a8f3-0dcc-451b-813a-b20446f47bec" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00811?prg140729=b439a8f3-0dcc-451b-813a-b20446f47bec&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00811?prg140729=b439a8f3-0dcc-451b-813a-b20446f47bec">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00811%3Fprg140729%3Dc382f969-453b-45c9-99c7-0e56ac1671a1" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00811?prg140729=c382f969-453b-45c9-99c7-0e56ac1671a1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00811?prg140729=c382f969-453b-45c9-99c7-0e56ac1671a1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -676,16 +676,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.nanolett.6b00648" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.nanolett.5b05046" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/nalefd/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1076,6 +1066,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00648?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00648?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00034?src=recsys">Controlling Random Lasing with Three-Dimensional Plasmonic Nanorod Metamaterials</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Knitter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shalaev</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Boltasseva</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Plasmonics has brought revolutionary advances to laser science by enabling deeply subwavelength nanolasers through surface plasmon amplification. However, the impact of plasmonics on other promising laser systems has so far remained elusive. Here, we ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00034?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00034?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00034?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00034?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.6b00323?src=recsys">Electromechanically Tunable Suspended Optical Nanoantenna</a>
                             <div class="achsLabel">
                              Nano Letters
@@ -1092,37 +1098,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00323?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00323?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b03976?src=recsys">Direct Bandgap Light Emission from Strained Germanium Nanowires Coupled with High-Q Nanophotonic Cavities</a>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04709?src=recsys">Deterministic Integration of Single Photon Sources in Silicon Based Photonic Circuits</a>
                             <div class="achsLabel">
                              Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Petykiewicz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sukhdeo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gupta</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Buckley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Piggott</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vučković</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Saraswat</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zadeh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Elshaari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jöns</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fognini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dalacu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poole</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reimer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zwiller</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A silicon-compatible light source is the final missing piece for completing high-speed, low-power on-chip optical interconnects. In this paper, we present a germanium nanowire light emitter that encompasses all the aspects of potential low-threshold ...</span>
+                             <span><span class="bold">Abstract:</span> A major step toward fully integrated quantum optics is the deterministic incorporation of high quality single photon sources in on-chip optical circuits. We show a novel hybrid approach in which preselected III–V single quantum dots in nanowires are ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b03976?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b03976?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b03976?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b03976?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00310?src=recsys">Photoinduced Electron Transfer in the Strong Coupling Regime: Waveguide–Plasmon Polaritons</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zeng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cadusch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chakraborty</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roberts</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sader</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Davis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Gómez</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Reversible exchange of photons between a material and an optical cavity can lead to the formation of hybrid light–matter states where material properties such as the work function [Hutchison et al. Adv. Mater. 2013, 25, 2481−2485], chemical reactivity [...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.6b00310?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.6b00310?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00310?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00310?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b04709?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b04709?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04709?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04709?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1175,7 +1165,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.nanolett.6b00811" title="High-Res PDF: 4266 KB" target="_blank"> PDF <span class="details">(4266 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00811" title="Low-Res PDF: 392 KB" target="_blank"> PDF w/ Links <span class="details">(392 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00811" title="Low-Res PDF: 393 KB" target="_blank"> PDF w/ Links <span class="details">(393 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.nanolett.6b00811" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1208,9 +1198,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.6b00811" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00811%3Fprg140729%3Dcd383ac4-8de6-4a75-8663-0cd34a0aaf0f&amp;doi=10.1021%2Facs.nanolett.6b00811" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00811%3Fprg140729%3D499b9bfe-9fb4-499c-a416-f344944433d8&amp;doi=10.1021%2Facs.nanolett.6b00811" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00811%3Fprg140729%3Db439a8f3-0dcc-451b-813a-b20446f47bec&amp;title=Mode+Switching+and+Filtering+in+Nanowire+Lasers&amp;doi=10.1021%2Facs.nanolett.6b00811" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00811%3Fprg140729%3Dc382f969-453b-45c9-99c7-0e56ac1671a1&amp;title=Mode+Switching+and+Filtering+in+Nanowire+Lasers&amp;doi=10.1021%2Facs.nanolett.6b00811" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

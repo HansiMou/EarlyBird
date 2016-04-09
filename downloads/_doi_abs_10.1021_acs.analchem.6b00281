@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8500aa04-169d-4d75-8f72-5c432021bbcb">
+<html lang="en" class="pb-page" data-request-id="b61aa488-4de6-4f25-bad8-7d39ccfed282">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:ancham;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/ancham.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.analchem.6b00281">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00281%3Fprg140729%3D4089e6f8-5535-48d2-b287-f07f674066fe" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00281?prg140729=4089e6f8-5535-48d2-b287-f07f674066fe&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00281?prg140729=4089e6f8-5535-48d2-b287-f07f674066fe">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00281%3Fprg140729%3Dbefd9c3e-0b2b-4722-8116-ae29b4b86cc4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00281?prg140729=befd9c3e-0b2b-4722-8116-ae29b4b86cc4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00281?prg140729=befd9c3e-0b2b-4722-8116-ae29b4b86cc4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1034,6 +1034,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04749?src=recsys">Single-Cell Analysis Using Drop-on-Demand Inkjet Printing and Probe Electrospray Ionization Mass Spectrometry</a>
+                            <div class="achsLabel">
+                             Analytical Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Uchiyama</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> This study describes a novel method for single-cell analysis and lipid profiling by combining drop-on-demand inkjet cell printing and probe electrospray ionization mass spectrometry (PESI-MS). Through inkjet sampling of a cell suspension, droplets with ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.analchem.5b04749?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b04749?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04749?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b04749?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.5b03900?src=recsys">Quantitative Analysis of Human Neonatal Fc Receptor (FcRn) Tissue Expression in Transgenic Mice by Online Peptide Immuno-Affinity LC-HRMS</a>
                             <div class="achsLabel">
                              Analytical Chemistry
@@ -1050,21 +1066,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.5b03900?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.5b03900?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04749?src=recsys">Single-Cell Analysis Using Drop-on-Demand Inkjet Printing and Probe Electrospray Ionization Mass Spectrometry</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00355?src=recsys">Development and Evaluation of a Parallel Reaction Monitoring Strategy for Large-Scale Targeted Metabolomics Quantification</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Uchiyama</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> This study describes a novel method for single-cell analysis and lipid profiling by combining drop-on-demand inkjet cell printing and probe electrospray ionization mass spectrometry (PESI-MS). Through inkjet sampling of a cell suspension, droplets with ...</span>
+                             <span><span class="bold">Abstract:</span> Recent advances in mass spectrometers which have yielded higher resolution and faster scanning speeds have expanded their application in metabolomics of diverse diseases. Using a quadrupole-Orbitrap LC–MS system, we developed an efficient large-scale ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04749?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04749?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04749?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04749?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00355?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.6b00355?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00355?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00355?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.analchem.5b04878?src=recsys">Two-Dimensional Mass Spectrometry for Proteomics, a Comparative Study with Cytochrome <i>c</i></a>
                             <div class="achsLabel">
@@ -1098,37 +1114,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.analchem.6b00263?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.analchem.6b00263?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04477?src=recsys">A Robust Workflow for Native Mass Spectrometric Analysis of Affinity-Isolated Endogenous Protein Assemblies</a>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04312?src=recsys">Proficient Detection of Multi-Drug-Resistant <i>Mycobacterium tuberculosis</i> by Padlock Probes and Lateral Flow Nucleic Acid Biosensors</a>
                             <div class="achsLabel">
                              Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Olinares</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dunn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Padovan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fernandez-Martinez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rout</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chait</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>88</em> (5), pp 2799–2807</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The central players in most cellular events are assemblies of macromolecules. Structural and functional characterization of these assemblies requires knowledge of their subunit stoichiometry and intersubunit connectivity. One of the most direct means for ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.5b04477?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.5b04477?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04477?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.5b04477?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00355?src=recsys">Development and Evaluation of a Parallel Reaction Monitoring Strategy for Large-Scale Targeted Metabolomics Quantification</a>
-                            <div class="achsLabel">
-                             Analytical Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yin</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pavankumar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Engström</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Herthnek</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nilsson</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Recent advances in mass spectrometers which have yielded higher resolution and faster scanning speeds have expanded their application in metabolomics of diverse diseases. Using a quadrupole-Orbitrap LC–MS system, we developed an efficient large-scale ...</span>
+                             <span><span class="bold">Abstract:</span> Tuberculosis is a major communicable disease. Its causative agent, <i>Mycobacterium tuberculosis</i>, becomes resistant to antibiotics by acquisition of point mutations in the chromosome. Multi-drug-resistant tuberculosis (MDR-TB) is an increasing public health ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.analchem.6b00355?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.analchem.6b00355?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00355?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.analchem.6b00355?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.analchem.5b04312?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.analchem.5b04312?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04312?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b04312?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1214,9 +1214,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.analchem.6b00281" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00281%3Fprg140729%3Dc2032a54-622a-4570-bc85-75eb4eafd501&amp;doi=10.1021%2Facs.analchem.6b00281" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00281%3Fprg140729%3Da5f49601-e5c4-4bab-a968-c35060ac30d9&amp;doi=10.1021%2Facs.analchem.6b00281" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00281%3Fprg140729%3D4089e6f8-5535-48d2-b287-f07f674066fe&amp;title=Increasing+the+Depth+of+Mass-Spectrometry-Based+Structural+Analysis+of+Protein+Complexes+through+the+Use+of+Multiple+Cross-Linkers&amp;doi=10.1021%2Facs.analchem.6b00281" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00281%3Fprg140729%3Dbefd9c3e-0b2b-4722-8116-ae29b4b86cc4&amp;title=Increasing+the+Depth+of+Mass-Spectrometry-Based+Structural+Analysis+of+Protein+Complexes+through+the+Use+of+Multiple+Cross-Linkers&amp;doi=10.1021%2Facs.analchem.6b00281" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

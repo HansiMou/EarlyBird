@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="e7fc7c44-5e14-4e03-83a4-8f08bdcdff6f">
+<html lang="en" class="pb-page" data-request-id="29520d0f-36ac-441d-a25a-8c0a8ef43958">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/estlcu.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:estlcu;article:article:10.1021/acs.estlett.6b00051;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00051%3Fprg140729%3Dd549d768-5f19-4926-9357-1cbfec8f5b1f" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00051?prg140729=d549d768-5f19-4926-9357-1cbfec8f5b1f&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00051?prg140729=d549d768-5f19-4926-9357-1cbfec8f5b1f">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00051%3Fprg140729%3D76e299fe-c5a9-4804-a422-3d49cb76b1a8" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00051?prg140729=76e299fe-c5a9-4804-a422-3d49cb76b1a8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00051?prg140729=76e299fe-c5a9-4804-a422-3d49cb76b1a8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -685,16 +685,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.estlett.6b00050" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.estlett.6b00046" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/estlcu/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1017,21 +1007,21 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b03821?src=recsys">High Acetic Acid Production Rate Obtained by Microbial Electrosynthesis from Carbon Dioxide</a>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b06376?src=recsys">Bioelectrochemical Chromium(VI) Removal in Plant-Microbial Fuel Cells</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jourdin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grieger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Monetti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Flexer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Freguia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Romano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wallace</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Keller</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Habibul</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sheng</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>49</em> (22), pp 13566–13574</span>
+                             <span><span class="bold">2016</span> <em>50</em> (7), pp 3882–3889</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> High product specificity and production rate are regarded as key success parameters for large-scale applicability of a (bio)chemical reaction technology. Here, we report a significant performance enhancement in acetate formation from CO<sub>2</sub>, reaching ...<sup></sup><sup></sup><sup></sup><sub></sub><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Plant-microbial fuel cell (PMFC) is a renewable and sustainable energy technology that generates electricity with living plants. However, little information is available regarding the application of PMFC for the remediation of heavy metal contaminated ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b03821?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b03821?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b03821?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b03821?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.est.5b06376?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b06376?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b06376?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b06376?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b04431?src=recsys">Bringing High-Rate, CO<sub>2</sub>-Based Microbial Electrosynthesis Closer to Practical Implementation through Improved Electrode Design and Operating Conditions</a>
                             <div class="achsLabel">
@@ -1049,21 +1039,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b04431?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b04431?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b06376?src=recsys">Bioelectrochemical Chromium(VI) Removal in Plant-Microbial Fuel Cells</a>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b03821?src=recsys">High Acetic Acid Production Rate Obtained by Microbial Electrosynthesis from Carbon Dioxide</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Habibul</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sheng</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jourdin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Grieger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Monetti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Flexer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Freguia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Romano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wallace</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Keller</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>50</em> (7), pp 3882–3889</span>
+                             <span><span class="bold">2015</span> <em>49</em> (22), pp 13566–13574</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Plant-microbial fuel cell (PMFC) is a renewable and sustainable energy technology that generates electricity with living plants. However, little information is available regarding the application of PMFC for the remediation of heavy metal contaminated ...<sub></sub></span>
+                             <span><span class="bold">Abstract:</span> High product specificity and production rate are regarded as key success parameters for large-scale applicability of a (bio)chemical reaction technology. Here, we report a significant performance enhancement in acetate formation from CO<sub>2</sub>, reaching ...<sup></sup><sup></sup><sup></sup><sub></sub><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b06376?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b06376?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b06376?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b06376?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.est.5b03821?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b03821?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b03821?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b03821?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b04847?src=recsys">Chain Elongation with Reactor Microbiomes: Open-Culture Biotechnology To Produce Biochemicals</a>
                             <div class="achsLabel">
@@ -1197,9 +1187,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.estlett.6b00051" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00051%3Fprg140729%3D1e903cbf-b09d-4341-9167-1dd9bc11cd42&amp;doi=10.1021%2Facs.estlett.6b00051" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00051%3Fprg140729%3D04583014-6053-4dda-8cfb-07aa8f804ef8&amp;doi=10.1021%2Facs.estlett.6b00051" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00051%3Fprg140729%3Dd549d768-5f19-4926-9357-1cbfec8f5b1f&amp;title=Microbial+Rechargeable+Battery%3A+Energy+Storage+and+Recovery+through+Acetate&amp;doi=10.1021%2Facs.estlett.6b00051" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00051%3Fprg140729%3D76e299fe-c5a9-4804-a422-3d49cb76b1a8&amp;title=Microbial+Rechargeable+Battery%3A+Energy+Storage+and+Recovery+through+Acetate&amp;doi=10.1021%2Facs.estlett.6b00051" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1222,8 +1212,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGos9vBgHpT_R7Vg90H21EOLACvtfcHk0liSDkY6NpIAig&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNST_bJgp3JqPytrnDmCxc-CThi25Vg2O3Mn6m-2EoXxRo&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGos9vBgHpT_R7Vg90H21EOLACvtfcHk0lgv3itAX1naYg&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNST_bJgp3JqPytrnDmCxc-CThi25Vg2O3Mh2xazXJBaQr&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

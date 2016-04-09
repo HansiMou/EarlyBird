@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="84eab59b-49c3-4c51-9128-1233dffa54ae">
+<html lang="en" class="pb-page" data-request-id="67621a10-538c-4f11-997b-74c4895f10b2">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jmedchem.5b01984;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jmcmar;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -151,8 +151,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01984%3Fprg140729%3D96e210cf-becb-46e9-91cd-e1dad2bfd2bc" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01984?prg140729=96e210cf-becb-46e9-91cd-e1dad2bfd2bc&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01984?prg140729=96e210cf-becb-46e9-91cd-e1dad2bfd2bc">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01984%3Fprg140729%3D4ba0b00f-75a7-44ad-82e7-018f968841c4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01984?prg140729=4ba0b00f-75a7-44ad-82e7-018f968841c4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01984?prg140729=4ba0b00f-75a7-44ad-82e7-018f968841c4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1022,6 +1022,19 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Chemistry" href="#_i2"><span>Chemistry</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i9"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i25"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i26"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i91"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1089,37 +1102,37 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01416?src=recsys">Synthesis and Biological Evaluation of Novel σ<sub>1</sub> Receptor Ligands for Treating Neuropathic Pain: 6-Hydroxypyridazinones</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01349?src=recsys">Ten Years of Medicinal Chemistry (2005–2014) in the <i>Journal of Medicinal Chemistry</i>: Country of Contributors, Topics, and Public–Private Partnerships</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qiu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Costantino</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Barlocco</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> By use of the 6-hydroxypyridazinone framework, a new series of potent σ<sub>1</sub> receptor ligands associated with pharmacological antineuropathic pain activity was synthesized and is described in this article. In vitro receptor binding studies revealed high σ<sub>1</sub> ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> This review analyzes the articles that have appeared during the past 10 years in the <i>Journal of Medicinal Chemistry</i>, the leading journal in the field of medicinal chemistry, to provide a picture of the changing trends in this research area. Our analysis ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01416?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01416?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01416?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01416?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01349?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01349?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01349?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01349?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01912?src=recsys">Antibacterial Diamines Targeting Bacterial Membranes</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01712?src=recsys">Structure–Activity Relationship Studies of Mitogen Activated Protein Kinase Interacting Kinase (MNK) 1 and 2 and BCR-ABL1 Inhibitors Targeting Chronic Myeloid Leukemic Cells</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pachaiyappan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gruber</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schmidt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Woster</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cherian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nacro</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jeyaraj</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ho</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Joy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kwek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poulsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pendharkar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Manoharan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chew</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sangthongpitag</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hill</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Keller</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Antibiotic resistance is a growing threat to human health exacerbated by a lack of new antibiotics. We now describe a series of substituted diamines that produce rapid bactericidal activity against both Gram-positive and Gram-negative bacteria, including ...</span>
+                             <span><span class="bold">Abstract:</span> Clinically used BCR-ABL1 inhibitors for the treatment of chronic myeloid leukemia do not eliminate leukemic stem cells (LSC). It has been shown that MNK1 and 2 inhibitors prevent phosphorylation of eIF4E and eliminate the self-renewal capacity of LSCs. ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01912?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01912?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01912?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01912?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01712?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01712?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01712?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01712?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01963?src=recsys">Structure Property Relationships of Carboxylic Acid Isosteres</a>
                             <div class="achsLabel">
@@ -1137,22 +1150,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01349?src=recsys">Ten Years of Medicinal Chemistry (2005–2014) in the <i>Journal of Medicinal Chemistry</i>: Country of Contributors, Topics, and Public–Private Partnerships</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Costantino</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Barlocco</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> This review analyzes the articles that have appeared during the past 10 years in the <i>Journal of Medicinal Chemistry</i>, the leading journal in the field of medicinal chemistry, to provide a picture of the changing trends in this research area. Our analysis ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01349?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01349?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01349?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01349?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01875?src=recsys">A Real-World Perspective on Molecular Design</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
@@ -1169,21 +1166,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01875?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01875?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b00608?src=recsys">Development of 3,5-Dinitrobenzylsulfanyl-1,3,4-oxadiazoles and Thiadiazoles as Selective Antitubercular Agents Active Against Replicating and Nonreplicating <i>Mycobacterium tuberculosis</i></a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01416?src=recsys">Synthesis and Biological Evaluation of Novel σ<sub>1</sub> Receptor Ligands for Treating Neuropathic Pain: 6-Hydroxypyridazinones</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Karabanovich</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zemanová</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smutný</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Székely</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Šarkan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Centárová</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vocat</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pávková</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Čonka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Němeček</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stolaříková</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vejsová</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vávrová</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Klimešová</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hrabálek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pávek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cole</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mikušová</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Roh</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qiu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>59</em> (6), pp 2362–2380</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Herein, we report the discovery and structure–activity relationships of 5-substituted-2-[(3,5-dinitrobenzyl)sulfanyl]-1,3,4-oxadiazoles and 1,3,4-thiadiazoles as a new class of antituberculosis agents. The majority of these compounds exhibited outstanding ...</span>
+                             <span><span class="bold">Abstract:</span> By use of the 6-hydroxypyridazinone framework, a new series of potent σ<sub>1</sub> receptor ligands associated with pharmacological antineuropathic pain activity was synthesized and is described in this article. In vitro receptor binding studies revealed high σ<sub>1</sub> ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b00608?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b00608?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b00608?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b00608?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01416?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01416?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01416?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01416?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01760?src=recsys">Potent and Selective Inhibitors of MTH1 Probe Its Role in Cancer Cell Survival</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kettle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alwan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bista</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Breed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Davies</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Eckersley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fillery</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Foote</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Goodwin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jones</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Käck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nissink</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Read</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Scott</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Taylor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Walker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wissler</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wylot</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>59</em> (6), pp 2346–2361</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Recent literature has claimed that inhibition of the enzyme MTH1 can eradicate cancer. MTH1 is one of the “housekeeping” enzymes that are responsible for hydrolyzing damaged nucleotides in cells and thus prevent them from being incorporated into DNA. We ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01760?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01760?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01760?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01760?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1269,9 +1282,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.5b01984" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01984%3Fprg140729%3Df54cec25-5334-4e6b-a804-d1db0200fdd0&amp;doi=10.1021%2Facs.jmedchem.5b01984" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01984%3Fprg140729%3Df0bd1302-64a4-4a82-87ea-358682286a29&amp;doi=10.1021%2Facs.jmedchem.5b01984" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01984%3Fprg140729%3D96e210cf-becb-46e9-91cd-e1dad2bfd2bc&amp;title=Discovery+of+Potent+Benzofuran-Derived+Diapophytoene+Desaturase+%28CrtN%29+Inhibitors+with+Enhanced+Oral+Bioavailability+for+the+Treatment+of+Methicillin-Resistant+Staphylococcus+aureus+%28MRSA%29+Infections&amp;doi=10.1021%2Facs.jmedchem.5b01984" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01984%3Fprg140729%3D4ba0b00f-75a7-44ad-82e7-018f968841c4&amp;title=Discovery+of+Potent+Benzofuran-Derived+Diapophytoene+Desaturase+%28CrtN%29+Inhibitors+with+Enhanced+Oral+Bioavailability+for+the+Treatment+of+Methicillin-Resistant+Staphylococcus+aureus+%28MRSA%29+Infections&amp;doi=10.1021%2Facs.jmedchem.5b01984" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

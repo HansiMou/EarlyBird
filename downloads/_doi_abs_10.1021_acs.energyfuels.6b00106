@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="0803434a-1e11-46d3-a823-c5410722d439">
+<html lang="en" class="pb-page" data-request-id="02dcca33-53f2-4e80-8d26-192a30c7221e">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.energyfuels.6b00106;journal:journal:enfuem;issue:issue:10.1021/enfuem.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -138,8 +138,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.energyfuels.6b00106%3Fprg140729%3D5966a0f7-660b-4674-aa4a-20a590967737" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.6b00106?prg140729=5966a0f7-660b-4674-aa4a-20a590967737&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.6b00106?prg140729=5966a0f7-660b-4674-aa4a-20a590967737">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.energyfuels.6b00106%3Fprg140729%3Dd9e72763-e193-4c92-ae10-4a3407798c46" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.6b00106?prg140729=d9e72763-e193-4c92-ae10-4a3407798c46&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.6b00106?prg140729=d9e72763-e193-4c92-ae10-4a3407798c46">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1034,6 +1034,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.energyfuels.6b00195?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.energyfuels.6b00195?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.energyfuels.5b02923?src=recsys">Detailed Characterization of Petroleum Sulfonates by Fourier Transform Ion Cyclotron Resonance Mass Spectrometry</a>
+                            <div class="achsLabel">
+                             Energy &amp; Fuels
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Rojas-Ruiz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gómez-Escudero</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pachón-Contreras</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Villar-García</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Orrego-Ruiz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Petroleum sulfonates obtained from heavy vacuum gas oil (HVGO) were characterized by negative electrospray ionization Fourier transform ion cyclotron resonance mass spectrometry [(−) ESI FT-ICR MS] to better understand the chemical nature of their surface-...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.energyfuels.5b02923?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.energyfuels.5b02923?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.energyfuels.5b02923?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.energyfuels.5b02923?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.energyfuels.5b02180?src=recsys">Effect of Emulsified Water on Asphaltene Instability in Crude Oils</a>
                             <div class="achsLabel">
                              Energy &amp; Fuels
@@ -1049,22 +1065,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.energyfuels.5b02180?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.energyfuels.5b02180?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.energyfuels.5b02180?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.energyfuels.5b02765?src=recsys">Hydroconversion Behavior of Asphaltenes under Liquid-Phase Hydrogenation Conditions</a>
-                            <div class="achsLabel">
-                             Energy &amp; Fuels
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> To fully utilize deoiled end-cut (DOE) from selective asphaltene extraction process, Venezuela <i>n</i>-pentane DOE was subjected to hydroconversion in an autoclave reactor using tetralin as hydrogen donor. Venezuela DOE and its hydroconversion products were ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.energyfuels.5b02765?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.energyfuels.5b02765?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.energyfuels.5b02765?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.energyfuels.5b02765?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1149,9 +1149,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.energyfuels.6b00106" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.energyfuels.6b00106%3Fprg140729%3D0ecdcca5-47cc-4a48-a53d-746bb2b09c79&amp;doi=10.1021%2Facs.energyfuels.6b00106" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.energyfuels.6b00106%3Fprg140729%3Dae1ca154-90c7-457f-8501-3347453ba571&amp;doi=10.1021%2Facs.energyfuels.6b00106" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.energyfuels.6b00106%3Fprg140729%3D5966a0f7-660b-4674-aa4a-20a590967737&amp;title=Sodium+Conversion+of+Oilsands+Bitumen-Derived+Asphaltenes&amp;doi=10.1021%2Facs.energyfuels.6b00106" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.energyfuels.6b00106%3Fprg140729%3Dd9e72763-e193-4c92-ae10-4a3407798c46&amp;title=Sodium+Conversion+of+Oilsands+Bitumen-Derived+Asphaltenes&amp;doi=10.1021%2Facs.energyfuels.6b00106" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1174,9 +1174,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoEIPbxZYIjl7Vg90H21EOLACvtfcHk0lhhY_kLWi9Z7Q&amp;loc=%2FControllerServlet&amp;pubId=40025990" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGNC7Wtyx0N4AtQwD9OmoEd1aBCZxIeQKmZsRg8K0fiKi&amp;loc=%2FControllerServlet&amp;pubId=40025990" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSSVik383zoX3trnDmCxc-CThi25Vg2O3Mr81O_SCHzGr&amp;loc=%2FControllerServlet&amp;pubId=40025990" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoEIPbxZYIjl7Vg90H21EOLACvtfcHk0li-Rcj6_-cpZw&amp;loc=%2FControllerServlet&amp;pubId=40025990" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGNC7Wtyx0N4AtQwD9OmoEd2YctUg414nr0PREQgBn9dM&amp;loc=%2FControllerServlet&amp;pubId=40025990" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSSVik383zoX3trnDmCxc-CThi25Vg2O3MkrhJRQEbG1j&amp;loc=%2FControllerServlet&amp;pubId=40025990" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

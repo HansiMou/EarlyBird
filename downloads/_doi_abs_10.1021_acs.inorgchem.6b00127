@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5f0d1752-9f72-4312-9cc4-807d5396ba1c">
+<html lang="en" class="pb-page" data-request-id="9e8d649d-d983-4974-83fc-9235579813d3">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.inorgchem.6b00127;journal:journal:inocaj;pageGroup:string:Publication Pages;issue:issue:10.1021/inocaj.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00127%3Fprg140729%3D1bce4660-6769-4dbf-a4b9-f18899f75124" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00127?prg140729=1bce4660-6769-4dbf-a4b9-f18899f75124&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00127?prg140729=1bce4660-6769-4dbf-a4b9-f18899f75124">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00127%3Fprg140729%3D1aa57f26-d6c3-4bfe-938f-43896baf79b5" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00127?prg140729=1aa57f26-d6c3-4bfe-938f-43896baf79b5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b00127?prg140729=1aa57f26-d6c3-4bfe-938f-43896baf79b5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -955,19 +955,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i8"><span>Results</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i15"><span>Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i16"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i19"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1075,22 +1062,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02518?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.inorgchem.5b02518?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02636?src=recsys">Rotational Isomerism, Electronic Structures, and Basicity Properties of “Fully-Reduced” V<sub>14</sub>-type Heteropolyoxovanadates</a>
-                            <div class="achsLabel">
-                             Inorganic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kondinski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heine</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Monakhov</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We investigated computationally the α-, γ-, and β-isomeric structures, relative stabilities, and the electronic and basicity properties of magnetic [V<sup>IV</sup><sub>14</sub>E<sub>8</sub>O<sub>50</sub>]<sup>12–</sup> (hereafter referred to as <b>{<b>V<sub>14</sub>E<sub>8</sub></b>}</b>) heteropolyoxovanadates (heteroPOVs) and their heavier ...<sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup>In view of the rapidly growing interest in surface science and catalysis with discrete high-nuclearity, molecular spin structures of polyoxometalates, the structure−property relations in electronically and magnetically appealing α-, γ-, and β-isomeric polyoxoanions [V<sup>IV</sup><sub>14</sub>E<sub>8</sub>O<sub>50</sub>]<sup>12−</sup> and [V<sup>IV</sup><sub>14</sub>E<sub>8</sub>O<sub>42</sub>X<sub>8</sub>]<sup>12−</sup> with E (= Si<sup>IV</sup>, Ge<sup>IV</sup> and Sn<sup>IV</sup>) and X (= S, Se and Te) substituents were investigated by DFT quantum mechanical calculations. The study assists further development and application of heteropolyoxovanadates.</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.inorgchem.5b02636?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.inorgchem.5b02636?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02636?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.inorgchem.5b02636?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.inorgchem.6b00017?src=recsys">Structure and Reactivity of X-ray Amorphous Uranyl Peroxide, U<sub>2</sub>O<sub>7</sub></a>
                             <div class="achsLabel">
                              Inorganic Chemistry
@@ -1107,21 +1078,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.inorgchem.6b00017?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.inorgchem.6b00017?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b10698?src=recsys">Metal–Metal Bonding in Uranium–Group 10 Complexes</a>
+                           <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02636?src=recsys">Rotational Isomerism, Electronic Structures, and Basicity Properties of “Fully-Reduced” V<sub>14</sub>-type Heteropolyoxovanadates</a>
                             <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hlina</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pankhurst</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaltsoyannis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Arnold</span> 
+                             Inorganic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kondinski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heine</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Monakhov</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (10), pp 3333–3345</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Heterobimetallic complexes containing short uranium–group 10 metal bonds have been prepared from monometallic IU<sup>IV</sup>(OAr<sup>P</sup>-κ<sup>2</sup><i>O</i>,<i>P</i>)<sub>3</sub> (<b>2</b>) {[Ar<sup>P</sup>O]<sup>−</sup> = 2-<i>tert</i>-butyl-4-methyl-6-(diphenylphosphino)phenolate}. The U–M bond in IU<sup>IV</sup>(μ-OAr<sup>P</sup>-1κ<sup>1</sup><i>O</i>,2κ<sup>1</sup><i>P</i>)<sub>3</sub>M<sup>0</sup>, M = Ni (<b>3–Ni</b>), ...<sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> We investigated computationally the α-, γ-, and β-isomeric structures, relative stabilities, and the electronic and basicity properties of magnetic [V<sup>IV</sup><sub>14</sub>E<sub>8</sub>O<sub>50</sub>]<sup>12–</sup> (hereafter referred to as <b>{<b>V<sub>14</sub>E<sub>8</sub></b>}</b>) heteropolyoxovanadates (heteroPOVs) and their heavier ...<sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup>In view of the rapidly growing interest in surface science and catalysis with discrete high-nuclearity, molecular spin structures of polyoxometalates, the structure−property relations in electronically and magnetically appealing α-, γ-, and β-isomeric polyoxoanions [V<sup>IV</sup><sub>14</sub>E<sub>8</sub>O<sub>50</sub>]<sup>12−</sup> and [V<sup>IV</sup><sub>14</sub>E<sub>8</sub>O<sub>42</sub>X<sub>8</sub>]<sup>12−</sup> with E (= Si<sup>IV</sup>, Ge<sup>IV</sup> and Sn<sup>IV</sup>) and X (= S, Se and Te) substituents were investigated by DFT quantum mechanical calculations. The study assists further development and application of heteropolyoxovanadates.</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b10698?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b10698?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b10698?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b10698?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.inorgchem.5b02636?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.inorgchem.5b02636?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02636?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.inorgchem.5b02636?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02476?src=recsys">Structural Properties and Charge Distribution of the Sodium Uranium, Neptunium, and Plutonium Ternary Oxides: A Combined X-ray Diffraction and XANES Study</a>
+                            <div class="achsLabel">
+                             Inorganic Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Martin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prieur</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Scheinost</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Raison</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheetham</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Konings</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>55</em> (4), pp 1569–1579</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The charge distributions in α-Na<sub>2</sub>UO<sub>4</sub>, Na<sub>3</sub>NpO<sub>4</sub>, α-Na<sub>2</sub>NpO<sub>4</sub>, Na<sub>4</sub>NpO<sub>5</sub>, Na<sub>5</sub>NpO<sub>6</sub>, Na<sub>2</sub>PuO<sub>3</sub>, Na<sub>4</sub>PuO<sub>5</sub>, and Na<sub>5</sub>PuO<sub>6</sub> are investigated in this work using X-ray absorption near-edge structure (XANES) spectroscopy at the U-L<sub>3</sub>, Np-L<sub>3</sub>, and Pu-L<sub>3</sub> edges. In addition, a ...<sub></sub><sub></sub><sub></sub><sub></sub>The structure of Na<sub>2</sub>PuO<sub>3</sub> has been refined using the Rietveld method, and the existence of Na<sub>2</sub>NpO<sub>3</sub> has been revealed for the first time. In addition, XANES spectra of the sodium uranates, neptunates, and plutonates are reported, covering a wide range of valence states, namely, An(IV)−An(VII) (An = U, Np, Pu). The sodium actinide series shows a variety of local coordination environments, and the correlations between shape of the XANES spectra and local geometry are discussed.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.inorgchem.5b02476?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.inorgchem.5b02476?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02476?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.inorgchem.5b02476?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1207,9 +1194,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.inorgchem.6b00127" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00127%3Fprg140729%3Deefb205c-4590-4715-8a73-45ef0e52e15a&amp;doi=10.1021%2Facs.inorgchem.6b00127" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00127%3Fprg140729%3Da7063e6f-efce-4bd9-ab3f-988b26800c04&amp;doi=10.1021%2Facs.inorgchem.6b00127" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00127%3Fprg140729%3D1bce4660-6769-4dbf-a4b9-f18899f75124&amp;title=Low-Temperature+Oxidation+of+Fine+UO2+Powders%3A+A+Process+of+Nanosized+Domain+Development&amp;doi=10.1021%2Facs.inorgchem.6b00127" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.inorgchem.6b00127%3Fprg140729%3D1aa57f26-d6c3-4bfe-938f-43896baf79b5&amp;title=Low-Temperature+Oxidation+of+Fine+UO2+Powders%3A+A+Process+of+Nanosized+Domain+Development&amp;doi=10.1021%2Facs.inorgchem.6b00127" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

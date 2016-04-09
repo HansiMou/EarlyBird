@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b0f39f6a-9a1a-425b-94db-994e22660784">
+<html lang="en" class="pb-page" data-request-id="09d304c0-2b34-409c-a0d0-92ed6af6824c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.nanolett.6b00167;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00167%3Fprg140729%3D38c52769-e66c-4584-8417-3526c914da11" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00167?prg140729=38c52769-e66c-4584-8417-3526c914da11&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00167?prg140729=38c52769-e66c-4584-8417-3526c914da11">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00167%3Fprg140729%3Dd1d18880-c3c8-48ee-9ac8-e393f13c715d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00167?prg140729=d1d18880-c3c8-48ee-9ac8-e393f13c715d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00167?prg140729=d1d18880-c3c8-48ee-9ac8-e393f13c715d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -673,16 +673,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.nanolett.6b00104" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.nanolett.6b00712" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/nalefd/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -942,14 +932,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i5"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1046,22 +1028,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00070?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00070?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00059?src=recsys">Electronic Structure, Surface Doping, and Optical Response in Epitaxial WSe<sub>2</sub> Thin Films</a>
-                            <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ugeda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bradley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Martín-Recio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ryu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hwang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Crommie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hussain</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mo</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> High quality WSe<sub>2</sub> films have been grown on bilayer graphene (BLG) with layer-by-layer control of thickness using molecular beam epitaxy. The combination of angle-resolved photoemission, scanning tunneling microscopy/spectroscopy, and optical absorption ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.6b00059?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.6b00059?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00059?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00059?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.nanolett.6b00144?src=recsys">Probing Out-of-Plane Charge Transport in Black Phosphorus with Graphene-Contacted Vertical Field-Effect Transistors</a>
                             <div class="achsLabel">
                              Nano Letters
@@ -1077,6 +1043,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.nanolett.6b00144?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00144?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.nanolett.6b00144?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00059?src=recsys">Electronic Structure, Surface Doping, and Optical Response in Epitaxial WSe<sub>2</sub> Thin Films</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ugeda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bradley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Martín-Recio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ryu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hwang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Crommie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hussain</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mo</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> High quality WSe<sub>2</sub> films have been grown on bilayer graphene (BLG) with layer-by-layer control of thickness using molecular beam epitaxy. The combination of angle-resolved photoemission, scanning tunneling microscopy/spectroscopy, and optical absorption ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00059?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00059?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00059?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00059?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b05556?src=recsys">Recent Advances in Two-Dimensional Materials beyond Graphene</a>
                             <div class="achsLabel">
@@ -1094,21 +1076,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.5b05556?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b05556?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b04840?src=recsys">Ballistic Transport Exceeding 28 μm in CVD Grown Graphene</a>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b03278?src=recsys">Electron Doping of Ultrathin Black Phosphorus with Cu Adatoms</a>
                             <div class="achsLabel">
                              Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Banszerus</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schmitz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Engels</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Goldsche</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Watanabe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Taniguchi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Beschoten</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stampfer</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Koenig</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doganov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Seixas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carvalho</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Watanabe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Taniguchi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yakovlev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Castro Neto</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Özyilmaz</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>16</em> (2), pp 1387–1391</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We report on ballistic transport over more than 28 μm in graphene grown by chemical vapor deposition (CVD) that is fully encapsulated in hexagonal boron nitride. The structures are fabricated by an advanced dry van-der-Waals transfer method and exhibit ...<sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Few-layer black phosphorus is a monatomic two-dimensional crystal with a direct band gap that has high carrier mobility for both holes and electrons. Similarly to other layered atomic crystals, like graphene or layered transition metal dichalcogenides, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b04840?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b04840?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b04840?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b04840?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b03278?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b03278?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b03278?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b03278?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1161,7 +1143,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.nanolett.6b00167" title="High-Res PDF: 3977 KB" target="_blank"> PDF <span class="details">(3977 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00167" title="Low-Res PDF: 478 KB" target="_blank"> PDF w/ Links <span class="details">(478 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00167" title="Low-Res PDF: 479 KB" target="_blank"> PDF w/ Links <span class="details">(479 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.nanolett.6b00167" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1194,9 +1176,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.6b00167" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00167%3Fprg140729%3D38950795-cb49-4ad3-8773-b0513b186584&amp;doi=10.1021%2Facs.nanolett.6b00167" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00167%3Fprg140729%3Da33fd038-0696-474d-aa96-4c78a52cf1de&amp;doi=10.1021%2Facs.nanolett.6b00167" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00167%3Fprg140729%3D38c52769-e66c-4584-8417-3526c914da11&amp;title=Current-Induced+Spin+Polarization+in+Topological+Insulator%E2%80%93Graphene+Heterostructures&amp;doi=10.1021%2Facs.nanolett.6b00167" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00167%3Fprg140729%3Dd1d18880-c3c8-48ee-9ac8-e393f13c715d&amp;title=Current-Induced+Spin+Polarization+in+Topological+Insulator%E2%80%93Graphene+Heterostructures&amp;doi=10.1021%2Facs.nanolett.6b00167" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1219,8 +1201,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpdQTHdiLBBa7Vg90H21EOLACvtfcHk0li2eSPBj-_iow&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSZHcMbJ_e1z9trnDmCxc-CThi25Vg2O3Ms4_0ZTR-oKr&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpdQTHdiLBBa7Vg90H21EOLACvtfcHk0liIks_-lZfSUw&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSZHcMbJ_e1z9trnDmCxc-CThi25Vg2O3MrM7id-8koEI&amp;loc=%2FControllerServlet&amp;pubId=40026042" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

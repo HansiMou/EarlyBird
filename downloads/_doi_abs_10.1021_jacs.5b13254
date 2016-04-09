@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="734c1ae6-a27a-46c5-b139-38197baecb25">
+<html lang="en" class="pb-page" data-request-id="28064922-3705-4839-bb23-e5395160fefd">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/jacs.5b13254;issue:issue:10.1021/jacsat.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jacsat;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13254%3Fprg140729%3D1b4874b6-6ba9-4a0a-8d01-26da19cd6088" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13254?prg140729=1b4874b6-6ba9-4a0a-8d01-26da19cd6088&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13254?prg140729=1b4874b6-6ba9-4a0a-8d01-26da19cd6088">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13254%3Fprg140729%3De2f5fb70-6dd8-4c7d-976b-439b7fa82a32" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13254?prg140729=e2f5fb70-6dd8-4c7d-976b-439b7fa82a32&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13254?prg140729=e2f5fb70-6dd8-4c7d-976b-439b7fa82a32">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -679,7 +679,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.6b01986" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.6b00972" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -973,18 +973,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i8"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i13"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i16"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1048,21 +1036,21 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00645?src=recsys">Unravelling the Effects of Grain Boundary and Chemical Doping on Electron–Hole Recombination in CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> Perovskite by Time-Domain Atomistic Simulation</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b13470?src=recsys">Synthesis and Optical Properties of Lead-Free Cesium Tin Halide Perovskite Nanocrystals</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Prezhdo</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jellicoe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Richter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Glass</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tabachnyk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brady</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dutton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Friend</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Credgington</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Greenham</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Böhm</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3884–3890</span>
+                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2941–2944</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Advancing organohalide perovskite solar cells requires understanding of carrier dynamics. Electron–hole recombination is a particularly important process because it constitutes a major pathway of energy and current losses. Grain boundaries (GBs) are ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Metal halide perovskite crystal structures have emerged as a class of optoelectronic materials, which combine the ease of solution processability with excellent optical absorption and emission qualities. Restricting the physical dimensions of the ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00645?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00645?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00645?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00645?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b13470?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b13470?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b13470?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b13470?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b12662?src=recsys">Two-Photon-Pumped Perovskite Semiconductor Nanocrystal Lasers</a>
                             <div class="achsLabel">
@@ -1079,22 +1067,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.5b12662?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.5b12662?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b12662?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b13470?src=recsys">Synthesis and Optical Properties of Lead-Free Cesium Tin Halide Perovskite Nanocrystals</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jellicoe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Richter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Glass</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tabachnyk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brady</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dutton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Friend</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Credgington</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Greenham</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Böhm</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2941–2944</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Metal halide perovskite crystal structures have emerged as a class of optoelectronic materials, which combine the ease of solution processability with excellent optical absorption and emission qualities. Restricting the physical dimensions of the ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b13470?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b13470?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b13470?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b13470?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b13294?src=recsys">A Bismuth-Halide Double Perovskite with Long Carrier Recombination Lifetime for Photovoltaic Applications</a>
                             <div class="achsLabel">
@@ -1143,6 +1115,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.5b10723?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.5b10723?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b10723?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07791?src=recsys">Two-Dimensional CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> Perovskite: Synthesis and Optoelectronic Application</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xue</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weber</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bao</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3536–3542</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Hybrid organic–inorganic perovskite materials have received substantial research attention due to their impressively high performance in photovoltaic devices. As one of the oldest functional materials, it is intriguing to explore the optoelectronic ...<sub></sub><sub></sub><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b07791?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07791?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07791?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07791?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1228,9 +1216,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.5b13254" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13254%3Fprg140729%3Db7c0ce40-7d73-483a-9a34-aaf24c4d127d&amp;doi=10.1021%2Fjacs.5b13254" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13254%3Fprg140729%3D8fc3f845-7242-442c-9c7d-6bf9c87a1b64&amp;doi=10.1021%2Fjacs.5b13254" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13254%3Fprg140729%3D1b4874b6-6ba9-4a0a-8d01-26da19cd6088&amp;title=Deciphering+Halogen+Competition+in+Organometallic+Halide+Perovskite+Growth&amp;doi=10.1021%2Fjacs.5b13254" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13254%3Fprg140729%3De2f5fb70-6dd8-4c7d-976b-439b7fa82a32&amp;title=Deciphering+Halogen+Competition+in+Organometallic+Halide+Perovskite+Growth&amp;doi=10.1021%2Fjacs.5b13254" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1253,9 +1241,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpARHIobmIPW7Vg90H21EOLACvtfcHk0lj2JnXmiFwb2g&amp;loc=%2FControllerServlet&amp;pubId=40001010" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGCnxrbBqnNpYtQwD9OmoEd33X8oq3VWJmX9e4HptqHFm&amp;loc=%2FControllerServlet&amp;pubId=40001010" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSbJtVNj0Nby-trnDmCxc-CThi25Vg2O3Mhjh0HJxejTv&amp;loc=%2FControllerServlet&amp;pubId=40001010" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpARHIobmIPW7Vg90H21EOLACvtfcHk0ljBFXnEDZbMsw&amp;loc=%2FControllerServlet&amp;pubId=40001010" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGCnxrbBqnNpYtQwD9OmoEd0pj8Lr2aRDRQPh1ApSKUYv&amp;loc=%2FControllerServlet&amp;pubId=40001010" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSbJtVNj0Nby-trnDmCxc-CThi25Vg2O3Msk0mlwClRq6&amp;loc=%2FControllerServlet&amp;pubId=40001010" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

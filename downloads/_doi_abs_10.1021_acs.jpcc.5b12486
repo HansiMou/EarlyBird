@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8ade84a1-504c-4992-be6f-198328656a17">
+<html lang="en" class="pb-page" data-request-id="aa17f667-2364-4429-8d41-1cb12094db54">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;article:article:10.1021/acs.jpcc.5b12486;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12486%3Fprg140729%3Dd4d7c7e6-48a9-4446-bb21-67cc84b2ee9b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12486?prg140729=d4d7c7e6-48a9-4446-bb21-67cc84b2ee9b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12486?prg140729=d4d7c7e6-48a9-4446-bb21-67cc84b2ee9b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12486%3Fprg140729%3D8efed4f4-1687-4e64-96b6-06b3d710de4b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12486?prg140729=8efed4f4-1687-4e64-96b6-06b3d710de4b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b12486?prg140729=8efed4f4-1687-4e64-96b6-06b3d710de4b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -959,18 +959,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i10"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i19"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i22"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1044,6 +1032,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b09914?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b09914?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00893?src=recsys">Dissecting the Molecular Structure of the Air/Water Interface from Quantum Simulations of the Sum-Frequency Generation Spectrum</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Medders</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Paesani</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3912–3919</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The molecular characterization of the air/water interface is a key step in understanding fundamental multiphase phenomena ranging from heterogeneous chemical processes in the atmosphere to the hydration of biomolecules. The apparent simplicity of the air/...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b00893?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00893?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00893?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00893?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b11590?src=recsys">In Situ Video-STM Study of Adlayer Structure and Surface Dynamics at the Ionic Liquid/Au (111) Interface</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1076,22 +1080,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11840?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b11840?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00893?src=recsys">Dissecting the Molecular Structure of the Air/Water Interface from Quantum Simulations of the Sum-Frequency Generation Spectrum</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Medders</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Paesani</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3912–3919</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The molecular characterization of the air/water interface is a key step in understanding fundamental multiphase phenomena ranging from heterogeneous chemical processes in the atmosphere to the hydration of biomolecules. The apparent simplicity of the air/...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00893?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00893?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00893?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00893?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b07845?src=recsys">Two Types of Water at the Water–Surfactant Interface Revealed by Time-Resolved Vibrational Spectroscopy</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1108,21 +1096,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b07845?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b07845?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.5b02646?src=recsys">Oppositely Charged Ions at Water–Air and Water–Oil Interfaces: Contrasting the Molecular Picture with Thermodynamics</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11051?src=recsys">Surface Enhancement in Ultrafast 2D ATR IR Spectroscopy at the Metal-Liquid Interface</a>
                             <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Carrier</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Backus</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shahidzadeh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Franz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wagner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nagata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bonn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bonn</span> 
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kraack</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaech</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hamm</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (5), pp 825–830</span>
+                             <span><span class="bold">2016</span> <em>120</em> (6), pp 3350–3359</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The surface-active ions tetraphenylarsonium (Ph<sub>4</sub>As<sup>+</sup>) and tetraphenylboron (Ph<sub>4</sub>B<sup>–</sup>) have a similar structure but opposite charge. At the solution–air interface, the two ions affect the surface tension in an identical manner, yet sum-frequency generation (...<sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> We investigate surface enhancement in two-dimensional attenuated total reflectance infrared (2D ATR IR) spectroscopy from organic monolayers (MLs) at metal–liquid interfaces. We consider MLs from both aromatic and aliphatic organic samples equipped with ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.5b02646?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.5b02646?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.5b02646?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.5b02646?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b11051?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b11051?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11051?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11051?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1208,9 +1196,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b12486" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12486%3Fprg140729%3D2804f7aa-dc03-422d-a753-c8a8f375c88e&amp;doi=10.1021%2Facs.jpcc.5b12486" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12486%3Fprg140729%3Df56a3e17-1671-40a6-8af5-17a0aaeef645&amp;doi=10.1021%2Facs.jpcc.5b12486" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12486%3Fprg140729%3Dd4d7c7e6-48a9-4446-bb21-67cc84b2ee9b&amp;title=Spectroscopy+and+Ultrafast+Vibrational+Dynamics+of+Strongly+Hydrogen+Bonded+OH+Species+at+the+%CE%B1-Al2O3%28112%CC%850%29%2FH2O+Interface&amp;doi=10.1021%2Facs.jpcc.5b12486" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b12486%3Fprg140729%3D8efed4f4-1687-4e64-96b6-06b3d710de4b&amp;title=Spectroscopy+and+Ultrafast+Vibrational+Dynamics+of+Strongly+Hydrogen+Bonded+OH+Species+at+the+%CE%B1-Al2O3%28112%CC%850%29%2FH2O+Interface&amp;doi=10.1021%2Facs.jpcc.5b12486" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1233,9 +1221,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqH2DbJTYfPmbVg90H21EOLACvtfcHk0lgJsY_v6i596Q&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGFHm2tra-lTRtQwD9OmoEd1uFl3r3x2FonbHNBb3WxWs&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSX9sXMP5DnmZtrnDmCxc-CThi25Vg2O3MhaRp1-MfGiV&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqH2DbJTYfPmbVg90H21EOLACvtfcHk0lgSzRgBb8dRbA&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGFHm2tra-lTRtQwD9OmoEd2ut5Edx74uZgwrFzLScAfA&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSX9sXMP5DnmZtrnDmCxc-CThi25Vg2O3MmzKIcaLz-ZY&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

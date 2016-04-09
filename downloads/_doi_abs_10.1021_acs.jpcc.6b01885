@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="74dc26be-7ca1-4cb1-b167-98e09a35093d">
+<html lang="en" class="pb-page" data-request-id="0f94163f-0600-417c-bfa9-5b16ec7767a2">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;article:article:10.1021/acs.jpcc.6b01885;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01885%3Fprg140729%3D7bcb025b-0897-431b-be30-be47d1ac2098" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01885?prg140729=7bcb025b-0897-431b-be30-be47d1ac2098&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01885?prg140729=7bcb025b-0897-431b-be30-be47d1ac2098">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01885%3Fprg140729%3D00fbd818-6133-46f1-80bb-8e966b0f0345" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01885?prg140729=00fbd818-6133-46f1-80bb-8e966b0f0345&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01885?prg140729=00fbd818-6133-46f1-80bb-8e966b0f0345">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -693,16 +693,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b01802" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.6b01977" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -990,18 +980,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i10"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i12"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i16"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1080,22 +1058,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00757?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00757?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b08040?src=recsys">Nitro Lignin-Derived Nitrogen-Doped Carbon as an Efficient and Sustainable Electrocatalyst for Oxygen Reduction</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Graglia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pampel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hantke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fellinger</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Esposito</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The use of lignin as a precursor for the synthesis of materials is nowadays considered very interesting from a sustainability standpoint. Here we illustrate the synthesis of a micro-, meso-, and macroporous nitrogen-doped carbon (NDC) using lignin ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b08040?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b08040?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b08040?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b08040?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemrev.5b00462?src=recsys">Recent Advances in Electrocatalysts for Oxygen Reduction Reaction</a>
                             <div class="achsLabel">
                              Chemical Reviews
@@ -1111,6 +1073,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.chemrev.5b00462?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00462?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemrev.5b00462?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b08040?src=recsys">Nitro Lignin-Derived Nitrogen-Doped Carbon as an Efficient and Sustainable Electrocatalyst for Oxygen Reduction</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Graglia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pampel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hantke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fellinger</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Esposito</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The use of lignin as a precursor for the synthesis of materials is nowadays considered very interesting from a sustainability standpoint. Here we illustrate the synthesis of a micro-, meso-, and macroporous nitrogen-doped carbon (NDC) using lignin ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b08040?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b08040?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b08040?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b08040?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b11015?src=recsys">On an Easy Way To Prepare Metal–Nitrogen Doped Carbon with Exclusive Presence of MeN<sub>4</sub>-type Sites Active for the ORR</a>
                             <div class="achsLabel">
@@ -1128,37 +1106,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b11015?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b11015?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b10493?src=recsys">Nitrogen-Doped Carbon Nanoparticle–Carbon Nanofiber Composite as an Efficient Metal-Free Cathode Catalyst for Oxygen Reduction Reaction</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Panomsuwan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saito</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ishizaki</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>8</em> (11), pp 6962–6971</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Metal-free nitrogen-doped carbon materials are currently considered at the forefront of potential alternative cathode catalysts for the oxygen reduction reaction (ORR) in fuel cell technology. Despite numerous efforts in this area over the past decade, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b10493?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b10493?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b10493?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b10493?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acscatal.5b02325?src=recsys">Bimetal–Organic Framework Self-Adjusted Synthesis of Support-Free Nonprecious Electrocatalysts for Efficient Oxygen Reduction</a>
+                           <li><a href="/doi/abs/10.1021/acscatal.5b02731?src=recsys">Design Principles for Dual-Element-Doped Carbon Nanomaterials as Efficient Bifunctional Catalysts for Oxygen Reduction and Evolution Reactions</a>
                             <div class="achsLabel">
                              ACS Catalysis
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">You</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Drisdell</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yano</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>5</em> (12), pp 7068–7076</span>
+                             <span><span class="bold">2016</span> <em>6</em> (3), pp 1553–1558</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The development of low-cost catalysts with oxygen reduction reaction (ORR) activity superior to that of Pt for fuel cells is highly desirable but remains challenging. Herein, we report a bimetal–organic framework (bi-MOF) self-adjusted synthesis of ...<sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Dual-element-doped carbon nanomaterials are demonstrated to be more efficient bifunctional catalysts than noble metals to catalyze two key chemical reactions: oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) in regenerative fuel cells ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acscatal.5b02325?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acscatal.5b02325?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acscatal.5b02325?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acscatal.5b02325?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acscatal.5b02731?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscatal.5b02731?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscatal.5b02731?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscatal.5b02731?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12828?src=recsys">Oxygen Reduction Catalysis at a Dicobalt Center: The Relationship of Faradaic Efficiency to Overpotential</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Passard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ullman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brodsky</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nocera</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (9), pp 2925–2928</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The selective four electron, four proton, electrochemical reduction of O<sub>2</sub> to H<sub>2</sub>O in the presence of a strong acid (TFA) is catalyzed at a dicobalt center. The faradaic efficiency of the oxygen reduction reaction (ORR) is furnished from a systematic ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12828?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12828?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12828?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12828?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1211,7 +1189,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.6b01885" title="High-Res PDF: 3370 KB" target="_blank"> PDF <span class="details">(3370 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01885" title="Low-Res PDF: 568 KB" target="_blank"> PDF w/ Links <span class="details">(568 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01885" title="Low-Res PDF: 567 KB" target="_blank"> PDF w/ Links <span class="details">(567 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.6b01885" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1244,9 +1222,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b01885" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01885%3Fprg140729%3D2d97de5b-cb64-47da-93fa-15a65a8d2fce&amp;doi=10.1021%2Facs.jpcc.6b01885" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01885%3Fprg140729%3D7471db47-f84b-4b5e-b99c-9784eee047d5&amp;doi=10.1021%2Facs.jpcc.6b01885" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01885%3Fprg140729%3D7bcb025b-0897-431b-be30-be47d1ac2098&amp;title=Nitrogen-Deficient+ORR+Active+Sites+Formation+by+Iron-Assisted+Water+Vapor+Activation+of+Electrospun+Carbon+Nanofibers&amp;doi=10.1021%2Facs.jpcc.6b01885" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01885%3Fprg140729%3D00fbd818-6133-46f1-80bb-8e966b0f0345&amp;title=Nitrogen-Deficient+ORR+Active+Sites+Formation+by+Iron-Assisted+Water+Vapor+Activation+of+Electrospun+Carbon+Nanofibers&amp;doi=10.1021%2Facs.jpcc.6b01885" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

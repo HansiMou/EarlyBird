@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="30b45c76-cc91-4ead-8da9-94d81bf9d767">
+<html lang="en" class="pb-page" data-request-id="778f3d90-2f90-4989-b320-f27ced9d9565">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jctc.6b00030;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00030%3Fprg140729%3D6d54db88-0ddb-4415-b1a9-367a3081a21d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00030?prg140729=6d54db88-0ddb-4415-b1a9-367a3081a21d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00030?prg140729=6d54db88-0ddb-4415-b1a9-367a3081a21d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00030%3Fprg140729%3D1bf2b209-edb6-4b73-83cb-27b0144e8032" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00030?prg140729=1bf2b209-edb6-4b73-83cb-27b0144e8032&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00030?prg140729=1bf2b209-edb6-4b73-83cb-27b0144e8032">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1015,6 +1015,54 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01197?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01197?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01158?src=recsys">Critical Assessment of TD-DFT for Excited States of Open-Shell Systems: I. Doublet–Doublet Transitions</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>12</em> (1), pp 238–260</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A benchmark set of 11 small radicals is set up to assess the performance of time-dependent density functional theory (TD-DFT) for the excited states of open-shell systems. Both the unrestricted (U-TD-DFT) and spin-adapted (X-TD-DFT) formulations of TD-DFT ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01158?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01158?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01158?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01158?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00130?src=recsys">Many-Electron Integrals over Gaussian Basis Functions. I. Recurrence Relations for Three-Electron Integrals</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Barca</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Loos</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Gill</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Explicitly correlated F12 methods are becoming the first choice for high-accuracy molecular orbital calculations and can often achieve chemical accuracy with relatively small Gaussian basis sets. In most calculations, the many three- and four-electron ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.6b00130?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.6b00130?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00130?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.6b00130?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00821?src=recsys">Wave Function Frozen-Density Embedding: Coupled Excitations</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Höfener</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Visscher</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>12</em> (2), pp 549–557</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report quasi-ab initio correlated ground-state and excitation-energy calculations for agglomerates consisting of several molecules with total system sizes of up to more than one hundred atoms using a combination of a density-fitted, approximate second-...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b00821?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b00821?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00821?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b00821?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01082?src=recsys">MN15-L: A New Local Exchange-Correlation Functional for Kohn–Sham Density Functional Theory with Broad Accuracy for Atoms, Molecules, and Solids</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1046,54 +1094,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b01040?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01040?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01040?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00782?src=recsys">Evaluation of the Performance of the B3LYP, PBE0, and M06 DFT Functionals, and DBLOC-Corrected Versions, in the Calculation of Redox Potentials and Spin Splittings for Transition Metal Containing Systems</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Coskun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jerome</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Friesner</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (3), pp 1121–1128</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We have evaluated the performance of the M06 and PBE0 functionals in their ability to calculate spin splittings and redox potentials for octahedral complexes containing a first transition metal series atom. The mean unsigned errors (MUEs) for these two ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b00782?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b00782?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00782?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b00782?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01158?src=recsys">Critical Assessment of TD-DFT for Excited States of Open-Shell Systems: I. Doublet–Doublet Transitions</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (1), pp 238–260</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A benchmark set of 11 small radicals is set up to assess the performance of time-dependent density functional theory (TD-DFT) for the excited states of open-shell systems. Both the unrestricted (U-TD-DFT) and spin-adapted (X-TD-DFT) formulations of TD-DFT ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01158?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01158?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01158?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01158?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01099?src=recsys">iCI: Iterative CI toward full CI</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hoffmann</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (3), pp 1169–1178</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> It is shown both theoretically and numerically that the minimal multireference configuration interaction (CI) approach [Liu, W.; Hoffmann, M. R. <i>Theor. Chem. Acc.</i><b>2014</b>, <i>133</i>, 1481] converges quickly and monotonically from above to full CI by updating the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01099?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01099?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01099?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01099?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1179,9 +1179,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.6b00030" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00030%3Fprg140729%3D462f3856-d932-47af-a338-02c8f860aef9&amp;doi=10.1021%2Facs.jctc.6b00030" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00030%3Fprg140729%3D5fdfc1e7-e314-4b8c-82a6-b7e936624063&amp;doi=10.1021%2Facs.jctc.6b00030" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00030%3Fprg140729%3D6d54db88-0ddb-4415-b1a9-367a3081a21d&amp;title=Four-Component+Damped+Density+Functional+Response+Theory+Study+of+UV%2FVis+Absorption+Spectra+and+Phosphorescence+Parameters+of+Group+12+Metal-Substituted+Porphyrins&amp;doi=10.1021%2Facs.jctc.6b00030" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.6b00030%3Fprg140729%3D1bf2b209-edb6-4b73-83cb-27b0144e8032&amp;title=Four-Component+Damped+Density+Functional+Response+Theory+Study+of+UV%2FVis+Absorption+Spectra+and+Phosphorescence+Parameters+of+Group+12+Metal-Substituted+Porphyrins&amp;doi=10.1021%2Facs.jctc.6b00030" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

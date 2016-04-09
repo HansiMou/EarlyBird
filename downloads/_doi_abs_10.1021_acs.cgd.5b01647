@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c2e1e742-0593-4894-989c-e386f9f5099f">
+<html lang="en" class="pb-page" data-request-id="0397db64-d86f-4333-a401-351d3de6b836">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.cgd.5b01647;pageGroup:string:Publication Pages;issue:issue:10.1021/cgdefu.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:cgdefu">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01647%3Fprg140729%3D3a5727d7-11aa-479c-94cf-97ee2e369290" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.cgd.5b01647?prg140729=3a5727d7-11aa-479c-94cf-97ee2e369290&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.cgd.5b01647?prg140729=3a5727d7-11aa-479c-94cf-97ee2e369290">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01647%3Fprg140729%3Dca3fe8e0-9b2b-4402-b10b-7ec52480ab3e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.cgd.5b01647?prg140729=ca3fe8e0-9b2b-4402-b10b-7ec52480ab3e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.cgd.5b01647?prg140729=ca3fe8e0-9b2b-4402-b10b-7ec52480ab3e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -675,11 +675,10 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.cgd.5b01590" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.cgd.5b01660" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.cgd.5b01681" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -946,22 +945,10 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i7"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i18"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i21"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
-                               <img alt="Abstract Image" src="/appl/literatum/publisher/achs/journals/content/cgdefu/0/cgdefu.ahead-of-print/acs.cgd.5b01647/20160406/images/medium/cg-2015-01647g_0010.gif">
+                               <img alt="Abstract Image" src="/appl/literatum/publisher/achs/journals/content/cgdefu/0/cgdefu.ahead-of-print/acs.cgd.5b01647/20160408/images/medium/cg-2015-01647g_0010.gif">
                               </div>
                               <p class="articleBody_abstractText">The nanoSe<sup>0</sup>-polyphenol complexes with a 3:1 polyphenol/nanoSe<sup>0</sup> molar ratio were prepared by colloidal selenium nanoparticles (nanoSe<sup>0</sup>) modified with gallic acid (GA), propyl gallate (PG), and pyrogallic acid (PA), which were spherical with average diameter about 38–77 nm. On this basis, we studied the effect of nanoSe<sup>0</sup>-polyphenol on the CaC<sub>2</sub>O<sub>4</sub> crystallization and also elaborated the modulation mechanism, which were compared with those for each polyphenol individually. NanoSe<sup>0</sup>-GA and nanoSe<sup>0</sup>-PA were easy to induce the formation of calcium oxalate dihydrate (COD) crystals, while nanoSe<sup>0</sup>-PG induced the formation of quasi-rectangular calcium oxalate monohydrate (COM), multilayered calcium oxalate trihydrate (COT) crystals, and an amount of COD crystals in a dose-dependent fashion by nanoSe<sup>0</sup>-PG. The strong effect of nanoSe<sup>0</sup>-polyphenol on the formation of COD and COT crystals could be attributed to electrostatic interaction between nanoSe<sup>0</sup>-polyphenol and CaC<sub>2</sub>O<sub>4</sub> crystals. The results obtained in the polyphenol system were similar to, as well as different from, nanoSe<sup>0</sup>-polyphenol because the effect of the polyphenol on the CaC<sub>2</sub>O<sub>4</sub> crystallization could result from not only electrostatic interaction between polyphenols and Ca<sup>2+</sup> ions, but also hydrogen bonding interaction between the polyphenols and C<sub>2</sub>O<sub>4</sub><sup>2–</sup> groups. All the obtained COD crystals were thermostable even at 70 °C, while COT crystals were temperature dependent.</p>
                              </div>
@@ -1014,7 +1001,73 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Zhou%2C+Yanhui">Yanhui Zhou</a></li>
                            <li><a href="/author/Bai%2C+Yan">Yan Bai</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.cgd.5b01726?src=recsys">Nanoseed Assisted PVT Growth of Ultrathin 2D Pentacene Molecular Crystal Directly onto SiO<sub>2</sub> Substrate</a>
+                            <div class="achsLabel">
+                             Crystal Growth &amp; Design
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Arabi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mirza</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> High order of molecular packing and perfect semiconductor/dielectric interface are two key factors to achieve high performance for organic field-effect transistors (OFET). Moreover, the thin crystal offers an improved efficiency of carrier injection for ...<sub></sub><sup></sup><sup></sup><sup></sup>Exceptional in situ growth of ultrathin 2D pentacene molecular crystal was described. Extensive growth mechanism was illustrated by optimizing different parameters. Enhanced field effect performance was attributed to the use of ultrathin crystal.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.cgd.5b01726?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.cgd.5b01726?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.cgd.5b01726?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.cgd.5b01726?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.cgd.5b01660?src=recsys">Predicting the Effect of Solvent on the Crystal Habit of Small Organic Molecules</a>
+                            <div class="achsLabel">
+                             Crystal Growth &amp; Design
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tilbury</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Green</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marshall</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Doherty</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In order to develop a practical engineering tool for predicting the relative growth rates and morphology of solution-grown faceted crystals, a method for quickly determining solvent-modified crystal surface energies is required. The bulk interface ...Using the interfacial model of van Oss, Chaudhury and Good, we have developed a framework to account for the solvent effect within a mechanistic crystal growth model for small organic molecules. Testing against crystallization of biphenyl, naphthalene, adipic acid, and pentaerythritol demonstrates the ability to reproduce morphological changes induced by the solvent.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.cgd.5b01660?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.cgd.5b01660?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.cgd.5b01660?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.cgd.5b01660?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.cgd.5b01770?src=recsys">Electrostatic Potential Differences and Halogen-Bond Selectivity</a>
+                            <div class="achsLabel">
+                             Crystal Growth &amp; Design
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Aakeröy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wijethunga</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Desper</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Đaković</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Molecular electrostatic potential based guidelines for selectivity of halogen-bond interactions were explored via systematic co-crystallizations of 9 perfluorinated halogen-bond donors and 12 ditopic acceptors presenting two binding sites with different ...Practical guidelines are presented for the synthesis of halogen-bonded co-crystals.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.cgd.5b01770?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.cgd.5b01770?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.cgd.5b01770?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.cgd.5b01770?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.cgd.5b01590?src=recsys">ZnS Thin Films for Visible-Light Active Photoelectrodes: Effect of Film Morphology and Crystal Structure</a>
+                            <div class="achsLabel">
+                             Crystal Growth &amp; Design
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kurnia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Valanoor</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hart</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The photoelectrochemical (PEC) performance of zinc sulfide (ZnS) thin films under visible light has been studied as a function of the fabrication conditions. In particular, N<sub>2</sub> background gas during film deposition was exploited to tune the film crystal ...<sup></sup>The photoelectrochemical (PEC) performance of zinc sulfide (ZnS) thin films under visible light has been studied as a function of the fabrication conditions. This work provides a guide for how ZnS thin films with high PEC performance, particularly under visible light, can be realized.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.cgd.5b01590?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.cgd.5b01590?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.cgd.5b01590?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.cgd.5b01590?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1098,9 +1151,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.cgd.5b01647" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01647%3Fprg140729%3Df263766a-d5a7-4c6b-afc1-2c150eaaef1e&amp;doi=10.1021%2Facs.cgd.5b01647" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01647%3Fprg140729%3D13611da8-09c2-4080-9c27-8f4e081a46a8&amp;doi=10.1021%2Facs.cgd.5b01647" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01647%3Fprg140729%3D3a5727d7-11aa-479c-94cf-97ee2e369290&amp;title=Modulation+of+Calcium+Oxalate+Crystallization+by+Colloidal+Selenium+Nanoparticles%E2%80%93Polyphenol+Complex&amp;doi=10.1021%2Facs.cgd.5b01647" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.cgd.5b01647%3Fprg140729%3Dca3fe8e0-9b2b-4402-b10b-7ec52480ab3e&amp;title=Modulation+of+Calcium+Oxalate+Crystallization+by+Colloidal+Selenium+Nanoparticles%E2%80%93Polyphenol+Complex&amp;doi=10.1021%2Facs.cgd.5b01647" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="6434d960-ec59-4837-9042-8fdc3be06dc3">
+<html lang="en" class="pb-page" data-request-id="a865ae2e-7837-4e85-bbbe-a21028247858">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/acncdm.ahead-of-print;article:article:10.1021/acschemneuro.6b00024;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:acncdm;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschemneuro.6b00024%3Fprg140729%3Dde079758-3d8a-4339-9341-54fc39ef71c8" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschemneuro.6b00024?prg140729=de079758-3d8a-4339-9341-54fc39ef71c8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschemneuro.6b00024?prg140729=de079758-3d8a-4339-9341-54fc39ef71c8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschemneuro.6b00024%3Fprg140729%3Df7e0ac09-6ba4-4e32-b48a-727b544d403d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschemneuro.6b00024?prg140729=f7e0ac09-6ba4-4e32-b48a-727b544d403d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschemneuro.6b00024?prg140729=f7e0ac09-6ba4-4e32-b48a-727b544d403d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -943,6 +943,16 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i4"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Methods" href="#_i17"><span>Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i25"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -951,12 +961,12 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">The metabolism of drugs in the brain is difficult to study in most species because of enzymatic instability in vitro and interference from peripheral metabolism in vivo. A locust ex vivo model that combines brain barrier penetration, efflux, metabolism, and analysis of the unbound fraction in intact brains was evaluated using known drugs. Clozapine was analyzed, and its major metabolites, clozapine <i>N</i>-oxide (CNO) and <i>N</i>-desmethylclozapine (NDMC), were identified and quantified. The back-transformation of CNO into clozapine observed in humans was also observed in locusts. In addition, risperidone, citalopram, fluoxetine, and haloperidol were studied, and one preselected metabolite for each drug was analyzed, identified, and quantified. Metabolite identification studies of clozapine and midazolam showed that the locust brain was highly metabolically active, and 18 and 14 metabolites, respectively, were identified. The unbound drug fraction of clozapine, NDMC, carbamazepine, and risperidone was analyzed. In addition, coadministration of drugs with verapamil or fluvoxamine was performed to evaluate drug–drug interactions in all setups. All findings correlated well with the data in the literature for mammals except for the stated fact that CNO is a highly blood–brain barrier permeant compound. Overall, the experiments indicated that invertebrates might be useful for screening of blood–brain barrier permeation, efflux, metabolism, and analysis of the unbound fraction of drugs in the brain in early drug discovery.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Locust&amp;qsSearchArea=AllField">Locust</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Brain&amp;qsSearchArea=AllField">brain</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Drug+Metabolism&amp;qsSearchArea=AllField">drug metabolism</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Blood%E2%88%92brain+Barrier&amp;qsSearchArea=AllField">blood−brain barrier</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Efflux&amp;qsSearchArea=AllField">efflux</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Drug%E2%88%92drug+Interactions&amp;qsSearchArea=AllField">drug−drug interactions</a>
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Locust&amp;qsSearchArea=AllField">Locust</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Brain&amp;qsSearchArea=AllField">brain</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Drug+Metabolism&amp;qsSearchArea=AllField">drug metabolism</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Blood%E2%88%92brain+Barrier&amp;qsSearchArea=AllField">blood−brain barrier</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Efflux&amp;qsSearchArea=AllField">efflux</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Drug%E2%88%92drug+Interactions&amp;qsSearchArea=AllField">drug−drug interactions</a>
                               </div>
                              </div>
                             </div>
@@ -1189,9 +1199,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facschemneuro.6b00024" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschemneuro.6b00024%3Fprg140729%3D78480985-d0ac-438f-87cd-1b503fb74bc3&amp;doi=10.1021%2Facschemneuro.6b00024" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschemneuro.6b00024%3Fprg140729%3D642ecf73-2e12-4fde-a31b-a071f99e54ba&amp;doi=10.1021%2Facschemneuro.6b00024" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschemneuro.6b00024%3Fprg140729%3Dde079758-3d8a-4339-9341-54fc39ef71c8&amp;title=An+ex+Vivo+Model+for+Evaluating+Blood%E2%80%93Brain+Barrier+Permeability%2C+Efflux%2C+and+Drug+Metabolism&amp;doi=10.1021%2Facschemneuro.6b00024" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschemneuro.6b00024%3Fprg140729%3Df7e0ac09-6ba4-4e32-b48a-727b544d403d&amp;title=An+ex+Vivo+Model+for+Evaluating+Blood%E2%80%93Brain+Barrier+Permeability%2C+Efflux%2C+and+Drug+Metabolism&amp;doi=10.1021%2Facschemneuro.6b00024" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1214,9 +1224,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqh13lhNSVqULVg90H21EOLACvtfcHk0lg-toRmvk5b6Q&amp;loc=%2FControllerServlet&amp;pubId=344999928" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGMiVzQLodDn3tQwD9OmoEd0eSk6gataSlt5Ihw99Q-4Z&amp;loc=%2FControllerServlet&amp;pubId=344999928" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSdohMZOmV8IJtrnDmCxc-CThi25Vg2O3MncJM9ijp9dN&amp;loc=%2FControllerServlet&amp;pubId=344999928" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqh13lhNSVqULVg90H21EOLACvtfcHk0ljiWvmhl214Jw&amp;loc=%2FControllerServlet&amp;pubId=344999928" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGMiVzQLodDn3tQwD9OmoEd2jMWp_C5zEdCUIEsYVkJkS&amp;loc=%2FControllerServlet&amp;pubId=344999928" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSdohMZOmV8IJtrnDmCxc-CThi25Vg2O3MjWOZTEiRKIJ&amp;loc=%2FControllerServlet&amp;pubId=344999928" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

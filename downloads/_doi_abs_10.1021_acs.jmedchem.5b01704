@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="d8492f58-24f0-42cd-a484-d21842765d4a">
+<html lang="en" class="pb-page" data-request-id="4be1e2a7-b7ae-4725-9704-9a23e55a3166">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jmedchem.5b01704;pageGroup:string:Publication Pages;journal:journal:jmcmar;wgroup:string:ACHS website Group;page:string:Article/Chapter View;issue:issue:10.1021/jmcmar.2016.59.issue-3;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -154,8 +154,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01704%3Fprg140729%3De7d38043-056a-4473-aec9-89bf3e1b0a6a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01704?prg140729=e7d38043-056a-4473-aec9-89bf3e1b0a6a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01704?prg140729=e7d38043-056a-4473-aec9-89bf3e1b0a6a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01704%3Fprg140729%3Dc815c002-fec1-4e9a-9344-63aee4783828" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01704?prg140729=c815c002-fec1-4e9a-9344-63aee4783828&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01704?prg140729=c815c002-fec1-4e9a-9344-63aee4783828">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1082,9 +1082,201 @@ function addFlashMovie(id, flv, image) {
                      <div class="widget-body body body-none ">
                       <div class="decorated-tabs tabs tabs-widget layout-tabs">
                        <ul class="tab-nav citingRelatedNav">
+                        <li><a href="#tabs-1">Citing Articles</a></li>
                         <li><a href="#tabs-2">Related Content</a></li>
                        </ul>
                        <div class="tab-content">
+                        <div id="tabs-1" class="tab-pane">
+                         <div class="cited-content">
+                          <a id="citing" name="citing"></a>
+                          <p>Citation data is made available by participants in <a href="http://www.crossref.org">CrossRef's</a> Cited-by Linking service. For a more comprehensive list of citations to this article, users are encouraged to perform a search in <a href="http://scifinder.cas.org">SciFinder</a>. </p>
+                          <ul id="citedBy">
+                           <li><h2><a href="http://dx.doi.org/10.1016/j.bmc.2016.04.011" target="_blank" title="Opens new window">Amine-Free Melanin-concentrating Hormone Receptor 1 Antagonists: Novel 1-(1H-benzimidazol-6-yl)pyridin-2(1H)-one Derivatives and Design to Avoid CYP3A4 Time-Dependent Inhibition</a></h2>
+                            <div class="contributors">
+                             <span class="hlFld-ContribAuthor ">Hideyuki<span class="NLM_x"> </span>Igawa</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Masashi<span class="NLM_x"> </span>Takahashi</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Mikio<span class="NLM_x"> </span>Shirasaki</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Keiko<span class="NLM_x"> </span>Kakegawa</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Asato<span class="NLM_x"> </span>Kina</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Minoru<span class="NLM_x"> </span>Ikoma</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Jumpei<span class="NLM_x"> </span>Aida</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Tsuneo<span class="NLM_x"> </span>Yasuma</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Shoki<span class="NLM_x"> </span>Okuda</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Yayoi<span class="NLM_x"> </span>Kawata</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Toshihiro<span class="NLM_x"> </span>Noguchi</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Syunsuke<span class="NLM_x"> </span>Yamamoto</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Yasushi<span class="NLM_x"> </span>Fujioka</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Mrinalkanti<span class="NLM_x"> </span>Kundu</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Uttam<span class="NLM_x"> </span>Khamrai</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Masaharu<span class="NLM_x"> </span>Nakayama</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Yasutaka<span class="NLM_x"> </span>Nagisa</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Shizuo<span class="NLM_x"> </span>Kasai</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Tsuyoshi<span class="NLM_x"> </span>Maekawa</span>
+                            </div>
+                            <div>
+                             <cite><span class="NLM_source">Bioorganic &amp; Medicinal Chemistry</span></cite>
+                             <strong>2016</strong> 
+                             <em></em> (), 
+                            </div></li>
+                           <li><h2><a href="http://dx.doi.org/10.1016/j.bmc.2016.04.013" target="_blank" title="Opens new window">Amine-Free Melanin-Concentrating Hormone Receptor 1 Antagonists: Novel Non-Basic 1-(2H-indazole-5-yl)pyridin-2(1H)-one Derivatives and Mitigation of Mutagenicity in Ames Test</a></h2>
+                            <div class="contributors">
+                             <span class="hlFld-ContribAuthor ">Hideyuki<span class="NLM_x"> </span>Igawa</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Masashi<span class="NLM_x"> </span>Takahashi</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Minoru<span class="NLM_x"> </span>Ikoma</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Hiromi<span class="NLM_x"> </span>Kaku</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Keiko<span class="NLM_x"> </span>Kakegawa</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Asato<span class="NLM_x"> </span>Kina</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Jumpei<span class="NLM_x"> </span>Aida</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Shoki<span class="NLM_x"> </span>Okuda</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Yayoi<span class="NLM_x"> </span>Kawata</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Toshihiro<span class="NLM_x"> </span>Noguchi</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Natsu<span class="NLM_x"> </span>Hotta</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Syunsuke<span class="NLM_x"> </span>Yamamoto</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Masaharu<span class="NLM_x"> </span>Nakayama</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Yasutaka<span class="NLM_x"> </span>Nagisa</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Shizuo<span class="NLM_x"> </span>Kasai</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Tsuyoshi<span class="NLM_x"> </span>Maekawa</span>
+                            </div>
+                            <div>
+                             <cite><span class="NLM_source">Bioorganic &amp; Medicinal Chemistry</span></cite>
+                             <strong>2016</strong> 
+                             <em></em> (), 
+                            </div></li>
+                          </ul>
+                         </div>
+                        </div>
                         <div id="tabs-2" class="tab-pane">
                          <div id="relatedArticles">
                           <h3 class="authorsHead">Other ACS content by these authors:</h3>
@@ -1269,6 +1461,7 @@ function addFlashMovie(id, flv, image) {
                             <li> <a href="/doi/suppl/10.1021/acs.jmedchem.5b01704"> Supporting Info </a> </li> 
                             <li> <a title="Open Figure Viewer in Full Text HTML" href="/doi/full/10.1021/acs.jmedchem.5b01704#showFigures"> Figures </a> </li> 
                             <li> <a title="Open References in Full Text HTML" href="/doi/full/10.1021/acs.jmedchem.5b01704#showReferences" class="showRefLink"> References </a> </li> 
+                            <li class="citing-link"> <a href="/doi/full/10.1021/acs.jmedchem.5b01704#citing"> Citing Articles </a> </li> 
                            </ul> 
                           </div>
                          </div> 
@@ -1292,9 +1485,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.5b01704" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01704%3Fprg140729%3D59460be1-fc9c-4ef5-818a-487deb044d92&amp;doi=10.1021%2Facs.jmedchem.5b01704" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01704%3Fprg140729%3Dc3a985e0-6c64-498b-8f25-9c001b34275a&amp;doi=10.1021%2Facs.jmedchem.5b01704" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01704%3Fprg140729%3De7d38043-056a-4473-aec9-89bf3e1b0a6a&amp;title=Melanin-Concentrating+Hormone+Receptor+1+Antagonists+Lacking+an+Aliphatic+Amine%3A+Synthesis+and+Structure%E2%80%93Activity+Relationships+of+Novel+1-%28Imidazo%5B1%2C2-a%5Dpyridin-6-yl%29pyridin-2%281H%29-one+Derivatives&amp;doi=10.1021%2Facs.jmedchem.5b01704" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01704%3Fprg140729%3Dc815c002-fec1-4e9a-9344-63aee4783828&amp;title=Melanin-Concentrating+Hormone+Receptor+1+Antagonists+Lacking+an+Aliphatic+Amine%3A+Synthesis+and+Structure%E2%80%93Activity+Relationships+of+Novel+1-%28Imidazo%5B1%2C2-a%5Dpyridin-6-yl%29pyridin-2%281H%29-one+Derivatives&amp;doi=10.1021%2Facs.jmedchem.5b01704" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1317,10 +1510,10 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoGAJ-H56G4obVg90H21EOLACvtfcHk0liSOqYE1VVEgA&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGHfpSMymfikstQwD9OmoEd1ccqjsgcY24uEc4KWxqVRz&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202440&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FreactionsFromReference.jsf%3Fl%3DJ6bswZGKgsE0MoVconalxHmsSfwOm58CXnpq6fuuEjmNXi-mfqkNNn7SwwD-Wdk0JM2SzRvqs66rE-zbu-ksYbjII03cLJLO&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Reactions Indexed for this Article" target="scifinder">Retrieve Reactions Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSb3kVEhjhiPNtrnDmCxc-CThi25Vg2O3MguvibvTxkCU&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGoGAJ-H56G4obVg90H21EOLACvtfcHk0ljL6qdcEUYzDA&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGHfpSMymfikstQwD9OmoEd2nlz6cjyUEMrmoYMyCyZ5f&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202440&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FreactionsFromReference.jsf%3Fl%3DJ6bswZGKgsE0MoVconalxHmsSfwOm58CXnpq6fuuEjmNXi-mfqkNNn7SwwD-Wdk0JM2SzRvqs64uzp_czFzpU2xjYd_y62fd&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Reactions Indexed for this Article" target="scifinder">Retrieve Reactions Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSb3kVEhjhiPNtrnDmCxc-CThi25Vg2O3MvABmS__LJWh&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

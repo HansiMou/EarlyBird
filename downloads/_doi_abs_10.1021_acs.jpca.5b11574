@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="27013f92-bb10-4f50-bb7d-987dcef4ece6">
+<html lang="en" class="pb-page" data-request-id="60b4dae7-2814-46b5-b724-f364b95d97e3">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpca.5b11574;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11574%3Fprg140729%3D15943b2f-087f-45f5-b9f6-453336de0b38" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b11574?prg140729=15943b2f-087f-45f5-b9f6-453336de0b38&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b11574?prg140729=15943b2f-087f-45f5-b9f6-453336de0b38">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11574%3Fprg140729%3D5c78e625-49f0-435e-be69-ff534831dc0a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b11574?prg140729=5c78e625-49f0-435e-be69-ff534831dc0a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b11574?prg140729=5c78e625-49f0-435e-be69-ff534831dc0a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1044,22 +1044,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b12156?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b12156?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b10685?src=recsys">Atomic and Molecular Complex Resonances from Real Eigenvalues Using Standard (Hermitian) Electronic Structure Calculations</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Landau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haritan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaprálová-Žd’ánská</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Moiseyev</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Complex eigenvalues, resonances, play an important role in a large variety of fields in physics and chemistry. For example, in cold molecular collision experiments and electron scattering experiments, autoionizing and predissociative metastable resonances ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b10685?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b10685?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b10685?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b10685?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b10029?src=recsys">Quantum Dynamics with Gaussian Bases Defined by the Quantum Trajectories</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1075,6 +1059,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpca.5b10029?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b10029?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b10029?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b10685?src=recsys">Atomic and Molecular Complex Resonances from Real Eigenvalues Using Standard (Hermitian) Electronic Structure Calculations</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Landau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haritan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaprálová-Žd’ánská</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Moiseyev</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Complex eigenvalues, resonances, play an important role in a large variety of fields in physics and chemistry. For example, in cold molecular collision experiments and electron scattering experiments, autoionizing and predissociative metastable resonances ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.5b10685?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b10685?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b10685?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b10685?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b10376?src=recsys">Exciton Splitting of Adsorbed and Free 4-Nitroazobenzene Dimers: A Quantum Chemical Study</a>
                             <div class="achsLabel">
@@ -1175,9 +1175,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.5b11574" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11574%3Fprg140729%3D537b08b8-bc99-4f6e-a9cb-21e89f6259bf&amp;doi=10.1021%2Facs.jpca.5b11574" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11574%3Fprg140729%3D25be897d-63de-442d-b8f1-98d293dc86f0&amp;doi=10.1021%2Facs.jpca.5b11574" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11574%3Fprg140729%3D15943b2f-087f-45f5-b9f6-453336de0b38&amp;title=Rotational+and+Isotopic+Effects+in+the+H2+%2B+OH%2B+%E2%86%92+H+%2B+H2O%2B+Reaction&amp;doi=10.1021%2Facs.jpca.5b11574" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b11574%3Fprg140729%3D5c78e625-49f0-435e-be69-ff534831dc0a&amp;title=Rotational+and+Isotopic+Effects+in+the+H2+%2B+OH%2B+%E2%86%92+H+%2B+H2O%2B+Reaction&amp;doi=10.1021%2Facs.jpca.5b11574" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1200,9 +1200,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrQlCYlSmu9SbVg90H21EOLACvtfcHk0lgX58vDsJKMbg&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGKbEi2ciQbHPtQwD9OmoEd00ZbEhC6ux42G6Wqxzt9ip&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSRZuMRiqGNZ1trnDmCxc-CThi25Vg2O3MgEWgF24E9_E&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrQlCYlSmu9SbVg90H21EOLACvtfcHk0lgvPJRgmsCFmA&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGKbEi2ciQbHPtQwD9OmoEd2m8Igc-C_jYhVpSZvk5xD-&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSRZuMRiqGNZ1trnDmCxc-CThi25Vg2O3MtQtIt4o-0FA&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5eaf48a9-4c16-4cc7-b492-7cfb57ef1eb9">
+<html lang="en" class="pb-page" data-request-id="d78ccc89-e55a-4a77-a21f-d23714d48e5a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.jced.5b00941;website:website:acspubs;issue:issue:10.1021/jceaax.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jceaax;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00941%3Fprg140729%3Df5b47b50-4e9b-4bfb-94fd-33eff0939c9b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00941?prg140729=f5b47b50-4e9b-4bfb-94fd-33eff0939c9b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00941?prg140729=f5b47b50-4e9b-4bfb-94fd-33eff0939c9b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00941%3Fprg140729%3D706c6d57-4dc2-4b98-8bc4-4384ae45b41a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00941?prg140729=706c6d57-4dc2-4b98-8bc4-4384ae45b41a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.5b00941?prg140729=706c6d57-4dc2-4b98-8bc4-4384ae45b41a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -674,11 +674,11 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jced.5b00882" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jced.6b00132" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jced.5b00943" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.jced.6b00133" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -955,18 +955,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i2"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i7"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i15"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i18"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1075,6 +1063,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.6b00132?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.6b00132?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00802?src=recsys">Thermodynamics of Amide + Amine Mixtures. 1. Volumetric, Speed of Sound, and Refractive Index Data for <i>N,N</i>-Dimethylformamide + <i>N</i>-Propylpropan-1-amine, + <i>N</i>-Butylbutan-1-amine, + Butan-1-amine, or + Hexan-1-amine Systems at Several Temperatures</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hevia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cobos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">González</span>, <span class="entryAuthor normal hlFld-ContribAuthor">García de la Fuente</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sanz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Values of density (ρ), speed of sound (<i>c</i>) and refractive index (<i>n</i><sub>D</sub>) for <i>N</i>,<i>N</i>-dimethylformamide (DMF) + <i>N</i>-propylpropan-1-amine (DPA) or + butan-1-amine (BA) mixtures at (293.15−303.15) K, and for DMF + <i>N</i>-butylbutan-1-amine (DBA) or hexan-1-amine (HxA) ...<sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00802?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00802?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00802?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00802?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00428?src=recsys">Investigation on the Interactions of Poly(ethylene oxide) and Ionic Liquid 1-Butyl-3-methyl-imidazolium Bromide by Viscosity and Spectroscopy</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mehrdad</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Niknam</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In this research, the solution of poly(ethylene oxide) in binary mixtures of water and ionic liquid, 1-butyl-3-methyl imidazolium bromide, were studied via spectroscopic and viscometric at the temperature range of 288.15–313.15 K. Also, the effects of ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00428?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00428?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00428?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00428?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                           </ul>
                          </div>
                         </div>
@@ -1159,9 +1179,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jced.5b00941" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00941%3Fprg140729%3D4359225f-6970-447a-bd63-660cdbdfeb22&amp;doi=10.1021%2Facs.jced.5b00941" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00941%3Fprg140729%3D8192e957-411b-44d6-aecc-e1426406685e&amp;doi=10.1021%2Facs.jced.5b00941" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00941%3Fprg140729%3Df5b47b50-4e9b-4bfb-94fd-33eff0939c9b&amp;title=Volumetric+Properties+and+Viscosity+B-Coefficients+for+the+Ternary+Systems+Epigallocatechin+Gallate+%2B+MCl+%2B+H2O+%28M+%3D+Li%2C+Na%2C+K%29+at+Temperatures+288.15%E2%80%93308.15+K&amp;doi=10.1021%2Facs.jced.5b00941" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.5b00941%3Fprg140729%3D706c6d57-4dc2-4b98-8bc4-4384ae45b41a&amp;title=Volumetric+Properties+and+Viscosity+B-Coefficients+for+the+Ternary+Systems+Epigallocatechin+Gallate+%2B+MCl+%2B+H2O+%28M+%3D+Li%2C+Na%2C+K%29+at+Temperatures+288.15%E2%80%93308.15+K&amp;doi=10.1021%2Facs.jced.5b00941" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

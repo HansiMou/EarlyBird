@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="846d0a6a-0185-4886-98ae-1c92ed291f21">
+<html lang="en" class="pb-page" data-request-id="92f4cced-b31e-42f4-8e43-7331f51eb6e4">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;article:article:10.1021/acsami.6b02662;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02662%3Fprg140729%3D80969339-a046-44ad-a242-f4eea688105c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b02662?prg140729=80969339-a046-44ad-a242-f4eea688105c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b02662?prg140729=80969339-a046-44ad-a242-f4eea688105c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02662%3Fprg140729%3D19b61b06-d1ae-4292-8163-ebaa18098582" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b02662?prg140729=19b61b06-d1ae-4292-8163-ebaa18098582&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b02662?prg140729=19b61b06-d1ae-4292-8163-ebaa18098582">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1047,22 +1047,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b02372?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b02372?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b12687?src=recsys">Hybrid Self-Assembly during Evaporation Enables Drop-on-Demand Thin Film Devices</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Boley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hyun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">White</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thompson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kramer</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We propose and demonstrate a hybrid self-assembly process as the mechanism for producing strikingly uniform deposits from evaporating drops composed of cosolvents. This assembly process leverages both particle–fluid interactions to carry the particles to ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b12687?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b12687?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b12687?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b12687?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b00284?src=recsys">Porous Covalent Triazine Polymer as a Potential Nanocargo for Cancer Therapy and Imaging</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1079,21 +1063,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b00284?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b00284?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b11318?src=recsys">Red Fluorescent Carbon Nanoparticle-Based Cell Imaging Probe</a>
+                           <li><a href="/doi/abs/10.1021/acsami.5b12283?src=recsys">Synthesis of Diagnostic Silicon Nanoparticles for Targeted Delivery of Thiourea to Epidermal Growth Factor Receptor-Expressing Cancer Cells</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ali</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bhunia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dalal</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jana</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Behray</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Webster</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pereira</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ghosh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krishnamurthy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Al-Jamal</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chao</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Fluorescent carbon nanoparticle-based probes with tunable visible emission are biocompatible, environment friendly and most suitable for various biomedical applications. However, synthesis of red fluorescent carbon nanoparticles and their transformation ...</span>
+                             <span><span class="bold">Abstract:</span> The novel thiourea-functionalized silicon nanoparticles (SiNPs) have been successfully synthesized using allylamine and sulforaphane, an important anticancer drug, followed by a hydrosilylation reaction on the surface of hydrogen terminated SiNPs. Their ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b11318?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b11318?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b11318?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b11318?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsami.5b12283?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.5b12283?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.5b12283?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.5b12283?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.6b01581?src=recsys">Live Cell MicroRNA Imaging Using Exonuclease III-Aided Recycling Amplification Based on Aggregation-Induced Emission Luminogens</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Min</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Enzyme-assisted detection strategies of microRNAs (miRNAs) <i>in vitro</i> have accomplished both great sensitivity and specificity. However, low expression of miRNAs and a complex environment in cells induces big challenges for monitoring and tracking miRNAs <i>in ...</i></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.6b01581?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b01581?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b01581?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b01581?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.5b12687?src=recsys">Hybrid Self-Assembly during Evaporation Enables Drop-on-Demand Thin Film Devices</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Boley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hyun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">White</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Thompson</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kramer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We propose and demonstrate a hybrid self-assembly process as the mechanism for producing strikingly uniform deposits from evaporating drops composed of cosolvents. This assembly process leverages both particle–fluid interactions to carry the particles to ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.5b12687?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.5b12687?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.5b12687?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.5b12687?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b00327?src=recsys">Solution-Processed 8-Hydroquinolatolithium as Effective Cathode Interlayer for High-Performance Polymer Solar Cells</a>
                             <div class="achsLabel">
@@ -1110,22 +1126,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsami.6b00327?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsami.6b00327?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b00327?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b12283?src=recsys">Synthesis of Diagnostic Silicon Nanoparticles for Targeted Delivery of Thiourea to Epidermal Growth Factor Receptor-Expressing Cancer Cells</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Behray</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Webster</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pereira</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ghosh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Krishnamurthy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Al-Jamal</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chao</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The novel thiourea-functionalized silicon nanoparticles (SiNPs) have been successfully synthesized using allylamine and sulforaphane, an important anticancer drug, followed by a hydrosilylation reaction on the surface of hydrogen terminated SiNPs. Their ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b12283?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b12283?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b12283?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b12283?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1211,9 +1211,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b02662" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02662%3Fprg140729%3D2993d762-6933-4082-bffb-3a959838cfd1&amp;doi=10.1021%2Facsami.6b02662" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02662%3Fprg140729%3D4115d529-42e1-4d08-a10e-0f6d673825a4&amp;doi=10.1021%2Facsami.6b02662" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02662%3Fprg140729%3D80969339-a046-44ad-a242-f4eea688105c&amp;title=Imaging+Dendrimer-Grafted+Graphene+Oxide+Mediated+Anti-miR-21+Delivery+With+an+Activatable+Luciferase+Reporter&amp;doi=10.1021%2Facsami.6b02662" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b02662%3Fprg140729%3D19b61b06-d1ae-4292-8163-ebaa18098582&amp;title=Imaging+Dendrimer-Grafted+Graphene+Oxide+Mediated+Anti-miR-21+Delivery+With+an+Activatable+Luciferase+Reporter&amp;doi=10.1021%2Facsami.6b02662" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

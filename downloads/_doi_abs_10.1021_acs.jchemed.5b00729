@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1e2c3d9e-da30-4385-b4e4-afe1d2c402f8">
+<html lang="en" class="pb-page" data-request-id="23dccf4c-3a8d-4a0b-90e3-0e643c60f131">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.jchemed.5b00729;website:website:acspubs;journal:journal:jceda8;issue:issue:10.1021/jceda8.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00729%3Fprg140729%3Deca7a344-b717-40e0-be00-15a8db1534f9" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00729?prg140729=eca7a344-b717-40e0-be00-15a8db1534f9&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00729?prg140729=eca7a344-b717-40e0-be00-15a8db1534f9">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00729%3Fprg140729%3D9f911570-bbe3-4e3b-a51f-e928c6f9ae65" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00729?prg140729=9f911570-bbe3-4e3b-a51f-e928c6f9ae65&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00729?prg140729=9f911570-bbe3-4e3b-a51f-e928c6f9ae65">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -672,11 +672,11 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jchemed.5b00954" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jchemed.5b00585" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jchemed.5b00784" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00547" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1115,21 +1115,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00856?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00856?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00496?src=recsys">“Can” You Really Make a Battery Out of That?</a>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00923?src=recsys">Using ChemDuino, Excel, and PowerPoint as Tools for Real-Time Measurement Representation in Class</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Parkes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yufit</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Offer</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Walkowiak</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Nehring</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> This classroom activity introduces students to battery electrochemistry through the construction of a simple battery made from household products. Students will use a set of simple design rules to improve the performance of the battery, and power a light ...</span>
+                             <span><span class="bold">Abstract:</span> To easily implement digital data collection methods in class, devices like the low-cost solution “Chemduino” have been proposed earlier in this <i>Journal</i>. In this paper, we demonstrate how to apply the Excel spreadsheet PLX-DAQ in order to visualize the ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00496?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00496?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00496?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00496?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00923?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00923?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00923?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00923?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1215,9 +1215,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00729" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00729%3Fprg140729%3Deb70fa4d-ca97-4e23-be74-c61f1cd61540&amp;doi=10.1021%2Facs.jchemed.5b00729" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00729%3Fprg140729%3D49fc72f0-d21b-47ff-beef-a4b060fb18c2&amp;doi=10.1021%2Facs.jchemed.5b00729" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00729%3Fprg140729%3Deca7a344-b717-40e0-be00-15a8db1534f9&amp;title=Construction+and+Characterization+of+a+Compact%2C+Portable%2C+Low-Cost+Colorimeter+for+the+Chemistry+Lab&amp;doi=10.1021%2Facs.jchemed.5b00729" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00729%3Fprg140729%3D9f911570-bbe3-4e3b-a51f-e928c6f9ae65&amp;title=Construction+and+Characterization+of+a+Compact%2C+Portable%2C+Low-Cost+Colorimeter+for+the+Chemistry+Lab&amp;doi=10.1021%2Facs.jchemed.5b00729" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1240,8 +1240,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqN0XLFoRs7SrVg90H21EOLACvtfcHk0lgnB5a0tOmYMw&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSWrguJSLFofgtrnDmCxc-CThi25Vg2O3MnMJ4hNxOcH5&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqN0XLFoRs7SrVg90H21EOLACvtfcHk0lhZg9jVs_BR6A&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSWrguJSLFofgtrnDmCxc-CThi25Vg2O3Mo6gIq_qar38&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

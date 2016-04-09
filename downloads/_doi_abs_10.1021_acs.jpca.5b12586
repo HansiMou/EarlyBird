@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="61d62cf1-793b-44fd-9d88-8596c1e23cf2">
+<html lang="en" class="pb-page" data-request-id="ce0c7728-490c-4157-bc3b-199a08518e89">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jpca.5b12586;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12586%3Fprg140729%3D9f48fe41-2606-4e6f-8d8f-307decd48d18" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12586?prg140729=9f48fe41-2606-4e6f-8d8f-307decd48d18&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12586?prg140729=9f48fe41-2606-4e6f-8d8f-307decd48d18">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12586%3Fprg140729%3Dffd72443-7047-40cf-89a1-7fcfc0273cb1" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12586?prg140729=ffd72443-7047-40cf-89a1-7fcfc0273cb1&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12586?prg140729=ffd72443-7047-40cf-89a1-7fcfc0273cb1">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1023,22 +1023,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b10685?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b10685?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b11727?src=recsys">Mixed Quantum-Classical Simulations of Transient Absorption Pump–Probe Signals for a Photo-Induced Electron Transfer Reaction Coupled to an Inner-Sphere Vibrational Mode</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Martinez</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hanna</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In a previous study (Martinez, F.; Hanna, G. <i>Chem. Phys. Lett.</i><b>2013</b>, <i>573</i>, 77–83), we demonstrated the ability of two approximate solutions of the quantum-classical Liouville equation (QCLE) for qualitatively capturing the electronic dynamics in the pump–...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b11727?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b11727?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b11727?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b11727?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b11359?src=recsys">Biomolecule Analogues 2-Hydroxypyridine and 2-Pyridone Base Pairing on Ice Nanoparticles</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1055,53 +1039,69 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.5b11359?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.5b11359?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b11599?src=recsys">Shaped Post-Field Electronic Oscillations in H<sub>2</sub><sup>+</sup> Excited by Two-Cycle Laser Pulses: Three-Dimensional Non-Born–Oppenheimer Simulations</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b11727?src=recsys">Mixed Quantum-Classical Simulations of Transient Absorption Pump–Probe Signals for a Photo-Induced Electron Transfer Reaction Coupled to an Inner-Sphere Vibrational Mode</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Paramonov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kühn</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bandrauk</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Martinez</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hanna</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Quantum dynamics of H<sub>2</sub><sup>+</sup> excited by two-cycle laser pulses with laser carrier frequencies corresponding to the wavelengths λ<sub>l</sub> = 800 and 200 nm (corresponding to the periods τ<sub>l</sub> = 2.667 and 0.667 fs, respectively) and being linearly polarized along the ...<sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> In a previous study (Martinez, F.; Hanna, G. <i>Chem. Phys. Lett.</i><b>2013</b>, <i>573</i>, 77–83), we demonstrated the ability of two approximate solutions of the quantum-classical Liouville equation (QCLE) for qualitatively capturing the electronic dynamics in the pump–...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b11599?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b11599?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b11599?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b11599?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.5b11727?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b11727?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b11727?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b11727?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b11181?src=recsys">Imaging Proton Transfer and Dihalide Formation Pathways in Reactions of F<sup>–</sup> + CH<sub>3</sub>I</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b11951?src=recsys">Probing Scattering Resonances in (Ultra)Cold Inelastic NO–He Collisions</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Carrascosa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Michaelsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stei</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bastian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meyer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mikosch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wester</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Onvlee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Avoird</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Groenenboom</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">van de Meerakker</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Ion–molecule reactions of the type X<sup>–</sup> + CH<sub>3</sub>Y are commonly assumed to produce Y<sup>–</sup> through bimolecular nucleophilic substitution (S<sub>N</sub>2). Beyond this reaction, additional reaction products have been observed throughout the last decades and have been ascribed ...<sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sup></sup><sup></sup><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> We theoretically study inelastic collisions between NO radicals and He atoms at low collision energies, focusing on the occurrence of scattering resonances. We specifically investigate de-excitation of rotationally excited NO radicals (X <sup>2</sup>Π<sub>1/2</sub>, <i>v</i> = 0, <i>j</i> = ...<sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b11181?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b11181?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b11181?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b11181?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.5b11951?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b11951?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b11951?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b11951?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b12007?src=recsys">Structure, Stability, and Electronic Properties of Dimethyl Sulfoxide and Dimethyl Formammide Clusters Containing Th<sup>4+</sup></a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b11731?src=recsys">Kinetic Rate Kernels via Hierarchical Liouville–Space Projection Operator Approach</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Montagna</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jeanvoine</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Spezia</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bodo</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Yan</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> By using accurate density functional theory calculations, we have studied the complexes of Th<sup>4+</sup> with dimethyl-sulfoxide (DMSO) and dimethyl-formammide (DMF) molecules. These solvents are prototypes for oxygen-donor organic environments in which the oxygen ...<sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Kinetic rate kernels in general multisite systems are formulated on the basis of a nonperturbative quantum dissipation theory, the hierarchical equations of motion (HEOM) formalism, together with the Nakajima-Zwanzig projection operator technique. The ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b12007?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.5b12007?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b12007?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b12007?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.5b11731?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b11731?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b11731?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b11731?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b12156?src=recsys">Rotational Mode Specificity in Cl + CH<sub>4</sub>(<i>v</i><sub>3</sub>=1,|<i>jNl</i>⟩): Role of Reactant’s Vibrational Angular Momentum</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Pan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The effect of initial rotational states in the reaction of antisymmetric-excited CH<sub>4</sub>(<i>v</i><sub>3</sub>=1,|<i>jNl</i>⟩) with Cl atom was investigated in a crossed-beam, product-imaging experiment over the collisional energy (<i>E</i><sub>c</sub>) range of 2–5 kcal mol<sup>–1</sup>. We found that while the ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.5b12156?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b12156?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b12156?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b12156?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1186,9 +1186,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.5b12586" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12586%3Fprg140729%3D97026557-6e53-4359-9e8a-3b7274efee4d&amp;doi=10.1021%2Facs.jpca.5b12586" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12586%3Fprg140729%3D576a6d33-f500-494f-a5c2-a12926bcd872&amp;doi=10.1021%2Facs.jpca.5b12586" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12586%3Fprg140729%3D9f48fe41-2606-4e6f-8d8f-307decd48d18&amp;title=Photoassociation+Spectroscopy+in+Penning+Ionization+Reactions+at+Sub-Kelvin+Temperatures&amp;doi=10.1021%2Facs.jpca.5b12586" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12586%3Fprg140729%3Dffd72443-7047-40cf-89a1-7fcfc0273cb1&amp;title=Photoassociation+Spectroscopy+in+Penning+Ionization+Reactions+at+Sub-Kelvin+Temperatures&amp;doi=10.1021%2Facs.jpca.5b12586" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1211,9 +1211,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqZo8pWaDnWWLVg90H21EOLACvtfcHk0lgoqoldbl_VPg&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGEJzFmtnR3L5tQwD9OmoEd2hhCdre2jfTI94DwpTl_jL&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScDwCht-pDZrtrnDmCxc-CThi25Vg2O3MkUdXJQuXHjQ&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqZo8pWaDnWWLVg90H21EOLACvtfcHk0ljVWp24guYCWQ&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGEJzFmtnR3L5tQwD9OmoEd2nlz6cjyUEMgIJeiFGyoqP&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScDwCht-pDZrtrnDmCxc-CThi25Vg2O3MqPKEhSITdp8&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

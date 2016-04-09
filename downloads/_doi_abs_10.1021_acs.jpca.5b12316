@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1c596615-ecb8-46e3-a94b-25eb5db9b7dc">
+<html lang="en" class="pb-page" data-request-id="7b7c8238-3d44-41c6-b30f-510117d910f6">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jpca.5b12316;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12316%3Fprg140729%3Da8f83770-e3c4-47d2-b86f-fc9c8a1fef77" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12316?prg140729=a8f83770-e3c4-47d2-b86f-fc9c8a1fef77&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12316?prg140729=a8f83770-e3c4-47d2-b86f-fc9c8a1fef77">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12316%3Fprg140729%3Dc6770b87-41e2-4291-b154-f590ccd17b70" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12316?prg140729=c6770b87-41e2-4291-b154-f590ccd17b70&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b12316?prg140729=c6770b87-41e2-4291-b154-f590ccd17b70">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1006,22 +1006,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00037?src=recsys">Two-Dimensional Electronic-Vibrational Spectroscopy of Chlorophyll <i>a</i> and <i>b</i></a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lewis</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Fleming</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (5), pp 831–837</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We present two-dimensional electronic-vibrational (2DEV) spectra of isolated chlorophyll <i>a</i> and <i>b</i> in deuterated ethanol. We excite the Q-band electronic transitions and measure the effects on the carbonyl and C═C double-bond stretch region of the infrared ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.6b00037?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.6b00037?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00037?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00037?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpclett.5b02678?src=recsys">Fluctuations in Electronic Energy Affecting Singlet Fission Dynamics and Mixing with Charge-Transfer State: Quantum Dynamics Study</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry Letters
@@ -1037,6 +1021,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpclett.5b02678?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpclett.5b02678?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpclett.5b02678?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00037?src=recsys">Two-Dimensional Electronic-Vibrational Spectroscopy of Chlorophyll <i>a</i> and <i>b</i></a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lewis</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Fleming</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>7</em> (5), pp 831–837</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We present two-dimensional electronic-vibrational (2DEV) spectra of isolated chlorophyll <i>a</i> and <i>b</i> in deuterated ethanol. We excite the Q-band electronic transitions and measure the effects on the carbonyl and C═C double-bond stretch region of the infrared ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.6b00037?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.6b00037?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00037?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00037?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b12335?src=recsys">Insights into the Electronic Structure of Molecules from Generalized Valence Bond Theory</a>
                             <div class="achsLabel">
@@ -1070,22 +1070,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b11038?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b11038?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00102?src=recsys">Femtosecond Time-Resolved Dynamics of <i>trans</i>-Azobenzene on Gold Nanoparticles</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Köhntopp</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dittner</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Temps</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (7), pp 1088–1095</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We report a first femtosecond time-resolved transient absorption study of the photoinduced ultrafast dynamics of <i>trans</i>-azobenzene (AB) on gold nanoparticles (AuNPs). The observed changes in optical density following excitation at λ = 357 nm were analyzed ...<sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.6b00102?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.6b00102?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00102?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00102?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b00692?src=recsys">Where Is the Electronic Oscillator Strength? Mapping Oscillator Strength across Molecular Absorption Spectra</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1101,6 +1085,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jpca.6b00692?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b00692?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b00692?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00102?src=recsys">Femtosecond Time-Resolved Dynamics of <i>trans</i>-Azobenzene on Gold Nanoparticles</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Köhntopp</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dittner</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Temps</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>7</em> (7), pp 1088–1095</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report a first femtosecond time-resolved transient absorption study of the photoinduced ultrafast dynamics of <i>trans</i>-azobenzene (AB) on gold nanoparticles (AuNPs). The observed changes in optical density following excitation at λ = 357 nm were analyzed ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpclett.6b00102?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpclett.6b00102?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00102?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00102?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1185,9 +1185,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.5b12316" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12316%3Fprg140729%3D5efcf2c1-bfb7-409c-a449-b813ea1493bf&amp;doi=10.1021%2Facs.jpca.5b12316" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12316%3Fprg140729%3D32a94185-44a1-456f-a728-e68a88c84a84&amp;doi=10.1021%2Facs.jpca.5b12316" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12316%3Fprg140729%3Da8f83770-e3c4-47d2-b86f-fc9c8a1fef77&amp;title=Resonant+Femtosecond+Stimulated+Raman+Spectra%3A+Theory+and+Simulations&amp;doi=10.1021%2Facs.jpca.5b12316" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.5b12316%3Fprg140729%3Dc6770b87-41e2-4291-b154-f590ccd17b70&amp;title=Resonant+Femtosecond+Stimulated+Raman+Spectra%3A+Theory+and+Simulations&amp;doi=10.1021%2Facs.jpca.5b12316" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1210,9 +1210,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqeXXdUl6pJI7Vg90H21EOLACvtfcHk0lhiSFl8ZdNV4A&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGGjxjNfY8OQxtQwD9OmoEd0MtWLACMShZAY_MfbK4ny6&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSeYT7n27MrkMtrnDmCxc-CThi25Vg2O3MgaQm5QqyxrQ&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqeXXdUl6pJI7Vg90H21EOLACvtfcHk0lglJoD-1mHLpg&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGGjxjNfY8OQxtQwD9OmoEd3zdgcJloeJc26-uwhtBm1T&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSeYT7n27MrkMtrnDmCxc-CThi25Vg2O3MsRKYSP0rNjW&amp;loc=%2FControllerServlet&amp;pubId=40026049" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

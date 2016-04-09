@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5407f66f-697d-448a-9e42-6a655cb9bbf3">
+<html lang="en" class="pb-page" data-request-id="c267c134-b7e1-4817-99f6-45c2d7710ce3">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/langd5.ahead-of-print;pageGroup:string:Publication Pages;article:article:10.1021/acs.langmuir.5b04209;journal:journal:langd5;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.5b04209%3Fprg140729%3D64c3d3fd-683e-4a5c-8914-9cf30a04b39e" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.5b04209?prg140729=64c3d3fd-683e-4a5c-8914-9cf30a04b39e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.5b04209?prg140729=64c3d3fd-683e-4a5c-8914-9cf30a04b39e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.5b04209%3Fprg140729%3D2074f0d5-1da1-42cf-a2ef-00d59adbbb13" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.5b04209?prg140729=2074f0d5-1da1-42cf-a2ef-00d59adbbb13&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.5b04209?prg140729=2074f0d5-1da1-42cf-a2ef-00d59adbbb13">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1011,6 +1011,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04277?src=recsys">Molecular Dynamics Simulation of Atomic Force Microscopy at the Water–Muscovite Interface: Hydration Layer Structure and Force Analysis</a>
+                            <div class="achsLabel">
+                             Langmuir
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kobayashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Murata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Matsuoka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nishi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sakka</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> With the development of atomic force microscopy (AFM), it is now possible to detect the buried liquid–solid interfacial structure in three dimensions at the atomic scale. One of the model surfaces used for AFM is the muscovite surface because it is ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.langmuir.5b04277?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.5b04277?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04277?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04277?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.langmuir.6b00343?src=recsys">Covalent Grafting of Tethered Homopolymer Film on p-Si(100)</a>
                             <div class="achsLabel">
                              Langmuir
@@ -1043,21 +1059,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.5b05043?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.5b05043?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.langmuir.5b04277?src=recsys">Molecular Dynamics Simulation of Atomic Force Microscopy at the Water–Muscovite Interface: Hydration Layer Structure and Force Analysis</a>
+                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00526?src=recsys">Preparation of Fluorous Solvent-Dispersed Fe<sub>3</sub>O<sub>4</sub> Nanocrystals: Role of Oxygen in Ligand Exchange</a>
                             <div class="achsLabel">
                              Langmuir
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kobayashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Murata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Matsuoka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takahashi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nishi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Sakka</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> With the development of atomic force microscopy (AFM), it is now possible to detect the buried liquid–solid interfacial structure in three dimensions at the atomic scale. One of the model surfaces used for AFM is the muscovite surface because it is ...</span>
+                             <span><span class="bold">Abstract:</span> Perfluorinated ligand-passivated Fe<sub>3</sub>O<sub>4</sub> nanocrystals were prepared through a biphasic ligand exchange method. It was found that dissolved oxygen in the reaction media predominantly determined the degree of ligand exchange and the resultant dispersion ...<sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.langmuir.5b04277?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.langmuir.5b04277?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04277?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.langmuir.5b04277?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.langmuir.6b00526?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.langmuir.6b00526?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00526?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00526?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.langmuir.5b04297?src=recsys">Highly Fluorescent dye–nanoclay Hybrid Materials Made from Different Dye Classes</a>
                             <div class="achsLabel">
@@ -1075,37 +1091,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.langmuir.5b04297?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.langmuir.5b04297?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Chemically Tailoring Semiconducting Two-Dimensional Transition Metal Dichalcogenides and Black Phosphorus</a>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b06840?src=recsys">Chemical Mass Production of Graphene Nanoplatelets in ∼100% Yield</a>
                             <div class="achsLabel">
                              ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ryder</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wood</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wells</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hersam</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dimiev</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ceriotti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Metzger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Tour</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>10</em> (1), pp 274–279</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Two-dimensional (2D) semiconducting transition metal dichalcogenides (TMDCs) and black phosphorus (BP) have beneficial electronic, optical, and physical properties at the few-layer limit. As atomically thin materials, 2D TMDCs and BP are highly sensitive ...</span>
+                             <span><span class="bold">Abstract:</span> Successful application of graphene is hampered by the lack of cost-effective methods for its production. Here, we demonstrate a method of mass production of graphene nanoplatelets (GNPs) by exfoliation of flake graphite in the tricomponent system made by ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.6b01091?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.6b01091?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.6b01091?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.6b01091?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.langmuir.6b00526?src=recsys">Preparation of Fluorous Solvent-Dispersed Fe<sub>3</sub>O<sub>4</sub> Nanocrystals: Role of Oxygen in Ligand Exchange</a>
-                            <div class="achsLabel">
-                             Langmuir
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Perfluorinated ligand-passivated Fe<sub>3</sub>O<sub>4</sub> nanocrystals were prepared through a biphasic ligand exchange method. It was found that dissolved oxygen in the reaction media predominantly determined the degree of ligand exchange and the resultant dispersion ...<sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.langmuir.6b00526?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.langmuir.6b00526?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.langmuir.6b00526?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.langmuir.6b00526?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsnano.5b06840?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b06840?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b06840?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b06840?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1191,9 +1191,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.langmuir.5b04209" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.5b04209%3Fprg140729%3Dd46da464-60ac-4e8e-9397-774ad3091e36&amp;doi=10.1021%2Facs.langmuir.5b04209" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.5b04209%3Fprg140729%3Dceef1d46-c550-4d5f-88cf-f241ce41f26b&amp;doi=10.1021%2Facs.langmuir.5b04209" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.5b04209%3Fprg140729%3D64c3d3fd-683e-4a5c-8914-9cf30a04b39e&amp;title=Shear+Assisted+Electrochemical+Exfoliation+of+Graphite+to+Graphene&amp;doi=10.1021%2Facs.langmuir.5b04209" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.langmuir.5b04209%3Fprg140729%3D2074f0d5-1da1-42cf-a2ef-00d59adbbb13&amp;title=Shear+Assisted+Electrochemical+Exfoliation+of+Graphite+to+Graphene&amp;doi=10.1021%2Facs.langmuir.5b04209" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

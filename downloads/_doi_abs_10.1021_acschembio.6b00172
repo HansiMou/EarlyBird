@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="f8148d9f-c09d-42bb-99e6-0c5f56aacc28">
+<html lang="en" class="pb-page" data-request-id="a83a9cb1-1cd9-4b4c-af94-0067b61e6e10">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/acbcct.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acschembio.6b00172;journal:journal:acbcct;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00172%3Fprg140729%3D35db89b1-54b4-4d45-991f-6b2fdfee9176" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00172?prg140729=35db89b1-54b4-4d45-991f-6b2fdfee9176&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00172?prg140729=35db89b1-54b4-4d45-991f-6b2fdfee9176">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00172%3Fprg140729%3D54079d12-d4e7-4dee-8ebe-343106aa58a6" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00172?prg140729=54079d12-d4e7-4dee-8ebe-343106aa58a6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.6b00172?prg140729=54079d12-d4e7-4dee-8ebe-343106aa58a6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1014,22 +1014,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acschembio.6b00060?src=recsys">Chemically Modifying Viruses for Diverse Applications</a>
-                            <div class="achsLabel">
-                             ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mohan</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Weiss</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Long fascinating to biologists, viruses offer nanometer-scale benchtops for building molecular-scale devices and materials. Viruses tolerate a wide range of chemical modifications including reaction conditions, pH values, and temperatures. Recent examples ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.6b00060?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acschembio.6b00060?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.6b00060?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.6b00060?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acschembio.6b00043?src=recsys">Structure of the Human Protein Kinase ZAK in Complex with Vemurafenib</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
@@ -1045,6 +1029,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acschembio.6b00043?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acschembio.6b00043?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.6b00043?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acschembio.6b00060?src=recsys">Chemically Modifying Viruses for Diverse Applications</a>
+                            <div class="achsLabel">
+                             ACS Chemical Biology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Mohan</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Weiss</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Long fascinating to biologists, viruses offer nanometer-scale benchtops for building molecular-scale devices and materials. Viruses tolerate a wide range of chemical modifications including reaction conditions, pH values, and temperatures. Recent examples ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acschembio.6b00060?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.6b00060?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acschembio.6b00060?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acschembio.6b00060?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acschembio.5b00784?src=recsys">Nicotinamide Cofactors Suppress Active-Site Labeling of Aldehyde Dehydrogenases</a>
                             <div class="achsLabel">
@@ -1094,21 +1094,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b12608?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b12608?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acschembio.6b00173?src=recsys">Targeting Tumor Cells by Natural Anti-Carbohydrate Antibodies Using Rhamnose-Functionalized Liposomes</a>
+                           <li><a href="/doi/abs/10.1021/acschembio.5b00963?src=recsys">Phage Selection of Chemically Stabilized α-Helical Peptide Ligands</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yi</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Diderich</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bertoldo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dessen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Khan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pizzitola</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Held</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huelsken</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Heinis</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Recruitment of antibodies in human immune systems for targeted destruction of tumor cells has emerged as an exciting area of research due to its low occurrence of side effects, high efficacy, and high specificity. The presence of large amounts of ...</span>
+                             <span><span class="bold">Abstract:</span> Short α-helical peptides stabilized by linkages between constituent amino acids offer an attractive format for ligand development. In recent years, a range of excellent ligands based on stabilized α-helices were generated by rational design using α-...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.6b00173?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acschembio.6b00173?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.6b00173?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.6b00173?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acschembio.5b00963?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acschembio.5b00963?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acschembio.5b00963?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acschembio.5b00963?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1194,9 +1194,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facschembio.6b00172" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00172%3Fprg140729%3D39afadb9-37fa-4368-b371-118bae591737&amp;doi=10.1021%2Facschembio.6b00172" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00172%3Fprg140729%3Db0ff619d-65da-452d-ab23-0ef255c10e7f&amp;doi=10.1021%2Facschembio.6b00172" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00172%3Fprg140729%3D35db89b1-54b4-4d45-991f-6b2fdfee9176&amp;title=Site-Specific+Radiofluorination+of+Biomolecules+with+8-%5B18F%5D-Fluorooctanoic+Acid+Catalyzed+by+Lipoic+Acid+Ligase&amp;doi=10.1021%2Facschembio.6b00172" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.6b00172%3Fprg140729%3D54079d12-d4e7-4dee-8ebe-343106aa58a6&amp;title=Site-Specific+Radiofluorination+of+Biomolecules+with+8-%5B18F%5D-Fluorooctanoic+Acid+Catalyzed+by+Lipoic+Acid+Ligase&amp;doi=10.1021%2Facschembio.6b00172" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

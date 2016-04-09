@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="beefa958-75d8-466a-8d4b-d14a971677de">
+<html lang="en" class="pb-page" data-request-id="dea9b1a5-8fe0-4adc-bdf3-e17c7ab448ce">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.estlett.6b00046;website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/estlcu.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:estlcu;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00046%3Fprg140729%3D4e178b7a-bb87-4309-b803-39663f9fe377" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00046?prg140729=4e178b7a-bb87-4309-b803-39663f9fe377&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00046?prg140729=4e178b7a-bb87-4309-b803-39663f9fe377">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00046%3Fprg140729%3D33d6c330-508f-43a7-b01f-7bc2d9b5aabd" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00046?prg140729=33d6c330-508f-43a7-b01f-7bc2d9b5aabd&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.estlett.6b00046?prg140729=33d6c330-508f-43a7-b01f-7bc2d9b5aabd">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -691,12 +691,9 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.estlett.6b00051" title="Previous Article"> Previous Article </a> </span> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.estlett.6b00112" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.estlett.6b00034" title="Next Article"> Next Article </a> 
-                         </div> 
                         </div> 
                        </div> 
                        <div class="journalNavCenterTd"> 
@@ -1041,22 +1038,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b07407?src=recsys">Triboelectric Nanogenerator as a Self-Powered Communication Unit for Processing and Transmitting Information</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In this paper, we demonstrate an application of a triboelectric nanogenerator (TENG) as a self-powered communication unit. An elaborately designed TENG is used to translate a series of environmental triggering signals into binary digital signals and ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b07407?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b07407?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b07407?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b07407?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00751?src=recsys">Engineering the Structure and Properties of DNA-Nanoparticle Superstructures Using Polyvalent Counterions</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1073,12 +1054,28 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00751?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00751?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07407?src=recsys">Triboelectric Nanogenerator as a Self-Powered Communication Unit for Processing and Transmitting Information</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In this paper, we demonstrate an application of a triboelectric nanogenerator (TENG) as a self-powered communication unit. An elaborately designed TENG is used to translate a series of environmental triggering signals into binary digital signals and ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b07407?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07407?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07407?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07407?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsinfecdis.6b00007?src=recsys">Dipeptide-Based Metabolic Labeling of Bacterial Cells for Endogenous Antibody Recruitment</a>
                             <div class="achsLabel">
                              ACS Infectious Diseases
                             </div><span class="entryAuthor normal hlFld-ContribAuthor">Fura</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pidgeon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Birabaharan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Pires</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>2</em> (4), pp 302–309</span>
                             </div>
                             <div class="recoPubAbstract">
                              <span><span class="bold">Abstract:</span> The number of antibiotic-resistant bacterial infections has increased dramatically over the past decade. To combat these pathogens, novel antimicrobial strategies must be explored and developed. We previously reported a strategy based on hapten-modified ...</span>
@@ -1121,21 +1118,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.estlett.6b00050?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.estlett.6b00050?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.joc.5b02911?src=recsys">Synthesis and Shuttling Behavior of [2]Rotaxanes with a Pyrrole Moiety</a>
+                           <li><a href="/doi/abs/10.1021/acs.estlett.6b00023?src=recsys">Beyond the Pipeline: Assessing the Efficiency Limits of Advanced Technologies for Solar Water Disinfection</a>
                             <div class="achsLabel">
-                             The Journal of Organic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Matsuoka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mutoh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Azumaya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kikkawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kasama</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Saito</span> 
+                             Environmental Science &amp; Technology Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Loeb</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hofmann</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>3</em> (3), pp 73–80</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We synthesized [2]rotaxanes with a pyrrole moiety from a [2]rotaxane with a 1,3-diynyl moiety. The conversion of the 1,3-diynyl moiety of the axle component to the pyrrole moiety was accomplished by a Cu-mediated cycloaddition of anilines. The ...</span>
+                             <span><span class="bold">Abstract:</span> This critical review analyzes and compares the efficiency of select technologies that harness solar energy for point-of-use water disinfection, including photocatalysts, photosensitizing chromophores, UVC light-emitting diodes, and visible-to-UVC ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.joc.5b02911?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.joc.5b02911?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.joc.5b02911?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.joc.5b02911?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.estlett.6b00023?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.estlett.6b00023?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.estlett.6b00023?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.estlett.6b00023?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1221,9 +1218,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.estlett.6b00046" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00046%3Fprg140729%3Db582aa16-2992-46ab-aeb8-442cf61b90f3&amp;doi=10.1021%2Facs.estlett.6b00046" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00046%3Fprg140729%3Dfb367577-3bcf-4350-bf54-79de77447826&amp;doi=10.1021%2Facs.estlett.6b00046" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00046%3Fprg140729%3D4e178b7a-bb87-4309-b803-39663f9fe377&amp;title=Toward+Microcapsule-Embedded+Self-Healing+Membranes&amp;doi=10.1021%2Facs.estlett.6b00046" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.estlett.6b00046%3Fprg140729%3D33d6c330-508f-43a7-b01f-7bc2d9b5aabd&amp;title=Toward+Microcapsule-Embedded+Self-Healing+Membranes&amp;doi=10.1021%2Facs.estlett.6b00046" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1246,9 +1243,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGommV6Q2HuJ7rVg90H21EOLACvtfcHk0lj7dClwGeOdrw&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGByZZgTLRgcqtQwD9OmoEd0bFOOXRLmyrKIUsFAOCHYA&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSVMP5hBl7ExJtrnDmCxc-CThi25Vg2O3MhMbJ-ZRIBGA&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGommV6Q2HuJ7rVg90H21EOLACvtfcHk0lhfNFa3_g2-yw&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGByZZgTLRgcqtQwD9OmoEd32pP4QU8Nrr0-BXXh4KaGU&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSVMP5hBl7ExJtrnDmCxc-CThi25Vg2O3Mo61d10cYSFl&amp;loc=%2FControllerServlet&amp;pubId=381801784" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

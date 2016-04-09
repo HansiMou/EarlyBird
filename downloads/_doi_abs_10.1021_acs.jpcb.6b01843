@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="12a8b152-097e-4ffe-9dfc-b3e1e31a30de">
+<html lang="en" class="pb-page" data-request-id="8da27795-5af0-44fe-9bca-2afabe5835fb">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jpcbfk;pageGroup:string:Publication Pages;issue:issue:10.1021/jpcbfk.ahead-of-print;article:article:10.1021/acs.jpcb.6b01843;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -138,8 +138,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01843%3Fprg140729%3D494e204b-4429-49af-b797-e640080240bc" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01843?prg140729=494e204b-4429-49af-b797-e640080240bc&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01843?prg140729=494e204b-4429-49af-b797-e640080240bc">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01843%3Fprg140729%3D749362a9-0b26-43c3-83a0-f6d2077f8b6e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01843?prg140729=749362a9-0b26-43c3-83a0-f6d2077f8b6e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01843?prg140729=749362a9-0b26-43c3-83a0-f6d2077f8b6e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -691,7 +691,7 @@ $(function(){
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcb.6b01793" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.jpcb.6b01890" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -984,6 +984,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01327?src=recsys">Recognition of Poly-Ubiquitins by the Proteasome through Protein Refolding Guided by Electrostatic and Hydrophobic Interactions</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vuković</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudack</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schulten</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Specificity of protein degradation by cellular proteasomes comes from tetra-ubiquitin recognition. We carry out molecular dynamics simulations to characterize how the ubiquitin receptor Rpn10 recognizes in the 26S proteasome K<sub>48</sub>-linked tetra-ubiquitin. In ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b01327?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b01327?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01327?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01327?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcb.6b01364?src=recsys">New Zeno-Like Liquid States</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry B
@@ -998,6 +1014,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/abs/10.1021/acs.jpcb.6b01364?src=recsys">Abstract</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01364?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcb.6b01364?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b10481?src=recsys">Freezing Transitions of Nanoconfined Coarse-Grained Water Show Subtle Dependence on Confining Environment</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lu</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Straub</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (9), pp 2517–2525</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The solid-to-liquid phase transition in water nanofilms confined between plates, with varying separations and water–plate interactions ranging from strongly hydrophobic to strongly hydrophilic, was simulated using a coarse-grained monatomic water model (...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.5b10481?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.5b10481?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b10481?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.5b10481?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b00141?src=recsys">Linking Equilibrium and Nonequilibrium Dynamics in Glass-Forming Systems</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smedskjaer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mauro</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>120</em> (12), pp 3226–3231</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Understanding nonequilibrium glassy dynamics is of great scientific and technological importance. However, prediction of the temperature, thermal history, and composition dependence of nonequilibrium viscosity is challenging due to the noncrystalline and ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b00141?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b00141?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b00141?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b00141?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1082,9 +1130,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcb.6b01843" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01843%3Fprg140729%3D562fd339-0950-4023-9c80-422a9fa0399a&amp;doi=10.1021%2Facs.jpcb.6b01843" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01843%3Fprg140729%3Dd106f7c4-e8f8-48ca-a94f-23918c3217c3&amp;doi=10.1021%2Facs.jpcb.6b01843" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01843%3Fprg140729%3D494e204b-4429-49af-b797-e640080240bc&amp;title=Hot+Nanoparticles+in+Polar+or+Paramagnetic+Liquids+Interact+as+Monopoles&amp;doi=10.1021%2Facs.jpcb.6b01843" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01843%3Fprg140729%3D749362a9-0b26-43c3-83a0-f6d2077f8b6e&amp;title=Hot+Nanoparticles+in+Polar+or+Paramagnetic+Liquids+Interact+as+Monopoles&amp;doi=10.1021%2Facs.jpcb.6b01843" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

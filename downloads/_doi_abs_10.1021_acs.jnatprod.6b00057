@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="957330b7-ac1d-4678-b79e-9e6cec5f114e">
+<html lang="en" class="pb-page" data-request-id="c3df906a-b7ca-4981-b1e1-18c8a5500338">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jnprdf;article:article:10.1021/acs.jnatprod.6b00057;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jnprdf.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.6b00057%3Fprg140729%3D005465e6-bf5b-415f-ac62-ec488e94f6de" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.6b00057?prg140729=005465e6-bf5b-415f-ac62-ec488e94f6de&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.6b00057?prg140729=005465e6-bf5b-415f-ac62-ec488e94f6de">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.6b00057%3Fprg140729%3D59de7f5f-572d-4ff9-91e8-fba5885e9cab" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.6b00057?prg140729=59de7f5f-572d-4ff9-91e8-fba5885e9cab&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.6b00057?prg140729=59de7f5f-572d-4ff9-91e8-fba5885e9cab">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -674,6 +674,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jnatprod.6b00037" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -948,6 +949,15 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i3"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i18"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1007,7 +1017,105 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Chang%2C+Mayland">Mayland Chang</a></li>
                            <li><a href="/author/Mobashery%2C+Shahriar">Shahriar Mobashery</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b01055?src=recsys">Natural Products as Sources of New Drugs from 1981 to 2014</a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Newman</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Cragg</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>79</em> (3), pp 629–661</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> This contribution is a completely updated and expanded version of the four prior analogous reviews that were published in this journal in 1997, 2003, 2007, and 2012. In the case of all approved therapeutic agents, the time frame has been extended to cover ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b01055?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b01055?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b01055?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b01055?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00932?src=recsys">Variochelins, Lipopeptide Siderophores from <i>Variovorax boronicumulans</i> Discovered by Genome Mining</a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kurth</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schieferdecker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Athanasopoulou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Seccareccia</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nett</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Photoreactive siderophores have a major impact on the growth of planktonic organisms. To date, these molecules have mainly been reported from marine bacteria, although evidence is now accumulating that some terrestrial bacteria also harbor the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b00932?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b00932?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00932?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b00932?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b01029?src=recsys">Rhodocomatulin-Type Anthraquinones from the Australian Marine Invertebrates <i>Clathria hirsuta</i> and <i>Comatula rotalaria</i></a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Khokhar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pierens</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hooper</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ekins</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Davis</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Chemical investigations of an Australian sponge, <i>Clathria hirsuta</i>, from the Great Barrier Reef, have resulted in the isolation of two known anthraquinones, rhodocomatulin 5,7-dimethyl ether (<b>1</b>) and rhodocomatulin 7-methyl ether (<b>2</b>). Additionally, four new ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b01029?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b01029?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b01029?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b01029?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.6b00051?src=recsys">Wewakazole B, a Cytotoxic Cyanobactin from the Cyanobacterium <i>Moorea producens</i> Collected in the Red Sea</a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lopez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Al-Lihaibi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alarif</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abdel-Lateff</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nogata</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Washio</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morikawa</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Okino</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A mass spectrometry (MS)-guided isolation has led to the purification of a new cyanobactin, wewakazole B (<b>1</b>), along with the known compound curacin D from a Red Sea <i>Moorea producens</i>. The planar structure of <b>1</b> was elucidated using a combination of NMR and ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.6b00051?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.6b00051?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.6b00051?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.6b00051?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.6b00037?src=recsys">Royal Jelly Constituents Increase the Expression of Extracellular Superoxide Dismutase through Histone Acetylation in Monocytic THP-1 Cells</a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Makino</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ogasawara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kamiya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mitsugi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yamaguchi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Itoh</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Adachi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Extracellular superoxide dismutase (EC-SOD) is one of the main SOD isozymes and plays an important role in the prevention of cardiovascular diseases by accelerating the dismutation reaction of superoxide. Royal jelly includes 10-hydroxy-2-decenoic acid (...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.6b00037?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.6b00037?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.6b00037?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.6b00037?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jnatprod.5b00954?src=recsys"><i>ent</i>-Labdane Diterpenoids from the Aerial Parts of <i>Eupatorium obtusissmum</i></a>
+                            <div class="achsLabel">
+                             Journal of Natural Products
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Castillo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Triana</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Eiroa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Calcul</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rivera</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wojtas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Padrón</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Boberieth</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Keramane</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abel-Santos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Báez</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Germosén</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Six new <i>ent</i>-labdane diterpenoids, uasdlabdanes A–F (<b>1</b>–<b>6</b>), were isolated from the aerial parts of <i>Eupatorium obtusissmum</i>. The new structures were elucidated through spectroscopic and spectrometric data analyses. The absolute configurations of compounds <b>1</b> ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jnatprod.5b00954?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jnatprod.5b00954?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jnatprod.5b00954?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jnatprod.5b00954?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1091,9 +1199,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jnatprod.6b00057" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.6b00057%3Fprg140729%3Ddad2d888-672e-4a33-bbe8-af5efc16838e&amp;doi=10.1021%2Facs.jnatprod.6b00057" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.6b00057%3Fprg140729%3De29b9be2-acf8-4c90-b691-46300df2ca99&amp;doi=10.1021%2Facs.jnatprod.6b00057" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.6b00057%3Fprg140729%3D005465e6-bf5b-415f-ac62-ec488e94f6de&amp;title=The+Natural+Product+Essramycin+and+Three+of+Its+Isomers+Are+Devoid+of+Antibacterial+Activity&amp;doi=10.1021%2Facs.jnatprod.6b00057" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jnatprod.6b00057%3Fprg140729%3D59de7f5f-572d-4ff9-91e8-fba5885e9cab&amp;title=The+Natural+Product+Essramycin+and+Three+of+Its+Isomers+Are+Devoid+of+Antibacterial+Activity&amp;doi=10.1021%2Facs.jnatprod.6b00057" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

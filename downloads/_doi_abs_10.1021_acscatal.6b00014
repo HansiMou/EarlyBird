@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="dde094f9-d707-476a-9635-53a557d3a7b6">
+<html lang="en" class="pb-page" data-request-id="6ef5a3e8-98b8-4e09-9bfd-a325017f48a9">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/accacs.ahead-of-print;journal:journal:accacs;wgroup:string:ACHS website Group;article:article:10.1021/acscatal.6b00014;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00014%3Fprg140729%3D8601471b-e102-477a-a63e-5d57cdd14242" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00014?prg140729=8601471b-e102-477a-a63e-5d57cdd14242&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00014?prg140729=8601471b-e102-477a-a63e-5d57cdd14242">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00014%3Fprg140729%3D096c0067-8f16-4c39-9048-a5dfbca5e48c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00014?prg140729=096c0067-8f16-4c39-9048-a5dfbca5e48c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acscatal.6b00014?prg140729=096c0067-8f16-4c39-9048-a5dfbca5e48c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -950,14 +950,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i3"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1088,22 +1080,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acscatal.5b02614?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acscatal.5b02614?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemrev.5b00462?src=recsys">Recent Advances in Electrocatalysts for Oxygen Reduction Reaction</a>
-                            <div class="achsLabel">
-                             Chemical Reviews
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dodelet</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chenitz</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>116</em> (6), pp 3594–3657</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The recent advances in electrocatalysis for oxygen reduction reaction (ORR) for proton exchange membrane fuel cells (PEMFCs) are thoroughly reviewed. This comprehensive Review focuses on the low- and non-platinum electrocatalysts including advanced ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemrev.5b00462?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemrev.5b00462?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00462?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemrev.5b00462?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b07126?src=recsys">Integrated Three-Dimensional Carbon Paper/Carbon Tubes/Cobalt-Sulfide Sheets as an Efficient Electrode for Overall Water Splitting</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1119,6 +1095,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsnano.5b07126?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsnano.5b07126?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b07126?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemrev.5b00462?src=recsys">Recent Advances in Electrocatalysts for Oxygen Reduction Reaction</a>
+                            <div class="achsLabel">
+                             Chemical Reviews
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Shao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dodelet</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chenitz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>116</em> (6), pp 3594–3657</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The recent advances in electrocatalysis for oxygen reduction reaction (ORR) for proton exchange membrane fuel cells (PEMFCs) are thoroughly reviewed. This comprehensive Review focuses on the low- and non-platinum electrocatalysts including advanced ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemrev.5b00462?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemrev.5b00462?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00462?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemrev.5b00462?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1204,9 +1196,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facscatal.6b00014" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00014%3Fprg140729%3D9b45c78d-cf68-4359-804c-c666dedd4d2e&amp;doi=10.1021%2Facscatal.6b00014" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00014%3Fprg140729%3Dc28524e4-cd75-4440-aadc-6ff3f8036400&amp;doi=10.1021%2Facscatal.6b00014" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00014%3Fprg140729%3D8601471b-e102-477a-a63e-5d57cdd14242&amp;title=In+Situ+Electrochemically+Activated+CoMn-S%40NiO%2FCC+Nanosheets+Array+for+Enhanced+Hydrogen+Evolution&amp;doi=10.1021%2Facscatal.6b00014" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facscatal.6b00014%3Fprg140729%3D096c0067-8f16-4c39-9048-a5dfbca5e48c&amp;title=In+Situ+Electrochemically+Activated+CoMn-S%40NiO%2FCC+Nanosheets+Array+for+Enhanced+Hydrogen+Evolution&amp;doi=10.1021%2Facscatal.6b00014" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

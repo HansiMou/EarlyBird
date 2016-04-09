@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="488cf565-fc4c-4997-a875-01120596a40b">
+<html lang="en" class="pb-page" data-request-id="22587d7c-5cd0-4b16-b7a1-8013cb7a69ae">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/joceah.ahead-of-print;journal:journal:joceah;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.joc.5b02516;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02516%3Fprg140729%3Dc30f1e17-3cf7-4b84-a59e-31227d0f7b11" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02516?prg140729=c30f1e17-3cf7-4b84-a59e-31227d0f7b11&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02516?prg140729=c30f1e17-3cf7-4b84-a59e-31227d0f7b11">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02516%3Fprg140729%3D6da67029-9228-40ba-83c9-65e93438bfa2" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02516?prg140729=6da67029-9228-40ba-83c9-65e93438bfa2&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02516?prg140729=6da67029-9228-40ba-83c9-65e93438bfa2">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -950,6 +950,15 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i8"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i50"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1088,21 +1097,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.orglett.6b00512?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.orglett.6b00512?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.orglett.6b00304?src=recsys">Visible-Light-Induced Direct Thiolation at α-C(sp<sup>3</sup>)–H of Ethers with Disulfides Using Acridine Red as Photocatalyst</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01349?src=recsys">Boron-Catalyzed Aromatic C–H Bond Silylation with Hydrosilanes</a>
                             <div class="achsLabel">
-                             Organic Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hou</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>18</em> (7), pp 1546–1549</span>
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3663–3666</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A simple and efficient method for the preparation of α-arylthioethers through a visible-light-induced direct thiolation at α-C(sp<sup>3</sup>)–H of ethers with diaryl disulfides was developed using acridine red as a novel photocatalyst. The reactions occurred at ...</span>
+                             <span><span class="bold">Abstract:</span> Metal-free catalytic C–H silylation of a series of aromatic compounds such as <i>N</i>,<i>N</i>-disubstituted anilines with various hydrosilanes has been achieved for the first time using commercially available B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> as a catalyst. This protocol features simple and ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.orglett.6b00304?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.orglett.6b00304?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.orglett.6b00304?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.orglett.6b00304?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b01349?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01349?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01349?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01349?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1188,9 +1197,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.joc.5b02516" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02516%3Fprg140729%3Da2d9c1ae-148d-486a-891b-9b4823efa4bc&amp;doi=10.1021%2Facs.joc.5b02516" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02516%3Fprg140729%3Da9b510cd-5f59-4ad4-bad7-1e62522df15b&amp;doi=10.1021%2Facs.joc.5b02516" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02516%3Fprg140729%3Dc30f1e17-3cf7-4b84-a59e-31227d0f7b11&amp;title=Metal-Free+Tandem+Oxidative+Coupling+of+Primary+Alcohols+with+Azoles+for+the+Synthesis+of+Hemiaminal+Ethers&amp;doi=10.1021%2Facs.joc.5b02516" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.joc.5b02516%3Fprg140729%3D6da67029-9228-40ba-83c9-65e93438bfa2&amp;title=Metal-Free+Tandem+Oxidative+Coupling+of+Primary+Alcohols+with+Azoles+for+the+Synthesis+of+Hemiaminal+Ethers&amp;doi=10.1021%2Facs.joc.5b02516" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

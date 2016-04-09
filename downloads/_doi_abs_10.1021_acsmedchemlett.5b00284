@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="777d4b7d-d71a-4ddc-b97d-28c9dc991dde">
+<html lang="en" class="pb-page" data-request-id="1cab1ec5-49c0-4129-9941-a32d6bdbcf2c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;article:article:10.1021/acsmedchemlett.5b00284;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00284%3Fprg140729%3Df8b86f29-ff81-46dd-b188-0352198df43d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00284?prg140729=f8b86f29-ff81-46dd-b188-0352198df43d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00284?prg140729=f8b86f29-ff81-46dd-b188-0352198df43d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00284%3Fprg140729%3Db82f562c-3835-4e1b-a087-8d4559c818fe" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00284?prg140729=b82f562c-3835-4e1b-a087-8d4559c818fe&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00284?prg140729=b82f562c-3835-4e1b-a087-8d4559c818fe">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -956,6 +956,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i4"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1087,22 +1095,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01963?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01963?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01657?src=recsys">Discovery of a Selective and Potent Inhibitor of Mitogen-Activated Protein Kinase-Interacting Kinases 1 and 2 (MNK1/2) Utilizing Structure-Based Drug Design</a>
-                            <div class="achsLabel">
-                             Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pfister</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Warne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doyle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Aikawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amiri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Appleton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stuart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fanidi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shafer</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The discovery of a highly potent and selective small molecule inhibitor <b>9</b> for in vitro target validation of MNK1/2 kinases is described. The aminopyrazine benzimidazole series was derived from an HTS hit and optimized by utilization of a docking model, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01657?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b01657?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01657?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01657?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00018?src=recsys">Core Replacements in a Potent Series of VEGFR-2 Inhibitors and Their Impact on Potency, Solubility, and hERG</a>
                             <div class="achsLabel">
                              ACS Medicinal Chemistry Letters
@@ -1118,6 +1110,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsmedchemlett.6b00018?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00018?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsmedchemlett.6b00018?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01657?src=recsys">Discovery of a Selective and Potent Inhibitor of Mitogen-Activated Protein Kinase-Interacting Kinases 1 and 2 (MNK1/2) Utilizing Structure-Based Drug Design</a>
+                            <div class="achsLabel">
+                             Journal of Medicinal Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pfister</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Warne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doyle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Aikawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amiri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Appleton</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stuart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fanidi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shafer</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The discovery of a highly potent and selective small molecule inhibitor <b>9</b> for in vitro target validation of MNK1/2 kinases is described. The aminopyrazine benzimidazole series was derived from an HTS hit and optimized by utilization of a docking model, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01657?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01657?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01657?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01657?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1203,9 +1211,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.5b00284" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00284%3Fprg140729%3D8611af0a-9d88-4abe-ad8f-c9391587ff7d&amp;doi=10.1021%2Facsmedchemlett.5b00284" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00284%3Fprg140729%3D4528dc00-eb11-46f8-a4c1-f8ad45fc815c&amp;doi=10.1021%2Facsmedchemlett.5b00284" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00284%3Fprg140729%3Df8b86f29-ff81-46dd-b188-0352198df43d&amp;title=Structure-Based+Design+of+1%2C4-Dibenzoylpiperazines+as+%CE%B2-Catenin%2FB-Cell+Lymphoma+9+Protein%E2%80%93Protein+Interaction+Inhibitors&amp;doi=10.1021%2Facsmedchemlett.5b00284" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00284%3Fprg140729%3Db82f562c-3835-4e1b-a087-8d4559c818fe&amp;title=Structure-Based+Design+of+1%2C4-Dibenzoylpiperazines+as+%CE%B2-Catenin%2FB-Cell+Lymphoma+9+Protein%E2%80%93Protein+Interaction+Inhibitors&amp;doi=10.1021%2Facsmedchemlett.5b00284" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

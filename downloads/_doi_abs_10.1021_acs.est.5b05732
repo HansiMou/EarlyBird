@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="23a83cb1-0ebd-4cf5-90d9-3b49f7bc2f21">
+<html lang="en" class="pb-page" data-request-id="c93d650a-6d91-4260-81dd-d016e09703f6">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/esthag.ahead-of-print;article:article:10.1021/acs.est.5b05732;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05732%3Fprg140729%3Dbba8dc6e-8d22-4d07-a7e9-83ccadc07344" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05732?prg140729=bba8dc6e-8d22-4d07-a7e9-83ccadc07344&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05732?prg140729=bba8dc6e-8d22-4d07-a7e9-83ccadc07344">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05732%3Fprg140729%3Df7c81e9c-df2e-4329-b14b-7019d8a7dff4" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05732?prg140729=f7c81e9c-df2e-4329-b14b-7019d8a7dff4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b05732?prg140729=f7c81e9c-df2e-4329-b14b-7019d8a7dff4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1038,6 +1038,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b04687?src=recsys">Strategies for Transferring Mixtures of Organic Contaminants from Aquatic Environments into Bioassays</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jahnke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mayer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schäfer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Witt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haase</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Escher</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Mixtures of organic contaminants are ubiquitous in the environment. Depending on their persistence and physicochemical properties, individual chemicals that make up the mixture partition and distribute within the environment and might then jointly elicit ...Mixtures of organic contaminants are ubiquitous in the environment. Depending on their persistence and physicochemical properties, individual chemicals that make up the mixture partition and distribute within the environment and might then jointly elicit toxicological effects. For the assessment and monitoring of such mixtures, a variety of cell-based in vitro and low-complexity in vivo bioassays based on algae, daphnids or fish embryos are available. A very important and sometimes unrecognized challenge is how to combine sampling, extraction and dosing to transfer the mixtures from the environment into bioassays, while conserving (or re-establishing) their chemical composition at adjustable levels for concentration-effect assessment. This article outlines various strategies for quantifiable transfer from environmental samples including water, sediment, and biota into bioassays using total extraction or polymer-based passive sampling combined with either solvent spiking or passive dosing.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b04687?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b04687?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b04687?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b04687?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b05186?src=recsys">Systematic Exploration of Biotransformation Reactions of Amine-Containing Micropollutants in Activated Sludge</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1054,21 +1070,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b05186?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b05186?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b04687?src=recsys">Strategies for Transferring Mixtures of Organic Contaminants from Aquatic Environments into Bioassays</a>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b05585?src=recsys">Emerging Disinfection Byproducts, Halobenzoquinones: Effects of Isomeric Structure and Halogen Substitution on Cytotoxicity, Formation of Reactive Oxygen Species, and Genotoxicity</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jahnke</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mayer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schäfer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Witt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haase</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Escher</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vemula</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Mixtures of organic contaminants are ubiquitous in the environment. Depending on their persistence and physicochemical properties, individual chemicals that make up the mixture partition and distribute within the environment and might then jointly elicit ...Mixtures of organic contaminants are ubiquitous in the environment. Depending on their persistence and physicochemical properties, individual chemicals that make up the mixture partition and distribute within the environment and might then jointly elicit toxicological effects. For the assessment and monitoring of such mixtures, a variety of cell-based in vitro and low-complexity in vivo bioassays based on algae, daphnids or fish embryos are available. A very important and sometimes unrecognized challenge is how to combine sampling, extraction and dosing to transfer the mixtures from the environment into bioassays, while conserving (or re-establishing) their chemical composition at adjustable levels for concentration-effect assessment. This article outlines various strategies for quantifiable transfer from environmental samples including water, sediment, and biota into bioassays using total extraction or polymer-based passive sampling combined with either solvent spiking or passive dosing.</span>
+                             <span><span class="bold">Abstract:</span> Halobenzoquinones (HBQs) are a structurally diverse class of water disinfection byproducts. Here, we report a systematic study on the effects of isomeric structure and the type and number of halogen substitutions of HBQs on their cytotoxicity, formation ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b04687?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b04687?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b04687?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b04687?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.est.5b05585?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b05585?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b05585?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b05585?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b02833?src=recsys">Graphene-Coated Hollow Fiber Membrane as the Cathode in Anaerobic Electrochemical Membrane Bioreactors – Effect of Configuration and Applied Voltage on Performance and Membrane Fouling</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Werner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Katuri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Logan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amy</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Saikaly</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Electrically conductive, graphene-coated, hollow-fiber porous membranes were used as cathodes in anaerobic electrochemical membrane bioreactors (AnEMBRs) operated at different applied voltages (0.7 and 0.9 V) using a new rectangular reactor configuration ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b02833?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b02833?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b02833?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b02833?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b05749?src=recsys">Antibiotics in Drinking Water in Shanghai and Their Contribution to Antibiotic Exposure of School Children</a>
                             <div class="achsLabel">
@@ -1101,38 +1133,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.5b05070?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.5b05070?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b05070?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b05108?src=recsys">Sterilization Efficiency of a Novel Electrochemical Disinfectant against <i>Staphylococcus aureus</i></a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Su</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Fang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>50</em> (6), pp 3184–3192</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Disinfection of hazardous microorganisms that may challenge environmental safety is a crucial issue for economic and public health. Here, we explore the potential of a novel electrochemical disinfectant named plasma activated water (PAW), which was ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b05108?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b05108?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b05108?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b05108?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b02833?src=recsys">Graphene-Coated Hollow Fiber Membrane as the Cathode in Anaerobic Electrochemical Membrane Bioreactors – Effect of Configuration and Applied Voltage on Performance and Membrane Fouling</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Werner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Katuri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Logan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amy</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Saikaly</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Electrically conductive, graphene-coated, hollow-fiber porous membranes were used as cathodes in anaerobic electrochemical membrane bioreactors (AnEMBRs) operated at different applied voltages (0.7 and 0.9 V) using a new rectangular reactor configuration ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b02833?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b02833?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b02833?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b02833?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1218,9 +1218,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.5b05732" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05732%3Fprg140729%3D61bb3374-f578-4934-92e5-9d3f80843fcf&amp;doi=10.1021%2Facs.est.5b05732" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05732%3Fprg140729%3D39876af0-20c0-4581-9a53-25bbdb34f46c&amp;doi=10.1021%2Facs.est.5b05732" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05732%3Fprg140729%3Dbba8dc6e-8d22-4d07-a7e9-83ccadc07344&amp;title=Advancing+Biological+Wastewater+Treatment%3A+Extended+Anaerobic+Conditions+Enhance+the+Removal+of+Endocrine+and+Dioxin-like+Activities&amp;doi=10.1021%2Facs.est.5b05732" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b05732%3Fprg140729%3Df7c81e9c-df2e-4329-b14b-7019d8a7dff4&amp;title=Advancing+Biological+Wastewater+Treatment%3A+Extended+Anaerobic+Conditions+Enhance+the+Removal+of+Endocrine+and+Dioxin-like+Activities&amp;doi=10.1021%2Facs.est.5b05732" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1243,9 +1243,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGryjcMNjkrAV7Vg90H21EOLACvtfcHk0liZTAKTwhx1kA&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGEvAJUhkOl4vtQwD9OmoEd2Pa5ODqD9qm7Advyk5oF7q&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSVtgZh_J7cIrtrnDmCxc-CThi25Vg2O3Mj-HxyUdRWFl&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGryjcMNjkrAV7Vg90H21EOLACvtfcHk0lh5PPrVDdwh0g&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGEvAJUhkOl4vtQwD9OmoEd0GQEEZKnwbhs6m8bleOnDP&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSVtgZh_J7cIrtrnDmCxc-CThi25Vg2O3MiiJIp7xTFON&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

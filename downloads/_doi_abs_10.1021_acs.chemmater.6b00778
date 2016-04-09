@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="51f75904-ff01-4762-bbd5-c9dea091fc9b">
+<html lang="en" class="pb-page" data-request-id="de28b3eb-3138-4134-bd3c-a0ca6bdb5852">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/cmatex.ahead-of-print;article:article:10.1021/acs.chemmater.6b00778;journal:journal:cmatex;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00778%3Fprg140729%3D420b4235-14f4-4b8e-88c6-2fc9b05184f5" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00778?prg140729=420b4235-14f4-4b8e-88c6-2fc9b05184f5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00778?prg140729=420b4235-14f4-4b8e-88c6-2fc9b05184f5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00778%3Fprg140729%3Dabf8c2b6-a46c-46e9-80e4-0aba91b4fb76" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00778?prg140729=abf8c2b6-a46c-46e9-80e4-0aba91b4fb76&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00778?prg140729=abf8c2b6-a46c-46e9-80e4-0aba91b4fb76">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1015,6 +1015,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/jacs.6b02203?src=recsys">Electronic, Crystal Chemistry, and Nonlinear Optical Property Relationships in the Dugganite A<sub>3</sub>B<sub>3</sub>CD<sub>2</sub>O<sub>14</sub> Family</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Young</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rondinelli</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Halasyamani</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A family of six nonlinear optical (NLO) materials, A<sub>3</sub>B<sub>3</sub>CD<sub>2</sub>O<sub>14</sub> (A = Sr, Ba, or Pb; B = Mg or Zn; C = Te or W; and D = P or V), has been synthesized and characterized. In addition to the synthesis and crystal structures, comprehensive characterization of ...<sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b02203?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b02203?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b02203?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b02203?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemmater.5b03564?src=recsys">Proper Ferroelectricity in the Dion–Jacobson Material CsBi<sub>2</sub>Ti<sub>2</sub>NbO<sub>10</sub>: Experiment and Theory</a>
                             <div class="achsLabel">
                              Chemistry of Materials
@@ -1079,37 +1095,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00112?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.6b00112?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b02203?src=recsys">Electronic, Crystal Chemistry, and Nonlinear Optical Property Relationships in the Dugganite A<sub>3</sub>B<sub>3</sub>CD<sub>2</sub>O<sub>14</sub> Family</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Young</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rondinelli</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Halasyamani</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A family of six nonlinear optical (NLO) materials, A<sub>3</sub>B<sub>3</sub>CD<sub>2</sub>O<sub>14</sub> (A = Sr, Ba, or Pb; B = Mg or Zn; C = Te or W; and D = P or V), has been synthesized and characterized. In addition to the synthesis and crystal structures, comprehensive characterization of ...<sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b02203?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b02203?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b02203?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b02203?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.5b03557?src=recsys">Electron Counting and a Large Family of Two-Dimensional Semiconductors</a>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00551?src=recsys">Phase Transition, Conformational Exchange, and Nonlinear Optical Third Harmonic Generation of <i>A</i>CsP<sub>2</sub>Se<sub>8</sub> (<i>A</i> = K, Rb, Cs)</a>
                             <div class="achsLabel">
                              Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Miao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Botana</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zurek</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Haynes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Banerjee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saouma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Otieno</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kanatzidis</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In comparison with conventional semiconductors, most two-dimensional semiconductor (2DSC) materials are dissimilar in structure and composition. Herein, we use electron-counting rules to propose a large family of 2DSCs, which all adopt the same structure ...</span>
+                             <span><span class="bold">Abstract:</span> The soluble molecular selenophosphate salts <i>A</i>CsP<sub>2</sub>Se<sub>8</sub> (<i>A</i> = K, Rb, Cs) crystallize in the orthorhombic space group <i>Ccce</i> with <i>a</i> = 14.982(3) Å, <i>b</i> = 24.579(5) Å, and <i>c</i> = 13.065(3) Å for the Cs salt and <i>a</i> = 14.782(3) Å, <i>b</i> = 23.954(5) Å, and <i>c</i> = 13.044(3) Å for ...<sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.5b03557?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.5b03557?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.5b03557?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.5b03557?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.chemmater.6b00551?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.6b00551?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00551?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00551?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1195,9 +1195,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.chemmater.6b00778" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00778%3Fprg140729%3D56db91d7-6385-4edc-8af9-0ff6a3b40e27&amp;doi=10.1021%2Facs.chemmater.6b00778" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00778%3Fprg140729%3Da1064bc6-ee02-4a5a-9539-78c8d192088f&amp;doi=10.1021%2Facs.chemmater.6b00778" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00778%3Fprg140729%3D420b4235-14f4-4b8e-88c6-2fc9b05184f5&amp;title=Two+New+Non-centrosymmetric+n+%3D+3+Layered+Dion%E2%80%93Jacobson+Perovskites%3A+Polar+RbBi2Ti2NbO10+and+Nonpolar+CsBi2Ti2TaO10&amp;doi=10.1021%2Facs.chemmater.6b00778" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00778%3Fprg140729%3Dabf8c2b6-a46c-46e9-80e4-0aba91b4fb76&amp;title=Two+New+Non-centrosymmetric+n+%3D+3+Layered+Dion%E2%80%93Jacobson+Perovskites%3A+Polar+RbBi2Ti2NbO10+and+Nonpolar+CsBi2Ti2TaO10&amp;doi=10.1021%2Facs.chemmater.6b00778" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

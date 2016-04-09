@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ed5ee4b2-f268-4415-bd78-6890dea08515">
+<html lang="en" class="pb-page" data-request-id="7c150abe-176f-4ff0-aadb-4bff63a07355">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jacsat.ahead-of-print;article:article:10.1021/jacs.6b02203;pageGroup:string:Publication Pages;journal:journal:jacsat;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02203%3Fprg140729%3D7b8dfb06-efac-4f11-83e1-cffde95e783a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b02203?prg140729=7b8dfb06-efac-4f11-83e1-cffde95e783a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b02203?prg140729=7b8dfb06-efac-4f11-83e1-cffde95e783a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02203%3Fprg140729%3D2a27bf4f-22fe-4d9d-b3e5-45361c9d4c3d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.6b02203?prg140729=2a27bf4f-22fe-4d9d-b3e5-45361c9d4c3d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.6b02203?prg140729=2a27bf4f-22fe-4d9d-b3e5-45361c9d4c3d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -673,16 +673,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.6b01697" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/jacs.6b03327" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jacsat/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1011,6 +1001,38 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00092?src=recsys">Turning On and Off Photoinduced Electron Transfer in Fluorescent Proteins by π-Stacking, Halide Binding, and Tyr145 Mutations</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bogdanov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Acharya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Titelmayer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mamontova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bravaya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kolomeisky</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lukyanov</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Krylov</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Photoinduced electron transfer in fluorescent proteins from the GFP family can be regarded either as an asset facilitating new applications or as a nuisance leading to the loss of optical output. Photooxidation commonly results in green-to-red ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b00092?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00092?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00092?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00092?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01188?src=recsys">Structurally Diverse Diazafluorene-Ligated Palladium(II) Complexes and Their Implications for Aerobic Oxidation Reactions</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">White</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jaworski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fry</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dolinar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guzei</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Stahl</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> 4,5-Diazafluoren-9-one (DAF) has been identified as a highly effective ligand in a number of Pd-catalyzed oxidation reactions, but the mechanistic basis for its utility has not been elucidated. Here, we present the complex coordination chemistry of DAF ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01188?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01188?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01188?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01188?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00436?src=recsys">Designing a Beryllium-Free Deep-Ultraviolet Nonlinear Optical Material without a Structural Instability Problem</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1027,84 +1049,53 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00436?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00436?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b11712?src=recsys">Bidenticity-Enhanced Second Harmonic Generation from Pb Chelation in Pb<sub>3</sub>Mg<sub>3</sub>TeP<sub>2</sub>O<sub>14</sub></a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00712?src=recsys">Flexibility Coexists with Shape-Persistence in Cyanostar Macrocycles</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Young</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rondinelli</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Halasyamani</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (1), pp 88–91</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A new ultraviolet nonlinear optical (NLO) material, Pb<sub>3</sub>Mg<sub>3</sub>TeP<sub>2</sub>O<sub>14</sub> (PMTP), has been synthesized and characterized. The chiral material exhibits a large second harmonic generation (SHG) response of 13.5 × KDP (600 × α-SiO<sub>2</sub>), and the shortest absorption edge ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b11712?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b11712?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b11712?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b11712?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02523?src=recsys">Pb<sub>4</sub>(OH)<sub>4</sub>(BrO<sub>3</sub>)<sub>3</sub>(NO<sub>3</sub>): An Example of SHG Crystal in Metal Bromates Containing π-Conjugated Planar Triangle</a>
-                            <div class="achsLabel">
-                             Inorganic Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mao</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>55</em> (2), pp 948–955</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The first example of SHG crystal in the metal bromates containing π-conjugated planar triangle systems, namely, Pb<sub>4</sub>(OH)<sub>4</sub>(BrO<sub>3</sub>)<sub>3</sub>(NO<sub>3</sub>), was successfully synthesized via the hydrothermal method. Furthermore, a single crystal of centrosymmetric Pb<sub>8</sub>O(OH)<sub>6</sub>(BrO<sub>3</sub>)...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub>The first example of SHG crystal in the metal nitrate-bromates, namely, Pb<sub>4</sub>(OH)<sub>4</sub>(BrO<sub>3</sub>)<sub>3</sub>(NO<sub>3</sub>), was successfully synthesized via a hydrothermal method. Its structure features a zigzag [Pb<sub>4</sub>(OH)<sub>4</sub>(BrO<sub>3</sub>)<sub>3</sub>]<sup>+</sup> 1D chain with the isolated NO<sub>3</sub><sup>−</sup> planar triangles located in the spaces of the structure. Pb<sub>4</sub>(OH)<sub>4</sub>(BrO<sub>3</sub>)<sub>3</sub>(NO<sub>3</sub>) crystallizes in a noncentrosymmetric and polar space group (<i>Cc</i>). Its SHG efficiency is approximately equal to that of KDP, and it is phase-matchable.</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.inorgchem.5b02523?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.inorgchem.5b02523?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.inorgchem.5b02523?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.inorgchem.5b02523?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00778?src=recsys">Two New Non-centrosymmetric <i>n</i> = 3 Layered Dion–Jacobson Perovskites: Polar RbBi<sub>2</sub>Ti<sub>2</sub>NbO<sub>10</sub> and Nonpolar CsBi<sub>2</sub>Ti<sub>2</sub>TaO<sub>10</sub></a>
-                            <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tran</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">You</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Halasyamani</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ok</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Singharoy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mayne</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sengupta</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Raghavachari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schulten</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Flood</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Two new non-centrosymmetric (NCS) <i>n</i> = 3 layered perovskites, RbBi<sub>2</sub>Ti<sub>2</sub>NbO<sub>10</sub> and CsBi<sub>2</sub>Ti<sub>2</sub>TaO<sub>10</sub>, have been synthesized through high temperature solid state reactions. X-ray diffraction analyses suggest that RbBi<sub>2</sub>Ti<sub>2</sub>NbO<sub>10</sub> crystallizes in the orthorhombic ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> Shape-persistent macrocycles are attractive functional targets for synthesis, molecular recognition, and hierarchical self-assembly. Such macrocycles are noncollapsible and geometrically well-defined, and they are traditionally characterized by having ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.6b00778?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.6b00778?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00778?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00778?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b00712?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00712?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00712?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00712?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00360?src=recsys">Molecular Engineering as an Approach To Design a New Beryllium-Free Fluoride Carbonate as a Deep-Ultraviolet Nonlinear Optical Material</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00016?src=recsys">Bimetallic C–C Bond-Forming Reductive Elimination from Nickel</a>
                             <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Song</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Long</span> 
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Diccianni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Katigbak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Diao</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> It is a great challenge to explore deep-ultraviolet (deep-UV) nonlinear optical (NLO) materials that can achieve a subtle balance among large nonlinear coefficients, moderate birefringence, and deep-ultraviolet (UV) transparency. A new beryllium-free ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Ni-catalyzed cross-coupling reactions have found important applications in organic synthesis. The fundamental characterization of the key steps in cross-coupling reactions, including C–C bond-forming reductive elimination, represents a significant ...<sup></sup><sup></sup><sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.6b00360?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.6b00360?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00360?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00360?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b00016?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00016?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00016?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00016?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01414?src=recsys">Seed-Mediated Synthesis of Metal-Organic Frameworks</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01120?src=recsys">Resorcinol Crystallization from the Melt: A New Ambient Phase and New “Riddles”</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shtukenberg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Raiteri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oganov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pokroy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Polishchuk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bygrave</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Day</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rohl</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tuckerman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kahr</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The synthesis of phase-pure metal-organic frameworks (MOFs) is of prime importance but remains a significant challenge, due to the flexible and diversified coordination modes between metal ions and organic linkers. In this work, we report the synthesis of ...</span>
+                             <span><span class="bold">Abstract:</span> Structures of the α and β phases of resorcinol, a major commodity chemical in the pharmaceutical, agrichemical, and polymer industries, were the first polymorphic pair of molecular crystals solved by X-ray analysis. It was recently stated that “no ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01414?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01414?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01414?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b01120?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01120?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01120?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01120?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1157,7 +1148,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/jacs.6b02203" title="High-Res PDF: 2314 KB" target="_blank"> PDF <span class="details">(2314 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b02203" title="Low-Res PDF: 436 KB" target="_blank"> PDF w/ Links <span class="details">(436 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.6b02203" title="Low-Res PDF: 412 KB" target="_blank"> PDF w/ Links <span class="details">(412 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/jacs.6b02203" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1190,9 +1181,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.6b02203" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02203%3Fprg140729%3D72d493c3-758d-4a19-b413-2888b2230111&amp;doi=10.1021%2Fjacs.6b02203" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02203%3Fprg140729%3De265f16a-9c52-4f8b-8747-5a8081dfc09a&amp;doi=10.1021%2Fjacs.6b02203" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02203%3Fprg140729%3D7b8dfb06-efac-4f11-83e1-cffde95e783a&amp;title=Electronic%2C+Crystal+Chemistry%2C+and+Nonlinear+Optical+Property+Relationships+in+the+Dugganite+A3B3CD2O14+Family&amp;doi=10.1021%2Fjacs.6b02203" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.6b02203%3Fprg140729%3D2a27bf4f-22fe-4d9d-b3e5-45361c9d4c3d&amp;title=Electronic%2C+Crystal+Chemistry%2C+and+Nonlinear+Optical+Property+Relationships+in+the+Dugganite+A3B3CD2O14+Family&amp;doi=10.1021%2Fjacs.6b02203" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

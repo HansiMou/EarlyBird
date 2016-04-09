@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="f15ab62f-5275-4f87-ac36-a0d3ad5fc825">
+<html lang="en" class="pb-page" data-request-id="466827db-7ec8-4d33-8bbc-1f4da715a3ca">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/ancac3.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:ancac3;article:article:10.1021/acsnano.6b00939;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00939%3Fprg140729%3D0645f335-ccc3-48d1-8c13-aabacb66172d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00939?prg140729=0645f335-ccc3-48d1-8c13-aabacb66172d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00939?prg140729=0645f335-ccc3-48d1-8c13-aabacb66172d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00939%3Fprg140729%3Dfc79da00-ac73-4c58-b588-4be416dd1f81" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00939?prg140729=fc79da00-ac73-4c58-b588-4be416dd1f81&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00939?prg140729=fc79da00-ac73-4c58-b588-4be416dd1f81">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -681,7 +681,7 @@ $(function(){
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acsnano.6b01149" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acsnano.6b01538" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -999,7 +999,104 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Ramiah+Rajasekaran%2C+Pradeep">Pradeep Ramiah Rajasekaran</a></li>
                            <li><a href="/author/Martin%2C+Charles+R">Charles R. Martin</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b05554?src=recsys">High-Speed Multipass Coulter Counter with Ultrahigh Resolution</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Edwards</span>, <span class="entryAuthor normal hlFld-ContribAuthor">German</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dick</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bard</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">White</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>9</em> (12), pp 12274–12282</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Coulter counters measure the size of particles in solution by passing them through an orifice and measuring a resistive pulse, <i>i</i>.<i>e</i>., a drop in the ionic current flowing between two electrodes placed on either side of the orifice. The magnitude of the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b05554?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b05554?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b05554?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b05554?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b05782?src=recsys">Direct Analysis of Gene Synthesis Reactions Using Solid-State Nanopores</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Carson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wick</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carr</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wanunu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Aguilar</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>9</em> (12), pp 12417–12424</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Synthetic nucleic acids offer rich potential to understand and engineer new cellular functions, yet an unresolved limitation in their production and usage is deleterious products, which restrict design complexity and add cost. Herein, we employ a solid-...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b05782?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b05782?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b05782?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b05782?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b00643?src=recsys">Ambipolar Transport in Solution-Synthesized Graphene Nanoribbons</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Uribe-Romo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saathoff</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Arslan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Crick</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Itin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Clancy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dichtel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Loo</span>
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Graphene nanoribbons (GNRs) with robust electronic band gaps are promising candidate materials for nanometer-scale electronic circuits. Realizing their full potential, however, will depend on the ability to access GNRs with prescribed widths and edge ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.6b00643?src=recsys">Abstract</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b00643?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b00643?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07943?src=recsys">Tuning Ionic Transport in Memristive Devices by Graphene with Engineered Nanopores</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Du</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kioupakis</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3571–3579</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Memristors, based on inherent memory effects in simple two-terminal structures, have attracted tremendous interest recently for applications ranging from nonvolatile data storage to neuromorphic computing based on non-von Neumann architectures. In a ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b07943?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07943?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07943?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07943?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.6b00463?src=recsys">Molecular Dynamics Simulation of DNA Capture and Transport in Heated Nanopores</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Belkin</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Aksimentiev</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The integration of local heat sources with solid-state nanopores offers new means for controlling the transmembrane transport of charged biomacromolecules. In the case of electrophoretic transport of DNA, recent experimental studies revealed unexpected ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.6b00463?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b00463?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b00463?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b00463?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b03963?src=recsys">Intrinsic Stepwise Translocation of Stretched ssDNA in Graphene Nanopores</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Qiu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sarathy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leburton</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schulten</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>15</em> (12), pp 8322–8330</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We investigate by means of molecular dynamics simulations stretch-induced stepwise translocation of single-stranded DNA (ssDNA) through graphene nanopores. The intrinsic stepwise DNA motion, found to be largely independent of size and shape of the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b03963?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b03963?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b03963?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b03963?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1083,9 +1180,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsnano.6b00939" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00939%3Fprg140729%3D447ccfb1-1c5c-49ad-b4ad-f343ed33a709&amp;doi=10.1021%2Facsnano.6b00939" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00939%3Fprg140729%3D1f83c826-ff18-4d20-884b-68f04b9c16cb&amp;doi=10.1021%2Facsnano.6b00939" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00939%3Fprg140729%3D0645f335-ccc3-48d1-8c13-aabacb66172d&amp;title=An+Alternating+Current+Electroosmotic+Pump+Based+on+Conical+Nanopore+Membranes&amp;doi=10.1021%2Facsnano.6b00939" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00939%3Fprg140729%3Dfc79da00-ac73-4c58-b588-4be416dd1f81&amp;title=An+Alternating+Current+Electroosmotic+Pump+Based+on+Conical+Nanopore+Membranes&amp;doi=10.1021%2Facsnano.6b00939" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

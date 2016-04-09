@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="9c63e46a-348e-4cc3-968f-aeed91071c82">
+<html lang="en" class="pb-page" data-request-id="e03de01b-3a75-4559-80f5-505a6286f5d0">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.est.6b00320">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00320%3Fprg140729%3Df9b525e5-4bca-497a-a393-e3c34a280eb6" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00320?prg140729=f9b525e5-4bca-497a-a393-e3c34a280eb6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00320?prg140729=f9b525e5-4bca-497a-a393-e3c34a280eb6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00320%3Fprg140729%3Db44b6a14-319c-46f5-95d7-f578ed74a473" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00320?prg140729=b44b6a14-319c-46f5-95d7-f578ed74a473&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00320?prg140729=b44b6a14-319c-46f5-95d7-f578ed74a473">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -971,6 +971,17 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i4"><span>Materials and Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i8"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i25"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1077,22 +1088,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b05207?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b05207?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b06097?src=recsys">Inactivation of <i>Escherichia coli</i>, Bacteriophage MS2, and <i>Bacillus</i> Spores under UV/H<sub>2</sub>O<sub>2</sub> and UV/Peroxydisulfate Advanced Disinfection Conditions</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tyree</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Ultraviolet light (UV) combined with peroxy chemicals, such as H<sub>2</sub>O<sub>2</sub> and peroxydisulfate (PDS), have been considered potentially highly effective disinfection processes. This study investigated the inactivation of <i>Escherichia coli</i>, bacteriophage MS2, and <i>...</i><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b06097?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b06097?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b06097?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b06097?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b06369?src=recsys">Ternary Model of the Speciation of I-/Br-/Cl-Trihalomethanes Formed in Chloraminated Surface Waters</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1124,6 +1119,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.5b04904?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.5b04904?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b04904?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b03595?src=recsys">Activation of Peroxymonosulfate by Benzoquinone: A Novel Nonradical Oxidation Process</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>49</em> (21), pp 12941–12950</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The reactions between peroxymonosulfate (PMS) and quinones were investigated for the first time in this work, where benzoquinone (BQ) was selected as a model quinone. It was demonstrated that BQ could efficiently activate PMS for the degradation of ...<sup></sup><sub></sub><sup></sup><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b03595?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b03595?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b03595?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b03595?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1209,9 +1220,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.6b00320" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00320%3Fprg140729%3D5a7ed982-679a-4bd3-83ce-bc695abc1195&amp;doi=10.1021%2Facs.est.6b00320" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00320%3Fprg140729%3D9131d2d8-5643-41e7-8e0b-00ac1585ed2b&amp;doi=10.1021%2Facs.est.6b00320" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00320%3Fprg140729%3Df9b525e5-4bca-497a-a393-e3c34a280eb6&amp;title=Kinetic+and+Mechanistic+Aspects+of+the+Reactions+of+Iodide+and+Hypoiodous+Acid+with+Permanganate%3A+Oxidation+and+Disproportionation&amp;doi=10.1021%2Facs.est.6b00320" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00320%3Fprg140729%3Db44b6a14-319c-46f5-95d7-f578ed74a473&amp;title=Kinetic+and+Mechanistic+Aspects+of+the+Reactions+of+Iodide+and+Hypoiodous+Acid+with+Permanganate%3A+Oxidation+and+Disproportionation&amp;doi=10.1021%2Facs.est.6b00320" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

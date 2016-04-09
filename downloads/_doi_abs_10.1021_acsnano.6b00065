@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="0ce5409b-6b74-49d0-8895-47235f9bc949">
+<html lang="en" class="pb-page" data-request-id="45bededf-c3f4-4eb0-8e23-4bede8d632fa">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/ancac3.ahead-of-print;article:article:10.1021/acsnano.6b00065;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:ancac3;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -151,8 +151,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00065%3Fprg140729%3Dcfe8320a-6a14-494c-b2e6-6b9ddc7edcd9" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00065?prg140729=cfe8320a-6a14-494c-b2e6-6b9ddc7edcd9&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00065?prg140729=cfe8320a-6a14-494c-b2e6-6b9ddc7edcd9">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00065%3Fprg140729%3Df7ab6455-1320-41a3-8a94-6c216c5891b9" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00065?prg140729=f7ab6455-1320-41a3-8a94-6c216c5891b9&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00065?prg140729=f7ab6455-1320-41a3-8a94-6c216c5891b9">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1012,17 +1012,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i4"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Methods" href="#_i5"><span>Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i11"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1162,6 +1151,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00615?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00615?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12666?src=recsys">Synergetic Integration of Cu<sub>1.94</sub>S–Zn<sub><i>x</i></sub>Cd<sub>1–<i>x</i></sub>S Heteronanorods for Enhanced Visible-Light-Driven Photocatalytic Hydrogen Production</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4286–4289</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In this Communication, we present the integration of synergetic designs into high-quality, well-defined Cu<sub>1.94</sub>S–Zn<sub><i>x</i></sub>Cd<sub>1–<i>x</i></sub>S heteronanorods (0 ≤ <i>x</i> ≤ 1) for enhanced photocatalytic hydrogen evolution. These heteronanorods possess two light absorbers, intimate ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12666?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12666?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12666?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12666?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b07791?src=recsys">Two-Dimensional CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> Perovskite: Synthesis and Optoelectronic Application</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1177,22 +1182,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsnano.5b07791?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsnano.5b07791?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b07791?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.6b01729?src=recsys">Picosecond Lifetimes with High Quantum Yields from Single-Photon-Emitting Colloidal Nanostructures at Room Temperature</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bidault</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Devilez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maillard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lermusiaux</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guigner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bonod</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wenger</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Minimizing the luminescence lifetime while maintaining a high emission quantum yield is paramount in optimizing the excitation cross-section, radiative decay rate, and brightness of quantum solid-state light sources, particularly at room temperature, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.6b01729?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.6b01729?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.6b01729?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.6b01729?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1278,9 +1267,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsnano.6b00065" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00065%3Fprg140729%3Dd6b1e1d7-9979-4e0a-8ff0-563544b61e49&amp;doi=10.1021%2Facsnano.6b00065" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00065%3Fprg140729%3Df72b3290-2265-4201-92e1-903b14403a99&amp;doi=10.1021%2Facsnano.6b00065" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00065%3Fprg140729%3Dcfe8320a-6a14-494c-b2e6-6b9ddc7edcd9&amp;title=Origin+of+Photocarrier+Losses+in+Iron+Pyrite+%28FeS2%29+Nanocubes&amp;doi=10.1021%2Facsnano.6b00065" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00065%3Fprg140729%3Df7ab6455-1320-41a3-8a94-6c216c5891b9&amp;title=Origin+of+Photocarrier+Losses+in+Iron+Pyrite+%28FeS2%29+Nanocubes&amp;doi=10.1021%2Facsnano.6b00065" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

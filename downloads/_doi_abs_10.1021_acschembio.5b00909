@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="07768029-bb2d-4a79-84fc-7f0683f2d9b5">
+<html lang="en" class="pb-page" data-request-id="9424eac2-ee37-478c-b200-8d8b79bade60">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;article:article:10.1021/acschembio.5b00909;issue:issue:10.1021/acbcct.ahead-of-print;wgroup:string:ACHS website Group;journal:journal:acbcct;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -146,8 +146,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00909%3Fprg140729%3Dafc43983-bc75-4c3e-bf55-9f28551b9258" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00909?prg140729=afc43983-bc75-4c3e-bf55-9f28551b9258&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00909?prg140729=afc43983-bc75-4c3e-bf55-9f28551b9258">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00909%3Fprg140729%3D304497a9-a6dd-4301-8591-643024670afb" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00909?prg140729=304497a9-a6dd-4301-8591-643024670afb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acschembio.5b00909?prg140729=304497a9-a6dd-4301-8591-643024670afb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1100,6 +1100,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acschembio.5b00900?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.5b00900?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12608?src=recsys">On-Demand Targeting: Investigating Biology with Proximity-Directed Chemistry</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Poganik</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Aye</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3610–3622</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Proximity enhancement is a central chemical tenet underpinning an exciting suite of small-molecule toolsets that have allowed us to unravel many biological complexities. The leitmotif of this opus is “tethering”—a strategy in which a multifunctional small ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12608?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12608?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12608?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12608?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acschembio.5b01018?src=recsys">Conformation-Selective Analogues of Dasatinib Reveal Insight into Kinase Inhibitor Binding and Selectivity</a>
                             <div class="achsLabel">
                              ACS Chemical Biology
@@ -1115,22 +1131,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acschembio.5b01018?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acschembio.5b01018?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acschembio.5b01018?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acschembio.5b00981?src=recsys">Chemical Biology Probes from Advanced DNA-encoded Libraries</a>
-                            <div class="achsLabel">
-                             ACS Chemical Biology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Salamon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Klika Škopić</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jung</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bugain</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Brunschweiger</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>11</em> (2), pp 296–307</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The identification of bioactive compounds is a crucial step toward development of probes for chemical biology studies. Screening of DNA-encoded small molecule libraries (DELs) has emerged as a validated technology to interrogate vast chemical space. DELs ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acschembio.5b00981?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acschembio.5b00981?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acschembio.5b00981?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acschembio.5b00981?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1216,9 +1216,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facschembio.5b00909" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00909%3Fprg140729%3D7f9f03f4-ae90-42d0-ac3b-fe77984bb2d0&amp;doi=10.1021%2Facschembio.5b00909" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00909%3Fprg140729%3D83c88bc8-0224-41f6-96d9-5bfcdcf3270d&amp;doi=10.1021%2Facschembio.5b00909" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00909%3Fprg140729%3Dafc43983-bc75-4c3e-bf55-9f28551b9258&amp;title=A+Small+Molecule+Screen+Exposes+mTOR+Signaling+Pathway+Involvement+in+Radiation-Induced+Apoptosis&amp;doi=10.1021%2Facschembio.5b00909" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facschembio.5b00909%3Fprg140729%3D304497a9-a6dd-4301-8591-643024670afb&amp;title=A+Small+Molecule+Screen+Exposes+mTOR+Signaling+Pathway+Involvement+in+Radiation-Induced+Apoptosis&amp;doi=10.1021%2Facschembio.5b00909" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1241,9 +1241,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpFhiQYhCO4P7Vg90H21EOLACvtfcHk0ljCEX9-O6rJLA&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGBdjUxQrBasktQwD9OmoEd1ccqjsgcY24kdzbmABrNGn&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSaoUaSqkerHHtrnDmCxc-CThi25Vg2O3Mk7p8hRhq7MB&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpFhiQYhCO4P7Vg90H21EOLACvtfcHk0ljVL4jk8R9Mig&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGBdjUxQrBasktQwD9OmoEd192RwGRCoOVx5k2dgr6h5m&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSaoUaSqkerHHtrnDmCxc-CThi25Vg2O3MmdUSmk2NYx1&amp;loc=%2FControllerServlet&amp;pubId=40025955" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

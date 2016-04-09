@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ec55d262-7a99-4a19-8b88-f9d1cf1a1256">
+<html lang="en" class="pb-page" data-request-id="d689ced0-74d1-4a1e-809b-db8c03fa5cc4">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsmedchemlett.5b00468;pageGroup:string:Publication Pages;issue:issue:10.1021/amclct.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:amclct">
   <meta data-pb-head="head-widgets-start"> 
@@ -161,8 +161,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00468%3Fprg140729%3D95b57b2b-34e7-422c-932d-9d75861c5e7d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00468?prg140729=95b57b2b-34e7-422c-932d-9d75861c5e7d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00468?prg140729=95b57b2b-34e7-422c-932d-9d75861c5e7d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00468%3Fprg140729%3De99b07b1-47f6-4fbf-b4e2-320fc1ed2360" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00468?prg140729=e99b07b1-47f6-4fbf-b4e2-320fc1ed2360&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.5b00468?prg140729=e99b07b1-47f6-4fbf-b4e2-320fc1ed2360">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1045,6 +1045,14 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i11"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1143,22 +1151,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01493?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b01493?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00002?src=recsys">Structural Requirements and Docking Analysis of Amidine-Based Sphingosine Kinase 1 Inhibitors Containing Oxadiazoles</a>
-                            <div class="achsLabel">
-                             ACS Medicinal Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Houck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dawson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kennedy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kharel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Naimon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Field</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lynch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Macdonald</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Sphingosine 1-phosphate (S1P) is a potent growth-signaling lipid that has been implicated in cancer progression, inflammation, sickle cell disease, and fibrosis. Two sphingosine kinases (SphK1 and 2) are the source of S1P; thus, inhibitors of the SphKs ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsmedchemlett.6b00002?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsmedchemlett.6b00002?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00002?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsmedchemlett.6b00002?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsmedchemlett.5b00498?src=recsys">Discovery of a Highly Potent and Selective Indenoindolone Type 1 Pan-FLT3 Inhibitor</a>
                             <div class="achsLabel">
                              ACS Medicinal Chemistry Letters
@@ -1174,6 +1166,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsmedchemlett.5b00498?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsmedchemlett.5b00498?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsmedchemlett.5b00498?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsmedchemlett.6b00002?src=recsys">Structural Requirements and Docking Analysis of Amidine-Based Sphingosine Kinase 1 Inhibitors Containing Oxadiazoles</a>
+                            <div class="achsLabel">
+                             ACS Medicinal Chemistry Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Houck</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dawson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kennedy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kharel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Naimon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Field</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lynch</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Macdonald</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Sphingosine 1-phosphate (S1P) is a potent growth-signaling lipid that has been implicated in cancer progression, inflammation, sickle cell disease, and fibrosis. Two sphingosine kinases (SphK1 and 2) are the source of S1P; thus, inhibitors of the SphKs ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsmedchemlett.6b00002?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsmedchemlett.6b00002?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsmedchemlett.6b00002?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsmedchemlett.6b00002?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsmedchemlett.5b00302?src=recsys">Potent, Selective, and CNS-Penetrant Tetrasubstituted Cyclopropane Class IIa Histone Deacetylase (HDAC) Inhibitors</a>
                             <div class="achsLabel">
@@ -1307,9 +1315,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsmedchemlett.5b00468" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00468%3Fprg140729%3Dbfb0181d-0111-481c-9c9a-92c4c59b8a1d&amp;doi=10.1021%2Facsmedchemlett.5b00468" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00468%3Fprg140729%3D94669d15-4183-4cd4-98e2-a51bae5d006a&amp;doi=10.1021%2Facsmedchemlett.5b00468" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00468%3Fprg140729%3D95b57b2b-34e7-422c-932d-9d75861c5e7d&amp;title=Discovery+of+a+Selective+Series+of+Inhibitors+of+Plasmodium+falciparum+HDACs&amp;doi=10.1021%2Facsmedchemlett.5b00468" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsmedchemlett.5b00468%3Fprg140729%3De99b07b1-47f6-4fbf-b4e2-320fc1ed2360&amp;title=Discovery+of+a+Selective+Series+of+Inhibitors+of+Plasmodium+falciparum+HDACs&amp;doi=10.1021%2Facsmedchemlett.5b00468" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1332,9 +1340,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo2IhJExDD3WbVg90H21EOLACvtfcHk0lg5o3vek-W56A&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGBCg07ZkIRvPtQwD9OmoEd1YtKxGoBgAWdgn3VZ7cOWo&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSd7xacJ7iM4strnDmCxc-CThi25Vg2O3MoOMlqwB-orp&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo2IhJExDD3WbVg90H21EOLACvtfcHk0lhhiepGXHFv3Q&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGBCg07ZkIRvPtQwD9OmoEd2qrMM7Egn28K1HmGS6CUDx&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSd7xacJ7iM4strnDmCxc-CThi25Vg2O3Mqz2NNdZsWuH&amp;loc=%2FControllerServlet&amp;pubId=346566864" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

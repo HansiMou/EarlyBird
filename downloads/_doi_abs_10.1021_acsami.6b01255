@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="817d84e7-8cf6-44cd-8b3f-93314aa800ec">
+<html lang="en" class="pb-page" data-request-id="401d8a21-47ec-40ee-ad39-fc868c705ecf">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsami.6b01255;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01255%3Fprg140729%3D5a2d1463-39b5-419e-9769-6b3bddd969eb" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01255?prg140729=5a2d1463-39b5-419e-9769-6b3bddd969eb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01255?prg140729=5a2d1463-39b5-419e-9769-6b3bddd969eb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01255%3Fprg140729%3D188585be-505e-4a38-9c95-5c864257df71" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01255?prg140729=188585be-505e-4a38-9c95-5c864257df71&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01255?prg140729=188585be-505e-4a38-9c95-5c864257df71">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1068,6 +1068,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b02300?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b02300?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07511?src=recsys">Laser Writing Block Copolymer Self-Assembly on Graphene Light-Absorbing Layer</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Son</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nealey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lee</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3435–3442</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Recent advance of high-power laser processing allows for rapid, continuous, area-selective material fabrication, typically represented by laser crystallization of silicon or oxides for display applications. Two-dimensional materials such as graphene ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b07511?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07511?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07511?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07511?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.5b08162?src=recsys">Enhancing the Directed Self-assembly Kinetics of Block Copolymers Using Binary Solvent Mixtures</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1084,38 +1100,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.5b08162?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b08162?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02188?src=recsys">Optimized Solvent Vapor Annealing for Long-Range Perpendicular Lamellae in PS-<i>b</i>-PMMA Films</a>
-                            <div class="achsLabel">
-                             Macromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ryu</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>49</em> (5), pp 1722–1730</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We report a simple approach to fabricating highly stable, perpendicularly oriented lamellae through the self-assembly of high-molecular-weight polystyrene-<i>b</i>-poly(methyl methacrylate) (PS-<i>b</i>-PMMA). Using a solvent vapor annealing (SVA) process controlled by ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.macromol.5b02188?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.macromol.5b02188?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02188?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.macromol.5b02188?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.6b00360?src=recsys">Enhanced Lateral Ordering in Cylinder Forming PS-<i>b</i>-PMMA Block Copolymers Exploiting the Entrapped Solvent</a>
-                            <div class="achsLabel">
-                             ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Seguini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zanenga</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Giammaria</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ceresoli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sparnacci</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Antonioli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gianotti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Laus</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Perego</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>8</em> (12), pp 8280–8288</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The self-assembly of block copolymer (BCP) thin films produces dense and ordered nanostructures. Their exploitation as templates for nanolithography requires the capability to control the lateral order of the nanodomains. Among a multiplicity of polymers, ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.6b00360?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.6b00360?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.6b00360?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.6b00360?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.5b08856?src=recsys">Well-Ordered Nanoporous ABA Copolymer Thin Films via Solvent Vapor Annealing, Homopolymer Blending, and Selective Etching of ABAC Tetrablock Terpolymers</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1131,6 +1115,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsami.5b08856?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsami.5b08856?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b08856?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02188?src=recsys">Optimized Solvent Vapor Annealing for Long-Range Perpendicular Lamellae in PS-<i>b</i>-PMMA Films</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ryu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>49</em> (5), pp 1722–1730</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report a simple approach to fabricating highly stable, perpendicularly oriented lamellae through the self-assembly of high-molecular-weight polystyrene-<i>b</i>-poly(methyl methacrylate) (PS-<i>b</i>-PMMA). Using a solvent vapor annealing (SVA) process controlled by ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02188?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02188?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02188?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02188?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.macromol.5b02685?src=recsys">Orienting Block Copolymer Thin Films via Entropy</a>
                             <div class="achsLabel">
@@ -1232,9 +1232,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b01255" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01255%3Fprg140729%3D8463ec11-1d35-4bc9-b7a7-18b7cabadbbf&amp;doi=10.1021%2Facsami.6b01255" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01255%3Fprg140729%3D4ffaa7e2-2988-48ef-a947-fe54e71db326&amp;doi=10.1021%2Facsami.6b01255" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01255%3Fprg140729%3D5a2d1463-39b5-419e-9769-6b3bddd969eb&amp;title=Sub-10+nm+Silicon+Nanopillar+Fabrication+Using+Fast+and+Brushless+Thermal+Assembly+of+PS-b-PDMS+Diblock+Copolymer&amp;doi=10.1021%2Facsami.6b01255" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01255%3Fprg140729%3D188585be-505e-4a38-9c95-5c864257df71&amp;title=Sub-10+nm+Silicon+Nanopillar+Fabrication+Using+Fast+and+Brushless+Thermal+Assembly+of+PS-b-PDMS+Diblock+Copolymer&amp;doi=10.1021%2Facsami.6b01255" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

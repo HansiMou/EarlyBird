@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="780779d8-21a5-430f-93d9-7a5febb7f852">
+<html lang="en" class="pb-page" data-request-id="eb08c7cb-7067-4b7e-910f-b912781c48f8">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/esthag.ahead-of-print;article:article:10.1021/acs.est.5b04716;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04716%3Fprg140729%3D92704f97-5d64-4939-ad96-50c0f17290be" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04716?prg140729=92704f97-5d64-4939-ad96-50c0f17290be&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04716?prg140729=92704f97-5d64-4939-ad96-50c0f17290be">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04716%3Fprg140729%3D538fe3ff-dee5-4164-b06c-45bab2dd3192" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04716?prg140729=538fe3ff-dee5-4164-b06c-45bab2dd3192&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.5b04716?prg140729=538fe3ff-dee5-4164-b06c-45bab2dd3192">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -694,7 +694,7 @@ $(function(){
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.est.5b02833" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.est.5b04784" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1039,22 +1039,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b02833?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b02833?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b04111?src=recsys">Cerium Oxide Nanoparticles and Bulk Cerium Oxide Leading to Different Physiological and Biochemical Responses in <i>Brassica rapa</i></a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rossi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Cerium oxide nanoparticles (CeO<sub>2</sub>NPs) have been incorporated into many commercial products, and their potential release into the environment through the use and disposal of these products has caused serious concerns. Despite the previous efforts and rapid ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b04111?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b04111?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b04111?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b04111?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b04784?src=recsys">Cerium Biomagnification in a Terrestrial Food Chain: Influence of Particle Size and Growth Stage</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1071,21 +1055,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b04784?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b04784?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b01546?src=recsys">Root Uptake of Pharmaceuticals and Personal Care Product Ingredients</a>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b04111?src=recsys">Cerium Oxide Nanoparticles and Bulk Cerium Oxide Leading to Different Physiological and Biochemical Responses in <i>Brassica rapa</i></a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Miller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nason</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Karthikeyan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Pedersen</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ma</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rossi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>50</em> (2), pp 525–541</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Crops irrigated with reclaimed wastewater or grown in biosolids-amended soils may take up pharmaceuticals and personal care product ingredients (PPCPs) through their roots. The uptake pathways followed by PPCPs and the propensity for these compounds to ...<sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Cerium oxide nanoparticles (CeO<sub>2</sub>NPs) have been incorporated into many commercial products, and their potential release into the environment through the use and disposal of these products has caused serious concerns. Despite the previous efforts and rapid ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b01546?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b01546?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b01546?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b01546?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.est.5b04111?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b04111?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b04111?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b04111?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b01132?src=recsys">Characterization of Mixing Processes in the Confluence Zone between the Three Gorges Reservoir Mainstream and the Daning River Using Stable Isotope Analysis</a>
                             <div class="achsLabel">
@@ -1118,6 +1102,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.5b04586?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.5b04586?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b04586?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b01546?src=recsys">Root Uptake of Pharmaceuticals and Personal Care Product Ingredients</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Miller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nason</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Karthikeyan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Pedersen</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>50</em> (2), pp 525–541</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Crops irrigated with reclaimed wastewater or grown in biosolids-amended soils may take up pharmaceuticals and personal care product ingredients (PPCPs) through their roots. The uptake pathways followed by PPCPs and the propensity for these compounds to ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b01546?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b01546?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b01546?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b01546?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1203,9 +1203,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.5b04716" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04716%3Fprg140729%3Dbffedf97-3d8c-49f9-84f4-7939db5b1146&amp;doi=10.1021%2Facs.est.5b04716" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04716%3Fprg140729%3D9181b41d-771d-489a-b317-358bb6d4b6b0&amp;doi=10.1021%2Facs.est.5b04716" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04716%3Fprg140729%3D92704f97-5d64-4939-ad96-50c0f17290be&amp;title=Plant+Assimilation+Kinetics+and+Metabolism+of+2-Mercaptobenzothiazole+Tire+Rubber+Vulcanizers+by+Arabidopsis&amp;doi=10.1021%2Facs.est.5b04716" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.5b04716%3Fprg140729%3D538fe3ff-dee5-4164-b06c-45bab2dd3192&amp;title=Plant+Assimilation+Kinetics+and+Metabolism+of+2-Mercaptobenzothiazole+Tire+Rubber+Vulcanizers+by+Arabidopsis&amp;doi=10.1021%2Facs.est.5b04716" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1228,9 +1228,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpkY0c23MEcqrVg90H21EOLACvtfcHk0lhrRIXQWqB8JA&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaADWvS70gigNtQwD9OmoEd1Ak9VcLXV1Hf2n0CgRlDoO&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSSAzmPAKiZ4atrnDmCxc-CThi25Vg2O3MoiFNb3-Gbxr&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpkY0c23MEcqrVg90H21EOLACvtfcHk0liMc5YHWSNmag&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaADWvS70gigNtQwD9OmoEd3-UlHZ9C3d0N8LxhSbZvUK&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSSAzmPAKiZ4atrnDmCxc-CThi25Vg2O3MqzEEt8NOqcd&amp;loc=%2FControllerServlet&amp;pubId=40025991" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

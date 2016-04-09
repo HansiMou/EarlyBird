@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="80607a87-21ce-47a2-a412-c1cce537975e">
+<html lang="en" class="pb-page" data-request-id="41f44d52-feb1-46d3-b908-b51ea5ab57a3">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jacsat.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jacsat;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/jacs.5b09241">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b09241%3Fprg140729%3De3160afc-385f-4849-b841-1b41590e6ed0" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.5b09241?prg140729=e3160afc-385f-4849-b841-1b41590e6ed0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.5b09241?prg140729=e3160afc-385f-4849-b841-1b41590e6ed0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b09241%3Fprg140729%3Dd11873e7-f556-4f5e-b45a-868160ebefbb" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.5b09241?prg140729=d11873e7-f556-4f5e-b45a-868160ebefbb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.5b09241?prg140729=d11873e7-f556-4f5e-b45a-868160ebefbb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -675,16 +675,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.6b02032" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/jacs.5b11355" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jacsat/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1026,70 +1016,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00356?src=recsys">Enantiodivergent Fluorination of Allylic Alcohols: Data Set Design Reveals Structural Interplay between Achiral Directing Group and Chiral Anion</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Neel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Milo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sigman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Toste</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3863–3875</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Enantioselectivity values represent relative rate measurements that are sensitive to the structural features of the substrates and catalysts interacting to produce them. Therefore, well-designed enantioselectivity data sets are information rich and can ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00356?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00356?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00356?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00356?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b13041?src=recsys">Oxy-Allyl Cation Catalysis: An Enantioselective Electrophilic Activation Mode</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oblak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vander Wal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dilger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Almstead</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">MacMillan</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (7), pp 2134–2137</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A generic activation mode for asymmetric LUMO-lowering catalysis has been developed using the long-established principles of oxy-allyl cation chemistry. Here, the enantioselective conversion of racemic α-tosyloxy ketones to optically enriched α-indolic ...<sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b13041?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b13041?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b13041?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b13041?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b00882?src=recsys">Intermolecular Homopropargyl Alcohol Addition to Alkyne and a Sequential 1,6-Enyne Cycloisomerization with Triazole-Gold Catalyst</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hosseyni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wojtas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shi</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (12), pp 3994–3997</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> While gold-catalyzed homopropargyl alcohol cyclization is a known process, a triazole-gold catalyst prevented the intramolecular cyclization in the presence of terminal alkynes. As a result, an intermolecular addition to an alkyne was achieved. A ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b00882?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b00882?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b00882?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b00882?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01428?src=recsys">Concise Total Synthesis of Lundurines A–C Enabled by Gold Catalysis and a Homodienyl Retro-Ene/Ene Isomerization</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kirillova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Muratore</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dorel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Echavarren</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3671–3674</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The total synthesis of lundurines A–C has been accomplished in racemic and enantiopure forms in 11–13 and 12–14 steps, respectively, without protection/deprotection of functional groups, by a novel tandem double condensation/Claisen rearrangement, a gold(...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01428?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01428?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01428?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01428?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b11120?src=recsys">Enantioselective Rh-Catalyzed Carboacylation of C═N Bonds via C–C Activation of Benzocyclobutenones</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1106,21 +1032,85 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b11120?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b11120?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01187?src=recsys">Direct Catalytic Asymmetric Mannich Reactions for the Construction of Quaternary Carbon Stereocenters</a>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00386?src=recsys">The Divergent Synthesis of Nitrogen Heterocycles by Rhodium(I)-Catalyzed Intermolecular Cycloadditions of Vinyl Aziridines and Alkynes</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Trost</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Saget</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hung</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3659–3662</span>
+                             <span><span class="bold">2016</span> <em>138</em> (7), pp 2178–2181</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Herein, we report a Zn-ProPhenol catalyzed Mannich reaction using α-branched ketones as nucleophilic partners for the direct enantio- and diastereoselective construction of quaternary carbon stereocenters. The reaction can be run on a gram-scale with a ...</span>
+                             <span><span class="bold">Abstract:</span> Catalyst-controlled divergent intermolecular cycloadditions of vinylaziridines with alkynes have been developed. By using [Rh(NBD)<sub>2</sub>]BF<sub>4</sub> as the catalyst, a [3 + 2] cycloaddition reaction was achieved with broad substrate scope and high stereoselectivity ...<sup></sup><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01187?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01187?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01187?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01187?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.6b00386?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00386?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00386?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00386?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01591?src=recsys">Asymmetric Alkylation of <i>N</i>-Sulfonylbenzamides with Vinyl Ethers via C–H Bond Activation Catalyzed by Hydroxoiridium/Chiral Diene Complexes</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hatano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ebe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nishimura</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yorimitsu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (12), pp 4010–4013</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Asymmetric alkylation of <i>N</i>-sulfonylbenzamides with vinyl ethers via a directed C–H bond activation gave high yields of the corresponding addition products with high branch- and enantioselectivity.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01591?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01591?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01591?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01591?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b13304?src=recsys">Nitrone Cycloadditions of 1,2-Cyclohexadiene</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Barber</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Styduhar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pham</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McMahon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Houk</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Garg</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (8), pp 2512–2515</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report the first 1,3-dipolar cycloadditions of 1,2-cyclohexadiene, a rarely exploited strained allene. 1,2-Cyclohexadiene is generated in situ under mild conditions and trapped with nitrones to give isoxazolidine products in synthetically useful ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b13304?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b13304?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b13304?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b13304?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00180?src=recsys">Pharmaceutical-Oriented Selective Synthesis of Mononitriles and Dinitriles Directly from Methyl(hetero)arenes: Access to Chiral Nitriles and Citalopram</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (10), pp 3294–3297</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A pharmaceutical-oriented, transition-metal-free, cyanide-free one-step direct transformation of methylarenes to aryl nitriles is described. For the dimethylarenes, the selectivity can be well-controlled to form mononitriles or dinitriles. Enantioenriched ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b00180?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00180?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00180?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00180?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b10221?src=recsys">Dearomative Indole (3 + 2) Reactions with Azaoxyallyl Cations – New Method for the Synthesis of Pyrroloindolines</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">DiPoto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hughes</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>137</em> (47), pp 14861–14864</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Herein, we report the first examples of the synthesis of pyrroloindolines by means of (3 + 2) dearomative annulation reactions between 3-substituted indoles and highly reactive azaoxyallyl cations. Computational studies using density functional theory (...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b10221?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b10221?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b10221?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b10221?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1173,7 +1163,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/jacs.5b09241" title="High-Res PDF: 3608 KB" target="_blank"> PDF <span class="details">(3608 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.5b09241" title="Low-Res PDF: 682 KB" target="_blank"> PDF w/ Links <span class="details">(682 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.5b09241" title="Low-Res PDF: 631 KB" target="_blank"> PDF w/ Links <span class="details">(631 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/jacs.5b09241" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1206,9 +1196,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.5b09241" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b09241%3Fprg140729%3D1450a3fc-62f9-48b7-a7d3-58f25dc535c1&amp;doi=10.1021%2Fjacs.5b09241" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b09241%3Fprg140729%3D0c41ef71-f544-4624-8172-006358ebb0a3&amp;doi=10.1021%2Fjacs.5b09241" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b09241%3Fprg140729%3De3160afc-385f-4849-b841-1b41590e6ed0&amp;title=Unparalleled+Ease+of+Access+to+a+Library+of+Biheteroaryl+Fluorophores+via+Oxidative+Cross-Coupling+Reactions%3A+Discovery+of+Photostable+NIR+Probe+for+Mitochondria&amp;doi=10.1021%2Fjacs.5b09241" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b09241%3Fprg140729%3Dd11873e7-f556-4f5e-b45a-868160ebefbb&amp;title=Unparalleled+Ease+of+Access+to+a+Library+of+Biheteroaryl+Fluorophores+via+Oxidative+Cross-Coupling+Reactions%3A+Discovery+of+Photostable+NIR+Probe+for+Mitochondria&amp;doi=10.1021%2Fjacs.5b09241" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1231,8 +1221,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpe5rppBf4gArVg90H21EOLACvtfcHk0lgDOfyRAQhxqQ&amp;loc=%2FControllerServlet&amp;pubId=40001010" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGFseZgAbJAdTtQwD9OmoEd0xJc29f_iggfXzdNZcpfwx&amp;loc=%2FControllerServlet&amp;pubId=40001010" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpe5rppBf4gArVg90H21EOLACvtfcHk0ljJgDqDNRgt_g&amp;loc=%2FControllerServlet&amp;pubId=40001010" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGFseZgAbJAdTtQwD9OmoEd1HGBCSbour1RXIYBuQe11R&amp;loc=%2FControllerServlet&amp;pubId=40001010" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

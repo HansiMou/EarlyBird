@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b48e4115-a23f-41a5-b62b-e2c902e5da1c">
+<html lang="en" class="pb-page" data-request-id="db78629c-0255-4ac5-be49-9a43e90b0e76">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/ascecg.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:ascecg;article:article:10.1021/acssuschemeng.5b01721;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.5b01721%3Fprg140729%3De85f98de-527f-4fcb-9bcd-888e2f397b61" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.5b01721?prg140729=e85f98de-527f-4fcb-9bcd-888e2f397b61&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.5b01721?prg140729=e85f98de-527f-4fcb-9bcd-888e2f397b61">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.5b01721%3Fprg140729%3D1f5f4357-1aa4-4617-8c94-0a51508fa860" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.5b01721?prg140729=1f5f4357-1aa4-4617-8c94-0a51508fa860&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acssuschemeng.5b01721?prg140729=1f5f4357-1aa4-4617-8c94-0a51508fa860">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -952,6 +952,18 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i4"><span>Experimental Section</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i17"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i29"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i32"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1066,6 +1078,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acssuschemeng.6b00197?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acssuschemeng.6b00197?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acssuschemeng.6b00197?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acssuschemeng.6b00096?src=recsys">Separation in Biorefineries by Liquid Phase Adsorption: Itaconic Acid as Case Study</a>
+                            <div class="achsLabel">
+                             ACS Sustainable Chemistry &amp; Engineering
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schute</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Detoni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jung</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Palkovits</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Rose</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> In biorefinery processes often the downstream processing is the technological bottleneck for an overall high efficiency. On the basis of recent developments, the selective liquid phase adsorption applying highly hydrophobic porous materials opened up new ...Biomass-based chemicals are adsorbed from aqueous mixtures with high selectivity; thus, efficient separation strategies for future biorefinery processing are enabled.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acssuschemeng.6b00096?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acssuschemeng.6b00096?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acssuschemeng.6b00096?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acssuschemeng.6b00096?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/bk-2006-STYG.ch014?src=recsys">References</a><cite>ACS Style Guide The</cite>
                             <ul>
@@ -1185,9 +1213,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facssuschemeng.5b01721" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.5b01721%3Fprg140729%3Dd7e71251-f80f-4b71-999f-2c5dde26705a&amp;doi=10.1021%2Facssuschemeng.5b01721" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.5b01721%3Fprg140729%3D8a48fec6-23ce-40d3-bd61-3a150f83410c&amp;doi=10.1021%2Facssuschemeng.5b01721" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.5b01721%3Fprg140729%3De85f98de-527f-4fcb-9bcd-888e2f397b61&amp;title=Feasibility+of+Using+2%2C3%2C3%2C3-Tetrafluoropropene+%28R1234yf%29+as+a+Solvent+for+Solid%E2%80%93Liquid+Extraction+of+Biopharmaceuticals&amp;doi=10.1021%2Facssuschemeng.5b01721" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facssuschemeng.5b01721%3Fprg140729%3D1f5f4357-1aa4-4617-8c94-0a51508fa860&amp;title=Feasibility+of+Using+2%2C3%2C3%2C3-Tetrafluoropropene+%28R1234yf%29+as+a+Solvent+for+Solid%E2%80%93Liquid+Extraction+of+Biopharmaceuticals&amp;doi=10.1021%2Facssuschemeng.5b01721" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1210,8 +1238,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrYUmoQ_N1sKbVg90H21EOLACvtfcHk0ljp3dX9T6ps4A&amp;loc=%2FControllerServlet&amp;pubId=366427448" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGA7_otsPUjTwtQwD9OmoEd3H4qXFZB9XW-ozBotTcdRy&amp;loc=%2FControllerServlet&amp;pubId=366427448" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrYUmoQ_N1sKbVg90H21EOLACvtfcHk0limzq-wgbfy7Q&amp;loc=%2FControllerServlet&amp;pubId=366427448" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGA7_otsPUjTwtQwD9OmoEd3zdgcJloeJc5LYz0kPRxdw&amp;loc=%2FControllerServlet&amp;pubId=366427448" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1bb2f8ea-e81f-4991-a7e0-1f0985ce5f33">
+<html lang="en" class="pb-page" data-request-id="f46ba732-74e5-4db7-a7ce-71568eac05b5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;article:article:10.1021/acs.jchemed.5b00664;issue:issue:10.1021/jceda8.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00664%3Fprg140729%3D4f1efca9-4e49-4fb4-ad19-4563aa3cc8cd" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00664?prg140729=4f1efca9-4e49-4fb4-ad19-4563aa3cc8cd&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00664?prg140729=4f1efca9-4e49-4fb4-ad19-4563aa3cc8cd">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00664%3Fprg140729%3D60817c23-193e-48db-a2dc-f7a83b99addd" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00664?prg140729=60817c23-193e-48db-a2dc-f7a83b99addd&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00664?prg140729=60817c23-193e-48db-a2dc-f7a83b99addd">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -670,6 +670,16 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
+                       <div class="issueNavigator"> 
+                        <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jchemed.5b00627" title="Previous Article"> Previous Article </a> </span> 
+                        </div> 
+                        <div class="journalNavRightTd"> 
+                         <div class="next"> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00170" title="Next Article"> Next Article </a> 
+                         </div> 
+                        </div> 
+                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceda8/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -933,15 +943,15 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">Herein, we describe an effective and tested model of a week-long summer science intensive program for high school students that aimed to elaborate on concepts covered in a high school chemistry or biology course, and to provide high school students an opportunity to learn about studying and pursuing careers in the sciences. The program was developed to combine instructional sessions, hands-on activities, and laboratory tours in order to review and build upon what students learn in high school. Student assessment and feedback confirms the effectiveness of this student-run program to teach and inspire high school students to pursue the sciences in their academic career.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=High+School%2Fintroductory+Chemistry&amp;qsSearchArea=AllField">High School/Introductory Chemistry</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Elementary%2Fmiddle+School+Science&amp;qsSearchArea=AllField">Elementary/Middle School Science</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=General+Public&amp;qsSearchArea=AllField">General Public</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Biochemistry&amp;qsSearchArea=AllField">Biochemistry</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Public+Understanding%2Foutreach&amp;qsSearchArea=AllField">Public Understanding/Outreach</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Hands-on+Learning%2Fmanipulatives&amp;qsSearchArea=AllField">Hands-On Learning/Manipulatives</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Inquiry-based%2Fdiscovery+Learning&amp;qsSearchArea=AllField">Inquiry-Based/Discovery Learning</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Problem+Solving%2Fdecision+Making&amp;qsSearchArea=AllField">Problem Solving/Decision Making</a>; 
-                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Enrichment%2Freview+Materials&amp;qsSearchArea=AllField">Enrichment/Review Materials</a>
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=High+School%2Fintroductory+Chemistry&amp;qsSearchArea=AllField">High School/Introductory Chemistry</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Elementary%2Fmiddle+School+Science&amp;qsSearchArea=AllField">Elementary/Middle School Science</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=General+Public&amp;qsSearchArea=AllField">General Public</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Biochemistry&amp;qsSearchArea=AllField">Biochemistry</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Public+Understanding%2Foutreach&amp;qsSearchArea=AllField">Public Understanding/Outreach</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Hands-on+Learning%2Fmanipulatives&amp;qsSearchArea=AllField">Hands-On Learning/Manipulatives</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Inquiry-based%2Fdiscovery+Learning&amp;qsSearchArea=AllField">Inquiry-Based/Discovery Learning</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Problem+Solving%2Fdecision+Making&amp;qsSearchArea=AllField">Problem Solving/Decision Making</a>; 
+                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Enrichment%2Freview+Materials&amp;qsSearchArea=AllField">Enrichment/Review Materials</a>
                               </div>
                              </div>
                             </div>
@@ -993,38 +1003,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00646?src=recsys">A Simple Card Game To Teach Synthesis in Organic Chemistry Courses</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Farmer</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Schuman</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The sheer number of reactions covered in an undergraduate organic chemistry course can be overwhelming. Students are expected to demonstrate a thorough knowledge of these reactions in order to understand the logic of organic synthesis. A method that ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00646?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00646?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00646?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00646?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00856?src=recsys">Helping Students Understand the Role of Symmetry in Chemistry Using the Particle-in-a-Box Model</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Manae</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hazra</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> In a course on chemical applications of symmetry and group theory, students learn to use several useful tools (like character tables, projection operators, and correlation tables), but in the process of learning the mathematical details, they often miss ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00856?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00856?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00856?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00856?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00844?src=recsys">Teaching Beer’s Law and Absorption Spectrophotometry with a Smart Phone: A Substantially Simplified Protocol</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
@@ -1057,21 +1035,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00577?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00577?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00615?src=recsys">Aza-Michael Reaction for an Undergraduate Organic Chemistry Laboratory</a>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00856?src=recsys">Helping Students Understand the Role of Symmetry in Chemistry Using the Particle-in-a-Box Model</a>
                             <div class="achsLabel">
                              Journal of Chemical Education
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nigam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rush</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Patel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Castillo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dhar</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Manae</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Hazra</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A green, aza-Michael reaction is described that can be used to teach undergraduate students conjugate addition of nitrogen nucleophile to an α,β-unsaturated ester. Students analyze spectral data of the product obtained from the assigned reaction to ...</span>
+                             <span><span class="bold">Abstract:</span> In a course on chemical applications of symmetry and group theory, students learn to use several useful tools (like character tables, projection operators, and correlation tables), but in the process of learning the mathematical details, they often miss ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jchemed.5b00615?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jchemed.5b00615?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00615?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00615?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00856?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00856?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00856?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00856?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00646?src=recsys">A Simple Card Game To Teach Synthesis in Organic Chemistry Courses</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Education
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Farmer</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Schuman</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The sheer number of reactions covered in an undergraduate organic chemistry course can be overwhelming. Students are expected to demonstrate a thorough knowledge of these reactions in order to understand the logic of organic synthesis. A method that ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00646?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00646?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00646?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00646?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jchemed.5b00781?src=recsys">A Quantum Chemistry Concept Inventory for Physical Chemistry Classes</a>
                             <div class="achsLabel">
@@ -1088,6 +1082,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jchemed.5b00781?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00781?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jchemed.5b00781?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jchemed.5b00676?src=recsys">Ocean Acidification: Investigation and Presentation of the Effects of Elevated Carbon Dioxide Levels on Seawater Chemistry and Calcareous Organisms</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Education
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Buth</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Ocean acidification refers to the process by which seawater absorbs carbon dioxide from the atmosphere, producing aqueous carbonic acid. Acidic conditions increase the solubility of calcium carbonate, threatening corals and other calcareous organisms that ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jchemed.5b00676?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jchemed.5b00676?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jchemed.5b00676?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jchemed.5b00676?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1173,9 +1183,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00664" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00664%3Fprg140729%3Da918849d-f82a-44f2-a767-96054aa467b8&amp;doi=10.1021%2Facs.jchemed.5b00664" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00664%3Fprg140729%3D4dbf1e4c-9f84-4f5c-b16b-15392fe27f2d&amp;doi=10.1021%2Facs.jchemed.5b00664" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00664%3Fprg140729%3D4f1efca9-4e49-4fb4-ad19-4563aa3cc8cd&amp;title=OCTET+and+BIOTEC%3A+A+Model+of+a+Summer+Intensive+Camp+Designed+To+Cultivate+the+Future+Generation+of+Young+Leaders+in+STEM&amp;doi=10.1021%2Facs.jchemed.5b00664" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00664%3Fprg140729%3D60817c23-193e-48db-a2dc-f7a83b99addd&amp;title=OCTET+and+BIOTEC%3A+A+Model+of+a+Summer+Intensive+Camp+Designed+To+Cultivate+the+Future+Generation+of+Young+Leaders+in+STEM&amp;doi=10.1021%2Facs.jchemed.5b00664" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1198,8 +1208,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp9LH3h7Y4KibVg90H21EOLACvtfcHk0ljuaEkVSGXUfA&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSb55BwVeTMrGtrnDmCxc-CThi25Vg2O3MvAkR020e9ie&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp9LH3h7Y4KibVg90H21EOLACvtfcHk0liZ4eLQbOJDQA&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSb55BwVeTMrGtrnDmCxc-CThi25Vg2O3Mp2mWDSWur4a&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

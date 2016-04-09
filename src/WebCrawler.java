@@ -1,6 +1,5 @@
 // base class
 
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
@@ -9,16 +8,15 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.HashSet;
 import java.util.Hashtable;
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Properties;
 import java.util.Queue;
 import java.util.StringTokenizer;
-import java.util.concurrent.TimeUnit;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 public class WebCrawler {
 	WebDriver driver;
@@ -26,7 +24,9 @@ public class WebCrawler {
 	public static boolean DEBUG = true;
 	public static final String DISALLOW = "Disallow:";
 	public static String path = "downloads";
+	HashSet<String> cache;
 	HashSet<URL> lastLvResult;
+	HashSet<String> newlyAdded = new HashSet<String>();
 	Config config;
 	int lv = 0;
 	int curNum = 1;
@@ -39,13 +39,15 @@ public class WebCrawler {
 
 	// initializes data structures. argv is the command line arguments.
 
-	public void initialize(String path, StartingUrl s, boolean d, Config c, WebDriver wd) {
+	public void initialize(String path, StartingUrl s, boolean d, Config c,
+			WebDriver wd, HashSet<String> cache) {
 		URL url;
 		this.path = path;
 		driver = wd;
 		knownURLs = new Hashtable<URL, Integer>();
 		newURLs = new LinkedList<URL>();
 		lastLvResult = new HashSet<URL>();
+		this.cache = cache;
 		su = s;
 		config = c;
 
@@ -65,13 +67,13 @@ public class WebCrawler {
 		/*
 		 * Behind a firewall set your proxy and port here!
 		 */
-		 Properties props = new Properties(System.getProperties());
-		 props.put("http.proxySet", "true");
-		 props.put("http.proxyHost", "webcache-cup");
-		 props.put("http.proxyPort", "8080");
-		
-		 Properties newprops = new Properties(props);
-		 System.setProperties(newprops);
+		Properties props = new Properties(System.getProperties());
+		props.put("http.proxySet", "true");
+		props.put("http.proxyHost", "webcache-cup");
+		props.put("http.proxyPort", "8080");
+
+		Properties newprops = new Properties(props);
+		System.setProperties(newprops);
 		/**/
 	}
 
@@ -161,8 +163,8 @@ public class WebCrawler {
 					knownURLs.put(url, new Integer(1));
 				newURLs.add(url);
 				last++;
-//				if (this.lv == this.LEVEL_LIMIT - 1)
-//					this.lastLvResult.add(url);
+				// if (this.lv == this.LEVEL_LIMIT - 1)
+				// this.lastLvResult.add(url);
 			}
 			// }
 		} catch (MalformedURLException e) {
@@ -186,7 +188,9 @@ public class WebCrawler {
 		case 0:
 			if (su.flpre.startsWith("http://")) {
 				return url.toString().toLowerCase()
-						.startsWith(su.flpre.toLowerCase()) && url.toString().toLowerCase().endsWith(su.flpost.toLowerCase());
+						.startsWith(su.flpre.toLowerCase())
+						&& url.toString().toLowerCase()
+								.endsWith(su.flpost.toLowerCase());
 			} else {
 				return url.toString().toLowerCase()
 						.startsWith(su.link + su.flpre)
@@ -228,72 +232,79 @@ public class WebCrawler {
 	 */
 	public boolean DownloadPages(URL url) {
 		// TODO Auto-generated method stub
-//		System.out.println(getpage(url));
-//		return false;
+		// System.out.println(getpage(url));
+		// return false;
 		String name = url.getFile().replace("/", "_");
 		FileWriter writer;
 		try {
-			File dir = new File(path + "/" + name);
-			if(dir.exists()) 
+			if (cache.contains(name)) {
 				return false;
+			}
 			writer = new FileWriter(path + "/" + name);
 			writer.write(getpage(url));
 			writer.close();
+			newlyAdded.add(name);
 		} catch (IOException e) {
 		}
 		return true;
 	}
-	
+
 	public boolean DownloadPagesJsoup(URL url) {
 		// TODO Auto-generated method stub
 		String name = url.getFile().replace("/", "_");
 		FileWriter writer;
 		try {
-			File dir = new File(path + "/" + name);
-			if(dir.exists()) 
+			if (cache.contains(name)) {
 				return false;
+			}
 			Document doc = Jsoup.connect(url.toString()).data("query", "Java")
 					.userAgent("Mozilla").cookie("auth", "token").timeout(3000)
 					.post();
 			writer = new FileWriter(path + "/" + name);
 			writer.write(doc.html());
 			writer.close();
-//			System.out.println(doc.html());
+			newlyAdded.add(name);
+			// System.out.println(doc.html());
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			if (DEBUG)
+				e.printStackTrace();
 		}
 		return true;
 	}
 
-	public boolean DownloadPagesWebDriver(URL url){
+	public boolean DownloadPagesWebDriver(URL url) {
 		String name = url.getFile().replace("/", "_");
 		FileWriter writer;
 		try {
-			File dir = new File(path + "/" + name);
-			if(dir.exists()) 
+			if (cache.contains(name)) {
 				return false;
+			}
 			writer = new FileWriter(path + "/" + name);
 			writer.write(getpageWD(url));
 			writer.close();
+			newlyAdded.add(name);
 		} catch (IOException e) {
 		}
 		return true;
 	}
-	public String getpageWD(URL url){
-		   
+
+	// get page using web driver method
+	public String getpageWD(URL url) {
+
 		driver.get(url.toString());
-		
+
 		String res = driver.getPageSource();
-		
+
 		return res;
 	}
+
 	// Go through page finding links to URLs. A link is signalled
 	// by <a href=" ... It ends with a close angle bracket, preceded
 	// by a close quote, possibly preceded by a hatch mark (marking a
 	// fragment, an internal page marker)
 
-	public void processpage(URL url, String page){
+	public void processpage(URL url, String page) {
 		String lcPage = page.toLowerCase(); // Page in lower case
 		int index = 0; // position in page
 
@@ -329,32 +340,46 @@ public class WebCrawler {
 		}
 	}
 
-	public String getpage(URL url){
+	public String getpage(URL url) {
 		try {
-	    // try opening the URL
-	    URLConnection urlConnection = url.openConnection();
-	    if (DEBUG)
-	    System.out.println("Downloading " + url.toString());
+			// try opening the URL
+			URLConnection urlConnection = url.openConnection();
+			if (DEBUG)
+				System.out.println("Downloading " + url.toString());
 
-	    urlConnection.setAllowUserInteraction(false);
+			urlConnection.setAllowUserInteraction(false);
 
-	    InputStream urlStream = url.openStream();
+			InputStream urlStream = url.openStream();
 			// search the input stream for links
 			// first, read in the entire URL
-	    byte b[] = new byte[1000];
-	    int numRead = urlStream.read(b);
-	    String content = new String(b, 0, numRead);
-	    while ((numRead != -1) ) {
-	       numRead = urlStream.read(b);
-	       if (numRead != -1) {
-	         String newContent = new String(b, 0, numRead);
-	         content += newContent;
-			    }
+			byte b[] = new byte[1000];
+			int numRead = urlStream.read(b);
+			String content = new String(b, 0, numRead);
+			while ((numRead != -1)) {
+				numRead = urlStream.read(b);
+				if (numRead != -1) {
+					String newContent = new String(b, 0, numRead);
+					content += newContent;
+				}
 			}
-	    return content;
-	  
-	 } catch (IOException e) {
-	       System.out.println("ERROR: couldn't open URL ");
-	       return "";
-	    }  }
+			return content;
+
+		} catch (IOException e) {
+			System.out.println("ERROR: couldn't open URL ");
+			return "";
+		}
+	}
+
+	public void updateCache() {
+		try {
+			FileWriter writer = new FileWriter(config.cachepath, true);
+			for (Iterator items = newlyAdded.iterator(); items.hasNext();) {
+				String item = (String) items.next();
+				writer.write(item);
+			}
+			writer.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
 }

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b7e2ab17-d8fb-4f2f-9410-aff1c8a181b6">
+<html lang="en" class="pb-page" data-request-id="a155660f-9b76-4353-b9c8-41eefb8b83ba">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/bomaf6.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acs.biomac.6b00140;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:bomaf6">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00140%3Fprg140729%3D58303e9b-efba-4ce4-aae5-f6a30025afd6" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00140?prg140729=58303e9b-efba-4ce4-aae5-f6a30025afd6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00140?prg140729=58303e9b-efba-4ce4-aae5-f6a30025afd6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00140%3Fprg140729%3Dc5293968-4208-49fa-9534-8575933c3839" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00140?prg140729=c5293968-4208-49fa-9534-8575933c3839&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00140?prg140729=c5293968-4208-49fa-9534-8575933c3839">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -952,17 +952,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i2"><span>Materials and Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i10"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i16"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i21"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1068,22 +1057,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biomac.6b00043?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biomac.6b00043?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00172?src=recsys">Membrane Translocation and Organelle-Selective Delivery Steered by Polymeric Zwitterionic Nanospheres</a>
-                            <div class="achsLabel">
-                             Biomacromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Morimoto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wakamura</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Muramatsu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Toita</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nakayama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shoji</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suzuki</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Winnik</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The majority of nanoparticles designed for cellular delivery of drugs and imaging agents enter the cell via endocytotic pathways leading to their entrapment in endosomes that present a robust barrier to further trafficking of the nanoparticles within the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biomac.6b00172?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biomac.6b00172?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00172?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biomac.6b00172?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.biomac.5b01742?src=recsys">Enzymatic Degradation of Polysaccharide-Based Layer-by-Layer Structures</a>
                             <div class="achsLabel">
                              Biomacromolecules
@@ -1100,21 +1073,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.biomac.5b01742?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.biomac.5b01742?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b11831?src=recsys">A New Methodology for Assessing Macromolecular Click Reactions and Its Application to Amine–Tertiary Isocyanate Coupling for Polymer Ligation</a>
+                           <li><a href="/doi/abs/10.1021/ja810046q?src=recsys">Membrane Proteins Solubilized Intact in Lipid Containing Nanoparticles Bounded by Styrene Maleic Acid Copolymer</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Gody</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roberts</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Maschmeyer</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Perrier</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Knowles</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Finka</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dafforn</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Overduin</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (12), pp 4061–4068</span>
+                             <span><span class="bold">2009</span> <em>131</em> (22), pp 7484–7485</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Click reactions have provided access to an array of remarkably complex polymer architectures. However, the term “click” is often applied inaccurately to polymer ligation reactions that fail to respect the criteria that typify a true “click” reaction. With ...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> One-third of eukaryotic proteins are integrated within membranes, as are the targets of 40% of approved drugs. However, the lack of a general means of solubilizing, stabilizing and structurally characterizing active membrane proteins has frustrated ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b11831?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b11831?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b11831?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b11831?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/ja810046q?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/ja810046q?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/ja810046q?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/ja810046q?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00172?src=recsys">Membrane Translocation and Organelle-Selective Delivery Steered by Polymeric Zwitterionic Nanospheres</a>
+                            <div class="achsLabel">
+                             Biomacromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Morimoto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wakamura</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Muramatsu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Toita</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nakayama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shoji</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suzuki</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Winnik</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The majority of nanoparticles designed for cellular delivery of drugs and imaging agents enter the cell via endocytotic pathways leading to their entrapment in endosomes that present a robust barrier to further trafficking of the nanoparticles within the ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.biomac.6b00172?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.6b00172?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00172?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.6b00172?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1200,9 +1189,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.biomac.6b00140" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00140%3Fprg140729%3Da02e1e2d-d382-4203-bdae-e4a1f61e0853&amp;doi=10.1021%2Facs.biomac.6b00140" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00140%3Fprg140729%3D8ab21fc4-041a-4668-9cf1-182554ffc104&amp;doi=10.1021%2Facs.biomac.6b00140" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00140%3Fprg140729%3D58303e9b-efba-4ce4-aae5-f6a30025afd6&amp;title=SMA-SH%3A+Modified+Styrene%E2%80%93Maleic+Acid+Copolymer+for+Functionalization+of+Lipid+Nanodiscs&amp;doi=10.1021%2Facs.biomac.6b00140" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.biomac.6b00140%3Fprg140729%3Dc5293968-4208-49fa-9534-8575933c3839&amp;title=SMA-SH%3A+Modified+Styrene%E2%80%93Maleic+Acid+Copolymer+for+Functionalization+of+Lipid+Nanodiscs&amp;doi=10.1021%2Facs.biomac.6b00140" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1225,9 +1214,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqG1exS9iSP1LVg90H21EOLACvtfcHk0lgVCLNvhOWhog&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGOhO6rGsMhLLtQwD9OmoEd1ccqjsgcY24kl13HXuH5ux&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSaVtx0MBU7I_trnDmCxc-CThi25Vg2O3Mqj8GpR2JuKm&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqG1exS9iSP1LVg90H21EOLACvtfcHk0lg1nhEqT3RzAw&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGOhO6rGsMhLLtQwD9OmoEd3_CDxzdVt_0rL3ZuVKZjQ6&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSaVtx0MBU7I_trnDmCxc-CThi25Vg2O3MiFvMuxlNOMu&amp;loc=%2FControllerServlet&amp;pubId=40025961" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

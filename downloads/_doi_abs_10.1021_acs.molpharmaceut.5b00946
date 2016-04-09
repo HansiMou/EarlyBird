@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="e6c9260a-64da-4d46-a5e1-d7753dd92e6b">
+<html lang="en" class="pb-page" data-request-id="fe3e3ee4-abe7-45db-a0c8-8c7aea543d1e">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/mpohbp.ahead-of-print;article:article:10.1021/acs.molpharmaceut.5b00946;pageGroup:string:Publication Pages;journal:journal:mpohbp;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00946%3Fprg140729%3D1ce2066c-df40-4d13-94ed-6fc5b0ac73e7" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00946?prg140729=1ce2066c-df40-4d13-94ed-6fc5b0ac73e7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00946?prg140729=1ce2066c-df40-4d13-94ed-6fc5b0ac73e7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00946%3Fprg140729%3D285f6d3d-95dd-4405-916e-1344825aee69" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00946?prg140729=285f6d3d-95dd-4405-916e-1344825aee69&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00946?prg140729=285f6d3d-95dd-4405-916e-1344825aee69">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -952,6 +952,19 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i3"><span>Materials and Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results" href="#_i9"><span>Results</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Discussion" href="#_i14"><span>Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i15"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i18"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1017,22 +1030,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00731?src=recsys">Characterization of the pH and Temperature in the Rabbit, Pig, and Monkey Eye: Key Parameters for the Development of Long-Acting Delivery Ocular Strategies</a>
-                            <div class="achsLabel">
-                             Molecular Pharmaceutics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lorget</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Parenteau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carrier</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lambert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gueorguieva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schuetz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bantseev</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Thackaberry</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Many long-acting delivery strategies for ocular indications rely on pH- and/or temperature-driven release of the therapeutic agent and degradation of the drug carrier. Yet, these physiological parameters are poorly characterized in ocular animal models. ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.molpharmaceut.5b00731?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.molpharmaceut.5b00731?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00731?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00731?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00787?src=recsys">Drug Distribution to Retinal Pigment Epithelium: Studies on Melanin Binding, Cellular Kinetics, and Single Photon Emission Computed Tomography/Computed Tomography Imaging</a>
                             <div class="achsLabel">
                              Molecular Pharmaceutics
@@ -1048,6 +1045,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.molpharmaceut.5b00787?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00787?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00787?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00731?src=recsys">Characterization of the pH and Temperature in the Rabbit, Pig, and Monkey Eye: Key Parameters for the Development of Long-Acting Delivery Ocular Strategies</a>
+                            <div class="achsLabel">
+                             Molecular Pharmaceutics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lorget</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Parenteau</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Carrier</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lambert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gueorguieva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schuetz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bantseev</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Thackaberry</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Many long-acting delivery strategies for ocular indications rely on pH- and/or temperature-driven release of the therapeutic agent and degradation of the drug carrier. Yet, these physiological parameters are poorly characterized in ocular animal models. ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.molpharmaceut.5b00731?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.molpharmaceut.5b00731?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00731?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00731?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00729?src=recsys">Prediction of Ocular Drug Distribution from Systemic Blood Circulation</a>
                             <div class="achsLabel">
@@ -1197,9 +1210,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.molpharmaceut.5b00946" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00946%3Fprg140729%3Dc116193a-8a81-416b-b4ab-9768357e8bd0&amp;doi=10.1021%2Facs.molpharmaceut.5b00946" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00946%3Fprg140729%3D092ef419-b66b-4766-91fb-eed6af1b864d&amp;doi=10.1021%2Facs.molpharmaceut.5b00946" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00946%3Fprg140729%3D1ce2066c-df40-4d13-94ed-6fc5b0ac73e7&amp;title=Size+and+Surface+Charge+of+Engineered+Poly%28amidoamine%29+Dendrimers+Modulate+Tumor+Accumulation+and+Penetration%3A+A+Model+Study+Using+Multicellular+Tumor+Spheroids&amp;doi=10.1021%2Facs.molpharmaceut.5b00946" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00946%3Fprg140729%3D285f6d3d-95dd-4405-916e-1344825aee69&amp;title=Size+and+Surface+Charge+of+Engineered+Poly%28amidoamine%29+Dendrimers+Modulate+Tumor+Accumulation+and+Penetration%3A+A+Model+Study+Using+Multicellular+Tumor+Spheroids&amp;doi=10.1021%2Facs.molpharmaceut.5b00946" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1222,9 +1235,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq0rDaRlCJcNbVg90H21EOLACvtfcHk0limDrjqEcCweg&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGPGSdEUx_H_jtQwD9OmoEd00ZbEhC6ux4xe2_3GaGJ_o&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQQUWvCXwFFStrnDmCxc-CThi25Vg2O3MvNA4XBYM0BB&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq0rDaRlCJcNbVg90H21EOLACvtfcHk0ljdAwsHAvTe0Q&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGPGSdEUx_H_jtQwD9OmoEd2m8Igc-C_jYtj9Rr6fWsLz&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQQUWvCXwFFStrnDmCxc-CThi25Vg2O3Mrc-saWZ3EUh&amp;loc=%2FControllerServlet&amp;pubId=40026041" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

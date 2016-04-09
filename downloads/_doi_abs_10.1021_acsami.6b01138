@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5ff42ea2-6317-4350-9bed-7665c371fdc1">
+<html lang="en" class="pb-page" data-request-id="9180e915-8213-4fdc-a2f2-918ad6f2ef7b">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;article:article:10.1021/acsami.6b01138;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01138%3Fprg140729%3Db5ab7c7d-6e81-4d69-bb9f-cf9b15a00565" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01138?prg140729=b5ab7c7d-6e81-4d69-bb9f-cf9b15a00565&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01138?prg140729=b5ab7c7d-6e81-4d69-bb9f-cf9b15a00565">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01138%3Fprg140729%3De1e3983b-87b1-423f-a4c3-57f0d0efe7cb" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01138?prg140729=e1e3983b-87b1-423f-a4c3-57f0d0efe7cb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01138?prg140729=e1e3983b-87b1-423f-a4c3-57f0d0efe7cb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1041,6 +1041,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.6b00197?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b00197?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.6b00408?src=recsys">Octadecylamine-Mediated Versatile Coating of CoFe<sub>2</sub>O<sub>4</sub> NPs for the Sustained Release of Anti-Inflammatory Drug Naproxen and in Vivo Target Selectivity</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Georgiadou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Makris</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Papagiannopoulou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vourlias</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dendrinou-Samara</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Magnetic nanoparticles (MNPs) can play a distinct role in magnetic drug delivery via their distribution to the targeted area. The preparation of such MNPs is a challenging multiplex task that requires the optimization of size, magnetic, and surface ...<sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.6b00408?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b00408?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b00408?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b00408?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.5b11315?src=recsys">Amphiphobic Polytetrafluoroethylene Membranes for Efficient Organic Aerosol Removal</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1057,38 +1073,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.5b11315?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b11315?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b10666?src=recsys">Covalent Chemistry beyond Molecules</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yaghi</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (10), pp 3255–3265</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Linking molecular building units by covalent bonds to make crystalline extended structures has given rise to metal–organic frameworks (MOFs) and covalent organic frameworks (COFs), thus bringing the precision and versatility of covalent chemistry beyond ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b10666?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b10666?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b10666?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b10666?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b12728?src=recsys">Bioinspired Interfaces with Superwettability: From Materials to Chemistry</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Su</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tian</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (6), pp 1727–1748</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Superwettability is a special case of the wetting phenomenon among liquids, gases, and solids. The superhydrophobic/superhydrophilic effect discovered initially has undergone a century of development based on materials science and biomimetics. With the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b12728?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b12728?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b12728?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b12728?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemmater.5b02902?src=recsys">Mixed Matrix Membranes (MMMs) Comprising Exfoliated 2D Covalent Organic Frameworks (COFs) for Efficient CO<sub>2</sub> Separation</a>
                             <div class="achsLabel">
                              Chemistry of Materials
@@ -1104,6 +1088,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.chemmater.5b02902?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.5b02902?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.5b02902?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.macromol.5b02579?src=recsys">Block Copolymer Membranes for Aqueous Solution Applications</a>
+                            <div class="achsLabel">
+                             Macromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nunes</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Block copolymers are known for their intricate morphology. We review the state of the art of block copolymer membranes and discuss perspectives in this field. The main focus is on pore morphology tuning with a short introduction on nonporous membranes. ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.macromol.5b02579?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.macromol.5b02579?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.macromol.5b02579?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.macromol.5b02579?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1189,9 +1189,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b01138" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01138%3Fprg140729%3Dc7cf1400-4245-45c6-910b-810a2a87f502&amp;doi=10.1021%2Facsami.6b01138" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01138%3Fprg140729%3D9a026235-7635-4ccc-a92f-62ccdac56769&amp;doi=10.1021%2Facsami.6b01138" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01138%3Fprg140729%3Db5ab7c7d-6e81-4d69-bb9f-cf9b15a00565&amp;title=Amphiphilic+Graft+Copolymer+Nanospheres%3A+From+Colloidal+Self-Assembly+to+CO2+Capture+Membranes&amp;doi=10.1021%2Facsami.6b01138" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01138%3Fprg140729%3De1e3983b-87b1-423f-a4c3-57f0d0efe7cb&amp;title=Amphiphilic+Graft+Copolymer+Nanospheres%3A+From+Colloidal+Self-Assembly+to+CO2+Capture+Membranes&amp;doi=10.1021%2Facsami.6b01138" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

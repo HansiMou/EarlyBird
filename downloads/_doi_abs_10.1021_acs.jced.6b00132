@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="650a5bd7-33ec-4958-9537-23f4e32fa1f0">
+<html lang="en" class="pb-page" data-request-id="423cda98-285e-401a-a65a-c4389b503329">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jceaax.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:jceaax;article:article:10.1021/acs.jced.6b00132;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00132%3Fprg140729%3D8d3b49bc-abee-439e-99da-4d0527d6cfa6" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.6b00132?prg140729=8d3b49bc-abee-439e-99da-4d0527d6cfa6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.6b00132?prg140729=8d3b49bc-abee-439e-99da-4d0527d6cfa6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00132%3Fprg140729%3Df35f52d4-7b54-4780-9c15-ffa2d7cc4ccb" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jced.6b00132?prg140729=f35f52d4-7b54-4780-9c15-ffa2d7cc4ccb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jced.6b00132?prg140729=f35f52d4-7b54-4780-9c15-ffa2d7cc4ccb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -670,11 +670,10 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jced.5b00802" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jced.5b00820" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.jced.5b00941" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -934,18 +933,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Methods" href="#_i2"><span>Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i3"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i4"><span>Conclusions</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i8"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1018,6 +1005,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00802?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00802?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00820?src=recsys">Volumetric and Refractive Properties of the Mixtures of 1,1,3,3-Tetramethyl-1,3-diphenyldisiloxane with Various Organosilicon Compounds at <i>T</i> = (308.15 to 328.15) K</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The density and refractive index were determined for four binary mixtures of 1,1,3,3-tetramethyl-1,3-diphenyldisiloxane with 2,4,6,8-tetramethylcyclotetrasiloxane, 2,4,6,8-tetramethyl-2,4,6,8-tetravinylcyclotetrasiloxane, 1,3,5-trimethyl-1,3,5-tris(3,3,3-...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00820?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00820?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00820?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00820?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00365?src=recsys">Density and Viscosity for Binary Mixtures of the Ionic Liquid 2,2-Diethyl-1,1,3,3-Tetramethylguanidinium Ethyl Sulfate with Water, Methanol, or Ethanol</a>
+                            <div class="achsLabel">
+                             Journal of Chemical &amp; Engineering Data
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Fang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>61</em> (3), pp 1023–1031</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The ionic liquid (IL), 2,2-diethyl-1,1,3,3-tetramethylguanidinium ethyl sulfate ([(C<sub>2</sub>)<sub>2</sub><sup>2</sup>(C<sub>1</sub>)<sub>2</sub>(C<sub>1</sub>)<sub>2</sub><sup>3</sup>gu][C<sub>2</sub>OSO<sub>3</sub>]), was synthesized and characterized. The density and viscosity data were determined for the binary mixtures of [(C<sub>2</sub>)<sub>2</sub><sup>2</sup>(C<sub>1</sub>)<sub>2</sub>(C<sub>1</sub>)<sub>2</sub><sup>3</sup>gu][C<sub>2</sub>OSO<sub>3</sub>] ...<sub></sub><sup></sup><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jced.5b00365?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00365?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00365?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00365?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jced.5b00941?src=recsys">Volumetric Properties and Viscosity <i>B-</i>Coefficients for the Ternary Systems Epigallocatechin Gallate + MCl + H<sub>2</sub>O (M = Li, Na, K) at Temperatures 288.15–308.15 K</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
@@ -1034,21 +1053,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jced.5b00941?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jced.5b00941?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jced.5b00820?src=recsys">Volumetric and Refractive Properties of the Mixtures of 1,1,3,3-Tetramethyl-1,3-diphenyldisiloxane with Various Organosilicon Compounds at <i>T</i> = (308.15 to 328.15) K</a>
+                           <li><a href="/doi/abs/10.1021/acs.cgd.5b01551?src=recsys">Structural Transitions of 1-Butyl-3-methylimidazolium Chloride/Water Mixtures Studied by Raman and FTIR Spectroscopy and WAXS</a>
+                            <div class="achsLabel">
+                             Crystal Growth &amp; Design
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kotov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Šturcová</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhigunov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Raus</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Dybal</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>16</em> (4), pp 1958–1967</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Ionic liquid 1-butyl-3-methylimidazolium chloride (bmimCl) and its water mixtures were subjected to the temperature of −25 °C for various periods of time and then investigated by Raman and FTIR spectroscopy and WAXS. Neat bmimCl crystallized in a ...Water concentration, temperature, equilibration time, and capillarity all affect the phase behavior of 1-butyl-3-methylimidazolium chloride/water mixtures as detected by vibrational spectroscopy and WAXS.</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.cgd.5b01551?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.cgd.5b01551?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.cgd.5b01551?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.cgd.5b01551?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jced.5b00882?src=recsys">Thermodynamics of 1,3-Dimethylurea in Eight Alcohols</a>
                             <div class="achsLabel">
                              Journal of Chemical &amp; Engineering Data
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Dong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ouyang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hou</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The density and refractive index were determined for four binary mixtures of 1,1,3,3-tetramethyl-1,3-diphenyldisiloxane with 2,4,6,8-tetramethylcyclotetrasiloxane, 2,4,6,8-tetramethyl-2,4,6,8-tetravinylcyclotetrasiloxane, 1,3,5-trimethyl-1,3,5-tris(3,3,3-...</span>
+                             <span><span class="bold">Abstract:</span> In this work, solubility data of 1,3-dimethylurea (DMU) in methanol, ethanol, 1-propanol, 1-butanol, 1-pentanol, 1-hexanol, 1-heptanol, and 1-octanol were measured by synthetic method from <i>T</i> = 288.15 to 328.15 K at ordinary pressure. It turned out that ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jced.5b00820?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jced.5b00820?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00820?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jced.5b00820?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jced.5b00882?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jced.5b00882?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jced.5b00882?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jced.5b00882?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1134,9 +1169,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jced.6b00132" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00132%3Fprg140729%3D724e5f6d-4a26-4747-8971-c95a0008ad79&amp;doi=10.1021%2Facs.jced.6b00132" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00132%3Fprg140729%3D5b337076-b702-48ff-879f-f0c7f7aba255&amp;doi=10.1021%2Facs.jced.6b00132" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00132%3Fprg140729%3D8d3b49bc-abee-439e-99da-4d0527d6cfa6&amp;title=Insights+on+1-Butyl-3-methylimidazolium+Bis%28trifluoromethylsulfonyl%29imide+%2B+Ethanol+Liquid+Mixtures%3A+A+Molecular+Dynamics+Approach&amp;doi=10.1021%2Facs.jced.6b00132" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jced.6b00132%3Fprg140729%3Df35f52d4-7b54-4780-9c15-ffa2d7cc4ccb&amp;title=Insights+on+1-Butyl-3-methylimidazolium+Bis%28trifluoromethylsulfonyl%29imide+%2B+Ethanol+Liquid+Mixtures%3A+A+Molecular+Dynamics+Approach&amp;doi=10.1021%2Facs.jced.6b00132" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a15c1c1f-c1f1-4b05-8c25-c5ff041aac0d">
+<html lang="en" class="pb-page" data-request-id="d5775474-0449-4adc-aca6-39a77f3d7621">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.est.6b00058;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00058%3Fprg140729%3Dd3cb22cc-5c54-4a2c-981e-3aadba5f002c" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00058?prg140729=d3cb22cc-5c54-4a2c-981e-3aadba5f002c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00058?prg140729=d3cb22cc-5c54-4a2c-981e-3aadba5f002c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00058%3Fprg140729%3Ddd407f41-b1aa-4b71-aa88-3fbb6586126c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00058?prg140729=dd407f41-b1aa-4b71-aa88-3fbb6586126c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00058?prg140729=dd407f41-b1aa-4b71-aa88-3fbb6586126c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1032,9 +1032,32 @@ function addFlashMovie(id, flv, image) {
                      <div class="widget-body body body-none ">
                       <div class="decorated-tabs tabs tabs-widget layout-tabs">
                        <ul class="tab-nav citingRelatedNav">
+                        <li><a href="#tabs-1">Citing Articles</a></li>
                         <li><a href="#tabs-2">Related Content</a></li>
                        </ul>
                        <div class="tab-content">
+                        <div id="tabs-1" class="tab-pane">
+                         <div class="cited-content">
+                          <a id="citing" name="citing"></a>
+                          <p>Citation data is made available by participants in <a href="http://www.crossref.org">CrossRef's</a> Cited-by Linking service. For a more comprehensive list of citations to this article, users are encouraged to perform a search in <a href="http://scifinder.cas.org">SciFinder</a>. </p>
+                          <ul id="citedBy">
+                           <li><h2><a href="http://dx.doi.org/10.1007/s10967-016-4821-6" target="_blank" title="Opens new window">The batch and modeling investigation of Sr(II) adsorption on carbon nanofibers</a></h2>
+                            <div class="contributors">
+                             <span class="hlFld-ContribAuthor ">Feng<span class="NLM_x"> </span>Ye</span>
+                             <span class="NLM_x">
+                              <x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:acs="http://namespace.acs.org/2008/acs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                               , 
+                              </x></span>
+                             <span class="hlFld-ContribAuthor ">Pengjie<span class="NLM_x"> </span>Yang</span>
+                            </div>
+                            <div>
+                             <cite><span class="NLM_source">Journal of Radioanalytical and Nuclear Chemistry</span></cite>
+                             <strong>2016</strong> 
+                             <em></em> (), 
+                            </div></li>
+                          </ul>
+                         </div>
+                        </div>
                         <div id="tabs-2" class="tab-pane">
                          <div id="relatedArticles">
                           <h3 class="authorsHead">Other ACS content by these authors:</h3>
@@ -1094,6 +1117,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b04865?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b04865?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b05932?src=recsys">Uptake Mechanisms of Eu(III) on Hydroxyapatite: A Potential Permeable Reactive Barrier Backfill Material for Trapping Trivalent Minor Actinides</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Diwu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>50</em> (7), pp 3852–3859</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The permeable reactive barrier (PRB) technique has attracted an increasing level of attention for the <i>in situ</i> remediation of contaminated groundwater. In this study, the macroscopic uptake behaviors and microscopic speciation of Eu(III) on hydroxyapatite (...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b05932?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b05932?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b05932?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b05932?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b05620?src=recsys">Long-Term Effects of Multiwalled Carbon Nanotubes and Graphene on Microbial Communities in Dry Soil</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1125,22 +1164,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.5b05529?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.5b05529?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b05529?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b05932?src=recsys">Uptake Mechanisms of Eu(III) on Hydroxyapatite: A Potential Permeable Reactive Barrier Backfill Material for Trapping Trivalent Minor Actinides</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Diwu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>50</em> (7), pp 3852–3859</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The permeable reactive barrier (PRB) technique has attracted an increasing level of attention for the <i>in situ</i> remediation of contaminated groundwater. In this study, the macroscopic uptake behaviors and microscopic speciation of Eu(III) on hydroxyapatite (...<sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b05932?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b05932?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b05932?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b05932?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1203,6 +1226,7 @@ function addFlashMovie(id, flv, image) {
                             <li> <a href="/doi/suppl/10.1021/acs.est.6b00058"> Supporting Info </a> </li> 
                             <li> <a title="Open Figure Viewer in Full Text HTML" href="/doi/full/10.1021/acs.est.6b00058#showFigures"> Figures </a> </li> 
                             <li> <a title="Open References in Full Text HTML" href="/doi/full/10.1021/acs.est.6b00058#showReferences" class="showRefLink"> References </a> </li> 
+                            <li class="citing-link"> <a href="/doi/full/10.1021/acs.est.6b00058#citing"> Citing Articles </a> </li> 
                            </ul> 
                           </div>
                          </div> 
@@ -1226,9 +1250,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.6b00058" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00058%3Fprg140729%3Dbd527b30-c863-4f0c-a63e-af5bc2385bbf&amp;doi=10.1021%2Facs.est.6b00058" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00058%3Fprg140729%3D5fae342b-46ed-4210-9796-84a4bc6b2c81&amp;doi=10.1021%2Facs.est.6b00058" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00058%3Fprg140729%3Dd3cb22cc-5c54-4a2c-981e-3aadba5f002c&amp;title=Macroscopic+and+Microscopic+Investigation+of+U%28VI%29+and+Eu%28III%29+Adsorption+on+Carbonaceous+Nanofibers&amp;doi=10.1021%2Facs.est.6b00058" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00058%3Fprg140729%3Ddd407f41-b1aa-4b71-aa88-3fbb6586126c&amp;title=Macroscopic+and+Microscopic+Investigation+of+U%28VI%29+and+Eu%28III%29+Adsorption+on+Carbonaceous+Nanofibers&amp;doi=10.1021%2Facs.est.6b00058" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

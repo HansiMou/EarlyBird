@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="750a6cfe-b32f-4daa-a988-967ea8f9f7b3">
+<html lang="en" class="pb-page" data-request-id="46f9abf4-4ef2-48ea-b3a9-4eaaa3d47576">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acs.molpharmaceut.5b00937;website:website:acspubs;issue:issue:10.1021/mpohbp.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:mpohbp;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00937%3Fprg140729%3D3a6637ff-b200-4b28-96b6-d82f4a476199" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00937?prg140729=3a6637ff-b200-4b28-96b6-d82f4a476199&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00937?prg140729=3a6637ff-b200-4b28-96b6-d82f4a476199">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00937%3Fprg140729%3D6dafdcd1-acd9-4eb8-ac16-d42fd19633ee" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00937?prg140729=6dafdcd1-acd9-4eb8-ac16-d42fd19633ee&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00937?prg140729=6dafdcd1-acd9-4eb8-ac16-d42fd19633ee">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -672,6 +672,7 @@ $(function(){
                       <div class="pager issueNavPageContainer"> 
                        <div class="issueNavigator"> 
                         <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.molpharmaceut.6b00089" title="Previous Article"> Previous Article </a> </span> 
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
@@ -992,6 +993,54 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.6b00035?src=recsys">Molecular-Level Control of Ciclopirox Olamine Release from Poly(ethylene oxide)-Based Mucoadhesive Buccal Films: Exploration of Structure–Property Relationships with Solid-State NMR</a>
+                            <div class="achsLabel">
+                             Molecular Pharmaceutics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Urbanova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gajdosova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Steinhart</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vetchy</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Brus</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Mucoadhesive buccal films (MBFs) provide an innovative way to facilitate the efficient site-specific delivery of active compounds while simultaneously separating the lesions from the environment of the oral cavity. The structural diversity of these ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.molpharmaceut.6b00035?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.molpharmaceut.6b00035?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.6b00035?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.6b00035?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.6b00129?src=recsys">Pharmacokinetics <i>in Vitro</i> and <i>in Vivo</i> of Two Novel Prodrugs of Oleanolic Acid in Rats and Its Hepatoprotective Effects against Liver Injury Induced by CCl<sub>4</sub></a>
+                            <div class="achsLabel">
+                             Molecular Pharmaceutics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Oleanolic acid (OA) is a well-known pentacyclic triterpenoid compound, which has been used as a dietary supplement and is supplied as an over-the-counter drug for the treatment of human liver diseases. These are reasons for the low bioavailability of OA ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.molpharmaceut.6b00129?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.molpharmaceut.6b00129?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.6b00129?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.6b00129?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.6b00066?src=recsys">Pulmonary Delivery of Butyrylcholinesterase as a Model Protein to the Lung</a>
+                            <div class="achsLabel">
+                             Molecular Pharmaceutics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Rahhal</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fromen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wilson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Shen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luft</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">DeSimone</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Pulmonary delivery has great potential for delivering biologics to the lung if the challenges of maintaining activity, stability, and ideal aerosol characteristics can be overcome. To study the interactions of a biologic in the lung, we chose ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.molpharmaceut.6b00066?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.molpharmaceut.6b00066?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.6b00066?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.6b00066?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00817?src=recsys">Therapeutic Antibody Engineering To Improve Viscosity and Phase Separation Guided by Crystal Structure</a>
                             <div class="achsLabel">
                              Molecular Pharmaceutics
@@ -1007,38 +1056,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.molpharmaceut.5b00817?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00817?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00817?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00643?src=recsys">Viscosity-Lowering Effect of Amino Acids and Salts on Highly Concentrated Solutions of Two IgG1 Monoclonal Antibodies</a>
-                            <div class="achsLabel">
-                             Molecular Pharmaceutics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Qian</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>12</em> (12), pp 4478–4487</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Monoclonal antibodies display complicated solution properties in highly concentrated (&gt;100 mg/mL) formulations, such as high viscosity, high aggregation propensity, and low stability, among others, originating from protein–protein interactions within the ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.molpharmaceut.5b00643?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.molpharmaceut.5b00643?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00643?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00643?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00256?src=recsys">Liquid–Liquid Phase Separation in a Dual Variable Domain Immunoglobulin Protein Solution: Effect of Formulation Factors and Protein–Protein Interactions</a>
-                            <div class="achsLabel">
-                             Molecular Pharmaceutics
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Raut</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Kalonia</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>12</em> (9), pp 3261–3271</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Dual variable domain immunoglobulin proteins (DVD-Ig proteins) are large molecules (MW ∼ 200 kDa) with increased asymmetry because of their extended Y-like shape, which results in increased formulation challenges. Liquid–liquid phase separation (LLPS) of ...<sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.molpharmaceut.5b00256?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.molpharmaceut.5b00256?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00256?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00256?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.molpharmaceut.5b00668?src=recsys">Effect of Excipients on Liquid–Liquid Phase Separation and Aggregation in Dual Variable Domain Immunoglobulin Protein Solutions</a>
                             <div class="achsLabel">
@@ -1056,21 +1073,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.5b00668?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.molpharmaceut.5b00668?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b11791?src=recsys">Kinetics of Monoclonal Antibody Aggregation from Dilute toward Concentrated Conditions</a>
+                           <li><a href="/doi/abs/10.1021/acs.molpharmaceut.6b00096?src=recsys">Amorphous Formulation and <i>in Vitro</i> Performance Testing of Instantly Disintegrating Buccal Tablets for the Emergency Delivery of Naloxone</a>
                             <div class="achsLabel">
-                             The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nicoud</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jagielski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pfister</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lazzari</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Massant</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lattuada</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Morbidelli</span> 
+                             Molecular Pharmaceutics
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Alqurshi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kumar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McDonald</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Strang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Buanz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahmed</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Allen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cameron</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rickard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sandhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Holt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stansfield</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Taylor</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Forbes</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Royall</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (13), pp 3267–3280</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Gaining understanding on the aggregation behavior of proteins under concentrated conditions is of both fundamental and industrial relevance. Here, we study the aggregation kinetics of a model monoclonal antibody (mAb) under thermal stress over a wide ...</span>
+                             <span><span class="bold">Abstract:</span> The aim of this study was to develop a freeze-dried buccal tablet for the rapid delivery of naloxone in opioid overdose. The tablet composition was optimized to produce an amorphous matrix, which was confirmed by the absence of peaks associated with ...<sub></sub><sub></sub><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.5b11791?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcb.5b11791?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b11791?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.5b11791?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.molpharmaceut.6b00096?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.molpharmaceut.6b00096?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.molpharmaceut.6b00096?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.molpharmaceut.6b00096?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1155,9 +1172,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.molpharmaceut.5b00937" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00937%3Fprg140729%3D0d6a5ae5-6d17-46d1-b64e-2fc4b2992a67&amp;doi=10.1021%2Facs.molpharmaceut.5b00937" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00937%3Fprg140729%3Dfebef842-5298-4004-b439-7fabe1a38031&amp;doi=10.1021%2Facs.molpharmaceut.5b00937" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00937%3Fprg140729%3D3a6637ff-b200-4b28-96b6-d82f4a476199&amp;title=Pharmaceutical+Perspective+on+Opalescence+and+Liquid%E2%80%93Liquid+Phase+Separation+in+Protein+Solutions&amp;doi=10.1021%2Facs.molpharmaceut.5b00937" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.molpharmaceut.5b00937%3Fprg140729%3D6dafdcd1-acd9-4eb8-ac16-d42fd19633ee&amp;title=Pharmaceutical+Perspective+on+Opalescence+and+Liquid%E2%80%93Liquid+Phase+Separation+in+Protein+Solutions&amp;doi=10.1021%2Facs.molpharmaceut.5b00937" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

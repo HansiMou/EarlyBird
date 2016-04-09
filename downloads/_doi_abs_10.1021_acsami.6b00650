@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c8757e2c-9c4a-4b4e-b7a9-d5c634c762e1">
+<html lang="en" class="pb-page" data-request-id="63cf4c5c-c870-4b36-8147-61d3d29061b9">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:aamick;article:article:10.1021/acsami.6b00650;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -152,8 +152,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00650%3Fprg140729%3D71647cbf-d44c-4b0e-a414-8138a140d9a7" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00650?prg140729=71647cbf-d44c-4b0e-a414-8138a140d9a7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00650?prg140729=71647cbf-d44c-4b0e-a414-8138a140d9a7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00650%3Fprg140729%3Dcd6d695e-be39-4974-b031-e9c6118380c3" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00650?prg140729=cd6d695e-be39-4974-b031-e9c6118380c3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00650?prg140729=cd6d695e-be39-4974-b031-e9c6118380c3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1076,6 +1076,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07043?src=recsys">Pinhole-Free and Surface-Nanostructured NiO<sub><i>x</i></sub> Film by Room-Temperature Solution Process for High-Performance Flexible Perovskite Solar Cells with Good Stability and Reproducibility</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Choy</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>10</em> (1), pp 1503–1511</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Recently, researchers have focused on the design of highly efficient flexible perovskite solar cells (PVSCs), which enables the implementation of portable and roll-to-roll fabrication in large scale. While NiO<sub><i>x</i></sub> is a promising material for hole transport ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b07043?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07043?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07043?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07043?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.5b11709?src=recsys">MoS<sub>2</sub>–InGaZnO Heterojunction Phototransistors with Broad Spectral Responsivity</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1091,6 +1107,70 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsami.5b11709?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsami.5b11709?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b11709?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00429?src=recsys">Iodine and Chlorine Element Evolution in CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3–<i>x</i></sub>Cl<sub><i>x</i></sub> Thin Films for Highly Efficient Planar Heterojunction Perovskite Solar Cells</a>
+                            <div class="achsLabel">
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Highly efficient planar heterojunction perovskite solar cells (PHJ–PSCs) with a structure of ITO/PEDOT:PSS/CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3–<i>x</i></sub>Cl<sub><i>x</i></sub>/PCBM/C<sub>60</sub>/Ag was fabricated, in which the compact and pinhole-free CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3–<i>x</i></sub>Cl<sub><i>x</i></sub> perovskite thin film was obtained using a mixture ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemmater.6b00429?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.6b00429?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00429?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00429?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.6b00544?src=recsys">Toward Revealing the Critical Role of Perovskite Coverage in Highly Efficient Electron-Transport Layer-Free Perovskite Solar Cells: An Energy Band and Equivalent Circuit Model Perspective</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Du</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Currently, most efficient perovskite solar cells (PVKSCs) with a p–i–n structure require simultaneously electron transport layers (ETLs) and hole transport layers (HTLs) to help collecting photogenerated electrons and holes for obtaining high performance. ...<sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.6b00544?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b00544?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b00544?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b00544?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b09758?src=recsys">A Liquid Junction Photoelectrochemical Solar Cell Based on p-Type MeNH<sub>3</sub>PbI<sub>3</sub> Perovskite with 1.05 V Open-Circuit Photovoltage</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hsu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ji</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ahn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Bard</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>137</em> (46), pp 14758–14764</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A liquid junction photoelectrochemical (PEC) solar cell based on p-type methylammonium lead iodide (p-MeNH<sub>3</sub>PbI<sub>3</sub>) perovskite with a large open-circuit voltage is developed. MeNH<sub>3</sub>PbI<sub>3</sub> perovskite is readily soluble or decomposed in many common solvents. ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b09758?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b09758?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b09758?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b09758?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsami.6b00635?src=recsys">Transition Metal-Oxide Free Perovskite Solar Cells Enabled by a New Organic Charge Transport Layer</a>
+                            <div class="achsLabel">
+                             ACS Applied Materials &amp; Interfaces
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Park</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hentz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Swager</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Gradečak</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>8</em> (13), pp 8511–8519</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Various electron and hole transport layers have been used to develop high-efficiency perovskite solar cells. To achieve low-temperature solution processing of perovskite solar cells, organic n-type materials are employed to replace the metal oxide ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsami.6b00635?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.6b00635?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.6b00635?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.6b00635?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1176,9 +1256,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b00650" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00650%3Fprg140729%3D689c0438-cee7-48f4-a796-1ae753ce496e&amp;doi=10.1021%2Facsami.6b00650" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00650%3Fprg140729%3D3420157a-0cdf-4cd2-8c2f-1defda45193b&amp;doi=10.1021%2Facsami.6b00650" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00650%3Fprg140729%3D71647cbf-d44c-4b0e-a414-8138a140d9a7&amp;title=Oxygen+Vacancy+Induced+Room-Temperature+Metal%E2%80%93Insulator+Transition+in+Nickelate+Films+and+Its+Potential+Application+in+Photovoltaics&amp;doi=10.1021%2Facsami.6b00650" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00650%3Fprg140729%3Dcd6d695e-be39-4974-b031-e9c6118380c3&amp;title=Oxygen+Vacancy+Induced+Room-Temperature+Metal%E2%80%93Insulator+Transition+in+Nickelate+Films+and+Its+Potential+Application+in+Photovoltaics&amp;doi=10.1021%2Facsami.6b00650" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

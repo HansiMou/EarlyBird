@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="036d1ed7-3ef1-4a00-acb2-18a156555a04">
+<html lang="en" class="pb-page" data-request-id="ed668eaa-a61f-46fe-b504-18cf25297a13">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/ancac3.ahead-of-print;article:article:10.1021/acsnano.6b00505;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:ancac3;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -151,8 +151,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00505%3Fprg140729%3Dffdf38c3-1320-46d1-9d96-cab7e4b6a7ed" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00505?prg140729=ffdf38c3-1320-46d1-9d96-cab7e4b6a7ed&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00505?prg140729=ffdf38c3-1320-46d1-9d96-cab7e4b6a7ed">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00505%3Fprg140729%3D4df9c1fc-ddb9-416d-82fb-039f6cc4284c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00505?prg140729=4df9c1fc-ddb9-416d-82fb-039f6cc4284c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00505?prg140729=4df9c1fc-ddb9-416d-82fb-039f6cc4284c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1002,17 +1002,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i4"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Methods" href="#_i5"><span>Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i10"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1086,6 +1075,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b04970?src=recsys">Competition between Hexagonal and Tetragonal Hexabromobenzene Packing on Au(111)</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wong</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wee</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3198–3205</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Low-temperature scanning tunneling microscope investigations reveal that hexabromobenzene (HBB) molecules arrange in either hexagonally closely packed (<i>hcp</i>) [22−24] or tetragonal [70−24] structure on Au(111) dependent on a small substrate temperature difference around ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b04970?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b04970?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b04970?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b04970?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.6b00366?src=recsys">Confined Synthesis of Organometallic Chains and Macrocycles by Cu–O Surface Templating</a>
                             <div class="achsLabel">
                              ACS Nano
@@ -1102,21 +1107,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.6b00366?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.6b00366?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b04970?src=recsys">Competition between Hexagonal and Tetragonal Hexabromobenzene Packing on Au(111)</a>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b06340?src=recsys">Synthesis of Pyrene-Fused Pyrazaacenes on Metal Surfaces: Toward One-Dimensional Conjugated Nanostructures</a>
                             <div class="achsLabel">
                              ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wong</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wee</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Papageorgiou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sağlam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reichert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Duncan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Klappenberger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Allegretti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">More</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bhosale</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mateo-Alonso</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Barth</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3198–3205</span>
+                             <span><span class="bold">2016</span> <em>10</em> (1), pp 1033–1041</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Low-temperature scanning tunneling microscope investigations reveal that hexabromobenzene (HBB) molecules arrange in either hexagonally closely packed (<i>hcp</i>) [22−24] or tetragonal [70−24] structure on Au(111) dependent on a small substrate temperature difference around ...<sub></sub></span>
+                             <span><span class="bold">Abstract:</span> We investigated the synthesis of one-dimensional nanostructures <i>via</i> Schiff base (imine) formation on three close-packed coinage metal (Au, Ag, and Cu) surfaces under ultrahigh vacuum conditions. We demonstrate the feasibility of forming pyrene-fused ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b04970?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b04970?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b04970?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b04970?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsnano.5b06340?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b06340?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b06340?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b06340?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b06513?src=recsys">Submolecular Imaging by Noncontact Atomic Force Microscopy with an Oxygen Atom Rigidly Connected to a Metallic Probe</a>
                             <div class="achsLabel">
@@ -1149,22 +1154,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsnano.5b07425?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsnano.5b07425?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b07425?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b06340?src=recsys">Synthesis of Pyrene-Fused Pyrazaacenes on Metal Surfaces: Toward One-Dimensional Conjugated Nanostructures</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jiang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Papageorgiou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sağlam</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reichert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Duncan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Klappenberger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Allegretti</span>, <span class="entryAuthor normal hlFld-ContribAuthor">More</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bhosale</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mateo-Alonso</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Barth</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (1), pp 1033–1041</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We investigated the synthesis of one-dimensional nanostructures <i>via</i> Schiff base (imine) formation on three close-packed coinage metal (Au, Ag, and Cu) surfaces under ultrahigh vacuum conditions. We demonstrate the feasibility of forming pyrene-fused ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b06340?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b06340?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b06340?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b06340?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b04879?src=recsys">Self-Assembly Strategy for Fabricating Connected Graphene Nanoribbons</a>
                             <div class="achsLabel">
@@ -1266,9 +1255,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsnano.6b00505" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00505%3Fprg140729%3D5011f7c0-07ef-4d9a-a66c-cab8df327547&amp;doi=10.1021%2Facsnano.6b00505" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00505%3Fprg140729%3D005125f7-5e2e-4a08-99a7-8b657b396f03&amp;doi=10.1021%2Facsnano.6b00505" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00505%3Fprg140729%3Dffdf38c3-1320-46d1-9d96-cab7e4b6a7ed&amp;title=Tetracene+Formation+by+On-Surface+Reduction&amp;doi=10.1021%2Facsnano.6b00505" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00505%3Fprg140729%3D4df9c1fc-ddb9-416d-82fb-039f6cc4284c&amp;title=Tetracene+Formation+by+On-Surface+Reduction&amp;doi=10.1021%2Facsnano.6b00505" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1291,8 +1280,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqeThg6RLZ687Vg90H21EOLACvtfcHk0li1cQkUDY5TIw&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSe7NSvis-nyztrnDmCxc-CThi25Vg2O3Mgbkj-OSSQSk&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqeThg6RLZ687Vg90H21EOLACvtfcHk0lhnYqf8qI2sMQ&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSe7NSvis-nyztrnDmCxc-CThi25Vg2O3MkIJuZD0tiFG&amp;loc=%2FControllerServlet&amp;pubId=40025957" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

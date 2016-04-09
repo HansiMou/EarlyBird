@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="bd273541-d811-4ab7-8b0c-310c4f1146a1">
+<html lang="en" class="pb-page" data-request-id="3a1ffb3e-7d4c-4641-9ee4-57f9ab802d3e">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.est.6b00401;issue:issue:10.1021/esthag.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:esthag;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -149,8 +149,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00401%3Fprg140729%3D3292ad07-97a9-45ab-a4f9-d56d09ae1fa0" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00401?prg140729=3292ad07-97a9-45ab-a4f9-d56d09ae1fa0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00401?prg140729=3292ad07-97a9-45ab-a4f9-d56d09ae1fa0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00401%3Fprg140729%3D28d7123e-766d-42ad-a0d9-d58813ab969e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00401?prg140729=28d7123e-766d-42ad-a0d9-d58813ab969e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.est.6b00401?prg140729=28d7123e-766d-42ad-a0d9-d58813ab969e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1102,6 +1102,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.est.5b04247?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b04247?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.est.5b04921?src=recsys">Photodemethylation of Methylmercury in Eastern Canadian Arctic Thaw Pond and Lake Ecosystems</a>
+                            <div class="achsLabel">
+                             Environmental Science &amp; Technology
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Girard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leclerc</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Amyot</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>50</em> (7), pp 3511–3520</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Permafrost thaw ponds of the warming Eastern Canadian Arctic are major landscape constituents and often display high levels of methylmercury (MeHg). We examined photodegradation potentials in high-dissolved organic matter (DOC) thaw ponds on Bylot Island (...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.est.5b04921?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.est.5b04921?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.est.5b04921?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.est.5b04921?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.6b01454?src=recsys"><i>ES&amp;T</i>’s Best Papers of 2015</a>
                             <div class="achsLabel">
                              Environmental Science &amp; Technology
@@ -1130,22 +1146,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.est.5b04172?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.est.5b04172?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.est.5b04172?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.est.5b04921?src=recsys">Photodemethylation of Methylmercury in Eastern Canadian Arctic Thaw Pond and Lake Ecosystems</a>
-                            <div class="achsLabel">
-                             Environmental Science &amp; Technology
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Girard</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leclerc</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Amyot</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>50</em> (7), pp 3511–3520</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Permafrost thaw ponds of the warming Eastern Canadian Arctic are major landscape constituents and often display high levels of methylmercury (MeHg). We examined photodegradation potentials in high-dissolved organic matter (DOC) thaw ponds on Bylot Island (...<sup></sup><sup></sup><sup></sup><sup></sup><sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.est.5b04921?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.est.5b04921?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.est.5b04921?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.est.5b04921?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.est.5b05325?src=recsys">Sulfur Isotopic Fractionation of Carbonyl Sulfide during Degradation by Soil Bacteria</a>
                             <div class="achsLabel">
@@ -1263,9 +1263,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.est.6b00401" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00401%3Fprg140729%3D34340f9c-dac8-44e8-b009-9fe4590610ea&amp;doi=10.1021%2Facs.est.6b00401" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00401%3Fprg140729%3Dc0ba7e33-08ec-42e2-8149-cf96727562e6&amp;doi=10.1021%2Facs.est.6b00401" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00401%3Fprg140729%3D3292ad07-97a9-45ab-a4f9-d56d09ae1fa0&amp;title=Anaerobic+Mercury+Methylation+and+Demethylation+by+Geobacter+bemidjiensis+Bem&amp;doi=10.1021%2Facs.est.6b00401" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.est.6b00401%3Fprg140729%3D28d7123e-766d-42ad-a0d9-d58813ab969e&amp;title=Anaerobic+Mercury+Methylation+and+Demethylation+by+Geobacter+bemidjiensis+Bem&amp;doi=10.1021%2Facs.est.6b00401" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

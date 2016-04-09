@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="913738a3-402a-4d4a-a489-6fb0cffb4b11">
+<html lang="en" class="pb-page" data-request-id="5922735b-f4a7-4f6b-8c2d-f1eb80a82169">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jctc.5b01070;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01070%3Fprg140729%3D9d7e6879-9f91-4da4-9941-3b4d3678aa15" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01070?prg140729=9d7e6879-9f91-4da4-9941-3b4d3678aa15&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01070?prg140729=9d7e6879-9f91-4da4-9941-3b4d3678aa15">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01070%3Fprg140729%3D15131ed4-0f6b-4225-9e66-d52750d0a26b" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01070?prg140729=15131ed4-0f6b-4225-9e66-d52750d0a26b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01070?prg140729=15131ed4-0f6b-4225-9e66-d52750d0a26b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1034,6 +1034,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01040?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01040?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00149?src=recsys">Solvatochromic Shifts in UV–Vis Absorption Spectra: The Challenging Case of 4-Nitropyridine <i>N</i>-Oxide</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Budzák</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Laurent</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Laurence</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Medved’</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Jacquemin</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> 4-Nitropyridine <i>N</i>-oxide is a well-known molecular probe for which the experimental UV/vis absorption spectrum has been measured in a large number of solvents. Previous measurements and their analyses suggest a dominant role of the solvent hydrogen-bond ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.6b00149?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.6b00149?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00149?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.6b00149?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01197?src=recsys">Spin-Free CC2 Implementation of Induced Transitions between Singlet Ground and Triplet Excited States</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1049,22 +1065,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b01197?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01197?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01197?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00044?src=recsys">Introducing QMC/MMpol: Quantum Monte Carlo in Polarizable Force Fields for Excited States</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Guareschi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zulfikri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Daday</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Floris</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Amovilli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mennucci</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Filippi</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We present for the first time a quantum mechanics/molecular mechanics scheme which combines quantum Monte Carlo with the reaction field of classical polarizable dipoles (QMC/MMpol). In our approach, the optimal dipoles are self-consistently generated at ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.6b00044?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.6b00044?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00044?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.6b00044?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1150,9 +1150,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.5b01070" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01070%3Fprg140729%3D2f016b9e-e99a-40ff-9357-8989851eaadb&amp;doi=10.1021%2Facs.jctc.5b01070" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01070%3Fprg140729%3Ddab6d622-12cf-4eeb-903b-4c49d6202d96&amp;doi=10.1021%2Facs.jctc.5b01070" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01070%3Fprg140729%3D9d7e6879-9f91-4da4-9941-3b4d3678aa15&amp;title=How+Bond+Length+Alternation+and+Thermal+Disorder+Affect+the+Optical+Excitation+Energies+of+%CF%80-Conjugated+Chains%3A+A+Combined+Density+Functional+Theory+and+Molecular+Dynamics+Study&amp;doi=10.1021%2Facs.jctc.5b01070" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01070%3Fprg140729%3D15131ed4-0f6b-4225-9e66-d52750d0a26b&amp;title=How+Bond+Length+Alternation+and+Thermal+Disorder+Affect+the+Optical+Excitation+Energies+of+%CF%80-Conjugated+Chains%3A+A+Combined+Density+Functional+Theory+and+Molecular+Dynamics+Study&amp;doi=10.1021%2Facs.jctc.5b01070" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1175,9 +1175,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpXT2pxoVOT77Vg90H21EOLACvtfcHk0liVa2d3P0G7HQ&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGC6S294-gEYrtQwD9OmoEd1uFl3r3x2FomhLakoNuxJA&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSWpRuN_-8HIptrnDmCxc-CThi25Vg2O3Mr0zJEcinAfr&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpXT2pxoVOT77Vg90H21EOLACvtfcHk0ljTbh21K-0yiw&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGC6S294-gEYrtQwD9OmoEd0-H6RguGUfiJAxCDx5Pqur&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSWpRuN_-8HIptrnDmCxc-CThi25Vg2O3Mryn4bAYdoUP&amp;loc=%2FControllerServlet&amp;pubId=40026032" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

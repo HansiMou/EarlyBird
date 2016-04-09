@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="ca32a838-b500-417d-bfd8-d3f4e85abad6">
+<html lang="en" class="pb-page" data-request-id="ad895bef-a872-40e8-b3e4-749fcfb03cf2">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jacsat.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jacsat;wgroup:string:ACHS website Group;article:article:10.1021/jacs.5b13501;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13501%3Fprg140729%3D6737e655-5fb3-491e-a40e-169a3d33e27d" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13501?prg140729=6737e655-5fb3-491e-a40e-169a3d33e27d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13501?prg140729=6737e655-5fb3-491e-a40e-169a3d33e27d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13501%3Fprg140729%3Dca5c3f22-37bf-4534-9b8c-6c49ddf5b6a0" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13501?prg140729=ca5c3f22-37bf-4534-9b8c-6c49ddf5b6a0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/jacs.5b13501?prg140729=ca5c3f22-37bf-4534-9b8c-6c49ddf5b6a0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -670,16 +670,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/jacs.6b02173" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/jacs.6b01244" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jacsat/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -988,101 +978,101 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/jacs.5b13450?src=recsys">Dual C–F, C–H Functionalization via Photocatalysis: Access to Multifluorinated Biaryls</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b09671?src=recsys">Catalytic Olefin Hydroamidation Enabled by Proton-Coupled Electron Transfer</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Senaweera</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Weaver</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Miller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Choi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Orbe</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Knowles</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (8), pp 2520–2523</span>
+                             <span><span class="bold">2015</span> <em>137</em> (42), pp 13492–13495</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Multifluorinated biaryls are challenging to synthesize and yet are an important class of molecules. Because of the difficulty associated with selective fluorination, this class of molecules represent a formidable synthetic challenge. An alternative ...<sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Here we report a ternary catalyst system for the intramolecular hydroamidation of unactivated olefins using simple <i>N-</i>aryl amide derivatives. Amide activation in these reactions occurs via concerted proton-coupled electron transfer (PCET) mediated by an ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b13450?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b13450?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b13450?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b13450?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b09671?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b09671?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b09671?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b09671?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b10267?src=recsys">Silver-Catalyzed Long-Distance Aryl Migration from Carbon Center to Nitrogen Center</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12681?src=recsys">Iron Catalyzed Highly Enantioselective Epoxidation of Cyclic Aliphatic Enones with Aqueous H<sub>2</sub>O<sub>2</sub></a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Shi</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cussó</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cianfanelli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ribas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Klein Gebbink</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Costas</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>137</em> (46), pp 14586–14589</span>
+                             <span><span class="bold">2016</span> <em>138</em> (8), pp 2732–2738</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Selective cleavage of an inert C–C bond followed by C–O/N bond formation through a long-distance aryl migration from a carbon to a nitrogen center via Ag catalysis is reported. The migration products were easily converted into γ-hydroxy amines and ...</span>
+                             <span><span class="bold">Abstract:</span> An iron complex with a <i>C</i><sub>1</sub>-symmetric tetradentate N-based ligand catalyzes the asymmetric epoxidation of cyclic enones and cyclohexene ketones with aqueous hydrogen peroxide, providing the corresponding epoxides in good to excellent yields and ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b10267?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b10267?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b10267?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b10267?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b12681?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12681?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12681?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12681?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b08528?src=recsys">Concise Enantioselective Synthesis of Oxygenated Steroids via Sequential Copper(II)-Catalyzed Michael Addition/Intramolecular Aldol Cyclization Reactions</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b10009?src=recsys">A Highly Convergent and Biomimetic Total Synthesis of Portentol</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cichowicz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kaplan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Khomutnyk</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bhattarai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sun</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nagorny</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Trauner</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>137</em> (45), pp 14341–14348</span>
+                             <span><span class="bold">2015</span> <em>137</em> (43), pp 13800–13803</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A new scalable enantioselective approach to functionalized oxygenated steroids is described. This strategy is based on chiral bis(oxazoline) copper(II) complex-catalyzed enantioselective and diastereoselective Michael reactions of cyclic ketoesters and ...<sup></sup></span>
+                             <span><span class="bold">Abstract:</span> An efficient total synthesis of the unusual polyketide portentol is reported. Three boron aldol reactions were used to assemble the linear carbon chain of the natural product, which contains two challenging <i>anti</i>−<i>anti</i> stereotriads. A biomimetic double ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b08528?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b08528?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b08528?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b08528?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b10009?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b10009?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b10009?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b10009?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b11800?src=recsys">Ambient-Temperature Newman–Kwart Rearrangement Mediated by Organic Photoredox Catalysis</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b09888?src=recsys"><i>gem-</i>Difluoroolefination of Diazo Compounds with TMSCF<sub>3</sub> or TMSCF<sub>2</sub>Br: Transition-Metal-Free Cross-Coupling of Two Carbene Precursors</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Perkowski</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cruz</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nicewicz</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Hu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ni</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hu</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>137</em> (50), pp 15684–15687</span>
+                             <span><span class="bold">2015</span> <em>137</em> (45), pp 14496–14501</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The Newman–Kwart rearrangement is perhaps the quintessential method for the synthesis of thiophenols from the corresponding phenol. However, the high thermal conditions required for the rearrangement of the requisite <i>O</i>-aryl carbamothioates often leads to ...</span>
+                             <span><span class="bold">Abstract:</span> A new olefination protocol for transition-metal-free cross-coupling of two carbene fragments arising from two different sources, namely, a nonfluorinated carbene fragment resulting from a diazo compound and a difluorocarbene fragment derived from Ruppert–...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b11800?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b11800?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b11800?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b11800?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b09888?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b09888?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b09888?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b09888?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b10860?src=recsys">Copper-Catalyzed Divergent Addition Reactions of Enoldiazoacetamides with Nitrones</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b11311?src=recsys">Non-Precious-Metal Catalytic Systems Involving Iron or Cobalt Carboxylates and Alkyl Isocyanides for Hydrosilylation of Alkenes with Hydrosiloxanes</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yedoyan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Arman</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Doyle</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Noda</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tahara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sunada</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nagashima</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (1), pp 44–47</span>
+                             <span><span class="bold">2016</span> <em>138</em> (8), pp 2480–2483</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Catalyst-controlled divergent addition reactions of enoldiazoacetamides with nitrones have been developed. By using copper(I) tetrafluoroborate/bisoxazoline complex as the catalyst, a [3+3]-cycloaddition reaction was achieved with excellent yield and ...</span>
+                             <span><span class="bold">Abstract:</span> A mixture of an iron or a cobalt carboxylate and an isocyanide ligand catalyzed the hydrosilylation of alkenes with hydrosiloxanes with high efficiency (TON &gt;10<sup>3</sup>) and high selectivity. The Fe catalyst showed excellent activity for hydrosilylation of ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b10860?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b10860?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b10860?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b10860?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b11311?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b11311?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b11311?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b11311?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01731?src=recsys">Total Synthesis of (−)-Mandelalide A Exploiting Anion Relay Chemistry (ARC): Identification of a Type II ARC/CuCN Cross-Coupling Protocol</a>
+                           <li><a href="/doi/abs/10.1021/jacs.5b11438?src=recsys">Total Synthesis of (+)-Cytosporolide A via a Biomimetic Hetero-Diels–Alder Reaction</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nguyen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Imanishi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kurogi</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Smith</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Takao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Noguchi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sakamoto</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kimura</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yoshida</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Tadano</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (11), pp 3675–3678</span>
+                             <span><span class="bold">2015</span> <em>137</em> (50), pp 15971–15977</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Anion relay chemistry (ARC), an effective, multicomponent union tactic, was successfully employed for the total synthesis of the highly cytotoxic marine macrolide (−)-mandelalide A (<b>1</b>). The northern hemisphere was constructed via a new type II ARC/CuCN ...</span>
+                             <span><span class="bold">Abstract:</span> The first total synthesis of (+)-cytosporolide A was achieved by a biomimetic hetero-Diels–Alder reaction of (−)-fuscoatrol A with <i>o</i>-quinone methide generated from (+)-CJ-12,373. The dienophile, highly oxygenated caryophyllene sesquiterpenoid (−)-...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01731?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01731?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01731?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01731?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/jacs.5b11438?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b11438?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b11438?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b11438?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1135,7 +1125,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/jacs.5b13501" title="High-Res PDF: 1393 KB" target="_blank"> PDF <span class="details">(1393 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.5b13501" title="Low-Res PDF: 471 KB" target="_blank"> PDF w/ Links <span class="details">(471 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/jacs.5b13501" title="Low-Res PDF: 444 KB" target="_blank"> PDF w/ Links <span class="details">(444 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/jacs.5b13501" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1168,9 +1158,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Fjacs.5b13501" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13501%3Fprg140729%3D4333611f-c4da-46d9-bfd8-d991d9467b71&amp;doi=10.1021%2Fjacs.5b13501" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13501%3Fprg140729%3De67bb7ad-435f-47ce-b0b3-d43b470fd10f&amp;doi=10.1021%2Fjacs.5b13501" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13501%3Fprg140729%3D6737e655-5fb3-491e-a40e-169a3d33e27d&amp;title=Enantioselective+Intermolecular+Enamide%E2%80%93Aldehyde+Cross-Coupling+Catalyzed+by+Chiral+N-Heterocyclic+Carbenes&amp;doi=10.1021%2Fjacs.5b13501" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Fjacs.5b13501%3Fprg140729%3Dca5c3f22-37bf-4534-9b8c-6c49ddf5b6a0&amp;title=Enantioselective+Intermolecular+Enamide%E2%80%93Aldehyde+Cross-Coupling+Catalyzed+by+Chiral+N-Heterocyclic+Carbenes&amp;doi=10.1021%2Fjacs.5b13501" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

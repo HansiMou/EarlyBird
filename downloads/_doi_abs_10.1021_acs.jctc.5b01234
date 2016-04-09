@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="2a8db0b2-c227-402c-934c-2b80ce7b6652">
+<html lang="en" class="pb-page" data-request-id="5c357f28-3ff4-468e-85d6-c714ea523448">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acs.jctc.5b01234;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01234%3Fprg140729%3D25bbc3d5-24df-4480-af1b-029dfde7a270" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01234?prg140729=25bbc3d5-24df-4480-af1b-029dfde7a270&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01234?prg140729=25bbc3d5-24df-4480-af1b-029dfde7a270">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01234%3Fprg140729%3De040e7d5-1a7e-48d6-a4bb-a1d742ff21fb" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01234?prg140729=e040e7d5-1a7e-48d6-a4bb-a1d742ff21fb&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01234?prg140729=e040e7d5-1a7e-48d6-a4bb-a1d742ff21fb">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -987,22 +987,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01082?src=recsys">MN15-L: A New Local Exchange-Correlation Functional for Kohn–Sham Density Functional Theory with Broad Accuracy for Atoms, Molecules, and Solids</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Truhlar</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (3), pp 1280–1293</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Kohn–Sham density functional theory is widely used for applications of electronic structure theory in chemistry, materials science, and condensed-matter physics, but the accuracy depends on the quality of the exchange-correlation functional. Here, we ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01082?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01082?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01082?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01082?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.6b00137?src=recsys">Black-Box Description of Electron Correlation with the Spin-Extended Configuration Interaction Model: Implementation and Assessment</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1019,21 +1003,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.6b00137?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.6b00137?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01040?src=recsys">How Much Can Density Functional Approximations (DFA) Fail? The Extreme Case of the FeO<sub>4</sub> Species</a>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01163?src=recsys">Troubles in the Systematic Prediction of Transition Metal Thermochemistry with Contemporary Out-of-the-Box Methods</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xing</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schwarz</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Minenkov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chermak</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cavallo</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A thorough theoretical study of the relative energies of various molecular Fe·4O isomers with different oxidation states of both Fe and O atoms is presented, comparing simple Hartree–Fock through many Kohn–Sham approximations up to extended coupled ...<sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> The recently developed DLPNO–CCSD(T) method and seven popular DFT functionals (B3LYP, M06, M06L, PBE, PBE0, TPSS, and TPSSh) with and without an empirical dispersion term have been tested to reproduce 111 gas phase reaction enthalpies involving 11 ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01040?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01040?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01040?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01040?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01163?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01163?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01163?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01163?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01082?src=recsys">MN15-L: A New Local Exchange-Correlation Functional for Kohn–Sham Density Functional Theory with Broad Accuracy for Atoms, Molecules, and Solids</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Truhlar</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>12</em> (3), pp 1280–1293</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Kohn–Sham density functional theory is widely used for applications of electronic structure theory in chemistry, materials science, and condensed-matter physics, but the accuracy depends on the quality of the exchange-correlation functional. Here, we ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01082?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01082?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01082?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01082?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01190?src=recsys">Combining the Complete Active Space Self-Consistent Field Method and the Full Configuration Interaction Quantum Monte Carlo within a Super-CI Framework, with Application to Challenging Metal-Porphyrins</a>
                             <div class="achsLabel">
@@ -1051,21 +1051,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01190?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01190?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00156?src=recsys">Automated Selection of Active Orbital Spaces</a>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01040?src=recsys">How Much Can Density Functional Approximations (DFA) Fail? The Extreme Case of the FeO<sub>4</sub> Species</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Stein</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Reiher</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xing</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Long</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schwarz</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> One of the key challenges of quantum-chemical multi-configuration methods is the necessity to manually select orbitals for the active space. This selection requires both expertise and experience and can therefore impose severe limitations on the ...</span>
+                             <span><span class="bold">Abstract:</span> A thorough theoretical study of the relative energies of various molecular Fe·4O isomers with different oxidation states of both Fe and O atoms is presented, comparing simple Hartree–Fock through many Kohn–Sham approximations up to extended coupled ...<sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sup></sup><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.6b00156?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.6b00156?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00156?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.6b00156?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jctc.5b01040?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b01040?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01040?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b01040?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b00782?src=recsys">Evaluation of the Performance of the B3LYP, PBE0, and M06 DFT Functionals, and DBLOC-Corrected Versions, in the Calculation of Redox Potentials and Spin Splittings for Transition Metal Containing Systems</a>
                             <div class="achsLabel">
@@ -1167,9 +1167,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.5b01234" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01234%3Fprg140729%3D2df76d6f-b684-409f-b91e-9fc01da4bc1d&amp;doi=10.1021%2Facs.jctc.5b01234" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01234%3Fprg140729%3D8ce1ce36-e206-4494-9ede-ce6af268ce81&amp;doi=10.1021%2Facs.jctc.5b01234" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01234%3Fprg140729%3D25bbc3d5-24df-4480-af1b-029dfde7a270&amp;title=Spin-State+Energetics+of+Fe%28III%29+and+Ru%28III%29+Aqua+Complexes%3A+Accurate+ab+Initio+Calculations+and+Evidence+for+Huge+Solvation+Effects&amp;doi=10.1021%2Facs.jctc.5b01234" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01234%3Fprg140729%3De040e7d5-1a7e-48d6-a4bb-a1d742ff21fb&amp;title=Spin-State+Energetics+of+Fe%28III%29+and+Ru%28III%29+Aqua+Complexes%3A+Accurate+ab+Initio+Calculations+and+Evidence+for+Huge+Solvation+Effects&amp;doi=10.1021%2Facs.jctc.5b01234" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c8e13b2c-0f07-4bf5-b48a-019d1af4b18d">
+<html lang="en" class="pb-page" data-request-id="3c3094a1-9716-4d9a-8d53-985983647476">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jpcc.5b07841;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b07841%3Fprg140729%3D2d97ef28-2362-4d59-a353-dcb9cb7aca2a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b07841?prg140729=2d97ef28-2362-4d59-a353-dcb9cb7aca2a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b07841?prg140729=2d97ef28-2362-4d59-a353-dcb9cb7aca2a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b07841%3Fprg140729%3D00874af9-8200-426b-9790-ff29bb5a4272" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b07841?prg140729=00874af9-8200-426b-9790-ff29bb5a4272&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b07841?prg140729=00874af9-8200-426b-9790-ff29bb5a4272">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -982,18 +982,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Materials and Methods" href="#_i2"><span>Materials and Methods</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i7"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i13"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i17"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1102,22 +1090,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b07028?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b07028?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b08290?src=recsys">Laser-Induced Spectral Hole-Burning through a Broadband Distribution of Au Nanorods</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">DeSantis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hogan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Manjavacas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nordlander</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Link</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Halas</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Nanorods are amenable to laser-induced reshaping, a process that can dramatically modify their shape and therefore their plasmonic properties. Here we show that when a broadband spectral distribution of nanorods is irradiated with a femtosecond-pulsed ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b08290?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b08290?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b08290?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b08290?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpcc.5b05142?src=recsys">Exploration of the Copper Active Sites in Electrooxidation of Glucose on a Copper/Nitrogen Doped Graphene Nanocomposite</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
@@ -1134,21 +1106,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpcc.5b05142?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpcc.5b05142?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b04560?src=recsys">Super-Nernstian Shifts of Interfacial Proton-Coupled Electron Transfers: Origin and Effect of Noncovalent Interactions</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b08290?src=recsys">Laser-Induced Spectral Hole-Burning through a Broadband Distribution of Au Nanorods</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wildi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cabello</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zoloff Michoff</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vélez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leiva</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Calvente</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Andreu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cuesta</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">DeSantis</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hogan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Manjavacas</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nordlander</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Link</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Halas</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Anions whose specific adsorption involves a proton-coupled electron transfer (PCET) include adsorbed OH (OH<sub>ad</sub>), which plays an enormously relevant role in many fuel-cell reactions. OH<sub>ad</sub> formation has often been found to happen in alkaline solutions at ...<sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Nanorods are amenable to laser-induced reshaping, a process that can dramatically modify their shape and therefore their plasmonic properties. Here we show that when a broadband spectral distribution of nanorods is irradiated with a femtosecond-pulsed ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b04560?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b04560?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b04560?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b04560?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b08290?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b08290?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b08290?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b08290?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b03917?src=recsys">Reflection Microspectroscopic Study of Laser Trapping Assembling of Polystyrene Nanoparticles at Air/Solution Interface</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuyama</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sugiyama</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Masuhara</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We present the formation of a single nanoparticle assembly with periodic array structure induced by laser trapping of 200 nm polystyrene nanoparticles at air/solution interface of the colloidal heavy water solution. Their trapping and assembling behavior ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.5b03917?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.5b03917?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b03917?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.5b03917?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1234,9 +1222,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.5b07841" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b07841%3Fprg140729%3D9baf4f41-4b30-4ec3-a9b4-ce785cded526&amp;doi=10.1021%2Facs.jpcc.5b07841" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b07841%3Fprg140729%3Df21711b1-0455-430b-b8a4-ce55a3a28b94&amp;doi=10.1021%2Facs.jpcc.5b07841" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b07841%3Fprg140729%3D2d97ef28-2362-4d59-a353-dcb9cb7aca2a&amp;title=Determination+of+Precise+Redox+Properties+of+Oxygen-Doped+Single-Walled+Carbon+Nanotubes+Based+on+in+Situ+Photoluminescence+Electrochemistry&amp;doi=10.1021%2Facs.jpcc.5b07841" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.5b07841%3Fprg140729%3D00874af9-8200-426b-9790-ff29bb5a4272&amp;title=Determination+of+Precise+Redox+Properties+of+Oxygen-Doped+Single-Walled+Carbon+Nanotubes+Based+on+in+Situ+Photoluminescence+Electrochemistry&amp;doi=10.1021%2Facs.jpcc.5b07841" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1259,9 +1247,9 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq70WOZnpfTWLVg90H21EOLACvtfcHk0lhYyZR9_o0wfA&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaAvZ8cRMrzYGtQwD9OmoEd0xJc29f_iggbG6NZzSSjYF&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQ9mWPughYzQtrnDmCxc-CThi25Vg2O3Mr1T95E8LSml&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGq70WOZnpfTWLVg90H21EOLACvtfcHk0lhg5Yokyh9UJw&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class=""> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd334PgBKFRGaAvZ8cRMrzYGtQwD9OmoEd1HGBCSbour1dHebWAMJHkQ&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQ9mWPughYzQtrnDmCxc-CThi25Vg2O3MjqKBmGizyjp&amp;loc=%2FControllerServlet&amp;pubId=40026051" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

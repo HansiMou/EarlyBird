@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="5a7bda5a-8a63-470d-9691-359e7c4bc3d6">
+<html lang="en" class="pb-page" data-request-id="52d08d0c-7ce4-43e0-85a0-f9e1c9c5f65a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jmcmar.ahead-of-print;pageGroup:string:Publication Pages;journal:journal:jmcmar;article:article:10.1021/acs.jmedchem.5b01447;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -139,8 +139,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01447%3Fprg140729%3Dff4cc340-8ba2-4e04-86a0-690befe509f4" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01447?prg140729=ff4cc340-8ba2-4e04-86a0-690befe509f4&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01447?prg140729=ff4cc340-8ba2-4e04-86a0-690befe509f4">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01447%3Fprg140729%3D8169cc38-1f92-4141-8791-9004b6b8d709" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01447?prg140729=8169cc38-1f92-4141-8791-9004b6b8d709&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b01447?prg140729=8169cc38-1f92-4141-8791-9004b6b8d709">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -938,14 +938,31 @@ function addFlashMovie(id, flv, image) {
                              <span class="phone">612-624-9091</span>.
                             </div>
                             <div id="authorBio">
-                             <span class="title" id="d37408e2282">Biography</span>
+                             <span class="title" id="d311e2282">Biography</span>
                              <p class="last"><b>Keith E. Arntson</b> received a B.S. in Chemistry from Northeastern Illinois University in 2013, followed by an M.S. degree in Chemistry from the University of Minnesota in 2015. His research interests include protein–protein interactions and drug discovery.</p>
-                             <span class="title" id="d37408e2289">Biography</span>
+                             <span class="title" id="d311e2289">Biography</span>
                              <p class="last"><b>William C. K. Pomerantz</b> obtained his B.S. in Chemistry from Ithaca College in 2002 prior to traveling to Zürich where he worked as a Fulbright Fellow in the laboratory of François Diederich and was co-mentored by Jack Dunitz at the ETH. In 2008, Prof. Pomerantz obtained his Ph.D. in Chemistry, working jointly with Sam Gellman and Nick Abbott at the University of Wisconsin—Madison. Prof. Pomerantz was an NIH Postdoctoral Research Fellow in the laboratory of Anna Mapp at the University of Michigan before starting his independent career at the University of Minnesota in the Department of Chemistry in 2012. Prof. Pomerantz’s research focuses on modulation of transcription factor–protein interactions using small molecules and peptidomimetics.</p>
                             </div>
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Introduction: Organic Fluorine, the “Odd Man In” in Medicinal Chemistry" href="#_i1"><span>Introduction: Organic Fluorine, the “Odd Man In” in Medicinal Chemistry</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Application of 19F NMR in Biochemistry and Medicinal Chemistry" href="#_i2"><span>Application of <sup>19</sup>F NMR in Biochemistry and Medicinal Chemistry</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Strategies for Incorporating Fluorinated Amino Acids into Proteins" href="#_i4"><span>Strategies for Incorporating Fluorinated Amino Acids into Proteins</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Approaches for Assignment of 19F NMR Protein Resonances" href="#_i5"><span>Approaches for Assignment of <sup>19</sup>F NMR Protein Resonances</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Fluorinated Aromatic Amino Acid Selection as Probes for Protein–Ligand Interactions" href="#_i6"><span>Fluorinated Aromatic Amino Acid Selection as Probes for Protein–Ligand Interactions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Protein-Observed 19F NMR for Characterizing Native Protein–Ligand Interactions" href="#_i7"><span>Protein-Observed <sup>19</sup>F NMR for Characterizing Native Protein–Ligand Interactions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Protein-Observed 19F NMR for Ligand Discovery" href="#_i8"><span>Protein-Observed <sup>19</sup>F NMR for Ligand Discovery</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Practical Considerations for Using Protein-Observed Fluorine NMR" href="#_i9"><span>Practical Considerations for Using Protein-Observed Fluorine NMR</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusion and Future Outlook for the Use of Protein-Observed 19F NMR in Ligand Discovery" href="#_i10"><span>Conclusion and Future Outlook for the Use of Protein-Observed <sup>19</sup>F NMR in Ligand Discovery</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i18"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1081,21 +1098,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b00671?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jmedchem.5b00671?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b00997?src=recsys">Computational Tools To Model Halogen Bonds in Medicinal Chemistry</a>
+                           <li><a href="/doi/abs/10.1021/acs.jmedchem.5b01273?src=recsys">AXL Inhibitors in Cancer: A Medicinal Chemistry Perspective</a>
                             <div class="achsLabel">
                              Journal of Medicinal Chemistry
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ford</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Ho</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Myers</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brunton</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Unciti-Broceta</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>59</em> (5), pp 1655–1670</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The use of halogens in therapeutics dates back to the earliest days of medicine when seaweed was used as a source of iodine to treat goiters. The incorporation of halogens to improve the potency of drugs is now fairly standard in medicinal chemistry. In ...</span>
+                             <span><span class="bold">Abstract:</span> Dysregulation of the AXL receptor tyrosine kinase has been associated with many types of cancer. It has not been until recently, however, that targeting AXL has come under the spotlight because of ever accumulating evidence of its strong correlation with ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jmedchem.5b00997?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jmedchem.5b00997?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b00997?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b00997?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jmedchem.5b01273?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jmedchem.5b01273?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jmedchem.5b01273?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jmedchem.5b01273?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1181,9 +1198,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jmedchem.5b01447" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01447%3Fprg140729%3D8fd7e1ab-b730-4ea2-aa6b-2d1ee2c5d0d9&amp;doi=10.1021%2Facs.jmedchem.5b01447" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01447%3Fprg140729%3D1646df4a-960e-4e59-962f-96fa7537fa85&amp;doi=10.1021%2Facs.jmedchem.5b01447" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01447%3Fprg140729%3Dff4cc340-8ba2-4e04-86a0-690befe509f4&amp;title=Protein-Observed+Fluorine+NMR%3A+A+Bioorthogonal+Approach+for+Small+Molecule+Discovery&amp;doi=10.1021%2Facs.jmedchem.5b01447" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jmedchem.5b01447%3Fprg140729%3D8169cc38-1f92-4141-8791-9004b6b8d709&amp;title=Protein-Observed+Fluorine+NMR%3A+A+Bioorthogonal+Approach+for+Small+Molecule+Discovery&amp;doi=10.1021%2Facs.jmedchem.5b01447" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1219,8 +1236,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp8Heq0upzHCbVg90H21EOLACvtfcHk0lgKzjnvPuSDRw&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSY_mPJdTIIkPtrnDmCxc-CThi25Vg2O3MscU1bIQU8d_&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGp8Heq0upzHCbVg90H21EOLACvtfcHk0lhEc6k6KU7VgQ&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSY_mPJdTIIkPtrnDmCxc-CThi25Vg2O3MtSoV6P2mjiE&amp;loc=%2FControllerServlet&amp;pubId=40026035" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

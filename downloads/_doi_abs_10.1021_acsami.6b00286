@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="1a966767-e286-4479-8308-fadcb10bce3a">
+<html lang="en" class="pb-page" data-request-id="3b4d7038-07a3-4dc9-99be-a2f2d53aeeb5">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsami.6b00286;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00286%3Fprg140729%3Daff0ba9b-590f-476a-a58d-b6f06d5d8337" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00286?prg140729=aff0ba9b-590f-476a-a58d-b6f06d5d8337&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00286?prg140729=aff0ba9b-590f-476a-a58d-b6f06d5d8337">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00286%3Fprg140729%3Dc9cbb83d-77d6-4e22-9439-dc57fbe4f9d7" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00286?prg140729=c9cbb83d-77d6-4e22-9439-dc57fbe4f9d7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b00286?prg140729=c9cbb83d-77d6-4e22-9439-dc57fbe4f9d7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -680,7 +680,7 @@ $(function(){
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acsami.6b00487" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acsami.6b00706" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1008,22 +1008,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00478?src=recsys">Boosting Triplet Harvest by Reducing Nonradiative Transition of Exciplex toward Fluorescent Organic Light-Emitting Diodes with 100% Internal Quantum Efficiency</a>
-                            <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yoo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>28</em> (6), pp 1936–1941</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The external quantum efficiencies (EQEs) of the fluorescent organic light-emitting diodes (OLEDs) using exciplex as emitters are much lower than fluorescent OLEDs based on single-molecular thermally activated delayed fluorescent (TADF) emitters, even ...<sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.6b00478?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.6b00478?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00478?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00478?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.5b12559?src=recsys">Structure–Performance Investigation of Thioxanthone Derivatives for Developing Color Tunable Highly Efficient Thermally Activated Delayed Fluorescence Emitters</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1039,6 +1023,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsami.5b12559?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsami.5b12559?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b12559?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00478?src=recsys">Boosting Triplet Harvest by Reducing Nonradiative Transition of Exciplex toward Fluorescent Organic Light-Emitting Diodes with 100% Internal Quantum Efficiency</a>
+                            <div class="achsLabel">
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yoo</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>28</em> (6), pp 1936–1941</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The external quantum efficiencies (EQEs) of the fluorescent organic light-emitting diodes (OLEDs) using exciplex as emitters are much lower than fluorescent OLEDs based on single-molecular thermally activated delayed fluorescent (TADF) emitters, even ...<sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemmater.6b00478?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.6b00478?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00478?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00478?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b10950?src=recsys">A New Molecular Design Based on Thermally Activated Delayed Fluorescence for Highly Efficient Organic Light Emitting Diodes</a>
                             <div class="achsLabel">
@@ -1088,21 +1088,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsami.5b10464?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.5b10464?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsami.5b10129?src=recsys">Highly Efficient Nondoped Green Organic Light-Emitting Diodes with Combination of High Photoluminescence and High Exciton Utilization</a>
+                           <li><a href="/doi/abs/10.1021/acsami.5b10561?src=recsys">Simultaneous Enhancement of Efficiency and Stability of Phosphorescent OLEDs Based on Efficient Förster Energy Transfer from Interface Exciplex</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Su</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Ma</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Duan</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>8</em> (5), pp 3041–3049</span>
+                             <span><span class="bold">2016</span> <em>8</em> (6), pp 3825–3832</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Photoluminescence (PL) efficiency and exciton utilization efficiency are two key parameters to harvest high-efficiency electroluminescence (EL) in organic light-emitting diodes (OLEDs). But it is not easy to simultaneously combine these two ...<sub></sub><sub></sub><sup></sup><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> Exciplex forming cohosts have been widely adopted in phosphorescent organic light-emitting diodes (PHOLEDs), achieving high efficiency with low roll-off and low driving voltage. However, the influence of the exciplex-forming hosts on the lifetimes of the ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsami.5b10129?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsami.5b10129?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsami.5b10129?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsami.5b10129?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsami.5b10561?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsami.5b10561?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsami.5b10561?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsami.5b10561?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1188,9 +1188,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b00286" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00286%3Fprg140729%3D9df7314a-2fb5-474b-92e5-7a2144becbab&amp;doi=10.1021%2Facsami.6b00286" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00286%3Fprg140729%3D6c5d1fa9-3941-44ac-8429-e59895106a74&amp;doi=10.1021%2Facsami.6b00286" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00286%3Fprg140729%3Daff0ba9b-590f-476a-a58d-b6f06d5d8337&amp;title=Highly+Efficient+Sky-Blue+Fluorescent+Organic+Light+Emitting+Diode+Based+on+Mixed+Cohost+System+for+Thermally+Activated+Delayed+Fluorescence+Emitter+%282CzPN%29&amp;doi=10.1021%2Facsami.6b00286" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b00286%3Fprg140729%3Dc9cbb83d-77d6-4e22-9439-dc57fbe4f9d7&amp;title=Highly+Efficient+Sky-Blue+Fluorescent+Organic+Light+Emitting+Diode+Based+on+Mixed+Cohost+System+for+Thermally+Activated+Delayed+Fluorescence+Emitter+%282CzPN%29&amp;doi=10.1021%2Facsami.6b00286" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

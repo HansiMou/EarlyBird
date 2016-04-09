@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8daba117-6056-4023-ae32-7b91947cfdd2">
+<html lang="en" class="pb-page" data-request-id="8c10ddbd-848c-4d53-ba7b-418a62053e7c">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jceda8;issue:issue:10.1021/jceda8.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jchemed.5b00710">
   <meta data-pb-head="head-widgets-start"> 
@@ -145,8 +145,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00710%3Fprg140729%3D8758e826-fb93-4faa-a6d3-c900f68508c7" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00710?prg140729=8758e826-fb93-4faa-a6d3-c900f68508c7&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00710?prg140729=8758e826-fb93-4faa-a6d3-c900f68508c7">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00710%3Fprg140729%3D99ca1bb8-4ced-4798-9a4d-547e5e36d25c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00710?prg140729=99ca1bb8-4ced-4798-9a4d-547e5e36d25c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.5b00710?prg140729=99ca1bb8-4ced-4798-9a4d-547e5e36d25c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -673,6 +673,16 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
+                       <div class="issueNavigator"> 
+                        <div class="journalNavLeftTd"> 
+                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jchemed.5b00663" title="Previous Article"> Previous Article </a> </span> 
+                        </div> 
+                        <div class="journalNavRightTd"> 
+                         <div class="next"> 
+                          <a href="/doi/abs/10.1021/acs.jchemed.5b00830" title="Next Article"> Next Article </a> 
+                         </div> 
+                        </div> 
+                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jceda8/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -943,14 +953,14 @@ function addFlashMovie(id, flv, image) {
                               <p class="articleBody_abstractText">The gap between graduate research and introductory undergraduate teaching laboratories is often wide, but the development of teaching activities rooted within the research environment offers an opportunity for undergraduate students to have first-hand experience with research currently being conducted and for graduate students to develop communication and pedagogical skills. We describe the development, evaluation, and redesign of a Microsoft Excel-based activity where data analysis from contemporary research was adapted into a data analysis training exercise, requiring undergraduate students to engage with the data by performing a series of analytical tasks guided by commentary from the researcher. In addition to learning common data analysis techniques, this exercise provided an opportunity for undergraduate students to practice problem solving and collaboratively work through trouble-shooting. Throughout the activity development, multiple iterations allowed the authors to explore the impact of different pedagogical approaches including, but not limited to, student-prepared questions for the graduate student author that were used as a starting point for an in-class discussion of the research findings, techniques, considerations, and future goals. This conversation between general chemistry students and the graduate student researcher was coupled with an in-person laboratory tour or video introduction by the researcher. These activities humanized the research enterprise for the undergraduate students and serve as a model for future collaborations between research and instructional laboratories.</p>
                               <div class="keywords">
                                <h4>Keywords: </h4> 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=First-year+Undergraduate%2Fgeneral&amp;qsSearchArea=AllField">First-Year Undergraduate/General</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Graduate+Education%2Fresearch&amp;qsSearchArea=AllField">Graduate Education/Research</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Curriculum&amp;qsSearchArea=AllField">Curriculum</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Interdisciplinary%2Fmultidisciplinary&amp;qsSearchArea=AllField">Interdisciplinary/Multidisciplinary</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Instruction&amp;qsSearchArea=AllField">Laboratory Instruction</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Computing%2Finterfacing&amp;qsSearchArea=AllField">Laboratory Computing/Interfacing</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Computer-based+Learning&amp;qsSearchArea=AllField">Computer-Based Learning</a>; 
-                               <a class="keyword" href="http://pubsdc3.acs.org/action/doSearch?action=search&amp;AllField=Biophysical+Chemistry&amp;qsSearchArea=AllField">Biophysical Chemistry</a>
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=First-year+Undergraduate%2Fgeneral&amp;qsSearchArea=AllField">First-Year Undergraduate/General</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Graduate+Education%2Fresearch&amp;qsSearchArea=AllField">Graduate Education/Research</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Curriculum&amp;qsSearchArea=AllField">Curriculum</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Interdisciplinary%2Fmultidisciplinary&amp;qsSearchArea=AllField">Interdisciplinary/Multidisciplinary</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Instruction&amp;qsSearchArea=AllField">Laboratory Instruction</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Laboratory+Computing%2Finterfacing&amp;qsSearchArea=AllField">Laboratory Computing/Interfacing</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Computer-based+Learning&amp;qsSearchArea=AllField">Computer-Based Learning</a>; 
+                               <a class="keyword" href="http://pubs.acs.org/action/doSearch?action=search&amp;AllField=Biophysical+Chemistry&amp;qsSearchArea=AllField">Biophysical Chemistry</a>
                               </div>
                              </div>
                             </div>
@@ -1187,9 +1197,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jchemed.5b00710" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00710%3Fprg140729%3D289dfa42-35b8-4c0d-9820-6298d268a35b&amp;doi=10.1021%2Facs.jchemed.5b00710" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00710%3Fprg140729%3Df440bb08-01c1-4b56-9715-4693874eac1c&amp;doi=10.1021%2Facs.jchemed.5b00710" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00710%3Fprg140729%3D8758e826-fb93-4faa-a6d3-c900f68508c7&amp;title=Bridging+the+Gap+between+Instructional+and+Research+Laboratories%3A+Teaching+Data+Analysis+Software+Skills+through+the+Manipulation+of+Original+Research+Data&amp;doi=10.1021%2Facs.jchemed.5b00710" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jchemed.5b00710%3Fprg140729%3D99ca1bb8-4ced-4798-9a4d-547e5e36d25c&amp;title=Bridging+the+Gap+between+Instructional+and+Research+Laboratories%3A+Teaching+Data+Analysis+Software+Skills+through+the+Manipulation+of+Original+Research+Data&amp;doi=10.1021%2Facs.jchemed.5b00710" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1212,8 +1222,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpETLnq0RWWYbVg90H21EOLACvtfcHk0liH9UOVxrihfQ&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQdH9h1YalW9trnDmCxc-CThi25Vg2O3MgyAs4gHj_rf&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGpETLnq0RWWYbVg90H21EOLACvtfcHk0ljwNxUE-N9aPA&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQdH9h1YalW9trnDmCxc-CThi25Vg2O3MhQEm38AWlv8&amp;loc=%2FControllerServlet&amp;pubId=346464552" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

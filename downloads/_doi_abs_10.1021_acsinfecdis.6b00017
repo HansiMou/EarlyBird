@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="e05cb1dd-da95-4933-b1ed-e506908d1d24">
+<html lang="en" class="pb-page" data-request-id="c1890a4c-48e4-4975-b4ae-ed35c54a78bb">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";journal:journal:aidcbc;website:website:acspubs;issue:issue:10.1021/aidcbc.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acsinfecdis.6b00017;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -149,8 +149,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsinfecdis.6b00017%3Fprg140729%3D866ca80f-009c-4c63-9313-267e564896e8" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsinfecdis.6b00017?prg140729=866ca80f-009c-4c63-9313-267e564896e8&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsinfecdis.6b00017?prg140729=866ca80f-009c-4c63-9313-267e564896e8">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsinfecdis.6b00017%3Fprg140729%3D7e9e0a3d-7b5a-42f6-9022-97a9ecadcb95" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsinfecdis.6b00017?prg140729=7e9e0a3d-7b5a-42f6-9022-97a9ecadcb95&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsinfecdis.6b00017?prg140729=7e9e0a3d-7b5a-42f6-9022-97a9ecadcb95">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -981,6 +981,16 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Methods" href="#_i4"><span>Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i18"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1083,6 +1093,38 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsinfecdis.6b00031?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsinfecdis.6b00031?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsinfecdis.6b00023?src=recsys">A Methyl 4-Oxo-4-phenylbut-2-enoate with in Vivo Activity against MRSA That Inhibits MenB in the Bacterial Menaquinone Biosynthesis Pathway</a>
+                            <div class="achsLabel">
+                             ACS Infectious Diseases
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Matarlo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Daryaee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Daryaee</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ruzsicska</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Walker</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Tonge</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> 4-Oxo-4-phenyl-but-2-enoates inhibit MenB, the 1,4-dihydroxyl-2-naphthoyl-CoA synthase in the bacterial menaquinone (MK) biosynthesis pathway, through the formation of an adduct with coenzyme A (CoA). Here, we show that the corresponding methyl butenoates ...<sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsinfecdis.6b00023?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsinfecdis.6b00023?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsinfecdis.6b00023?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsinfecdis.6b00023?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsinfecdis.5b00148?src=recsys">Cell-Envelope Remodeling as a Determinant of Phenotypic Antibacterial Tolerance in <i>Mycobacterium tuberculosis</i></a>
+                            <div class="achsLabel">
+                             ACS Infectious Diseases
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Larrouy-Maumus</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Marino</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Madduri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ragan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hunt</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bassano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gutierrez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Moody</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pavan</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">de Carvalho</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The mechanisms that lead to phenotypic antibacterial tolerance in bacteria remain poorly understood. We investigate whether changes in NaCl concentration toward physiologically higher values affect antibacterial efficacy against <i>Mycobacterium tuberculosis</i> ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsinfecdis.5b00148?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsinfecdis.5b00148?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsinfecdis.5b00148?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsinfecdis.5b00148?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.macromol.5b02240?src=recsys">Nonequilibrium Dynamics of Nanochannel Confined DNA</a>
                             <div class="achsLabel">
                              Macromolecules
@@ -1183,9 +1225,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsinfecdis.6b00017" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsinfecdis.6b00017%3Fprg140729%3Dddc2c2cc-6bc8-4472-a411-3186a9055097&amp;doi=10.1021%2Facsinfecdis.6b00017" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsinfecdis.6b00017%3Fprg140729%3D88e936ed-4e46-4f8e-943a-2bd5f42baf4a&amp;doi=10.1021%2Facsinfecdis.6b00017" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsinfecdis.6b00017%3Fprg140729%3D866ca80f-009c-4c63-9313-267e564896e8&amp;title=Rapid+Tracing+of+Resistance+Plasmids+in+a+Nosocomial+Outbreak+Using+Optical+DNA+Mapping&amp;doi=10.1021%2Facsinfecdis.6b00017" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsinfecdis.6b00017%3Fprg140729%3D7e9e0a3d-7b5a-42f6-9022-97a9ecadcb95&amp;title=Rapid+Tracing+of+Resistance+Plasmids+in+a+Nosocomial+Outbreak+Using+Optical+DNA+Mapping&amp;doi=10.1021%2Facsinfecdis.6b00017" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1208,8 +1250,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrvWZ8QfX573LVg90H21EOLACvtfcHk0lhbmaSA2OJQtA&amp;loc=%2FControllerServlet&amp;pubId=407511600" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGCy9_w99TlXHtQwD9OmoEd0h7vmgvPwiuBPryMFoLc3B&amp;loc=%2FControllerServlet&amp;pubId=407511600" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGrvWZ8QfX573LVg90H21EOLACvtfcHk0lhyQ5PqYAn2ww&amp;loc=%2FControllerServlet&amp;pubId=407511600" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202432&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2FsubstancesFromReference.jsf%3Fl%3D4t9nkuNz3tw0bBf2vQptEltoDFflTVYFQkCTEVQ_hd2IqWT69oQQGCy9_w99TlXHtQwD9OmoEd2m8Igc-C_jYhKBhF9LzGcn&amp;loc=%2FControllerServlet&amp;pubId=407511600" title="Retrieve Substances Indexed for this Article" target="scifinder">Retrieve Substances Indexed for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

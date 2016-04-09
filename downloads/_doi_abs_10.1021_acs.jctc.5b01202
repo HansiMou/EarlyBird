@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="a61baccf-ceee-4404-97c5-3c3518caebe8">
+<html lang="en" class="pb-page" data-request-id="1fece18d-c82f-4b13-ba78-89d4f8de194a">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;journal:journal:jctcce;issue:issue:10.1021/jctcce.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acs.jctc.5b01202">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01202%3Fprg140729%3D5d498548-3863-46e7-bd36-8beba8379441" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01202?prg140729=5d498548-3863-46e7-bd36-8beba8379441&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01202?prg140729=5d498548-3863-46e7-bd36-8beba8379441">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01202%3Fprg140729%3D6cf75f71-265b-4f63-9c4c-4efcdc330ab0" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01202?prg140729=6cf75f71-265b-4f63-9c4c-4efcdc330ab0&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01202?prg140729=6cf75f71-265b-4f63-9c4c-4efcdc330ab0">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -998,38 +998,6 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00706?src=recsys">Multiple Time-Step Dual-Hamiltonian Hybrid Molecular Dynamics – Monte Carlo Canonical Propagation Algorithm</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kale</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weare</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dinner</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Roux</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A multiple time-step integrator based on a dual Hamiltonian and a hybrid method combining molecular dynamics (MD) and Monte Carlo (MC) is proposed to sample systems in the canonical ensemble. The Dual Hamiltonian Multiple Time-Step (DHMTS) algorithm is ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b00706?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b00706?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00706?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b00706?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00714?src=recsys">General Protein Data Bank-Based Collective Variables for Protein Folding</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ardevol</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Palazzesi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tribello</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Parrinello</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (1), pp 29–35</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> New, automated forms of data analysis are required to understand the high-dimensional trajectories that are obtained from molecular dynamics simulations on proteins. Dimensionality reduction algorithms are particularly appealing in this regard as they ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b00714?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b00714?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00714?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b00714?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b00935?src=recsys">CHARMM-GUI Input Generator for NAMD, GROMACS, AMBER, OpenMM, and CHARMM/OpenMM Simulations Using the CHARMM36 Additive Force Field</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1045,6 +1013,54 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b00935?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b00935?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b00935?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00784?src=recsys">A Simple Method for Automated Equilibration Detection in Molecular Simulations</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chodera</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Molecular simulations intended to compute equilibrium properties are often initiated from configurations that are highly atypical of equilibrium samples, a practice which can generate a distinct initial transient in mechanical observables computed from ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b00784?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b00784?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00784?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b00784?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00743?src=recsys">PyEMMA 2: A Software Package for Estimation, Validation, and Analysis of Markov Models</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Scherer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Trendelkamp-Schroer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Paul</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pérez-Hernández</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hoffmann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Plattner</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wehmeyer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Prinz</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Noé</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>11</em> (11), pp 5525–5542</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Markov (state) models (MSMs) and related models of molecular kinetics have recently received a surge of interest as they can systematically reconcile simulation data from either a few long or many short simulations and allow us to analyze the essential ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.5b00743?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b00743?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00743?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b00743?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.6b00049?src=recsys">HTMD: High-Throughput Molecular Dynamics for Molecular Discovery</a>
+                            <div class="achsLabel">
+                             Journal of Chemical Theory and Computation
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Doerr</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Harvey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Noé</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">De Fabritiis</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Recent advances in molecular simulations have allowed scientists to investigate slower biological processes than ever before. Together with these advances came an explosion of data that has transformed a traditionally computing-bound into a data-bound ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jctc.6b00049?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.6b00049?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.6b00049?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.6b00049?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b00913?src=recsys">Demonstrating an Order-of-Magnitude Sampling Enhancement in Molecular Dynamics Simulations of Complex Protein Systems</a>
                             <div class="achsLabel">
@@ -1062,37 +1078,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b00913?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b00913?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b01001?src=recsys">Role of the Protonation State on the Structure and Dynamics of Albumin</a>
+                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00830?src=recsys">Automated Discovery and Refinement of Reactive Molecular Dynamics Pathways</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Díaz</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Suárez</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">McGibbon</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pande</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Martinez</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), pp 1972–1988</span>
+                             <span><span class="bold">2016</span> <em>12</em> (2), pp 638–649</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Human serum albumin undergoes reversible conformational transitions associated with ligand binding or pH changes. Among them, the neutral to base (<i>N</i> → <i>B</i>) transition occurring between pH 7 and pH 9 seems to be relevant for its function as a carrier. ...<sub></sub></span>
+                             <span><span class="bold">Abstract:</span> We describe a flexible and broadly applicable energy refinement method, “nebterpolation,” for identifying and characterizing the reaction events in a molecular dynamics (MD) simulation. The new method is applicable to ab initio simulations with hundreds ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b01001?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b01001?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b01001?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b01001?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jctc.5b00796?src=recsys">Analysis of Multidomain Protein Dynamics</a>
-                            <div class="achsLabel">
-                             Journal of Chemical Theory and Computation
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Roy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hua</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Post</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>12</em> (1), pp 274–280</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Proteins with a modular architecture of multiple domains connected by linkers often exhibit diversity in the relative positions of domains, while the domain tertiary structure remains unchanged. The biological function of these modular proteins, or the ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jctc.5b00796?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jctc.5b00796?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00796?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jctc.5b00796?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jctc.5b00830?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jctc.5b00830?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jctc.5b00830?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jctc.5b00830?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1178,9 +1178,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jctc.5b01202" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01202%3Fprg140729%3D9487f6fc-0a52-4a66-a657-bf10b4d05c62&amp;doi=10.1021%2Facs.jctc.5b01202" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01202%3Fprg140729%3D960c0612-82c1-4943-a3db-32a633a44560&amp;doi=10.1021%2Facs.jctc.5b01202" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01202%3Fprg140729%3D5d498548-3863-46e7-bd36-8beba8379441&amp;title=Transmembrane+Potential+Modeling%3A+Comparison+between+Methods+of+Constant+Electric+Field+and+Ion+Imbalance&amp;doi=10.1021%2Facs.jctc.5b01202" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jctc.5b01202%3Fprg140729%3D6cf75f71-265b-4f63-9c4c-4efcdc330ab0&amp;title=Transmembrane+Potential+Modeling%3A+Comparison+between+Methods+of+Constant+Electric+Field+and+Ion+Imbalance&amp;doi=10.1021%2Facs.jctc.5b01202" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

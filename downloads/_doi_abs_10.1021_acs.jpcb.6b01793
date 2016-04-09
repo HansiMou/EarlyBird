@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="add404f1-8a09-4644-99eb-1033e652edab">
+<html lang="en" class="pb-page" data-request-id="328ae8b0-c2a0-4a22-84c5-b9b02aaaabf1">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jpcbfk;article:article:10.1021/acs.jpcb.6b01793;pageGroup:string:Publication Pages;issue:issue:10.1021/jpcbfk.ahead-of-print;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01793%3Fprg140729%3Da17c980d-5a0c-453e-8e82-c45cba63b37a" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01793?prg140729=a17c980d-5a0c-453e-8e82-c45cba63b37a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01793?prg140729=a17c980d-5a0c-453e-8e82-c45cba63b37a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01793%3Fprg140729%3D0adac603-35a0-4d25-8b69-f0446a4aff0d" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01793?prg140729=0adac603-35a0-4d25-8b69-f0446a4aff0d&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01793?prg140729=0adac603-35a0-4d25-8b69-f0446a4aff0d">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -689,16 +689,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcb.6b01843" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcb.6b01890" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpcbfk/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1026,6 +1016,70 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jpcb.6b01890?src=recsys">Markovian and Non-Markovian Modeling of Membrane Dynamics with Milestoning</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry B
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Cardenas</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Elber</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We exploit atomically detailed simulations and the milestoning theory to extract coarse grained models of membrane kinetics and thermodynamics. Non-Markovian and Markovian theories for the phosphate group displacements are used to coarsely represent ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcb.6b01890?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcb.6b01890?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01890?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcb.6b01890?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b13210?src=recsys">Unveiling the Role of <i>Hot</i> Charge-Transfer States in Molecular Aggregates via Nonadiabatic Dynamics</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fazzi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Barbatti</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Thiel</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4502–4511</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Exciton dynamics governs energy transfer and charge generation in organic functional materials. We investigate high-energy nonadiabatic excited-state dynamics for a bithiophene dimer to describe time-dependent excitonic effects in molecular aggregates. We ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b13210?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b13210?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b13210?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b13210?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b00092?src=recsys">Turning On and Off Photoinduced Electron Transfer in Fluorescent Proteins by π-Stacking, Halide Binding, and Tyr145 Mutations</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bogdanov</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Acharya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Titelmayer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mamontova</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bravaya</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kolomeisky</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lukyanov</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Krylov</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Photoinduced electron transfer in fluorescent proteins from the GFP family can be regarded either as an asset facilitating new applications or as a nuisance leading to the loss of optical output. Photooxidation commonly results in green-to-red ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b00092?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b00092?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b00092?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b00092?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12251?src=recsys">Vibronic Dynamics of the Ultrafast all-<i>trans</i> to 13-<i>cis</i> Photoisomerization of Retinal in Channelrhodopsin-1</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Schnedermann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Muders</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ehrenberg</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schlesinger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kukura</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Heberle</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Channelrhodopsins are light-gated ion channels with extensive applications in optogenetics. Channelrhodopsin-1 from <i>Chlamydomonas augustae</i> (<i>Ca</i>ChR1) exhibits a red-shifted absorption spectrum as compared to Channelrhodopsin-2, which is highly beneficial ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12251?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12251?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12251?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12251?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemrev.5b00444?src=recsys">Quantum Mechanical Studies on the Photophysics and the Photochemistry of Nucleic Acids and Nucleobases</a>
                             <div class="achsLabel">
                              Chemical Reviews
@@ -1042,22 +1096,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemrev.5b00444?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemrev.5b00444?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.5b02792?src=recsys">Benzophenone Ultrafast Triplet Population: Revisiting the Kinetic Model by Surface-Hopping Dynamics</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Marazzi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roca-Sanjuán</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Delcey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lindh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">González</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Monari</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (4), pp 622–626</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The photochemistry of benzophenone, a paradigmatic organic molecule for photosensitization, was investigated by means of surface-hopping ab initio molecular dynamics. Different mechanisms were found to be relevant within the first 600 fs after excitation; ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.5b02792?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.5b02792?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.5b02792?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.5b02792?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jctc.5b01014?src=recsys">Solvent Effects on Electronic Excitations of an Organic Chromophore</a>
                             <div class="achsLabel">
                              Journal of Chemical Theory and Computation
@@ -1073,53 +1111,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.jctc.5b01014?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.jctc.5b01014?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jctc.5b01014?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcb.5b12753?src=recsys">Femtosecond Heterodyne Transient Grating Studies of Nonradiative Deactivation of the S<sub>2</sub> (1<sup>1</sup>B<sub>u</sub><sup>+</sup>) State of Peridinin: Detection and Spectroscopic Assignment of an Intermediate in the Decay Pathway</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry B
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Ghosh</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bishop</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roscioli</span>, <span class="entryAuthor normal hlFld-ContribAuthor">LaFountain</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Frank</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Beck</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Femtosecond heterodyne transient grating spectroscopy was employed to investigate the nonradiative decay pathway from the S<sub>2</sub> (1<sup>1</sup>B<sub>u</sub><sup>+</sup>) state to the S<sub>1</sub> (2<sup>1</sup>A<sub>g</sub><sup>−</sup>) state of peridinin in methanol solution. Just as previously observed by this laboratory for β-...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcb.5b12753?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcb.5b12753?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcb.5b12753?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00017?src=recsys">Gas-Phase Cytosine and Cytosine-N<sub>1</sub>-Derivatives Have 0.1–1 ns Lifetimes Near the S<sub>1</sub> State Minimum</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Blaser</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Trachsel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lobsiger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wiedmer</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Frey</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Leutwyler</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (5), pp 752–757</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Ultraviolet radiative damage to DNA is inefficient because of the ultrafast S<sub>1</sub> ⇝ S<sub>0</sub> internal conversion of its nucleobases. Using picosecond pump–ionization delay measurements, we find that the S<sub>1</sub>(<sup>1</sup><i>ππ</i>*) state vibrationless lifetime of gas-phase keto-amino ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub><sup></sup><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.6b00017?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.6b00017?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00017?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00017?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpclett.6b00037?src=recsys">Two-Dimensional Electronic-Vibrational Spectroscopy of Chlorophyll <i>a</i> and <i>b</i></a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lewis</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Fleming</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>7</em> (5), pp 831–837</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We present two-dimensional electronic-vibrational (2DEV) spectra of isolated chlorophyll <i>a</i> and <i>b</i> in deuterated ethanol. We excite the Q-band electronic transitions and measure the effects on the carbonyl and C═C double-bond stretch region of the infrared ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpclett.6b00037?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpclett.6b00037?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpclett.6b00037?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpclett.6b00037?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1172,7 +1163,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcb.6b01793" title="High-Res PDF: 2107 KB" target="_blank"> PDF <span class="details">(2107 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01793" title="Low-Res PDF: 519 KB" target="_blank"> PDF w/ Links <span class="details">(519 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcb.6b01793" title="Low-Res PDF: 453 KB" target="_blank"> PDF w/ Links <span class="details">(453 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcb.6b01793" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1205,9 +1196,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcb.6b01793" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01793%3Fprg140729%3D0dfc19c8-9056-4561-b454-cb65dec1c576&amp;doi=10.1021%2Facs.jpcb.6b01793" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01793%3Fprg140729%3De32a9f18-f26a-4481-8b7d-fe5da8691638&amp;doi=10.1021%2Facs.jpcb.6b01793" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01793%3Fprg140729%3Da17c980d-5a0c-453e-8e82-c45cba63b37a&amp;title=Onset+of+the+Electronic+Absorption+Spectra+of+Isolated+and+%CF%80-Stacked+Oligomers+of+5%2C6-Dihydroxyindole%3A+An+Ab+Initio+Study+of+the+Building+Blocks+of+Eumelanin&amp;doi=10.1021%2Facs.jpcb.6b01793" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01793%3Fprg140729%3D0adac603-35a0-4d25-8b69-f0446a4aff0d&amp;title=Onset+of+the+Electronic+Absorption+Spectra+of+Isolated+and+%CF%80-Stacked+Oligomers+of+5%2C6-Dihydroxyindole%3A+An+Ab+Initio+Study+of+the+Building+Blocks+of+Eumelanin&amp;doi=10.1021%2Facs.jpcb.6b01793" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

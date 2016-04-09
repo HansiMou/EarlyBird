@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="813b958c-bf53-4a67-9c13-08f9f957e42d">
+<html lang="en" class="pb-page" data-request-id="b813e6ba-abe9-4805-b934-9eae537a3f8f">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";article:article:10.1021/acsnano.6b00226;website:website:acspubs;issue:issue:10.1021/ancac3.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:ancac3;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -143,8 +143,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00226%3Fprg140729%3Da16ea137-3ee9-4645-8477-18fbb67b1616" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00226?prg140729=a16ea137-3ee9-4645-8477-18fbb67b1616&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00226?prg140729=a16ea137-3ee9-4645-8477-18fbb67b1616">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00226%3Fprg140729%3D485d2b76-2ad3-4325-a549-398599892a09" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00226?prg140729=485d2b76-2ad3-4325-a549-398599892a09&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsnano.6b00226?prg140729=485d2b76-2ad3-4325-a549-398599892a09">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -944,6 +944,17 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
+                             <ul class="anchors">
+                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
+                               <ul style="display: none;">
+                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Conclusions" href="#_i3"><span>Conclusions</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="Methods" href="#_i4"><span>Methods</span></a></li>
+                                <li><a onclick="hidePulldown(this);" title="References" href="#_i10"><span>References</span></a></li>
+                               </ul></li>
+                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1041,6 +1052,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.5b07664?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b07664?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.6b00610?src=recsys">Slowing DNA Translocation in a Nanofluidic Field-Effect Transistor</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Yobas</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Here, we present an experimental demonstration of slowing DNA translocation across a nanochannel by modulating the channel surface charge through an externally applied gate bias. The experiments were performed on a nanofluidic field-effect transistor, ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.6b00610?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.6b00610?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.6b00610?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.6b00610?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b00463?src=recsys">Molecular Dynamics Simulation of DNA Capture and Transport in Heated Nanopores</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1056,22 +1083,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsami.6b00463?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsami.6b00463?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsami.6b00463?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b07639?src=recsys">The Native Material Limit of Electron and Hole Mobilities in Semiconductor Nanowires</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kinzel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schülein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weiß</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Janker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bühler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heigl</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudolph</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morkötter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Döblinger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bichler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abstreiter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Finley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wixforth</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koblmüller</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Krenner</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Piezoelectric surface acoustic waves are employed to induce radio frequency spatiotemporal dynamics of photogenerated electrons and holes in the GaAs core of individual GaAs/AlGaAs core/shell semiconductor nanowires. Comparison of the time-dependent ...<sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b07639?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b07639?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b07639?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b07639?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.6b00333?src=recsys">Spin-Controlled Photoluminescence in Hybrid Nanoparticles Purple Membrane System</a>
                             <div class="achsLabel">
@@ -1089,21 +1100,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.6b00333?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.6b00333?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b03963?src=recsys">Intrinsic Stepwise Translocation of Stretched ssDNA in Graphene Nanopores</a>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07639?src=recsys">The Native Material Limit of Electron and Hole Mobilities in Semiconductor Nanowires</a>
                             <div class="achsLabel">
-                             Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Qiu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sarathy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Leburton</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schulten</span> 
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Kinzel</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schülein</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Weiß</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Janker</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bühler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Heigl</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rudolph</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Morkötter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Döblinger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bichler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Abstreiter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Finley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wixforth</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Koblmüller</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Krenner</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2015</span> <em>15</em> (12), pp 8322–8330</span>
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We investigate by means of molecular dynamics simulations stretch-induced stepwise translocation of single-stranded DNA (ssDNA) through graphene nanopores. The intrinsic stepwise DNA motion, found to be largely independent of size and shape of the ...</span>
+                             <span><span class="bold">Abstract:</span> Piezoelectric surface acoustic waves are employed to induce radio frequency spatiotemporal dynamics of photogenerated electrons and holes in the GaAs core of individual GaAs/AlGaAs core/shell semiconductor nanowires. Comparison of the time-dependent ...<sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sup></sup><sup></sup><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b03963?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b03963?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b03963?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b03963?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsnano.5b07639?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07639?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07639?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07639?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1189,9 +1200,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsnano.6b00226" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00226%3Fprg140729%3D8beeb242-f0e5-4e46-b667-81818cc9f30d&amp;doi=10.1021%2Facsnano.6b00226" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00226%3Fprg140729%3D2f908c8e-68fd-4025-97e6-6cbac14ef235&amp;doi=10.1021%2Facsnano.6b00226" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00226%3Fprg140729%3Da16ea137-3ee9-4645-8477-18fbb67b1616&amp;title=Electrically+Tunable+Quenching+of+DNA+Fluctuations+in+Biased+Solid-State+Nanopores&amp;doi=10.1021%2Facsnano.6b00226" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsnano.6b00226%3Fprg140729%3D485d2b76-2ad3-4325-a549-398599892a09&amp;title=Electrically+Tunable+Quenching+of+DNA+Fluctuations+in+Biased+Solid-State+Nanopores&amp;doi=10.1021%2Facsnano.6b00226" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

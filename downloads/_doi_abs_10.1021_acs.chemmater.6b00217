@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="db848927-bf60-4eca-ae07-a6a6ba0be60c">
+<html lang="en" class="pb-page" data-request-id="16126679-f1b0-4c27-8b54-ecb9308c6222">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/cmatex.ahead-of-print;article:article:10.1021/acs.chemmater.6b00217;journal:journal:cmatex;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -144,8 +144,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00217%3Fprg140729%3D4c25fd20-3e0a-4e60-b95a-d6489d2c9516" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00217?prg140729=4c25fd20-3e0a-4e60-b95a-d6489d2c9516&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00217?prg140729=4c25fd20-3e0a-4e60-b95a-d6489d2c9516">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00217%3Fprg140729%3D8359710d-e2be-4725-9ce5-a30c15393c36" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00217?prg140729=8359710d-e2be-4725-9ce5-a30c15393c36&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00217?prg140729=8359710d-e2be-4725-9ce5-a30c15393c36">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -960,18 +960,6 @@ function addFlashMovie(id, flv, image) {
                            </div>
                            <div id="articleBody">
                             <div class="hlFld-Abstract">
-                             <ul class="anchors">
-                              <li><a title="Jump to a Section" onclick="showPulldown(this); return false;" href="JavaScript:void(0);" class="anchorIMG"></a>
-                               <ul style="display: none;">
-                                <li><a onclick="hidePulldown(this);" title="Top of Page" href="#top"><span>Top of Page</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Abstract" href="#Abstract"><span>Abstract</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Introduction" href="#_i1"><span>Introduction</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Results and Discussion" href="#_i2"><span>Results and Discussion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Conclusion" href="#_i6"><span>Conclusion</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="Experimental Section" href="#_i7"><span>Experimental Section</span></a></li>
-                                <li><a onclick="hidePulldown(this);" title="References" href="#_i23"><span>References</span></a></li>
-                               </ul></li>
-                             </ul>
                              <h2 id="Abstract">Abstract</h2>
                              <div id="abstractBox">
                               <div id="absImg">
@@ -1080,22 +1068,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.5b05556?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b05556?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00379?src=recsys">Dynamic Structural Evolution of Metal–Metal Bonding Network in Monolayer WS<sub>2</sub></a>
-                            <div class="achsLabel">
-                             Chemistry of Materials
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Amara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kumar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Okunishi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suenaga</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Quek</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Eda</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Layered transition metal dichalcogenides (TMDs) exist in a range of crystal phases with distinct electronic character. Some crystal phases are known to exhibit unique in-plane anisotropy characterized by a periodic distortion of the lattice and a ...<sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.chemmater.6b00379?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.chemmater.6b00379?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00379?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00379?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemmater.5b05043?src=recsys">Room-Temperature Intercalation and ∼1000-Fold Chemical Expansion for Scalable Preparation of High-Quality Graphene</a>
                             <div class="achsLabel">
                              Chemistry of Materials
@@ -1111,6 +1083,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acs.chemmater.5b05043?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.5b05043?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.5b05043?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.chemmater.6b00379?src=recsys">Dynamic Structural Evolution of Metal–Metal Bonding Network in Monolayer WS<sub>2</sub></a>
+                            <div class="achsLabel">
+                             Chemistry of Materials
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Amara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kumar</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Okunishi</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Suenaga</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Quek</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Eda</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Layered transition metal dichalcogenides (TMDs) exist in a range of crystal phases with distinct electronic character. Some crystal phases are known to exhibit unique in-plane anisotropy characterized by a periodic distortion of the lattice and a ...<sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.chemmater.6b00379?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.chemmater.6b00379?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.chemmater.6b00379?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.chemmater.6b00379?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemmater.5b04899?src=recsys">Monolayer Phosphorene–Metal Contacts</a>
                             <div class="achsLabel">
@@ -1212,9 +1200,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.chemmater.6b00217" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00217%3Fprg140729%3Dec8ab2ce-a6f2-48b9-b564-ef2559af3216&amp;doi=10.1021%2Facs.chemmater.6b00217" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00217%3Fprg140729%3Dbd328a2e-10a3-40a8-8ff5-54e1eb5415ad&amp;doi=10.1021%2Facs.chemmater.6b00217" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00217%3Fprg140729%3D4c25fd20-3e0a-4e60-b95a-d6489d2c9516&amp;title=Application+of+Organometallic+Chemistry+to+the+Electrical+Interconnection+of+Graphene+Nanoplatelets&amp;doi=10.1021%2Facs.chemmater.6b00217" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00217%3Fprg140729%3D8359710d-e2be-4725-9ce5-a30c15393c36&amp;title=Application+of+Organometallic+Chemistry+to+the+Electrical+Interconnection+of+Graphene+Nanoplatelets&amp;doi=10.1021%2Facs.chemmater.6b00217" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1237,8 +1225,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqgle_L9NR7TbVg90H21EOLACvtfcHk0lhxcROqXzMWTQ&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScPJiCc7ojz_trnDmCxc-CThi25Vg2O3Mh8dDKPq9RkA&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGqgle_L9NR7TbVg90H21EOLACvtfcHk0ljqPFIyVX6qLg&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNScPJiCc7ojz_trnDmCxc-CThi25Vg2O3MjdXsw0LIPcj&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

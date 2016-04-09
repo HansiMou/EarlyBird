@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="f90ac849-c081-4073-9573-77a4f96bf69b">
+<html lang="en" class="pb-page" data-request-id="5b12e9f1-556e-41b6-b5a6-4b71aca542d6">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:jpcbfk;pageGroup:string:Publication Pages;issue:issue:10.1021/jpcbfk.ahead-of-print;wgroup:string:ACHS website Group;article:article:10.1021/acs.jpcb.6b01616;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01616%3Fprg140729%3Dc83c9855-a498-4498-a73e-d42e0b9fc350" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01616?prg140729=c83c9855-a498-4498-a73e-d42e0b9fc350&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01616?prg140729=c83c9855-a498-4498-a73e-d42e0b9fc350">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01616%3Fprg140729%3Da7848c43-654c-4dc4-ab25-d8ba659636d6" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01616?prg140729=a7848c43-654c-4dc4-ab25-d8ba659636d6&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01616?prg140729=a7848c43-654c-4dc4-ab25-d8ba659636d6">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1019,6 +1019,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acscatal.5b02442?src=recsys">Direct Electron Transfer between a Site-Specific Pyrene-Modified Laccase and Carbon Nanotube/Gold Nanoparticle Supramolecular Assemblies for Bioelectrocatalytic Dioxygen Reduction</a>
+                            <div class="achsLabel">
+                             ACS Catalysis
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lalaoui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rousselot-Pailley</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Robert</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mekmouche</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Villalonga</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Holzinger</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cosnier</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tron</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Le Goff</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>6</em> (3), pp 1894–1900</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Strategies to maximize direct electron transfer (DET) between redox enzymes and electrodes include the oriented immobilization of enzymes onto an electroactive surface. Here, we present a strategy for achieving a controlled orientation of a fungal laccase ...<sub></sub><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acscatal.5b02442?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acscatal.5b02442?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acscatal.5b02442?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acscatal.5b02442?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b11252?src=recsys">Predicting Electrocatalytic Properties: Modeling Structure–Activity Relationships of Nitroxyl Radicals</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1119,9 +1135,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcb.6b01616" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01616%3Fprg140729%3D47d64a98-eff0-4d78-8419-a744fd316c25&amp;doi=10.1021%2Facs.jpcb.6b01616" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01616%3Fprg140729%3De106ad75-a2d8-4565-8886-31c6466556f6&amp;doi=10.1021%2Facs.jpcb.6b01616" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01616%3Fprg140729%3Dc83c9855-a498-4498-a73e-d42e0b9fc350&amp;title=Protein%E2%80%93Support+Interactions+for+Rationally+Designed+Bilirubin+Oxidase+Based+Cathode%3A+A+Computational+Study&amp;doi=10.1021%2Facs.jpcb.6b01616" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcb.6b01616%3Fprg140729%3Da7848c43-654c-4dc4-ab25-d8ba659636d6&amp;title=Protein%E2%80%93Support+Interactions+for+Rationally+Designed+Bilirubin+Oxidase+Based+Cathode%3A+A+Computational+Study&amp;doi=10.1021%2Facs.jpcb.6b01616" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

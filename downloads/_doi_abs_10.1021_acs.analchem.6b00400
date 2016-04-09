@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="97760274-62f3-43e7-9357-fb8e00d34c88">
+<html lang="en" class="pb-page" data-request-id="beba44a8-49d2-45c7-90ac-9b7b9a72fbff">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:ancham;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;issue:issue:10.1021/ancham.ahead-of-print;article:article:10.1021/acs.analchem.6b00400;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00400%3Fprg140729%3D3a3422ed-b3b4-4057-93e9-0172c8989781" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00400?prg140729=3a3422ed-b3b4-4057-93e9-0172c8989781&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00400?prg140729=3a3422ed-b3b4-4057-93e9-0172c8989781">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00400%3Fprg140729%3D37590804-06b6-4138-a494-c548da47396e" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00400?prg140729=37590804-06b6-4138-a494-c548da47396e&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b00400?prg140729=37590804-06b6-4138-a494-c548da47396e">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -681,7 +681,7 @@ $(function(){
                         </div> 
                         <div class="journalNavRightTd"> 
                          <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.analchem.5b04154" title="Next Article"> Next Article </a> 
+                          <a href="/doi/abs/10.1021/acs.analchem.6b00534" title="Next Article"> Next Article </a> 
                          </div> 
                         </div> 
                        </div> 
@@ -1004,7 +1004,39 @@ function addFlashMovie(id, flv, image) {
                            <li><a href="/author/Yan%2C+Jingwen">Jingwen Yan</a></li>
                            <li><a href="/author/Chen%2C+Zhu">Zhu Chen</a></li>
                           </ul>
-                          <ul class="additionalPubList recommendedPubList"></ul>
+                          <ul class="additionalPubList recommendedPubList">
+                           <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.6b00455?src=recsys">Development of an on-line cell-based bioactivity screening method by coupling liquid chromatography to flow cytometry with parallel mass spectrometry</a>
+                            <div class="achsLabel">
+                             Analytical Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Otvos</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van Nierop</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Niessen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kini</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Somsen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Smit</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Kool</span>
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> This study describes a new platform for the fast and efficient functional screening for bioactive compounds in complex natural mixtures using a cell-based assay. The platform combines reversed-phase liquid chromatography (LC) with on-line flow cytometry (...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.analchem.6b00455?src=recsys">Abstract</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.6b00455?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.6b00455?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.analchem.5b04636?src=recsys">The Raman Barcode for Counterfeit Drug Product Detection</a>
+                            <div class="achsLabel">
+                             Analytical Chemistry
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Lawson</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Rodriguez</span>
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (ja), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Potential infiltration of counterfeit drug products — containing the wrong or no active pharmaceutical ingredient (API) — into the bona fide drug supply poses a significant threat to consumers worldwide. Raman spectroscopy offers a rapid, non-destructive ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.analchem.5b04636?src=recsys">Abstract</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.analchem.5b04636?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.analchem.5b04636?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                          </ul>
                          </div>
                         </div>
                        </div>
@@ -1088,9 +1120,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.analchem.6b00400" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00400%3Fprg140729%3D7c6fce60-798a-4e8f-add7-04a5cba307de&amp;doi=10.1021%2Facs.analchem.6b00400" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00400%3Fprg140729%3Df51cafe1-a432-4a1a-ad49-1249f8085f77&amp;doi=10.1021%2Facs.analchem.6b00400" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00400%3Fprg140729%3D3a3422ed-b3b4-4057-93e9-0172c8989781&amp;title=Histone+Acetylation+Induced+Transformation+of+B-DNA+to+Z-DNA+in+Cells+Probed+through+FT-IR+Spectroscopy&amp;doi=10.1021%2Facs.analchem.6b00400" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.analchem.6b00400%3Fprg140729%3D37590804-06b6-4138-a494-c548da47396e&amp;title=Histone+Acetylation+Induced+Transformation+of+B-DNA+to+Z-DNA+in+Cells+Probed+through+FT-IR+Spectroscopy&amp;doi=10.1021%2Facs.analchem.6b00400" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

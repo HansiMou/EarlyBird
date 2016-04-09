@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="8e645917-326f-4f5c-a635-4b1253b5a2f2">
+<html lang="en" class="pb-page" data-request-id="b72f8d7a-6a06-462c-995b-fa89f1a5cce2">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/cmatex.ahead-of-print;journal:journal:cmatex;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;article:article:10.1021/acs.chemmater.6b00199;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00199%3Fprg140729%3D9b027e16-88f8-4ad7-89be-3a52d4dc4443" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00199?prg140729=9b027e16-88f8-4ad7-89be-3a52d4dc4443&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00199?prg140729=9b027e16-88f8-4ad7-89be-3a52d4dc4443">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00199%3Fprg140729%3D21049f60-0f23-49f3-9ef3-f3186ee4a59c" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00199?prg140729=21049f60-0f23-49f3-9ef3-f3186ee4a59c&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00199?prg140729=21049f60-0f23-49f3-9ef3-f3186ee4a59c">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1028,6 +1028,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.chemmater.5b04815?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.chemmater.5b04815?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.6b01233?src=recsys">A Titanium–Organic Framework as an Exemplar of Combining the Chemistry of Metal– and Covalent–Organic Frameworks</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nguyen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gándara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Furukawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cordova</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yaghi</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4330–4333</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A crystalline material with a two-dimensional structure, termed metal–organic framework-901 (MOF-901), was prepared using a strategy that combines the chemistry of MOFs and covalent–organic frameworks (COFs). This strategy involves <i>in situ</i> generation of ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.6b01233?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.6b01233?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.6b01233?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.6b01233?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.chemmater.5b04862?src=recsys">Revealing the Intrinsic Li Mobility in the Li<sub>2</sub>MnO<sub>3</sub> Lithium-Excess Material</a>
                             <div class="achsLabel">
                              Chemistry of Materials
@@ -1059,22 +1075,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.5b10666?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.5b10666?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b10666?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.6b01233?src=recsys">A Titanium–Organic Framework as an Exemplar of Combining the Chemistry of Metal– and Covalent–Organic Frameworks</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Nguyen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gándara</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Furukawa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Doan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cordova</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Yaghi</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (13), pp 4330–4333</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A crystalline material with a two-dimensional structure, termed metal–organic framework-901 (MOF-901), was prepared using a strategy that combines the chemistry of MOFs and covalent–organic frameworks (COFs). This strategy involves <i>in situ</i> generation of ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.6b01233?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.6b01233?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.6b01233?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.6b01233?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.inorgchem.5b02555?src=recsys">Zirconium(IV) Phosphonate–Phosphates as Efficient Ion-Exchange Materials</a>
                             <div class="achsLabel">
@@ -1175,9 +1175,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.chemmater.6b00199" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00199%3Fprg140729%3D9ad81eda-a7e4-43d1-a7d0-9b65c83246fa&amp;doi=10.1021%2Facs.chemmater.6b00199" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00199%3Fprg140729%3D8b99c3ff-8af9-4ff2-a58c-4a701d57d984&amp;doi=10.1021%2Facs.chemmater.6b00199" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00199%3Fprg140729%3D9b027e16-88f8-4ad7-89be-3a52d4dc4443&amp;title=Zr%2FSn%28IV%29+Phosphonates+as+Radiolytically+Stable+Ion-Exchange+Materials&amp;doi=10.1021%2Facs.chemmater.6b00199" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.chemmater.6b00199%3Fprg140729%3D21049f60-0f23-49f3-9ef3-f3186ee4a59c&amp;title=Zr%2FSn%28IV%29+Phosphonates+as+Radiolytically+Stable+Ion-Exchange+Materials&amp;doi=10.1021%2Facs.chemmater.6b00199" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
@@ -1200,8 +1200,8 @@ function addFlashMovie(id, flv, image) {
                             <a href="https://scifinder.cas.org/" target="_blank"> <button type="submit">Sign in</button> </a> 
                            </div> 
                            <ul class="cas-links"> 
-                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo_b-lNtQiK07Vg90H21EOLACvtfcHk0lhlazY1bi147w&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
-                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQSi9wRBMr3wtrnDmCxc-CThi25Vg2O3MonB0HZA1Bmj&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
+                            <li class="first"> <a href="/action/clickThrough?id=202424&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Freference.jsf%3Fl%3DBmxxGlm8wGo_b-lNtQiK07Vg90H21EOLACvtfcHk0lj603tKyItvNA&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve Detailed Record of this Article" target="scifinder">Retrieve Detailed Record of this Article</a> </li> 
+                            <li class="last"> <a href="/action/clickThrough?id=202448&amp;url=https%3A%2F%2Fscifinder.cas.org%2Fscifinder%2Fview%2Flink_v1%2Fcited.jsf%3Fl%3DAkUi5EvKt81oKPlj93mNSQSi9wRBMr3wtrnDmCxc-CThi25Vg2O3MvB_0tiCNazm&amp;loc=%2FControllerServlet&amp;pubId=40025986" title="Retrieve All References Cited for this Article" target="scifinder">Retrieve All References Cited for this Article</a> </li> 
                            </ul> 
                            <form id="sci-finder-search--modes" class="sci-finder-form" action="#"> 
                             <h5>Explore by:</h5> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="45a77b71-87d6-439a-b16a-337060a05d1e">
+<html lang="en" class="pb-page" data-request-id="5daee2a5-45d2-4125-820d-45a44aca85f1">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;journal:journal:abseba;page:string:Article/Chapter View;subPage:string:Abstract;article:article:10.1021/acsbiomaterials.5b00554;issue:issue:10.1021/abseba.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -142,8 +142,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsbiomaterials.5b00554%3Fprg140729%3D01758f46-9a42-4a5b-9de0-a1cc3f442d03" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.5b00554?prg140729=01758f46-9a42-4a5b-9de0-a1cc3f442d03&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.5b00554?prg140729=01758f46-9a42-4a5b-9de0-a1cc3f442d03">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsbiomaterials.5b00554%3Fprg140729%3D31243d69-5edc-4f84-84c2-0d5835cf36ee" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.5b00554?prg140729=31243d69-5edc-4f84-84c2-0d5835cf36ee&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.5b00554?prg140729=31243d69-5edc-4f84-84c2-0d5835cf36ee">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1011,6 +1011,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsbiomaterials.6b00046?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsbiomaterials.6b00046?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/acsbiomaterials.5b00551?src=recsys">Critical Length of PEG Grafts on lPEI/DNA Nanoparticles for Efficient in Vivo Delivery</a>
+                            <div class="achsLabel">
+                             ACS Biomaterials Science &amp; Engineering
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Williford</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Archang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Minn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ren</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vandermark</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fisher</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pomper</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mao</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Nanoparticle-mediated gene delivery is a promising alternative to viral methods; however, its use in vivo, particularly following systemic injection, has suffered from poor delivery efficiency. Although PEGylation of nanoparticles has been successfully ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsbiomaterials.5b00551?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsbiomaterials.5b00551?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsbiomaterials.5b00551?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsbiomaterials.5b00551?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00751?src=recsys">Engineering the Structure and Properties of DNA-Nanoparticle Superstructures Using Polyvalent Counterions</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1026,22 +1042,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.6b00751?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.6b00751?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00751?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00233?src=recsys">Programmable Self-Assembly of DNA–Protein Hybrid Hydrogel for Enzyme Encapsulation with Enhanced Biological Stability</a>
-                            <div class="achsLabel">
-                             Biomacromolecules
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A DNA–protein hybrid hydrogel was constructed based on a programmable assembly approach, which served as a biomimetic physiologic matrix for efficient enzyme encapsulation. A dsDNA building block tailored with precise biotin residues was fabricated based ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.biomac.6b00233?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.biomac.6b00233?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00233?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.biomac.6b00233?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.5b09711?src=recsys">DNA-Mediated Cellular Delivery of Functional Enzymes</a>
                             <div class="achsLabel">
@@ -1059,37 +1059,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.5b09711?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b09711?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsbiomaterials.5b00551?src=recsys">Critical Length of PEG Grafts on lPEI/DNA Nanoparticles for Efficient in Vivo Delivery</a>
+                           <li><a href="/doi/abs/10.1021/acs.biomac.6b00233?src=recsys">Programmable Self-Assembly of DNA–Protein Hybrid Hydrogel for Enzyme Encapsulation with Enhanced Biological Stability</a>
                             <div class="achsLabel">
-                             ACS Biomaterials Science &amp; Engineering
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Williford</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Archang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Minn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ren</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vandermark</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Fisher</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Pomper</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Mao</span> 
+                             Biomacromolecules
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Nanoparticle-mediated gene delivery is a promising alternative to viral methods; however, its use in vivo, particularly following systemic injection, has suffered from poor delivery efficiency. Although PEGylation of nanoparticles has been successfully ...</span>
+                             <span><span class="bold">Abstract:</span> A DNA–protein hybrid hydrogel was constructed based on a programmable assembly approach, which served as a biomimetic physiologic matrix for efficient enzyme encapsulation. A dsDNA building block tailored with precise biotin residues was fabricated based ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsbiomaterials.5b00551?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsbiomaterials.5b00551?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsbiomaterials.5b00551?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsbiomaterials.5b00551?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.biomac.6b00233?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.biomac.6b00233?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.biomac.6b00233?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.biomac.6b00233?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsbiomaterials.5b00363?src=recsys">Engineering Multifunctional Films Based on Metal-Phenolic Networks for Rational pH-Responsive Delivery and Cell Imaging</a>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00381?src=recsys">Design and Synthesis of Triangulated DNA Origami Trusses</a>
                             <div class="achsLabel">
-                             ACS Biomaterials Science &amp; Engineering
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">He</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Li</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Li</span> 
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Matthies</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Agarwal</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Schmidt</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>2</em> (3), pp 317–325</span>
+                             <span><span class="bold">2016</span> <em>16</em> (3), pp 2108–2113</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Here, we reported a designable pH-responsive system on the basis of coordination bonded metal-tannic acid (TA) networks on zein/quaternized chitosan (HTCC) nanoparticles (NPs). Zein/HTCC NPs has been developed as a promising delivery system for natural ...<sub></sub><sup></sup><sup></sup></span>
+                             <span><span class="bold">Abstract:</span> DNA nanotechnology offers unique control over matter on the nanoscale. Here, we extend the DNA origami method to cover a range of wireframe truss structures composed of equilateral triangles, which use less material per volume than standard multiple-helix ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsbiomaterials.5b00363?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsbiomaterials.5b00363?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsbiomaterials.5b00363?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsbiomaterials.5b00363?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00381?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00381?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00381?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00381?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1175,9 +1175,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsbiomaterials.5b00554" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsbiomaterials.5b00554%3Fprg140729%3D869cdb29-c1ea-4b02-93e1-406757b24922&amp;doi=10.1021%2Facsbiomaterials.5b00554" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsbiomaterials.5b00554%3Fprg140729%3Dab866d04-4413-43fb-9f90-a1877b519928&amp;doi=10.1021%2Facsbiomaterials.5b00554" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsbiomaterials.5b00554%3Fprg140729%3D01758f46-9a42-4a5b-9de0-a1cc3f442d03&amp;title=Self-assembled+DNA-Guided+RNA+Nanovector+via+Step-wise+Dual+Enzyme+Polymerization+%28SDEP%29+for+Carrier-free+siRNA+Delivery&amp;doi=10.1021%2Facsbiomaterials.5b00554" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsbiomaterials.5b00554%3Fprg140729%3D31243d69-5edc-4f84-84c2-0d5835cf36ee&amp;title=Self-assembled+DNA-Guided+RNA+Nanovector+via+Step-wise+Dual+Enzyme+Polymerization+%28SDEP%29+for+Carrier-free+siRNA+Delivery&amp;doi=10.1021%2Facsbiomaterials.5b00554" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

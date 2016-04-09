@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="c96b7d52-c88b-4b7b-91d1-30a13385e773">
+<html lang="en" class="pb-page" data-request-id="a5f86bcc-2ce1-4194-b49b-6f5c83a90b3e">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;journal:journal:nalefd;article:article:10.1021/acs.nanolett.6b00068;issue:issue:10.1021/nalefd.ahead-of-print;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -149,8 +149,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00068%3Fprg140729%3D26cd28e8-004e-4ed4-b120-fa2f5f00b640" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00068?prg140729=26cd28e8-004e-4ed4-b120-fa2f5f00b640&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00068?prg140729=26cd28e8-004e-4ed4-b120-fa2f5f00b640">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00068%3Fprg140729%3D6cd6a04c-b931-424b-80f2-6f9cfb9d0e65" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00068?prg140729=6cd6a04c-b931-424b-80f2-6f9cfb9d0e65&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00068?prg140729=6cd6a04c-b931-424b-80f2-6f9cfb9d0e65">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -679,16 +679,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.nanolett.6b00060" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.nanolett.6b00318" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/nalefd/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1056,22 +1046,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acsnano.6b00043?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.6b00043?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.5b07521?src=recsys">Biomineralization-Inspired Synthesis of Copper Sulfide–Ferritin Nanocages as Cancer Theranostics</a>
-                            <div class="achsLabel">
-                             ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jacobson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Niu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3453–3460</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> It is essential to control the size and morphology of nanoparticles strictly in nanomedicine. Protein cages offer significant potential for templated synthesis of inorganic nanoparticles. In this study, we successfully synthesized ultrasmall copper ...<sup></sup><sup></sup></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.5b07521?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.5b07521?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.5b07521?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.5b07521?src=recsys">Hi-Res PDF</a>
-                            </div></li>
                            <li><a href="/doi/abs/10.1021/jacs.6b00007?src=recsys">Size-Controlled Synthesis of Porphyrinic Metal–Organic Framework and Functionalization for Targeted Photodynamic Therapy</a>
                             <div class="achsLabel">
                              Journal of the American Chemical Society
@@ -1088,37 +1062,37 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b00007?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b00007?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b05030?src=recsys">Enhanced Cancer Immunotherapy by Microneedle Patch-Assisted Delivery of Anti-PD1 Antibody</a>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.6b00331?src=recsys">Casp3/7-Instructed Intracellular Aggregation of Fe<sub>3</sub>O<sub>4</sub> Nanoparticles Enhances T<sub>2</sub> MR Imaging of Tumor Apoptosis</a>
                             <div class="achsLabel">
                              Nano Letters
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hochu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sadeghifar</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Gu</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Yuan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ding</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Qian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dong</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Han</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ge</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Luo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhong</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Despite recent advances in melanoma treatment through the use of anti-PD-1 (aPD1) immunotherapy, the efficacy of this method remains to be improved. Here we report an innovative self-degradable microneedle (MN) patch for the sustained delivery of aPD1 in ...</span>
+                             <span><span class="bold">Abstract:</span> Large magnetic nanoparticles or aggregates are advantageous in their magnetic resonance properties over ultrasmall superparamagnetic iron oxide (USPIO) nanoparticles (NPs), but the former are cleared faster from the blood pool. Therefore, the “smart” ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.nanolett.5b05030?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.nanolett.5b05030?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05030?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.nanolett.5b05030?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.nanolett.6b00331?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.6b00331?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00331?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.6b00331?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acsnano.6b00745?src=recsys">Rapid Degradation and High Renal Clearance of Cu<sub>3</sub>BiS<sub>3</sub> Nanodots for Efficient Cancer Diagnosis and Photothermal Therapy <i>in Vivo</i></a>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b07521?src=recsys">Biomineralization-Inspired Synthesis of Copper Sulfide–Ferritin Nanocages as Cancer Theranostics</a>
                             <div class="achsLabel">
                              ACS Nano
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Gu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Guo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jacobson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tian</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Niu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liu</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chen</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                             <span><span class="bold">2016</span> <em>10</em> (3), pp 3453–3460</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A key challenge for the use of inorganic nanomedicines in clinical applications is their long-term accumulation in internal organs, which raises the common concern of the risk of adverse effects and inflammatory responses. It is thus necessary to ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                             <span><span class="bold">Abstract:</span> It is essential to control the size and morphology of nanoparticles strictly in nanomedicine. Protein cages offer significant potential for templated synthesis of inorganic nanoparticles. In this study, we successfully synthesized ultrasmall copper ...<sup></sup><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acsnano.6b00745?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acsnano.6b00745?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acsnano.6b00745?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acsnano.6b00745?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acsnano.5b07521?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b07521?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b07521?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b07521?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acsnano.5b08145?src=recsys">Near Infrared-Guided Smart Nanocarriers for MicroRNA-Controlled Release of Doxorubicin/siRNA with Intracellular ATP as Fuel</a>
                             <div class="achsLabel">
@@ -1135,6 +1109,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/acsnano.5b08145?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/acsnano.5b08145?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acsnano.5b08145?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b12357?src=recsys">Photocleavable Hydrogel-Coated Upconverting Nanoparticles: A Multifunctional Theranostic Platform for NIR Imaging and On-Demand Macromolecular Delivery</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Jalani</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Naccache</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Rosenzweig</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Haglund</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vetrone</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cerruti</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2016</span> <em>138</em> (3), pp 1078–1083</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Lanthanide-doped upconverting nanoparticles (UCNPs) have emerged as excellent nanotransducers for converting longer wavelength near-infrared (NIR) light to shorter wavelengths spanning the ultraviolet (UV) to the visible (Vis) regions of the spectrum via ...<sub></sub><sup></sup><sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b12357?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b12357?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b12357?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b12357?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1187,7 +1177,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.nanolett.6b00068" title="High-Res PDF: 8931 KB" target="_blank"> PDF <span class="details">(8931 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00068" title="Low-Res PDF: 706 KB" target="_blank"> PDF w/ Links <span class="details">(706 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.nanolett.6b00068" title="Low-Res PDF: 708 KB" target="_blank"> PDF w/ Links <span class="details">(708 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.nanolett.6b00068" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1220,9 +1210,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.nanolett.6b00068" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00068%3Fprg140729%3Dd29f3f96-b81b-4945-87f3-fe442a7bace5&amp;doi=10.1021%2Facs.nanolett.6b00068" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00068%3Fprg140729%3Dc517b174-44fc-49e6-b56f-22480ccd1a5b&amp;doi=10.1021%2Facs.nanolett.6b00068" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00068%3Fprg140729%3D26cd28e8-004e-4ed4-b120-fa2f5f00b640&amp;title=Hyaluronidase+To+Enhance+Nanoparticle-Based+Photodynamic+Tumor+Therapy&amp;doi=10.1021%2Facs.nanolett.6b00068" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.nanolett.6b00068%3Fprg140729%3D6cd6a04c-b931-424b-80f2-6f9cfb9d0e65&amp;title=Hyaluronidase+To+Enhance+Nanoparticle-Based+Photodynamic+Tumor+Therapy&amp;doi=10.1021%2Facs.nanolett.6b00068" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

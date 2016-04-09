@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="9ba57d86-d159-480b-ba8c-27f21f4f8afe">
+<html lang="en" class="pb-page" data-request-id="f137c873-2832-439f-987a-e2a2576abe07">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acs.jpca.6b01500;pageGroup:string:Publication Pages;journal:journal:jpcafh;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract;issue:issue:10.1021/jpcafh.ahead-of-print">
   <meta data-pb-head="head-widgets-start"> 
@@ -140,8 +140,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01500%3Fprg140729%3D45662baa-2ce5-4f66-85fd-94281807a2ef" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b01500?prg140729=45662baa-2ce5-4f66-85fd-94281807a2ef&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b01500?prg140729=45662baa-2ce5-4f66-85fd-94281807a2ef">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01500%3Fprg140729%3Dba43507f-6ded-46e1-a719-902a9c6c454a" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b01500?prg140729=ba43507f-6ded-46e1-a719-902a9c6c454a&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b01500?prg140729=ba43507f-6ded-46e1-a719-902a9c6c454a">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -687,16 +687,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpca.6b00424" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpca.6b01761" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpcafh/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1004,6 +994,22 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00424?src=recsys">Structural Analysis of Perfluoropropanoyl Fluoride in the Gas, Liquid, and Solid Phases</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry A
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Berrueta Martínez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reuter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vishnevskiy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bava</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Picone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Romano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stammler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neumann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mitzel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Della Védova</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The coexistence of two conformers in perfluoropropanoyl fluoride, CF<sub>3</sub>CF<sub>2</sub>C(O)F, differing in the CC–CF dihedral angle (<i>gauche</i> 85(10)% and <i>anti</i> 15(10)%), has been determined by means of gas-phase electron diffraction (GED). Quantum-chemical calculations ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpca.6b00424?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.6b00424?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00424?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.6b00424?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b01946?src=recsys">Full-Dimensional Quantum Calculations of Vibrational Levels of NH<sub>4</sub><sup>+</sup> and Isotopomers on An Accurate Ab Initio Potential Energy Surface</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
@@ -1020,36 +1026,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b01946?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b01946?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.5b12581?src=recsys">Thermal Decomposition of 3-Bromopropene. A Theoretical Kinetic Investigation.</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b12581?src=recsys">Thermal Decomposition of 3-Bromopropene. A Theoretical Kinetic Investigation</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tucceri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Badenes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bracco</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cobos</span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> A detailed kinetic study of the gas phase thermal decomposition of 3-bromopropene over wide temperature and pressure ranges has been performed. Quantum chemical calculations employing the DFT methods B3LYP, BMK and M06-2X and the CBS-QB3 and G4 ab initio ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.5b12581?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b12581?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.5b12581?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00424?src=recsys">Structural Analysis of Perfluoropropanoyl Fluoride in the Gas, Liquid, and Solid Phases</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Berrueta Martínez</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reuter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Vishnevskiy</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bava</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Picone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Romano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Stammler</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Neumann</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mitzel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Della Védova</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Tucceri</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Badenes</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bracco</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Cobos</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The coexistence of two conformers in perfluoropropanoyl fluoride, CF<sub>3</sub>CF<sub>2</sub>C(O)F, differing in the CC–CF dihedral angle (<i>gauche</i> 85(10)% and <i>anti</i> 15(10)%), has been determined by means of gas-phase electron diffraction (GED). Quantum-chemical calculations ...</span>
+                             <span><span class="bold">Abstract:</span> A detailed kinetic study of the gas-phase thermal decomposition of 3-bromopropene over wide temperature and pressure ranges was performed. Quantum chemical calculations employing the density functional theory methods B3LYP, BMK, and M06-2X and the CBS-QB3 ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sup></sup><sup></sup><sup></sup><sub></sub><sup></sup></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00424?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00424?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00424?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00424?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.5b12581?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b12581?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b12581?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b12581?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.6b01130?src=recsys">Structural and Energetic Characterization of Prebiotic Molecules: The Case Study of Formamide and Its Dimer</a>
                             <div class="achsLabel">
@@ -1067,21 +1058,21 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/acs.jpca.6b01130?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/acs.jpca.6b01130?src=recsys">Hi-Res PDF</a>
                             </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpca.6b00887?src=recsys">Reactions of Chemically Activated Formic Acid Formed via HĊO + ȮH</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpca.5b10667?src=recsys">New Approach for Investigating Reaction Dynamics and Rates with Ab Initio Calculations</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry A
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Döntgen</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Leonhard</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fleming</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tiwary</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Pfaendtner</span> 
                             <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>120</em> (11), pp 1819–1824</span>
+                             <span><span class="bold">2016</span> <em>120</em> (2), pp 299–305</span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The chemistry of formyl radicals plays an important role in the kinetic modeling of oxygenated hydrocarbons. Here, the fate of rovibrationally excited formic acid produced via HĊO + ȮH is evaluated in a RRKM/Master Equation study. For that purpose, the ...</span>
+                             <span><span class="bold">Abstract:</span> Herein, we demonstrate a convenient approach to systematically investigate chemical reaction dynamics using the metadynamics (MetaD) family of enhanced sampling methods. Using a symmetric S<sub>N</sub>2 reaction as a model system, we applied infrequent metadynamics, ...</span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpca.6b00887?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpca.6b00887?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpca.6b00887?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpca.6b00887?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpca.5b10667?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpca.5b10667?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpca.5b10667?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpca.5b10667?src=recsys">Hi-Res PDF</a>
                             </div></li>
                            <li><a href="/doi/abs/10.1021/acs.jpca.5b11525?src=recsys">Quasi-Classical Trajectory Study of Atom–Diatomic Molecule Collisions in Symmetric Hyperspherical Coordinates: The F + HCl Reaction as a Test Case</a>
                             <div class="achsLabel">
@@ -1150,7 +1141,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpca.6b01500" title="High-Res PDF: 605 KB" target="_blank"> PDF <span class="details">(605 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpca.6b01500" title="Low-Res PDF: 286 KB" target="_blank"> PDF w/ Links <span class="details">(286 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpca.6b01500" title="Low-Res PDF: 266 KB" target="_blank"> PDF w/ Links <span class="details">(266 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpca.6b01500" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1183,9 +1174,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpca.6b01500" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01500%3Fprg140729%3D59aa13f4-9554-44ad-aa7b-f4647780f147&amp;doi=10.1021%2Facs.jpca.6b01500" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01500%3Fprg140729%3D210006c5-8778-4778-bd04-18cf5f5b6990&amp;doi=10.1021%2Facs.jpca.6b01500" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01500%3Fprg140729%3D45662baa-2ce5-4f66-85fd-94281807a2ef&amp;title=The+Trimethylamine%E2%80%93Formic+Acid+Complex%3A+Microwave+Characterization+of+a+Prototype+for+Potential+Precursors+to+Atmospheric+Aerosol&amp;doi=10.1021%2Facs.jpca.6b01500" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpca.6b01500%3Fprg140729%3Dba43507f-6ded-46e1-a719-902a9c6c454a&amp;title=The+Trimethylamine%E2%80%93Formic+Acid+Complex%3A+Microwave+Characterization+of+a+Prototype+for+Potential+Precursors+to+Atmospheric+Aerosol&amp;doi=10.1021%2Facs.jpca.6b01500" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="eed1d96f-68c5-4b40-a0c3-04fe29c119ba">
+<html lang="en" class="pb-page" data-request-id="b9af0838-e161-45dd-af59-1c8a7bbe20f6">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;issue:issue:10.1021/jpccck.ahead-of-print;journal:journal:jpccck;article:article:10.1021/acs.jpcc.6b01504;pageGroup:string:Publication Pages;wgroup:string:ACHS website Group;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -141,8 +141,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01504%3Fprg140729%3D5daf634c-7c6d-422e-b2d3-243fc9cc1f9b" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01504?prg140729=5daf634c-7c6d-422e-b2d3-243fc9cc1f9b&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01504?prg140729=5daf634c-7c6d-422e-b2d3-243fc9cc1f9b">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01504%3Fprg140729%3Db0052750-1a40-474d-a488-81420dcc7af3" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01504?prg140729=b0052750-1a40-474d-a488-81420dcc7af3&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01504?prg140729=b0052750-1a40-474d-a488-81420dcc7af3">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -688,16 +688,6 @@ $(function(){
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="pager issueNavPageContainer"> 
-                       <div class="issueNavigator"> 
-                        <div class="journalNavLeftTd"> 
-                         <span class="prev placedLeft"> <a href="/doi/abs/10.1021/acs.jpcc.6b01400" title="Previous Article"> Previous Article </a> </span> 
-                        </div> 
-                        <div class="journalNavRightTd"> 
-                         <div class="next"> 
-                          <a href="/doi/abs/10.1021/acs.jpcc.6b01649" title="Next Article"> Next Article </a> 
-                         </div> 
-                        </div> 
-                       </div> 
                        <div class="journalNavCenterTd"> 
                         <span class="journalNavTitle"> <a href="/toc/jpccck/0/0">Articles ASAP</a> </span> 
                        </div> 
@@ -1013,36 +1003,101 @@ function addFlashMovie(id, flv, image) {
                           </ul>
                           <ul class="additionalPubList recommendedPubList">
                            <h3 class="relatedArticlesHead">Related Content:</h3>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11930?src=recsys">Adatom Interactions on GaN(0001) Surface I: Coverage Dependent Adsorption</a>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b00435?src=recsys">Reactive Copper Deposition on Au(111) and Mo(001): Role of the Support in the Oxidation Process</a>
                             <div class="achsLabel">
                              The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chugh</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Ranganathan </span>
-                            <div class="recoPubMetaData">
-                             <span><span class="bold"></span> <em>0</em> (ja), </span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> The adsorption of an adatom on the surface of a crystal is affected by the surface coverage, due to adatom-adatom and adatom-substrate interactions. We study the dependence of adsorption energy of Ga and N adatoms on wurtzite GaN(0001) as a function of ...</span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b11930?src=recsys">Abstract</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11930?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11930?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/acs.jpcc.5b11886?src=recsys">Can We Describe Graphene Confined Water Structures as Overlapping of Approaching Graphene–Water Interfacial Structures?</a>
-                            <div class="achsLabel">
-                             The Journal of Physical Chemistry C
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Chialvo</span> and <span class="entryAuthor normal hlFld-ContribAuthor">Vlcek</span> 
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Fedderwitz</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Groß</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sträter</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Nilius</span> 
                             <div class="recoPubMetaData">
                              <span><span class="bold"></span> <em>0</em> (0), </span>
                             </div>
                             <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> We investigate the microscopic mechanisms of the overlap of interfacial structures in confined fluids and attempt to answer the question whether the confined structures can be predicted from the original density profiles of individual solid–fluid ...</span>
+                             <span><span class="bold">Abstract:</span> Photoelectron spectroscopy and scanning tunneling microscopy were used to study the oxidation characteristics of Cu atoms deposited on two different supports, Au(111) and Mo(001). While a thin, homogeneous Cu<sub>2</sub>O film grows on gold, metallic Cu deposits ...<sub></sub></span>
                             </div>
                             <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/acs.jpcc.5b11886?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/acs.jpcc.5b11886?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/acs.jpcc.5b11886?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/acs.jpcc.5b11886?src=recsys">Hi-Res PDF</a>
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b00435?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b00435?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b00435?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b00435?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b02367?src=recsys">Dynamic Equilibrium of Reversible Reactions and Migration of Hydrogen Atoms Mediated by Diffusive Methanol on Rutile TiO<sub>2</sub> (110)-(1 × 1) Surface</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zheng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Tan</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cui</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report our investigation of the reversible reaction of methanol and the migration of hydrogen adatom (H<sub>ad</sub>) on TiO<sub>2</sub>(110)-(1 × 1) surface at various temperatures and methanol coverages using scanning tunneling microscopy joint with density functional ...<sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b02367?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b02367?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b02367?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b02367?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01400?src=recsys">Observation of an Ultrafast Exciton Hopping Channel in Organic Semiconducting Crystals</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kafle</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kattel</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Chan</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> One of the major challenges in using organic semiconductors for photovoltaics is their extremely short exciton diffusion length. Recently, a number of studies have shown that the exciton transport range within the first few picoseconds after ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01400?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01400?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01400?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01400?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.jpcc.6b01344?src=recsys">Synthetic Control of Photophysical Process and Circularly Polarized Luminescence of [5]Carbohelicene Derivatives Substituted by Maleimide Units</a>
+                            <div class="achsLabel">
+                             The Journal of Physical Chemistry C
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Sakai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kubota</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Yuasa</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Araki</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sakanoue</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Takenobu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wada</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kawai</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Hasobe</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> A series of [5]carbohelicene derivatives substituted by electron-withdrawing maleimide and electron-donating methoxy, such as maleimide-substituted [5]carbohelicene (HeliIm) and methoxy-substituted HeliIm (MeO-HeliIm), were newly designed and synthesized ...<sub></sub><sub></sub><sub></sub><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.jpcc.6b01344?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.jpcc.6b01344?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01344?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.jpcc.6b01344?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acsnano.5b05556?src=recsys">Recent Advances in Two-Dimensional Materials beyond Graphene</a>
+                            <div class="achsLabel">
+                             ACS Nano
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Bhimanapati</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Meunier</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jung</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cha</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Das</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xiao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Son</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Strano</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Cooper</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Liang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Louie</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ringe</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhou</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Kim</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Naik</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Sumpter</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Terrones</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Xia</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Wang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Akinwande</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Alem</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schuller</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Schaak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Terrones</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Robinson</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>9</em> (12), pp 11509–11539</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> The isolation of graphene in 2004 from graphite was a defining moment for the “birth” of a field: two-dimensional (2D) materials. In recent years, there has been a rapidly increasing number of papers focusing on non-graphene layered materials, including ...</span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acsnano.5b05556?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acsnano.5b05556?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acsnano.5b05556?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acsnano.5b05556?src=recsys">Hi-Res PDF</a>
+                            </div></li>
+                           <li><a href="/doi/abs/10.1021/acs.nanolett.5b05012?src=recsys">Energy Transfer from Quantum Dots to Graphene and MoS<sub>2</sub>: The Role of Absorption and Screening in Two-Dimensional Materials</a>
+                            <div class="achsLabel">
+                             Nano Letters
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Raja</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Montoya−Castillo</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zultak</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Ye</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Roquelet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Chenet</span>, <span class="entryAuthor normal hlFld-ContribAuthor">van der Zande</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Huang</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Jockusch</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Hone</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Reichman</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Brus</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Heinz</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold"></span> <em>0</em> (0), </span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> We report efficient nonradiative energy transfer (NRET) from core–shell, semiconducting quantum dots to adjacent two-dimensional sheets of graphene and MoS<sub>2</sub> of single- and few-layer thickness. We observe quenching of the photoluminescence (PL) from ...<sup></sup><sub></sub></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/acs.nanolett.5b05012?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/acs.nanolett.5b05012?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/acs.nanolett.5b05012?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/acs.nanolett.5b05012?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1095,7 +1150,7 @@ function addFlashMovie(id, flv, image) {
                              </div> </li> 
                             <li class="icon-item icon-item-24px subordinate pdf-high-res"> <a href="/doi/pdf/10.1021/acs.jpcc.6b01504" title="High-Res PDF: 1989 KB" target="_blank"> PDF <span class="details">(1989 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
-                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01504" title="Low-Res PDF: 397 KB" target="_blank"> PDF w/ Links <span class="details">(397 KB)</span> 
+                            <li class="icon-item icon-item-24px subordinate pdf-low-res"> <a href="/doi/pdfplus/10.1021/acs.jpcc.6b01504" title="Low-Res PDF: 396 KB" target="_blank"> PDF w/ Links <span class="details">(396 KB)</span> 
                               <div class="icon-24px"></div> </a> </li> 
                             <li class="icon-item icon-item-24px subordinate full-text-html "> <a href="/doi/full/10.1021/acs.jpcc.6b01504" title="Full Text HTML"> Full Text HTML 
                               <div class="icon-24px"></div> </a> </li> 
@@ -1128,9 +1183,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facs.jpcc.6b01504" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01504%3Fprg140729%3D7836117f-98b9-48ca-b1b5-c126a9ac3c79&amp;doi=10.1021%2Facs.jpcc.6b01504" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01504%3Fprg140729%3D8b4cb03c-026e-47cb-955b-a5ad62ff3c50&amp;doi=10.1021%2Facs.jpcc.6b01504" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01504%3Fprg140729%3D5daf634c-7c6d-422e-b2d3-243fc9cc1f9b&amp;title=New+Insight+into+H2S+Sensing+Mechanism+of+Continuous+SnO2%E2%80%93CuO+Bilayer+Thin+Film%3A+A+Theoretical+Macroscopic+Approach&amp;doi=10.1021%2Facs.jpcc.6b01504" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facs.jpcc.6b01504%3Fprg140729%3Db0052750-1a40-474d-a488-81420dcc7af3&amp;title=New+Insight+into+H2S+Sensing+Mechanism+of+Continuous+SnO2%E2%80%93CuO+Bilayer+Thin+Film%3A+A+Theoretical+Macroscopic+Approach&amp;doi=10.1021%2Facs.jpcc.6b01504" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 

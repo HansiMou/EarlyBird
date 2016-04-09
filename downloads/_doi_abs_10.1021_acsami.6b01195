@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="pb-page" data-request-id="b0de7601-ff68-4467-a4d9-c0bfc31e3c6e">
+<html lang="en" class="pb-page" data-request-id="4b055562-04e6-4c41-a5f9-22ee46791b66">
  <head data-pb-dropzone="head">
   <meta name="pbContext" content=";website:website:acspubs;article:article:10.1021/acsami.6b01195;pageGroup:string:Publication Pages;journal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.ahead-of-print;page:string:Article/Chapter View;subPage:string:Abstract">
   <meta data-pb-head="head-widgets-start"> 
@@ -147,8 +147,8 @@
                     <div class="wrapped "> 
                      <div class="widget-body body body-none  body-compact-all">
                       <div class="loginBar"> 
-                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01195%3Fprg140729%3D5bdf01e9-9d69-48ea-907e-a1008eabb443" id="loginButton"> Log In </a> </span> 
-                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01195?prg140729=5bdf01e9-9d69-48ea-907e-a1008eabb443&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01195?prg140729=5bdf01e9-9d69-48ea-907e-a1008eabb443">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
+                       <span class="loginLink"> <a href="https://pubs.acs.org/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01195%3Fprg140729%3D57eaebc5-0e53-4f9d-b847-4913ed6d11b5" id="loginButton"> Log In </a> </span> 
+                       <span class="registerLink"> <a id="registerButton" class="registerButton" title="Register for a free ACS ID" href="https://account.acs.org/ssoamweb/account/signUp?url_success=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01195?prg140729=57eaebc5-0e53-4f9d-b847-4913ed6d11b5&amp;url_cancel=http://pubs.acs.org/doi/abs/10.1021/acsami.6b01195?prg140729=57eaebc5-0e53-4f9d-b847-4913ed6d11b5">Register</a> <input type="hidden" class="confirmRegisterMsg" value="To register on this site, you must create an ACS ID on the ACS Society website (www.acs.org). After completing your registration, you will be returned back to the page you were viewing on the ACS Publications website (pubs.acs.org)."> </span> 
                       </div>
                      </div> 
                     </div> 
@@ -1050,6 +1050,22 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/pdfplus/10.1021/jacs.6b01233?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.6b01233?src=recsys">Hi-Res PDF</a>
                             </div></li>
+                           <li><a href="/doi/abs/10.1021/jacs.5b08752?src=recsys">Facile Conversion of Hydroxy Double Salts to Metal–Organic Frameworks Using Metal Oxide Particles and Atomic Layer Deposition Thin-Film Templates</a>
+                            <div class="achsLabel">
+                             Journal of the American Chemical Society
+                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Nunn</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lemaire</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Lin</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Dickey</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Oldham</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Walls</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Peterson</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Losego</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Parsons</span> 
+                            <div class="recoPubMetaData">
+                             <span><span class="bold">2015</span> <em>137</em> (43), pp 13756–13759</span>
+                            </div>
+                            <div class="recoPubAbstract">
+                             <span><span class="bold">Abstract:</span> Rapid room-temperature synthesis of metal–organic frameworks (MOFs) is highly desired for industrial implementation and commercialization. Here we find that a (Zn,Cu) hydroxy double salt (HDS) intermediate formed <i>in situ</i> from ZnO particles or thin films ...<sub></sub><sub></sub><sup></sup><sup></sup><sup></sup></span>
+                            </div>
+                            <div class="linkbar recoPublinkbar">
+                             <a href="/doi/abs/10.1021/jacs.5b08752?src=recsys">Abstract</a> | 
+                             <a href="/doi/full/10.1021/jacs.5b08752?src=recsys">Full Text HTML</a> | 
+                             <a href="/doi/pdfplus/10.1021/jacs.5b08752?src=recsys">PDF w/ Links</a> | 
+                             <a href="/doi/pdf/10.1021/jacs.5b08752?src=recsys">Hi-Res PDF</a>
+                            </div></li>
                            <li><a href="/doi/abs/10.1021/acsami.6b00028?src=recsys">Rapid Construction of ZnO@ZIF-8 Heterostructures with Size-Selective Photocatalysis Properties</a>
                             <div class="achsLabel">
                              ACS Applied Materials &amp; Interfaces
@@ -1113,22 +1129,6 @@ function addFlashMovie(id, flv, image) {
                              <a href="/doi/full/10.1021/jacs.5b11034?src=recsys">Full Text HTML</a> | 
                              <a href="/doi/pdfplus/10.1021/jacs.5b11034?src=recsys">PDF w/ Links</a> | 
                              <a href="/doi/pdf/10.1021/jacs.5b11034?src=recsys">Hi-Res PDF</a>
-                            </div></li>
-                           <li><a href="/doi/abs/10.1021/jacs.5b13491?src=recsys">Systematic and Dramatic Tuning on Gas Sorption Performance in Heterometallic Metal–Organic Frameworks</a>
-                            <div class="achsLabel">
-                             Journal of the American Chemical Society
-                            </div><span class="entryAuthor normal hlFld-ContribAuthor">Zhai</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Bu</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Mao</span>, <span class="entryAuthor normal hlFld-ContribAuthor">Zhao</span>, and <span class="entryAuthor normal hlFld-ContribAuthor">Feng</span> 
-                            <div class="recoPubMetaData">
-                             <span><span class="bold">2016</span> <em>138</em> (8), pp 2524–2527</span>
-                            </div>
-                            <div class="recoPubAbstract">
-                             <span><span class="bold">Abstract:</span> Despite their having much greater potential for compositional and structural diversity, heterometallic metal–organic frameworks (MOFs) reported so far have lagged far behind their homometallic counterparts in terms of CO<sub>2</sub> uptake performance. Now the power ...<sub></sub><sup></sup><sup></sup><sup></sup><sub></sub><sub></sub></span>
-                            </div>
-                            <div class="linkbar recoPublinkbar">
-                             <a href="/doi/abs/10.1021/jacs.5b13491?src=recsys">Abstract</a> | 
-                             <a href="/doi/full/10.1021/jacs.5b13491?src=recsys">Full Text HTML</a> | 
-                             <a href="/doi/pdfplus/10.1021/jacs.5b13491?src=recsys">PDF w/ Links</a> | 
-                             <a href="/doi/pdf/10.1021/jacs.5b13491?src=recsys">Hi-Res PDF</a>
                             </div></li>
                           </ul>
                          </div>
@@ -1213,9 +1213,9 @@ function addFlashMovie(id, flv, image) {
                             <ul class="icons"> 
                              <li class="icon-item icon-item-24px add-favorites"> <a href="/personalize/addFavoritePublication?doi=10.1021%2Facsami.6b01195" title="Add to Favorites"> Add to Favorites 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01195%3Fprg140729%3D192a3727-eee5-42f7-ad14-228780852454&amp;doi=10.1021%2Facsami.6b01195" title="Download Citation"> Download Citation 
+                             <li class="icon-item icon-item-24px download-citation"> <a href="/action/showCitFormats?href=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01195%3Fprg140729%3Db59e3c65-1663-4b27-8108-ea7276c02f9a&amp;doi=10.1021%2Facsami.6b01195" title="Download Citation"> Download Citation 
                                <div class="icon-24px"></div> </a> </li> 
-                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01195%3Fprg140729%3D5bdf01e9-9d69-48ea-907e-a1008eabb443&amp;title=Copper+Benzenetricarboxylate+Metal%E2%80%93Organic+Framework+Nucleation+Mechanisms+on+Metal+Oxide+Powders+and+Thin+Films+formed+by+Atomic+Layer+Deposition&amp;doi=10.1021%2Facsami.6b01195" title="Email a Colleague"> Email a Colleague 
+                             <li class="icon-item icon-item-24px email-colleague citation-alerts"> <a href="/action/showMailPage?href=%2Fdoi%2Fabs%2F10.1021%2Facsami.6b01195%3Fprg140729%3D57eaebc5-0e53-4f9d-b847-4913ed6d11b5&amp;title=Copper+Benzenetricarboxylate+Metal%E2%80%93Organic+Framework+Nucleation+Mechanisms+on+Metal+Oxide+Powders+and+Thin+Films+formed+by+Atomic+Layer+Deposition&amp;doi=10.1021%2Facsami.6b01195" title="Email a Colleague"> Email a Colleague 
                                <div class="icon-24px"></div> </a> </li> 
                              <li class="icon-item icon-item-24px order-reprints"> <a id="orderReprints" title="Order Commercial Reprints" href="http://services.acs.org/pubshelp/passthru.cgi?action=kb&amp;item=1190" target="_blank"> Order Reprints 
                                <div class="icon-24px"></div> </a> </li> 
