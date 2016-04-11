@@ -81,8 +81,6 @@ public class WebCrawler {
 	// downloading url.
 
 	public boolean robotSafe(URL url) {
-		if (url.toString().contains("acs"))
-			return true;
 		String strHost = url.getHost();
 
 		// form URL of the robots.txt file
@@ -121,9 +119,17 @@ public class WebCrawler {
 		// search for "Disallow:" commands.
 		String strURL = url.getFile();
 		int index = 0;
-		while ((index = strCommands.indexOf(DISALLOW, index)) != -1) {
+		String specific = null;
+		for (String valid : strCommands.split("User-agent:")){
+			if (valid.trim().startsWith("*")){
+				specific = valid;
+				break;
+			}
+		}
+		System.out.println(specific);
+		while ((index = specific.indexOf(DISALLOW, index)) != -1) {
 			index += DISALLOW.length();
-			String strPath = strCommands.substring(index);
+			String strPath = specific.substring(index);
 			StringTokenizer st = new StringTokenizer(strPath);
 
 			if (!st.hasMoreTokens())

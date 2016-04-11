@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
@@ -32,18 +33,42 @@ public class FlashChemLit {
 	static HashSet<String> cache = new HashSet<String>();
 
 	public static void main(String[] args) throws Exception {
+		// get the cache file
 		GetCache();
+		
+		// check folder exist or not and delete the outdated
 		CheckFolder();
 
 		// get all the starting urls and set-up
 		GetUrls();
+		/*
 		// System.out.println(startings);
 		// for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
 		// System.out.println("Key = " + entry.getKey() + "\n"
 		// + entry.getValue().print()+"\n");
 		// }
+		 */
+		putCrawlerToWork();
+		
+/*
+		 WebCrawlerNature wc = new WebCrawlerNature();
+		 wc.run(config.folder, urls.get(startings.get(0)), false,
+		 config, driver, cache);
+		 try {
+		 wc.DownloadPages(new URL(
+		 "http://www.nature.com/nature/research/chemical-sciences.html?code=npg_subject_638&year=2016&month=04"));
+		 } catch (MalformedURLException e) {
+		 // TODO Auto-generated catch block
+		 e.printStackTrace();
+		 }
+*/
+	}
+
+	/**
+	 * Description: the method for the Crawler 
+	 */
+	private static void putCrawlerToWork() {
 		System.setProperty("webdriver.chrome.driver", config.cdp);
-		// WebDriver driver = new FirefoxDriver();
 		WebDriver driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 
@@ -75,18 +100,6 @@ public class FlashChemLit {
 				wc.updateCache();
 			}
 		}
-
-		// WebCrawlerNature wc = new WebCrawlerNature();
-		// wc.run(config.folder, urls.get(startings.get(0)), false,
-		// config, driver, cache);
-		// try {
-		// wc.DownloadPages(new URL(
-		// "http://www.nature.com/nature/research/chemical-sciences.html?code=npg_subject_638&year=2016&month=04"));
-		// } catch (MalformedURLException e) {
-		// // TODO Auto-generated catch block
-		// e.printStackTrace();
-		// }
-
 		driver.close();
 	}
 

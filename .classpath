@@ -26,5 +26,8 @@
 	<classpathentry kind="lib" path="lib/selenium-2.53.0/libs/netty-3.5.7.Final.jar"/>
 	<classpathentry kind="lib" path="lib/selenium-2.53.0/libs/phantomjsdriver-1.2.1.jar"/>
 	<classpathentry kind="lib" path="lib/selenium-2.53.0/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-demo-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-5.4.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
