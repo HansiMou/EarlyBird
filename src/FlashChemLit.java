@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
@@ -11,6 +10,12 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.index.IndexWriter;
+import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.store.Directory;
+import org.apache.lucene.store.FSDirectory;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -35,57 +40,89 @@ public class FlashChemLit {
 	public static void main(String[] args) throws Exception {
 		// get the cache file
 		GetCache();
-		
+
 		// check folder exist or not and delete the outdated
 		CheckFolder();
 
 		// get all the starting urls and set-up
 		GetUrls();
 		/*
-		// System.out.println(startings);
-		// for (Map.Entry<String, StartingUrl> entry : urls.entrySet()) {
-		// System.out.println("Key = " + entry.getKey() + "\n"
-		// + entry.getValue().print()+"\n");
-		// }
+		 * // System.out.println(startings); // for (Map.Entry<String,
+		 * StartingUrl> entry : urls.entrySet()) { //
+		 * System.out.println("Key = " + entry.getKey() + "\n" // +
+		 * entry.getValue().print()+"\n"); // }
 		 */
-		
-//		putCrawlerToWork();
-		
+
+		// putCrawlerToWork();
+
+//		deleteOutdateIndex();
 		createIndex();
-		
-/*
-		 WebCrawlerNature wc = new WebCrawlerNature();
-		 wc.run(config.folder, urls.get(startings.get(0)), false,
-		 config, driver, cache);
-		 try {
-		 wc.DownloadPages(new URL(
-		 "http://www.nature.com/nature/research/chemical-sciences.html?code=npg_subject_638&year=2016&month=04"));
-		 } catch (MalformedURLException e) {
-		 // TODO Auto-generated catch block
-		 e.printStackTrace();
-		 }
-*/
+
+		/*
+		 * WebCrawlerNature wc = new WebCrawlerNature(); wc.run(config.folder,
+		 * urls.get(startings.get(0)), false, config, driver, cache); try {
+		 * wc.DownloadPages(new URL(
+		 * "http://www.nature.com/nature/research/chemical-sciences.html?code=npg_subject_638&year=2016&month=04"
+		 * )); } catch (MalformedURLException e) { // TODO Auto-generated catch
+		 * block e.printStackTrace(); }
+		 */
+	}
+
+	/**
+	 * Description:
+	 */
+	private static void deleteOutdateIndex() {
+		// TODO Auto-generated method stub
+		File indexfolder = new File(config.indexfolder);
+		if (!indexfolder.exists())
+			return;
+		else {
+			return;
+		}
 	}
 
 	/**
 	 * Description: use the Lucene to create index
 	 */
 	private static void createIndex() {
+		File indexfolder = new File(config.indexfolder);
+		if (!indexfolder.exists()) {
+			indexfolder.mkdir();
+		}
+
+		StandardAnalyzer analyzer = new StandardAnalyzer();
+		IndexWriterConfig configl = new IndexWriterConfig(analyzer);
+		IndexWriter writer = null;
+		Directory directory;
+//		try {
+//			directory = FSDirectory.open(indexfolder.toPath());
+//			writer = new IndexWriter(directory, configl);
+//		} catch (IOException e1) {
+//			// TODO Auto-generated catch block
+//			e1.printStackTrace();
+//		}
+
 		HTMLHandler hh = new HTMLHandler();
 		// TODO Auto-generated method stub
-		File dir = new File(config.folder);
-		for (File f : dir.listFiles()){
-			int x = hh.numOfWeeksToNow(f);
-			if (x >= config.weeknum)
-				f.delete();
+		File dir = new File(config.dnfolder);
+		for (File f : dir.listFiles()) {
+			Document doc;
+			try {
+				doc = new HTMLHandler().getDocument(f);
+				// if (doc != null)
+				// writer.addDocument(doc);
+				// System.out.println(f.getPath());
+				// System.out.println(doc.getField("title").stringValue() +
+				// "\n");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		}
 	}
-	
 
 	/**
-
-	/**
-	 * Description: the method for the Crawler 
+	 * /** Description: the method for the Crawler
 	 */
 	private static void putCrawlerToWork() {
 		System.setProperty("webdriver.chrome.driver", config.cdp);
@@ -94,30 +131,30 @@ public class FlashChemLit {
 
 		for (int i = 0; i < startings.size(); i++) {
 			if (startings.get(i).contains(".acs.")) {
-//				WebCrawlerACS wc = new WebCrawlerACS();
-//				wc.run(config.folder, urls.get(startings.get(i)), false,
-//						config, driver, cache);
-//				wc.updateCache();
+				WebCrawlerACS wc = new WebCrawlerACS();
+				wc.run(config.dnfolder, urls.get(startings.get(i)), false,
+						config, driver, cache);
+				wc.updateCache();
 			} else if (startings.get(i).contains("science.sciencemag.org")) {
 				WebCrawlerSci wc = new WebCrawlerSci();
-				wc.run(config.folder, urls.get(startings.get(i)), false,
+				wc.run(config.dnfolder, urls.get(startings.get(i)), false,
 						config, driver, cache);
 				wc.updateCache();
 			} else if (startings.get(i).contains("/nature/")) {
-//				WebCrawlerNature wc = new WebCrawlerNature();
-//				wc.run(config.folder, urls.get(startings.get(i)), false,
-//						config, driver, cache);
-//				wc.updateCache();
+				WebCrawlerNature wc = new WebCrawlerNature();
+				wc.run(config.dnfolder, urls.get(startings.get(i)), false,
+						config, driver, cache);
+				wc.updateCache();
 			} else if (startings.get(i).contains(".nature.")) {
-//				WebCrawlerNatureXX wc = new WebCrawlerNatureXX();
-//				wc.run(config.folder, urls.get(startings.get(i)), false,
-//						config, driver, cache);
-//				wc.updateCache();
+				WebCrawlerNatureXX wc = new WebCrawlerNatureXX();
+				wc.run(config.dnfolder, urls.get(startings.get(i)), false,
+						config, driver, cache);
+				wc.updateCache();
 			} else if (startings.get(i).contains("wiley")) {
-//				WebCrawlerWiley wc = new WebCrawlerWiley();
-//				wc.run(config.folder, urls.get(startings.get(i)), false,
-//						config, driver, cache);
-//				wc.updateCache();
+				WebCrawlerWiley wc = new WebCrawlerWiley();
+				wc.run(config.dnfolder, urls.get(startings.get(i)), false,
+						config, driver, cache);
+				wc.updateCache();
 			}
 		}
 		driver.close();
@@ -186,7 +223,7 @@ public class FlashChemLit {
 				} else if (str.startsWith("First_Level_Pre_Filter")) {
 					u.flpre = str.split("::")[1].trim();
 					if (u.name.equals("Nature")) {
-						NAddLastTwoWeekJournal(u);
+						NAddLastFewWeekJournal(u);
 						u = new StartingUrl();
 					}
 				} else if (str.startsWith("First_Level_Post_Filter")) {
@@ -218,7 +255,7 @@ public class FlashChemLit {
 	/**
 	 * Description: expecially designed for Nature
 	 */
-	private static void NAddLastTwoWeekJournal(StartingUrl u) {
+	private static void NAddLastFewWeekJournal(StartingUrl u) {
 		// the start date
 		Calendar start = new GregorianCalendar();
 		start.setTime(new Date());
@@ -309,7 +346,7 @@ public class FlashChemLit {
 	 */
 	private static void CheckFolder() {
 		// TODO Auto-generated method stub
-		File file = new File(config.folder);
+		File file = new File(config.dnfolder);
 		if (!file.exists() && !file.isDirectory()) {
 			// if folder does not exist, then make one.
 			file.mkdir();
@@ -321,10 +358,10 @@ public class FlashChemLit {
 				long modifiedTime = file.lastModified();
 				// current time
 				long now = new Date().getTime();
-				
-				//threshold
-				long threshold = config.weeknum*7*24*3600*1000;
-				if (now-modifiedTime > threshold)
+
+				// threshold
+				long threshold = config.weeknum * 7 * 24 * 3600 * 1000;
+				if (now - modifiedTime > threshold)
 					file2.delete();
 			}
 		}

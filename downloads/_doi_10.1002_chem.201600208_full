@@ -1,0 +1,1055 @@
+<!doctype html>
+<!--[if lt IE 7]>
+    <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 7]>
+    <html class="no-js lt-ie10 lt-ie9 lt-ie8 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 8]>
+    <html class="no-js lt-ie10 lt-ie9 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if IE 9]>
+    <html class="no-js lt-ie10 is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if gt IE 9]>
+    <html class="no-js is-ie" lang="en" data-application="loading" >
+<![endif]-->
+<!--[if (!IE)]><!-->
+<html class="no-js" lang="en" data-application="loading">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <title> Dithioacetal Exchange: A New Reversible Reaction for Dynamic Combinatorial Chemistry - Orrillo - 2016 - Chemistry – A European Journal -  Wiley Online Library</title> 
+  <link rel="shortcut icon" type="image/x-icon" href="http://onlinelibrary.wiley.com:80/enhanced/static/images/brand/wiley/favicon.ico?version=1.11.2"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+  <meta name="description" content=""> 
+  <meta name="robots" content="noarchive"> 
+  <meta name="citation_doi" content="10.1002/chem.201600208"> 
+  <meta name="citation_journal_title" content="Chemistry – A European Journal"> 
+  <meta name="citation_title" content="Dithioacetal Exchange: A New Reversible Reaction for Dynamic Combinatorial Chemistry"> 
+  <meta name="citation_keywords" content="dithioacetal exchange"> 
+  <meta name="citation_keywords" content="dynamic combinatorial chemistry"> 
+  <meta name="citation_keywords" content="reversible reaction"> 
+  <meta name="citation_keywords" content="systems chemistry"> 
+  <meta name="citation_issn" content="1521-3765"> 
+  <meta name="article_references" content="Orrillo, A. G., Escalante, A. M. and Furlan, R. L. E. (2016), Dithioacetal Exchange: A New Reversible Reaction for Dynamic Combinatorial Chemistry. Chem. Eur. J.. doi:10.1002/chem.201600208"> 
+  <meta name="citation_language" content="en"> 
+  <meta name="citation_publication_date" content="2016/04/01"> 
+  <meta name="citation_online_date" content="2016/04/05"> 
+  <meta name="citation_author" content="Orrillo, A. Gastón"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Instituto de Investigaciones para el Descubrimiento de Fármacos de Rosario (IIDEFAR, UNR-CONICET) Rosario Argentina"> 
+  <meta name="citation_author" content="Escalante, Andrea M."> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Instituto de Investigaciones para el Descubrimiento de Fármacos de Rosario (IIDEFAR, UNR-CONICET) Rosario Argentina"> 
+  <meta name="citation_author" content="Furlan, Ricardo L. E."> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Instituto de Investigaciones para el Descubrimiento de Fármacos de Rosario (IIDEFAR, UNR-CONICET) Rosario Argentina"> 
+  <meta xmlns="http://www.w3.org/1999/xhtml" name="citation_author_institution" content="Universidad Nacional de Rosario Farmacognosia, Facultad de Ciencias Bioquímicas y Farmacéuticas Rosario Argentina"> 
+  <meta name="citation_abstract_html_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600208/abstract"> 
+  <meta name="citation_fulltext_html_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600208/full"> 
+  <meta name="citation_pdf_url" content="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600208/pdf"> 
+  <link rel="stylesheet" media="screen" href="http://cdn.wol2.wiley.com/external/fonts/open-sans/open-sans.css"> 
+  <!--[if lt IE 9]>
+        <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/common/css/wol-common-ie.css?version=1.11.2"/>
+        <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/css/wol-article-ie.css?version=1.11.2"/>
+    <![endif]--> 
+  <!--[if gt IE 8]><!--> 
+  <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/common/css/wol-common.css?version=1.11.2"> 
+  <link rel="stylesheet" href="http://onlinelibrary.wiley.com:80/enhanced/static/css/wol-article.css?version=1.11.2"> 
+  <!--<![endif]--> 
+  <script src="http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/modernizr.custom.js?version=1.11.2"></script> 
+  <!--[if gt IE 8]><!--> 
+  <script>
+        //<![CDATA[
+        Modernizr.load([
+            {
+                test: window.matchMedia,
+                nope: 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/polyfills/matchMedia.js?version=1.11.2'
+            },
+            {
+                test: window.matchMedia && window.matchMedia( 'all' ).addListener,
+                nope: 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/polyfills/matchMedia.addListener.js?version=1.11.2'
+            }
+        ]);
+        //]]>
+    </script> 
+  <!--<![endif]--> 
+  <script type="text/javascript">
+        //<![CDATA[
+        wol2datalayer = window.wol2datalayer ? wol2datalayer : {};
+                    wol2datalayer.server="onlinelibrary.wiley.com";
+                    wol2datalayer.pageName="Dithioacetal Exchange: A New Reversible Reaction for Dynamic Combinatorial Chemistry - Orrillo - 2016 - Chemistry \u2013 A European Journal";
+                    wol2datalayer.channel="JOURNALS";
+                    wol2datalayer.prop1="FULLTEXT";
+                    wol2datalayer.prop2="ENHANCED FULLTEXT_HTML";
+                    wol2datalayer.prop3="Chemistry \u2013 A European Journal";
+                    wol2datalayer.prop4="CH00,CH70,CH80,CH90,CHB0,CHD0,MS00";
+                    wol2datalayer.prop5="";
+                    wol2datalayer.prop7="Dithioacetal Exchange: A New Reversible Reaction for Dynamic Combinatorial Chemistry";
+                    wol2datalayer.prop8="";
+                    wol2datalayer.prop9="free";
+                    wol2datalayer.prop10="subscription";
+                    wol2datalayer.prop11="PDF and HTML";
+                    wol2datalayer.prop12="6";
+                    wol2datalayer.prop13="10.1002\/(ISSN)1521-3765";
+                    wol2datalayer.prop14="10.1002\/chem.201600208";
+                    wol2datalayer.prop15="Early View";
+                    wol2datalayer.prop16="$esc.javascript($entry.getValue())";
+                    wol2datalayer.prop18="05 APR 2016";
+                    wol2datalayer.prop33="CH00";
+                    wol2datalayer.prop35="";
+                    wol2datalayer.events="event60";
+                    wol2datalayer.prop26="Guest";
+        
+        //]]>
+    </script> 
+  <script type="text/javascript">
+      //<![CDATA[
+      document.write("<scr"+"ipt type=\"text/javascript\" src=\"//assets.adobedtm.com/6e626c9ec247e474f6b98eb15a79a185cf7e26a5/satelliteLib-d0317bde5157000144848f23fbb44a4de679c053.js\"></sc"+"ript>");
+      //]]>
+    </script> 
+  <script>
+        var gs_channels = 'default';
+    </script> 
+  <script src="http://wiley.grapeshot.co.uk/main/channels.cgi?url=http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201600208/full"></script> 
+  <script>
+        var digitalData         = digitalData || {};
+        digitalData.dartZone    = 'wly.chemistry_000033/chem-euro-j_2111';
+    </script> 
+  <script>
+        var googletag       = googletag       || {};
+        googletag.cmd       = googletag.cmd   || [];
+
+        ( function () {
+            var gads = document.createElement ( 'script' ) ,
+                node = document.getElementsByTagName ( 'script' ) [ 0 ] ;
+            gads.async  = true;
+            gads.src    = document.location.protocol + '//www.googletagservices.com/tag/js/gpt.js';
+            node.parentNode.insertBefore ( gads , node );
+        }) ();
+    </script> 
+  <script>
+        googletag.cmd.push ( function () {
+            // Mapping for mobile images sizes
+            var sizes = {
+                    leaderboard : googletag.sizeMapping ()
+                        .addSize ([ 300 , 100 ] , [ 300 , 50 ])
+                        .addSize ([ 740 , 100 ] , [ 728 , 90 ])
+                        .addSize ([ 0 , 0 ]     , 'fluid' )
+                        .build () ,
+                    skyscraper : googletag.sizeMapping ()
+                        .addSize ([ 1200 , 0 ] , [ 160 , 600 ])
+                        .addSize ([ 1200 , 0 ] , [ 160 , 320 ])
+                        .addSize ([ 1200 , 0 ] , [ 160 , 160 ])
+                        .addSize ([ 1200 , 0 ] , [ 120 , 600 ])
+                        .build ()
+                };
+
+            googletag.pubads ()
+                .setTargeting ( 'WOL-Page-Type'               , "FULLTEXT" )
+                .setTargeting ( 'WOL-Page-Subtype'            , "ENHANCED FULLTEXT_HTML" )
+                .setTargeting ( 'WOL-Subject-Codes'           , "CH00,CH70,CH80,CH90,CHB0,CHD0,MS00" )
+                .setTargeting ( 'WOL-Article-Access-State'    , "free" )
+                .setTargeting ( 'WOL-Pub-Access-Status'       , "subscription" )
+                .setTargeting ( 'WOL-Article-Availability'    , "PDF and HTML" )
+                .setTargeting ( 'WOL-Journal-DOI'             , "10.1002\/(ISSN)1521-3765" )
+                .setTargeting ( 'WOL-Article-Chapter-DOI'     , "10.1002\/chem.201600208" )
+                .setTargeting ( 'WOL-Issue-DOI'               , "Early View" )
+                .setTargeting ( 'WOL-Site-Search-Query'       , "" )
+                .setTargeting ( 'WOL-User-login-Status'       , "Guest" )
+                .setTargeting ( 'WOL-Primary-Subject-Code'    , "CH00" )
+                .setTargeting ( 'WOL-Hub-ID'                  , "" )
+                .setTargeting ( 'gs_cat'                      , gs_channels );
+
+            googletag.defineSlot (
+                    '/2215/wly.chemistry_000033/chem-euro-j_2111'  ,
+                    'fluid'                     ,
+                    'advert-leaderboard'
+                )
+                .defineSizeMapping ( sizes.leaderboard )
+                .addService ( googletag.pubads ())
+                .setCollapseEmptyDiv ( true );
+
+            googletag.defineSlot (
+                    '/2215/wly.chemistry_000033/chem-euro-j_2111'  ,
+                    'fluid'                     ,
+                    'advert-skyscraper'
+                )
+                .defineSizeMapping ( sizes.skyscraper )
+                .addService ( googletag.pubads ())
+                .setCollapseEmptyDiv ( true );
+
+            // Enable services
+            googletag.pubads ().enableSingleRequest ();
+            googletag.enableServices ();
+        });
+    </script> 
+ </head> 
+ <body data-type="default"> 
+  <script>
+    var dataLayer = window.dataLayer ? dataLayer : {};
+    dataLayer.pageType = 'FULLTEXT';
+    dataLayer.contentAvailability = 'PDF and HTML';
+</script> 
+  <div id="js-viewport-main" class="l-viewport-main prim-nav-container"> 
+   <header class="header clearfix" role="banner"> 
+    <div class="ribbon"> 
+     <span class="ribbon__quarter ribbon__first"></span> 
+     <span class="ribbon__quarter ribbon__second"></span> 
+     <span class="ribbon__quarter ribbon__third"></span> 
+     <span class="ribbon__quarter ribbon__fourth"></span> 
+    </div> 
+    <div class="l-header-container"> 
+     <div class="l-header clearfix"> 
+      <span class="header__logo"> <a href="http://onlinelibrary.wiley.com"> <img src="http://onlinelibrary.wiley.com:80/enhanced/static/common/images/brand/wiley/header-logo.png?version=1.11.2" alt="Wiley Online Library"> </a> </span> 
+      <ul class="header__user-access u-horizontal-list"> 
+       <li> <a href="#main-content" class="is-accessible header__user-access-skip-link">Skip to main content</a> </li> 
+       <li> <a href="https://secure.onlinelibrary.wiley.com/secure/login/?originalUrl=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fchem.201600208%2Ffull%3Fwol1URL%3D%2Fdoi%2F10.1002%2Fchem.201600208%2Ffull&amp;wolSessionId=61f5d15536084759a0f0caed3da83c7a" class="header__user-access-link"> <span class="icon icon__avatar"></span> <span class="header__user-access-link-text">Log in / Register</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </header> 
+   <img src="http://onlinelibrary.wiley.com/createAccessReportingEvent?doi=10.1002%2Fchem.201600208"> 
+   <aside class="advert-leaderboard__container"> 
+    <div id="advert-leaderboard" class="advert" role="complementary"> 
+     <div class="advert-leaderboard__title">
+      Advertisement
+     </div> 
+     <script>
+                googletag.cmd.push ( function () {
+                    googletag.display ( 'advert-leaderboard' );
+                });
+            </script> 
+     <noscript> 
+      <a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=728x90&amp;tile=1&amp;c=233058743" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=728x90&amp;tile=1&amp;c=233058743"> </a> 
+     </noscript> 
+    </div> 
+   </aside> 
+   <div class="l-main main" role="main"> 
+    <div class="l-article l-article--left"> 
+     <ul class="meta-navigation u-list-plain"> 
+      <li class="meta-navigation__item"> <a id="wol1backlink" href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201600208/full" class="meta-navigation__return"> <span class="icon icon__return"></span> <span>Go to old article view</span> </a> </li> 
+     </ul> 
+     <div id="js-viewport-mini" class="l-viewport-mini"> 
+      <div id="js-article-nav" class="l-article-nav js-module" data-module="toolbar"> 
+       <div id="js-article-tools" class="article-tools"> 
+        <ul class="article-tools__bar"> 
+         <li class="article-tools__tool article-tools__tool--set js-module" data-module="textresize"></li> 
+         <li class="article-tools__tool article-tools__tool--set article-tools__tool--share js-module" data-module="add-this" data-doi="10.1002/chem.201600208"></li> 
+        </ul> 
+        <ul class="article-tools__list"> 
+         <li> <a href="#article-nav" id="article-nav-menu" class="article-tools__item-link article-tools__item-link--menu" data-tool-type="article-nav" title="Article navigation"> <span class="article-tools__item-link-text">Go To<span class="icon icon__chevron-right"></span></span> <span class="is-accessible"> article navigation</span> </a> 
+          <nav id="article-nav" class="article-tools__article-nav js-module" data-module="article-nav" role="navigation"> 
+           <p class="article-tools__article-nav-title">Navigate this article</p> 
+           <div class="article-tools__article-nav-scrollpane"> 
+            <ul class="article-tools__article-nav-list"> 
+             <li class="article-tools__article-nav-item"> <a href="#abstract" class="js-scrollto article-tools__article-nav-item-link"> <span class="icon icon__chevron"></span>Abstract </a> </li> 
+             <li> 
+              <hr> </li> 
+             <li class="article-tools__article-nav-item"> <a href="#footer-support-info" data-analytics-revealed-panel="references" class="js-scrollto article-tools__article-nav-item-link article-tools__article-nav-item-link--panel-reveal">Supporting Information</a> </li> 
+             <li class="article-tools__article-nav-item"> <a href="#references-section" data-analytics-revealed-panel="references" class="js-scrollto article-tools__article-nav-item-link article-tools__article-nav-item-link--panel-reveal">References</a> </li> 
+             <li class="article-tools__article-nav-item citations__link"> <a href="#footer-citing" data-analytics-revealed-panel="footer-citing" class="js-scrollto article-tools__article-nav-item-link article-tools__article-nav-item-link--panel-reveal">Citing Literature</a> </li> 
+            </ul> 
+           </div> 
+          </nav> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <article class="journal js-journal"> 
+       <header class="journal-header"> 
+        <a class="journal-header__name journal-header__name--normal" href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765"> 
+         <div class="journal-header__name-link"> 
+          <strong class="journal-header__name-title">Chemistry – A European Journal</strong> 
+          <div class="journal-header__link">
+           Explore this journal &gt;
+          </div> 
+         </div> </a> 
+        <ul class="u-horizontal-list"> 
+         <li> <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765" class="journal-header__logo"> <img src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2F%28ISSN%291521-3765/asset/olalertbanner.jpg?l=SkaBT8QEx2qTQZnRtCT6QPhcLJA52yymxHPBeYaFWucLC58DhbjndxPt4K%2FLlREj" alt="Chemistry – A European Journal" class="journal-header__logo-img"> 
+           <div class="journal-header__link">
+            Explore this journal &gt;
+           </div> </a> </li> 
+        </ul> 
+       </header> 
+       <article class="issue"> 
+        <div class="issue-header js-module" data-module="issue-header"> 
+         <nav class="issue-header__nav" role="navigation"> 
+          <div class="issue-header__nav-control"> 
+           <div class="issue-header__sub-title"> 
+            <span class="weight-bold">Early View</span> 
+           </div> 
+           <div class="issue-header__image-wrapper"> 
+            <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/earlyview" class="issue-header__image-link"> <img src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.v22.16/asset/cover.gif?l=SkaBT8QEx2q6ifHMLifR1GS%2B1vV2seqA8Q9Jd21y7zCS%2F5O1u5tb9w%3D%3D" class="issue-header__image" alt="Chemistry – A European Journal"> </a> 
+            <ol class="u-list-plain"> 
+             <li> <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201600214" class="issue-header__arrow--left issue-header__arrow"> <span class="icon icon__arrow icon__arrow--left"></span> <span class="is-accessible">Previous article in Early View: Carbon-Nanotube-Mediated Electrochemical Transition in a Redox-Active Supramolecular Hydrogel Derived from Viologen and an l-Alanine-Based Amphiphile</span> </a> <p class="issue-header__tooltip issue-header__tooltip--left"> <span class="icon icon__chevron-up"></span> <span class="issue-header__tooltip-header">Previous article in Early View:</span> Carbon-Nanotube-Mediated Electrochemical Transition in a Redox-Active Supramolecular Hydrogel Derived from Viologen and an l-Alanine-Based Amphiphile </p> </li> 
+             <li> <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201504848" class="issue-header__arrow--right issue-header__arrow"> <span class="icon icon__arrow icon__arrow--right"></span> <span class="is-accessible">Next article in Early View: Tungsten Biscorroles: New Chiral Sandwich Compounds</span> </a> <p class="issue-header__tooltip issue-header__tooltip--right"> <span class="icon icon__chevron-up"></span> <span class="issue-header__tooltip-header">Next article in Early View:</span> Tungsten Biscorroles: New Chiral Sandwich Compounds </p> </li> 
+            </ol> 
+           </div> 
+           <p class="issue-header__description"> <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765/earlyview" class="issue-header__link">Browse Early View Articles</a><br> Online Version of Record published before inclusion in an issue</p> 
+          </div> 
+         </nav> 
+        </div> 
+        <article id="main-content" class="article js-module" data-module="Article">
+         <header class="js-module article-header" data-module="ArticleHeader">
+          <div class="article-header__intro">
+           <span class="article-header__category article-category">Communication</span>
+           <h1 class="article-header__title" lang="en">Dithioacetal Exchange: A New Reversible Reaction for Dynamic Combinatorial Chemistry</h1>
+           <div class="article-header__authors-container">
+            <h2 class="is-accessible">Authors</h2>
+            <ul class="article-header__authors_list js-module" data-module="keyboardHover">
+             <li class="article-header__authors-item" data-hover-container="author1" data-author-name="Dr. A. Gastón Orrillo"><h3 class="article-header__authors-name" data-hover-control="author1">Dr. A. Gastón Orrillo,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author1">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Instituto de Investigaciones para el Descubrimiento de Fármacos de Rosario (IIDEFAR, UNR-CONICET), Rosario, Argentina</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. A. Gastón Orrillo"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20A.%20Gast%C3%B3n%20Orrillo%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. A. Gastón Orrillo"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author2" data-author-name="Dr. Andrea M. Escalante"><h3 class="article-header__authors-name" data-hover-control="author2">Dr. Andrea M. Escalante,</h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author2">
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Instituto de Investigaciones para el Descubrimiento de Fármacos de Rosario (IIDEFAR, UNR-CONICET), Rosario, Argentina</li>
+               </ol>
+               <span class="after-author-correspondence" data-author-name="Dr. Andrea M. Escalante"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Dr.%20Andrea%20M.%20Escalante%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Dr. Andrea M. Escalante"></span>
+              </div></li>
+             <li class="article-header__authors-item" data-hover-container="author3" data-author-name="Prof. Dr. Ricardo L. E. Furlan"><h3 class="article-header__authors-name" data-hover-control="author3">Prof. Dr. Ricardo L. E. Furlan<span class="icon icon__article-header icon__email"></span></h3>
+              <div class="article-header__author-content js-module" data-module="contentRevealer" data-hover-content="author3">
+               <span class="article-header__corresponding-auth">Corresponding author</span>
+               <ul class="article-header__authors-item-details">
+                <li><span class="article-header__authors-item-label">E-mail address: </span><a href="mailto:furlan@iidefar-conicet.gob.ar" title="Link to email address" class="article-header__authors-item-email">furlan@iidefar-conicet.gob.ar</a></li>
+               </ul>
+               <ol class="article-header__authors-item-aff-addr">
+                <li>Instituto de Investigaciones para el Descubrimiento de Fármacos de Rosario (IIDEFAR, UNR-CONICET), Rosario, Argentina</li>
+                <li>Farmacognosia, Facultad de Ciencias Bioquímicas y Farmacéuticas, Universidad Nacional de Rosario, Rosario, Argentina</li>
+               </ol>
+               <ul class="article-header__authors-item-corresp-addr">
+                <li><i class="icon icon__authors-corresp-addr"></i></li>
+               </ul>
+               <span class="after-author-correspondence" data-author-name="Prof. Dr. Ricardo L. E. Furlan"></span>
+               <a class="article-header__search-for-papers" href="http://onlinelibrary.wiley.com/advanced/search/results?searchRowCriteria%5B0%5D.fieldName=author&amp;start=1&amp;resultsPerPage=20&amp;searchRowCriteria%5B0%5D.queryString=%22Prof.%E2%80%85Dr.%20Ricardo%20L.%20E.%20Furlan%22">Search for more papers by this author</a>
+               <span class="author-content-bottom" data-author-name="Prof. Dr. Ricardo L. E. Furlan"></span>
+              </div></li>
+            </ul>
+           </div>
+           <div class="article-header__meta-info-container">
+            <ul id="header-meta-info-container" class="article-header__meta-info-list">
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label">First published: </span><time class="article-header__meta-info-data" datetime="2016-04-05" id="first-published-date">5 April 2016</time><a href="#publication-history" class="article-header__meta-info-2nd-data js-publication-history">Full publication history</a></li>
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label" id="header-section-doi">DOI: </span><span class="article-header__meta-info-data">10.1002/chem.201600208</span><a href="/enhanced/exportCitation/doi/10.1002/chem.201600208" class="article-header__meta-info-2nd-data analytics-view-citation js-module" data-module="fragment">View/save citation</a></li>
+             <li class="article-header__meta-info-item"><span class="article-header__meta-info-label">Cited by: </span><span class="article-header__meta-info-data"><span id="js-citations__count">0</span> articles </span><a class="article-header__meta-info-2nd-data citations__control js-module" href="http://onlinelibrary.wiley.com/enhanced/refreshCitedBy?doi=10.1002/chem.201600208&amp;refreshCitedByCounter=true" data-module="citations">Check for new citations</a><a href="#footer-citing" class="js-scrollto article-header__meta-info-2nd-data citations__link">Citing literature</a></li>
+             <li class="article-header__meta-info-item">
+              <div data-module="alt-metrics" class="js-module altmetric-embed" data-badge-type="1" data-doi="10.1002/chem.201600208" data-badge-popover="bottom" data-link-target="_blank"></div></li>
+             <li class="article-header__meta-info-item"><a href="#funding-information" class="article-header__meta-info-2nd-data js-funding-info">Funding Information</a></li>
+            </ul>
+           </div>
+          </div>
+          <hr>
+         </header>
+         <section id="abstract" class="article-section article-section--abstract">
+          <div id="en_main_abstract" class="article-section__content mainAbstract" lang="en">
+           <h2 class="article-section__header">Abstract</h2>
+           <p>Reversibility of dithioacetal bond formation is reported under acidic mild conditions. Its utility for dynamic combinatorial chemistry was explored by combining it with orthogonal disulfide exchange. In such a setup, thiols are positioned at the intersection of both chemistries, constituting a connecting node between temporally separated networks.</p>
+          </div>
+         </section>
+         <span id="after-abstract"></span>
+         <div id="js-feedback" class="feedback feedback--maximised js-module" data-module="feedback">
+          <a href="https://wileyonlinelibrary.uservoice.com/" class="feedback__content-link feedback__content-link--open" target="_blank">Provide feedback or get help</a>
+          <div class="feedback__content">
+           <span class="feedback__content-title">You are viewing our new enhanced HTML article.</span> 
+           <p class="feedback__content-paragraph"> If you can't find a tool you're looking for, please click the link at the top of the page to "Go to old article view". Alternatively, view our <a href="https://wileyonlinelibrary.uservoice.com" class="feedback__content-link" target="_blank"> Knowledge Base articles </a> for additional help. Your feedback is important to us, so please <a href="https://wileyonlinelibrary.uservoice.com" class="feedback__content-link" target="_blank"> let us know </a> if you have comments or ideas for improvement. </p>
+          </div>
+         </div>
+         <section id="pdf-section" class="article-section article-section__pdf-container js-pdf-content">
+          <ul class="box-actions__wrapper">
+           <li class="box-actions box-actions--readcube"><a href="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600208/epdf" class="js-article-section__pdf-container-link article-section__pdf-container-link"><span class="icon icon__readcube"></span><span class="js-article-section__pdf-container-title box-actions__title">Enhanced PDF</span></a></li>
+           <li class="box-actions"><a href="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600208/pdf" class="js-article-section__pdf-container-link article-section__pdf-container-link"><span class="icon icon__pdf"></span><span class="js-article-section__pdf-container-title box-actions__title">Standard PDF</span><span class="js-article-section__pdf-container-size box-actions__meta"> (798.5 KB) </span></a></li>
+          </ul>
+         </section>
+         <section class="article-section article-body-section" id="chem201600208-sec-0001">
+          <p>Dynamic combinatorial chemistry (DCC) has emerged as a strategy aimed at combining molecular diversity generation, self-selection of host–guest pairs, and purification in one pot.[<a href="#chem201600208-bib-0001" rel="references:#chem201600208-bib-0001" class="link__reference js-link__reference" title="Link to bibliographic citation">1</a>] Nowadays, applications of DCC range from molecular recognition,[<a href="#chem201600208-bib-0002" rel="references:#chem201600208-bib-0002" class="link__reference js-link__reference" title="Link to bibliographic citation">2</a>] catalysis,[<a href="#chem201600208-bib-0003" rel="references:#chem201600208-bib-0003" class="link__reference js-link__reference" title="Link to bibliographic citation">3</a>] and transport processes,[<a href="#chem201600208-bib-0004" rel="references:#chem201600208-bib-0004" class="link__reference js-link__reference" title="Link to bibliographic citation">4</a>] to the design of molecular walkers,[<a href="#chem201600208-bib-0005" rel="references:#chem201600208-bib-0005" class="link__reference js-link__reference" title="Link to bibliographic citation">5</a>] sensors,[<a href="#chem201600208-bib-0006" rel="references:#chem201600208-bib-0006" class="link__reference js-link__reference" title="Link to bibliographic citation">6</a>] and materials.[<a href="#chem201600208-bib-0007" rel="references:#chem201600208-bib-0007" class="link__reference js-link__reference" title="Link to bibliographic citation">7</a>] Interestingly, the new vision of systems chemistry has emerged as an extension of DCC and related areas.[<a href="#chem201600208-bib-0008" rel="references:#chem201600208-bib-0008" class="link__reference js-link__reference" title="Link to bibliographic citation">8</a>] DCC is based on the use of dynamic covalent bonds for the generation of a mixture of interconverting compounds. It is desirable that the reversible reactions involved in the preparation of such mixtures are reasonably fast, tolerant to a variety of functional groups, active under mild conditions, and susceptible to deactivation.[<a href="#chem201600208-bib-0001c" rel="references:#chem201600208-bib-0001c" class="link__reference js-link__reference" title="Link to bibliographic citation">1c</a>],[<a href="#chem201600208-bib-0001d" rel="references:#chem201600208-bib-0001d" class="link__reference js-link__reference" title="Link to bibliographic citation">1d</a>] Recent examples include orthoester exchange,[<a href="#chem201600208-bib-0009" rel="references:#chem201600208-bib-0009" class="link__reference js-link__reference" title="Link to bibliographic citation">9</a>] diselenide exchange,[<a href="#chem201600208-bib-0010" rel="references:#chem201600208-bib-0010" class="link__reference js-link__reference" title="Link to bibliographic citation">10</a>] and reversible native chemical ligation.[<a href="#chem201600208-bib-0011" rel="references:#chem201600208-bib-0011" class="link__reference js-link__reference" title="Link to bibliographic citation">11</a>] Reversible reactions involving aldehydes[<a href="#chem201600208-bib-0012" rel="references:#chem201600208-bib-0012 #chem201600208-bib-0013" class="link__reference js-link__reference" title="Link to bibliographic citations">12, 13</a>] or thiols[<a href="#chem201600208-bib-0010b" rel="references:#chem201600208-bib-0010b #chem201600208-bib-0014" class="link__reference js-link__reference" title="Link to bibliographic citations">10b, 14</a>] have shown to be useful in DCC. In recent years, the scope of reversible reactions has broadened to include the addition of a thiol to an aldehyde, as described for thiazolidine exchange[<a href="#chem201600208-bib-0015" rel="references:#chem201600208-bib-0015" class="link__reference js-link__reference" title="Link to bibliographic citation">15</a>] and hemithioacetal formation.[<a href="#chem201600208-bib-0016" rel="references:#chem201600208-bib-0016" class="link__reference js-link__reference" title="Link to bibliographic citation">16</a>] Chemically related to them, the dithioacetal functional group has been widely used in organic synthesis as a precursor of acyl carbanion equivalents,[<a href="#chem201600208-bib-0017" rel="references:#chem201600208-bib-0017" class="link__reference js-link__reference" title="Link to bibliographic citation">17</a>] Lewis acid induced electrophiles,[<a href="#chem201600208-bib-0018" rel="references:#chem201600208-bib-0018" class="link__reference js-link__reference" title="Link to bibliographic citation">18</a>] and as a protective group for carbonyl compounds.[<a href="#chem201600208-bib-0019" rel="references:#chem201600208-bib-0019" class="link__reference js-link__reference" title="Link to bibliographic citation">19</a>] Acidic catalysis and temperature has enabled the reversible formation of dithioacetals from an aldehyde and a thiol[<a href="#chem201600208-bib-0020" rel="references:#chem201600208-bib-0020" class="link__reference js-link__reference" title="Link to bibliographic citation">20</a>] or the dithioketal exchange from a derivative of griseofulvin and thiols.[<a href="#chem201600208-bib-0021" rel="references:#chem201600208-bib-0021" class="link__reference js-link__reference" title="Link to bibliographic citation">21</a>] Milder conditions under basic catalysis were reported for the reversible formation or exchange of dithiano compounds from a thiol and a vinyl sulfide carbonyl or a β-dithiane carbonyl, respectively.[<a href="#chem201600208-bib-0022" rel="references:#chem201600208-bib-0022" class="link__reference js-link__reference" title="Link to bibliographic citation">22</a>]</p>
+          <p>In this work, we describe the reversible formation and exchange of dithioacetals under acidic conditions. Additionally, to evaluate the utility of the dithioacetal exchange in DCC, a double-level system was prepared by combining it with disulfide exchange. Initially dithioacetal formation was investigated by HPLC in a chloroform solution containing 3,4,5-trimethoxybenzaldehyde <b>A</b> (3 m<span class="smallCaps">m</span>), 2-phenylethanethiol <b>1</b> (6 m<span class="smallCaps">m</span>), and trifluoroacetic acid (TFA; 60 m<span class="smallCaps">m</span>). After 3 h, a new compound could be observed by HPLC corresponding to the dithioacetal <b>1-A-1</b> (Figure <a href="#chem201600208-fig-0001" rel="references:#chem201600208-fig-0001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a>). </p>
+          <section id="chem201600208-fig-0001" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_m%2Fchem201600208-fig-0001-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYKpnj%2BoUBrHEyod99YV0bUbY8O9EjupK8Fx3GaeWDyfIK%0A52AQe4H9UznQfHVSYzHb&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="chem201600208-fig-0001" title="Open Figure&nbsp;1. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Figure&nbsp;1. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_n%2Fchem201600208-fig-0001.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYmMPzWQdLayP%2FptEyUXwUDtC8TqfcDnE4DHz3uZQ9fXP3%0A3E5jyFmw%2BA%3D%3D&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Figure&nbsp;1. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_n%2Fchem201600208-fig-0001.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYmMPzWQdLayP%2FptEyUXwUDtC8TqfcDnE4DHz3uZQ9fXP3%0A3E5jyFmw%2BA%3D%3D&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Figure&nbsp;1. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_m%2Fchem201600208-fig-0001-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYKpnj%2BoUBrHEyod99YV0bUbY8O9EjupK8Fx3GaeWDyfIK%0A52AQe4H9UznQfHVSYzHb&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/powerpoint/image_n%2Fchem201600208-fig-0001.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYmMPzWQdLayP%2FptEyUXwUDtC8TqfcDnE4DHz3uZQ9fXP3%0A3E5jyFmw%2BA%3D%3D&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>HPLC trace showing the composition achieved by starting from <b>A</b> and <b>1</b> (<em>λ</em>=265 nm).</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>After 20 h of stirring, the composition remained without changes, <sup>1</sup>H NMR spectroscopy showed that <b>1-A-1</b> constituted 86 % of the mixture composition, whereas both <b>A</b> and <b>1</b> were present in 14 %.[<a href="#chem201600208-bib-0023" rel="references:#chem201600208-bib-0023" class="link__reference js-link__reference" title="Link to bibliographic citation">23</a>] When a chloroform solution of <b>1-A-1</b> (3 m<span class="smallCaps">m</span>), H<sub>2</sub>O (3 m<span class="smallCaps">m</span>) and TFA (20 m<span class="smallCaps">m</span>) was stirred for 2 h, the reached composition was the same than that observed in Figure <a href="#chem201600208-fig-0001" rel="references:#chem201600208-fig-0001" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">1</a> (see the Supporting Information, Figure S6), indicating the reversibility of the dithioacetal bond formation. Additionally, when chloroform solutions of <b>A</b> and <b>1</b>, or of <b>1-A-1</b> and H<sub>2</sub>O (3 m<span class="smallCaps">m</span> final concentration in all cases) were stirred in neutral (without TFA) or basic conditions (with piperidine 15 m<span class="smallCaps">m</span>), the starting material remained unaltered after one week, indicating that both formation and hydrolysis of dithioacetals are inactive under those conditions.</p>
+          <p>To evaluate the reversibility of the exchange of dithioacetals, the compound <b>1-A-1</b> (3 m<span class="smallCaps">m</span> final concentration) and <em>p</em>-thiocresol <b>2</b> (6.3 m<span class="smallCaps">m</span>) were dissolved in a CHCl<sub>3</sub>:TFA (95:5) solution and stirred for 3 h, then dithioacetal <b>3-A-3</b> (3 m<span class="smallCaps">m</span>) was added. <sup>1</sup>H NMR signals (<em>δ</em>=4.56–5.24 ppm) corresponding to dithioacetal protons indicated the formation of the six expected dithioacetals (Figure <a href="#chem201600208-fig-0002" rel="references:#chem201600208-fig-0002" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">2</a>). </p>
+          <section id="chem201600208-fig-0002" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_m%2Fchem201600208-fig-0002-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYKpnj%2BoUBrHEyod99YV0bUbY8O9EjupK8uDXDn2Y8N4Of%0Aua7osQEOBykecwYAFbvt&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="chem201600208-fig-0002" title="Open Figure&nbsp;2. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Figure&nbsp;2. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_n%2Fchem201600208-fig-0002.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYmMPzWQdLayP%2FptEyUXwUDtC8TqfcDnE4WgLqoVg25L4T%0AnWXyhmNU%2Bw%3D%3D&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Figure&nbsp;2. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_n%2Fchem201600208-fig-0002.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYmMPzWQdLayP%2FptEyUXwUDtC8TqfcDnE4WgLqoVg25L4T%0AnWXyhmNU%2Bw%3D%3D&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Figure&nbsp;2. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_m%2Fchem201600208-fig-0002-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYKpnj%2BoUBrHEyod99YV0bUbY8O9EjupK8uDXDn2Y8N4Of%0Aua7osQEOBykecwYAFbvt&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/powerpoint/image_n%2Fchem201600208-fig-0002.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYmMPzWQdLayP%2FptEyUXwUDtC8TqfcDnE4WgLqoVg25L4T%0AnWXyhmNU%2Bw%3D%3D&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>Partial <sup>1</sup>H NMR spectrum of the dynamic mixture prepared from <b>1-A-1</b>, <em>p</em>-thiocresol <b>2</b>, and then adding <b>3-A-3</b> in acid conditions.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>At 14 h, the proportion of dithioacetals ranged between 6 and 20 %, whereas the free aldehyde <b>A</b> was present in 28 % of the total composition. This profile of composition remained unchanged up to two days of reaction, suggesting that equilibrium has been reached. In order to confirm it, the same mixture was prepared from a different starting point: a CHCl<sub>3</sub>/TFA (95:5) solution of <b>2-A-2</b> and 1-pentanethiol <b>3</b> was stirred for 2 h and subsequently, <b>1-A-1</b> was added. As expected the composition at 14 h was the same as in the previous experiment and stayed constant up to two days, indicating that the mixture is under thermodynamic control (Figure S16 in the Supporting Information).[<a href="#chem201600208-bib-0024" rel="references:#chem201600208-bib-0024" class="link__reference js-link__reference" title="Link to bibliographic citation">24</a>]</p>
+          <p>Different reversible exchange reactions have been combined to prepare dynamic mixtures.[<a href="#chem201600208-bib-0025" rel="references:#chem201600208-bib-0025" class="link__reference js-link__reference" title="Link to bibliographic citation">25</a>] Some of them have been used to produce complex structures and functional systems.[<a href="#chem201600208-bib-0026" rel="references:#chem201600208-bib-0026" class="link__reference js-link__reference" title="Link to bibliographic citation">26</a>] One of the most widespread combinations makes use of orthogonal hydrazone and disulfide exchanges, which can be sequentially addressable.[<a href="#chem201600208-bib-0027" rel="references:#chem201600208-bib-0027" class="link__reference js-link__reference" title="Link to bibliographic citation">27</a>] We wonder if dithioacetal exchange could be used to prepare a multilevel system by combining dithioacetal exchange with orthogonal disulfide exchange. The construction of one dynamic system using two sequential reversible reactions can be conducted through two different sequences of activation. With this aim, a solution of dithioacetal <b>3-A-3</b> (2.7 m<span class="smallCaps">m</span>), benzene disulfide <b>4-4</b> (2.7 m<span class="smallCaps">m</span>), and 2-phenylethanethiol <b>1</b> (5.4 m<span class="smallCaps">m</span>) in CHCl<sub>3</sub> was treated with TFA and then with piperidine in excess or, alternatively, first with piperidine and later with TFA. When TFA was added first (54 m<span class="smallCaps">m</span> final concentration), only dithioacetal exchange took place: dithioacetals <b>1-A-1</b> and <b>1-A-3</b> were produced at the expense of <b>1</b> and <b>3-A-3</b> (Figure <a href="#chem201600208-fig-0003" rel="references:#chem201600208-fig-0003" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">3</a>, <em>Path a</em>).[<a href="#chem201600208-bib-0028" rel="references:#chem201600208-bib-0028" class="link__reference js-link__reference" title="Link to bibliographic citation">28</a>] The concentration of benzene disulfide <b>4-4</b> did not change over a period of two days, indicating that the disulfide exchange is turned off. At that moment, an excess of piperidine was added (67.5 m<span class="smallCaps">m</span>) leading to the formation of disulfides <b>1</b>-<b>4</b>, <b>1-1</b>, and <b>3-4</b>, and of benzenethiol <b>4</b> at the expense of <b>4</b>-<b>4</b>. Over a three-day period, the previous concentration of dithioacetals <b>1-A-1</b>, <b>3-A-3</b>, and <b>1-A-3</b> stayed constant, suggesting that the exchange of dithioacetals is turned off (Figure <a href="#chem201600208-fig-0003" rel="references:#chem201600208-fig-0003" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">3</a>, <em>Path a</em>). At this moment, three dithioacetals, two thiols, and four disulfides were present in the solution. In the experiment following the opposite sequence, when piperidine (13.5 m<span class="smallCaps">m</span>) was added in the first instance to the solution, benzenethiol <b>4</b> and disulfides <b>1-4</b> and <b>1-1</b> were formed at the expense of <b>4-4</b> (Figure <a href="#chem201600208-fig-0003" rel="references:#chem201600208-fig-0003" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">3</a>, <em>Path b</em>). As expected, stirring for two days under these conditions did not affect the concentration of dithioacetal <b>3-A-3</b>; and further addition of an excess of TFA (67.5 m<span class="smallCaps">m</span>) led to the formation of dithioacetals <b>1-A-1</b>, <b>1-A-3</b>, <b>3-A-4</b> and <b>1-A-4</b> at the expense of <b>3-A-3</b>, with no effect on the concentration of the previously generated disulfides (Figure <a href="#chem201600208-fig-0003" rel="references:#chem201600208-fig-0003" class="figureLink link__figure js-link__figure js-scrollto" title="Link to figure">3</a>, <em>Path b</em>). At that moment, five dithioacetals, two thiols, and three disulfides were present in the solution. In summary, two different dynamic mixtures were obtained after each orthogonal process was completed (first acid then base or vice versa). These dynamic mixtures are constituted by a different range of disulfides and dithioacetals because different reactive species are present for exchange when the order of activation is changed. For example, dithioacetal <b>3-A-3</b> is exchanged only with <b>1</b> when the acid is added first, whereas, when the base was added first and then the acid, it is exchanged with <b>4</b>, released from the disulfide partner, and exchanged with <b>1</b>. In the context of networks, the thiols present in these mixtures can be deemed common nodes connecting two temporally separated molecular networks. Interestingly, thiols can detect the components of the active network, bringing information from one network to the other. Furthermore, since these two final systems have different chemical compositions, these common nodes are useful to design non-commutative complex chemical systems.[<a href="#chem201600208-bib-0029" rel="references:#chem201600208-bib-0029" class="link__reference js-link__reference" title="Link to bibliographic citation">29</a>] </p>
+          <section id="chem201600208-fig-0003" class="article-section article-section--inline-figure">
+           <figure class="inline-figure">
+            <div class="inline-figure__image-wrap">
+             <a class="inline-figure__image-link" href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_m%2Fchem201600208-fig-0003-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYKpnj%2BoUBrHEyod99YV0bUbY8O9EjupK8A2KvKy%2FM6g8Y%0Amz5bBfE3hefrF3aN9qIZ&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol" data-support-type="figure-viewer" data-actions="loadFigureViewer" data-figure-id="chem201600208-fig-0003" title="Open Figure&nbsp;3. ">
+              <noscript>
+               <img class="inline-figure__image" alt="Figure&nbsp;3. " src="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_n%2Fchem201600208-fig-0003.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYmMPzWQdLayP%2FptEyUXwUDtC8TqfcDnE49k2UjuGBzHUg%0ASdymlwbUAQ%3D%3D&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol">
+              </noscript><img class="inline-figure__image inline-figure__image--js " alt="Figure&nbsp;3. " src="/enhanced/static/images/lazyload.gif" data-original="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_n%2Fchem201600208-fig-0003.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYmMPzWQdLayP%2FptEyUXwUDtC8TqfcDnE49k2UjuGBzHUg%0ASdymlwbUAQ%3D%3D&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol" width="" height=""></a>
+            </div>
+            <figcaption class="inline-figure__caption">
+             <div class="inline-figure__caption-block">
+              <h4 class="inline-figure__title">Figure&nbsp;3. </h4>
+              <ul class="inline-figure__list u-horizontal-list">
+               <li class="inline-figure__open-figure"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/image_m%2Fchem201600208-fig-0003-m.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYKpnj%2BoUBrHEyod99YV0bUbY8O9EjupK8A2KvKy%2FM6g8Y%0Amz5bBfE3hefrF3aN9qIZ&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol">Open Figure</a></li>
+               <li class="inline-figure__list-item--powerpoint"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/powerpoint/image_n%2Fchem201600208-fig-0003.png?l=SkaBT8QEx2qC%2FkuQm2Z%2BpHNL8UERX3jYmMPzWQdLayP%2FptEyUXwUDtC8TqfcDnE49k2UjuGBzHUg%0ASdymlwbUAQ%3D%3D&amp;s=%2261f5d15536084759a0f0caed3da83c7a%22&amp;a=wol">Download Powerpoint slide</a></li>
+              </ul>
+             </div>
+             <p>HPLC profile (<em>λ</em>=250 nm) of a solution of dithioacetal <b>3-A-3</b>, disulfide <b>4-4</b>, and thiol <b>1</b> in CHCl<sub>3</sub> after the addition of TFA (2 days), followed by the addition of piperidine (2 days; <em>Path a</em>), or first piperidine (2 days) and then TFA (6 h; <em>Path b)</em>. Inserts are partial <sup>1</sup>H NMR spectra showing dithioacetal protons for each mixture.</p>
+            </figcaption>
+           </figure>
+          </section>
+          <p>Double-level systems can be classified according to the relative functioning of the exchanges as simultaneous or sequential. Additionally, they can be communicating, when both exchange processes share one or more reactive functional groups, or non-communicating when all the reactive functional groups involved in each exchange process are different. Up to now, combination of sequential exchanges has been based on the use of non-communicating exchanges such as hydrazones and disulfides.[<a href="#chem201600208-bib-0027" rel="references:#chem201600208-bib-0027" class="link__reference js-link__reference" title="Link to bibliographic citation">27</a>] In this work we complete the palette of combinations by reporting an example where thiols are involved in two sequential communicating levels. Boolean logic functions can be envisaged with such a combination of exchanges and functional groups to design and implement reaction logic and computation in double-level systems.[<a href="#chem201600208-bib-0008c" rel="references:#chem201600208-bib-0008c #chem201600208-bib-0016b" class="link__reference js-link__reference" title="Link to bibliographic citations">8c, 16b</a>]</p>
+          <p>This work shows the feasibility of using dithioacetal exchange as a useful tool for DCC, its compatibility with disulfide exchange, and how the combination of these exchange reactions can give unique properties for their use in systems chemistry.</p>
+          <section class="article-section article-body-section" id="chem201600208-sec-0002">
+           <h3>Acknowledgements</h3>
+           <p>We thank Carlos M. Solis for invaluable help with NMR experiments, Gabriela Cabrera for HRMS results and René C. Brachvogel for useful comments on the manuscript. Financial support for this work was provided by FONCYT (PICT2011-0918 and 2014-3704), CONICET (PIP 695) and Universidad Nacional de Rosario.</p>
+          </section>
+         </section>
+         <footer class="article-footer js-module" data-module="Footer">
+          <h2 class="is-accessible">Ancillary</h2>
+          <section id="footer-article-info" class="article-footer__section">
+           <h3 class="article-footer__section-title js-footer-title"><i class="icon icon__double-chevron"></i>Article Information</h3>
+           <div class="article-info__section-content js-footer-info js-article-info">
+            <div class="article-info__doi-container">
+             <h4 class="article-info__section-sub-title">DOI</h4>
+             <span class="article-info__section-doi-data">10.1002/chem.201600208</span>
+             <ul class="article-info__list u-list-plain">
+              <li class="article-info__citations-item"><a href="/enhanced/exportCitation/doi/10.1002/chem.201600208" class="article-header__meta-info-2nd-data analytics-view-citation js-module" data-module="fragment">View/save citation</a></li>
+             </ul>
+            </div>
+            <div class="article-info__format-container article-format">
+             <h4 class="article-info__section-sub-title">Format Available</h4>
+             <span class="article-info__section-format-data">Full text: HTML | PDF</span>
+            </div>
+            <footer class="article-info__copyright-container" id="copyright">
+             <p class="article-info__copyright">© 2016 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim</p>
+            </footer>
+            <p class="request-permissions"><a href="https://s100.copyright.com/AppDispatchServlet?publisherName=Wiley&amp;publication=CHEM&amp;title=Dithioacetal%20Exchange%3A%20A%20New%20Reversible%20Reaction%20for%20Dynamic%20Combinatorial%20Chemistry&amp;publicationDate=05%20APR%202016&amp;author=A.%20Gast%C3%B3n%20Orrillo%2CAndrea%20M.%20Escalante%2CRicardo%20L.%20E.%20Furlan&amp;startPage=n%2Fa&amp;endPage=n%2Fa&amp;copyright=%C2%A9%202016%20WILEY%E2%80%90VCH%20Verlag%20GmbH%20%26%20Co.%20KGaA%2C%20Weinheim&amp;contentID=10.1002%2Fchem.201600208&amp;orderSource=Wileyonline&amp;orderBeanReset=true" class="js-module" data-module="rights-link" target="_blank"><span class="icon-aa icon-aa__permission"></span> Request Permissions </a></p>
+            <div class="article-info__keywords-plus-wrapper">
+             <div class="article-info__keywords-container">
+              <h4 class="article-info__section-sub-title">Keywords</h4>
+              <ul class="article-info__keywords-list u-horizontal-list">
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">dithioacetal exchange; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">dynamic combinatorial chemistry; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">reversible reaction; </span></li>
+               <li class="article-info__keywords-item"><span class="article-info__keywords-data">systems chemistry</span></li>
+              </ul>
+             </div>
+             <span id="after-keywords"></span>
+            </div>
+            <div class="article-info__publication-history-container" id="publication-history">
+             <h4 class="article-info__section-sub-title">Publication History</h4>
+             <ul class="article-info__publication-history-list u-list-plain">
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Version of record online: </span><time datetime="2016-04-05" class="article-info__publication-history-data">5 April 2016</time></li>
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Accepted manuscript online: </span><time datetime="2016-03-18" class="article-info__publication-history-data">18 March 2016</time></li>
+              <li class="article-info__publication-history-item"><span class="article-info__publication-history-label">Manuscript Received: </span><time datetime="2016-01-15" class="article-info__publication-history-data">15 January 2016</time></li>
+             </ul>
+            </div>
+            <div id="funding-information" class="article-info__funded-by-container">
+             <h4 class="article-info__section-sub-title">Funded by</h4>
+             <ul class="article-info__funded-by-list">
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">FONCYT. Grant Number: PICT2011-0918 and 2014-3704</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">CONICET. Grant Number: PIP 695</span></li>
+              <li class="article-info__funded-by-item"><span class="article-info__funded-by-data">Universidad Nacional de Rosario</span></li>
+             </ul>
+            </div>
+            <span id="after-funding-information"></span>
+           </div>
+          </section>
+          <section id="footer-support-info" class="article-footer__section">
+           <h3 class="article-footer__section-title js-footer-title"><i class="icon icon__double-chevron"></i>Supporting Information </h3>
+           <div class="article-supp-info__section-content js-footer-info" id="">
+            <p class="article-info__intro">As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p>
+            <div class="support-info__table-wrapper">
+             <table class="support-info__table">
+              <thead>
+               <tr>
+                <th id="article-filename">Filename</th>
+                <th id="article-description">Description</th>
+               </tr>
+              </thead>
+              <tbody>
+               <tr>
+                <td headers="article-filename"><a href="http://api.onlinelibrary.wiley.com/asset/v1/doi/10.1002%2Fchem.201600208/asset/supinfo%2Fchem201600208-sup-0001-misc_information.pdf?l=SkaBT8QEx2qC%2FkuQm2Z%2BpDnGsfxnpFa%2FRfXft9IhJmY%2BRBDQIkgAB0GukXeNZBaUGf7HI0az5h%2FX%0A%2FZThtH73uScDTr9l1xSLH5FnEmVH7Ab3VzhV8QUJQg%3D%3D">chem201600208-sup-0001-misc_information.pdf</a><span class="support-info__file-ext">1147K</span></td>
+                <td headers="article-description">Supplementary</td>
+               </tr>
+              </tbody>
+             </table>
+            </div>
+            <p class="support-info__disclaimer">Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.</p>
+           </div>
+          </section>
+          <section class="article-footer__section article-section__references" id="references-section">
+           <div class="article-info__section-content">
+            <ul class="article-section__references-list">
+             <li id="chem201600208-bib-0001"><span class="bullet">1</span><cite id="chem201600208-cit-0001">&nbsp;</cite></li>
+             <li id="chem201600208-bib-0001a"><span class="bullet">1a</span><cite id="chem201600208-cit-0002"><span class="author">J. Li</span>, <span class="author">P. Nowak</span>, <span class="author">S. Otto</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2013</span>, <span class="vol">135</span>, <span class="pageFirst">9222</span>–<span class="pageLast">9239</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja402586c">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/23731408">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXoslSqsbk%253D&amp;md5=f8dc6042e595ae504aa3eba95794bc76">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000321236600001&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 110</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0001b"><span class="bullet">1b</span><cite id="chem201600208-cit-0003"><span class="author">J.-M. Lehn</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2013</span>, <span class="vol">52</span>, <span class="pageFirst">2836</span>–<span class="pageLast">2850</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/anie.201208397">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.201208397">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXislymsbc%253D&amp;md5=313d73c26f6950e461e920596cf3a68b">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000315503800016&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 135</a></li>
+              </ul><cite id="chem201600208-cit-0004"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2013</span>, <span class="vol">125</span>, <span class="pageFirst">2906</span>–<span class="pageLast">2921</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ange.201208397">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ange.201208397">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0001c"><span class="bullet">1c</span><cite id="chem201600208-cit-0005"><span class="author">B. L. Miller</span>, <span class="bookTitle">Dynamic Combinatorial Chemistry in Drug Discovery, Bioorganic Chemistry and Materials Science</span>, Wiley, <span class="publisherLocation">Hoboken, NJ</span>, <span class="pubYear">2010</span>;</cite></li>
+             <li id="chem201600208-bib-0001d"><span class="bullet">1d</span><cite id="chem201600208-cit-0006"><span class="author">J. N. H. Reek</span>, <span class="author">S. Otto</span>, <span class="bookTitle">Dynamic Combinatorial Chemistry</span>, Wiley-VCH, <span class="publisherLocation">Weinheim</span>, <span class="pubYear">2010</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2F9783527629701">CrossRef</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0001e"><span class="bullet">1e</span><cite id="chem201600208-cit-0007"><span class="author">S. Otto</span>, <span class="author">R. L. E. Furlan</span>, <span class="author">J. K. M. Sanders</span>, <span class="journalTitle">Curr. Opin. Chem. Biol.</span> <span class="pubYear">2002</span>, <span class="vol">6</span>, <span class="pageFirst">321</span>–<span class="pageLast">327</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1016%2FS1367-5931%2802%2900331-9">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/12023112">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD38XjvVeksbk%253D&amp;md5=de04c819d39b455c97e5a32cfdfeb645">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000175773500006&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 97</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0002"><span class="bullet">2</span><cite id="chem201600208-cit-0008">&nbsp;</cite></li>
+             <li id="chem201600208-bib-0002a"><span class="bullet">2a</span><cite id="chem201600208-cit-0009"><span class="author">R.-C. Brachvogel</span>, <span class="author">F. Hampel</span>, <span class="author">M. von Delius</span>, <span class="journalTitle">Nat. Commun.</span> <span class="pubYear">2015</span>, <span class="vol">6</span>, <span class="pageFirst">7129</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1038%2Fncomms8129">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/25997913">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000355533000017&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 6</a> | </li>
+               <li><a target="_blank" href="http://adsabs.harvard.edu/abs/2015NatCo...6E7129B">ADS</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0002b"><span class="bullet">2b</span><cite id="chem201600208-cit-0010"><span class="author">M. Mondal</span>, <span class="author">A. K. H. Hirsch</span>, <span class="journalTitle">Chem. Soc. Rev.</span> <span class="pubYear">2015</span>, <span class="vol">44</span>, <span class="pageFirst">2455</span>–<span class="pageLast">2488</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC4CS00493K">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/25706945">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXjtFCjsbk%253D&amp;md5=68fb2882541ca7f9b666827353bad1fa">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000352899500016&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 9</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0002c"><span class="bullet">2c</span><cite id="chem201600208-cit-0011"><span class="author">M. Matache</span>, <span class="author">E. Bogdan</span>, <span class="author">N. D. Haǎdade</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2014</span>, <span class="vol">20</span>, <span class="pageFirst">2106</span>–<span class="pageLast">2131</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/chem.201303504">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201303504">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXhtleks7o%253D&amp;md5=bcdba8d0856d9bfb85e94e25264b7867">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000330903700001&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 8</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0002d"><span class="bullet">2d</span><cite id="chem201600208-cit-0012"><span class="author">A. M. Escalante</span>, <span class="author">R. L. E. Furlan</span> in <span class="bookTitle">Dynamic Combinatorial Chemistry</span> (Eds.: <span class="editor">J. N. H. Reek, S. Otto</span>), Wiley VCH, <span class="publisherLocation">Weinheim</span>, <span class="pubYear">2010</span>, pp. <span class="pageFirst">49</span>–<span class="pageLast">90</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2F9783527629701.ch3">CrossRef</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0003"><span class="bullet">3</span><cite id="chem201600208-cit-0013"><span class="author">P. Dydio</span>, <span class="author">P. A. R. Breuil</span>, <span class="author">J. N. H. Reek</span>, <span class="journalTitle">Isr. J. Chem.</span> <span class="pubYear">2013</span>, <span class="vol">53</span>, <span class="pageFirst">61</span>–<span class="pageLast">74</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ijch.201200083">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ijch.201200083">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXisl2isrk%253D&amp;md5=e4bbe3ccbdd95afbd1e4fdc61063bcea">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000316506000009&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 12</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0004"><span class="bullet">4</span><cite id="chem201600208-cit-0014"><span class="author">R. Pérez-Fernández</span>, <span class="author">M. Pittelkow</span>, <span class="author">A. Belenguer</span>, <span class="author">J. K. M. Sanders</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2008</span>, <span class="pageFirst">1738</span>–<span class="pageLast">1740</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb718075f">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/18379677">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000254554800002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 17</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0005"><span class="bullet">5</span><cite id="chem201600208-cit-0015"><span class="author">M. von Delius</span>, <span class="author">D. A. Leigh</span>, <span class="journalTitle">Chem. Soc. Rev.</span> <span class="pubYear">2011</span>, <span class="vol">40</span>, <span class="pageFirst">3656</span>–<span class="pageLast">3676</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fc1cs15005g">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/21416072">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXns12nu7k%253D&amp;md5=3a42f601cd88d9b84e48388431fd9241">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000291807600020&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 99</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0006"><span class="bullet">6</span><cite id="chem201600208-cit-0016"><span class="author">A. Herrmann</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2012</span>, <span class="vol">18</span>, <span class="pageFirst">8568</span>–<span class="pageLast">8577</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/chem.201200668">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201200668">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC38XntVSqs7s%253D&amp;md5=7487766a808633c2a595c1fed192c7d4">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000305942400001&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 23</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0007"><span class="bullet">7</span><cite id="chem201600208-cit-0017"><span class="author">Y. Zhang</span>, <span class="author">M. Barboiu</span>, <span class="journalTitle">Chem. Rev.</span> <span class="pubYear">2016</span>, <span class="vol">116</span>, <span class="pageFirst">809</span>–<span class="pageLast">834</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Facs.chemrev.5b00168">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/26181754">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXhtFOlsb%252FP&amp;md5=117cbb54f40d6ba7dfce52995327e7f0">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000370216000004&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science®</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0008"><span class="bullet">8</span><cite id="chem201600208-cit-0018">&nbsp;</cite></li>
+             <li id="chem201600208-bib-0008a"><span class="bullet">8a</span><cite id="chem201600208-cit-0019"><span class="author">R. A. R. Hunt</span>, <span class="author">S. Otto</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2011</span>, <span class="vol">47</span>, <span class="pageFirst">847</span>–<span class="pageLast">858</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC0CC03759A">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3cXhsF2isrjK&amp;md5=a50e92812bd4e50143bd2a8a7c8ba686">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000285515200002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 89</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0008b"><span class="bullet">8b</span><cite id="chem201600208-cit-0020"><span class="author">J. R. Nitschke</span>, <span class="journalTitle">Nature</span> <span class="pubYear">2009</span>, <span class="vol">462</span>, <span class="pageFirst">736</span>–<span class="pageLast">738</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1038%2F462736a">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/20010680">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXhsFersrzF&amp;md5=a6120d9483e1a00201c0af17b318ae32">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000272559900028&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 85</a> | </li>
+               <li><a target="_blank" href="http://adsabs.harvard.edu/abs/2009Natur.462..736N">ADS</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0008c"><span class="bullet">8c</span><cite id="chem201600208-cit-0021"><span class="author">N. Wagner</span>, <span class="author">G. Ashkenasy</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2009</span>, <span class="vol">15</span>, <span class="pageFirst">1765</span>–<span class="pageLast">1775</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/chem.200801850">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.200801850">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19107891">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXitVSksbk%253D&amp;md5=50a9d9a77068f9297b3545b50de44da9">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000263345100026&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 67</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0008d"><span class="bullet">8d</span><cite id="chem201600208-cit-0022"><span class="author">R. F. Ludlow</span>, <span class="author">S. Otto</span>, <span class="journalTitle">Chem. Soc. Rev.</span> <span class="pubYear">2008</span>, <span class="vol">37</span>, <span class="pageFirst">101</span>–<span class="pageLast">108</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FB611921M">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/18197336">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1cXmtVWhtQ%253D%253D&amp;md5=d5aed6aceaf214c913169deb5bdac5ff">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000252411700008&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 275</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0009"><span class="bullet">9</span><cite id="chem201600208-cit-0023"><span class="author">R.-C. Brachvogel</span>, <span class="author">M. von Delius</span>, <span class="journalTitle">Chem. Sci.</span> <span class="pubYear">2015</span>, <span class="vol">6</span>, <span class="pageFirst">1399</span>–<span class="pageLast">1403</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC4SC03528C">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXitVWgurnI&amp;md5=81cc42c9ed71d71104773a7abf8cef15">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000348147100069&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 5</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0010"><span class="bullet">10</span><cite id="chem201600208-cit-0024">&nbsp;</cite></li>
+             <li id="chem201600208-bib-0010a"><span class="bullet">10a</span><cite id="chem201600208-cit-0025"><span class="author">S. Ji</span>, <span class="author">W. Cao</span>, <span class="author">Y. Yu</span>, <span class="author">H. Xu</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2014</span>, <span class="vol">53</span>, <span class="pageFirst">6781</span>–<span class="pageLast">6785</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/anie.201403442">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.201403442">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXot1Sitbw%253D&amp;md5=3fb529266027a9656d498d5c9828738a">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000338021600038&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 13</a></li>
+              </ul><cite id="chem201600208-cit-0026"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2014</span>, <span class="vol">126</span>, <span class="pageFirst">6899</span>–<span class="pageLast">6903</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ange.201403442">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ange.201403442">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0010b"><span class="bullet">10b</span><cite id="chem201600208-cit-0027"><span class="author">B. Rasmussen</span>, <span class="author">A. Sørensen</span>, <span class="author">H. Gotfredsen</span>, <span class="author">M. Pittelkow</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2014</span>, <span class="vol">50</span>, <span class="pageFirst">3716</span>–<span class="pageLast">3718</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fc4cc00523f">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXktF2rurg%253D&amp;md5=962f6446f8c71bfc650f7c26dcfbd20b">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000332927500018&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 10</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0011"><span class="bullet">11</span><cite id="chem201600208-cit-0028"><span class="author">Y. Ruff</span>, <span class="author">V. Garavini</span>, <span class="author">N. Giuseppone</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2014</span>, <span class="vol">136</span>, <span class="pageFirst">6333</span>–<span class="pageLast">6339</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja4129845">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/24717128">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXlvFOntLg%253D&amp;md5=3edab766954fce59bc95ca7e9b7c053e">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000335369200036&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 14</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0012"><span class="bullet">12</span><cite id="chem201600208-cit-0029">&nbsp;</cite></li>
+             <li id="chem201600208-bib-0012a"><span class="bullet">12a</span><cite id="chem201600208-cit-0030"><span class="author">A. Herrmann</span>, <span class="journalTitle">Org. Biomol. Chem.</span> <span class="pubYear">2009</span>, <span class="vol">7</span>, <span class="pageFirst">3195</span>–<span class="pageLast">3320</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb908098h">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19641772">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXptFCltro%253D&amp;md5=50f6ef9fb148c80e290c79ff63616d94">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000268481500001&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 55</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0012b"><span class="bullet">12b</span><cite id="chem201600208-cit-0031"><span class="author">D. Drahoňovský</span>, <span class="author">J.-M. Lehn</span>, <span class="journalTitle">J. Org. Chem.</span> <span class="pubYear">2009</span>, <span class="vol">74</span>, <span class="pageFirst">8428</span>–<span class="pageLast">8432</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fjo9009886">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19799441">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXht1Wntr3F&amp;md5=a0d87b4d1d869836d62f4ea9d979647f">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000271113400057&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 17</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0012c"><span class="bullet">12c</span><cite id="chem201600208-cit-0032"><span class="author">L. You</span>, <span class="author">E. V. Anslyn</span>, <span class="journalTitle">Org. Lett.</span> <span class="pubYear">2009</span>, <span class="vol">11</span>, <span class="pageFirst">5126</span>–<span class="pageLast">5129</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fol9020207">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19835394">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXht1OkurbL&amp;md5=9a2c6a60fc4352dafb9e09dc873c9b9e">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000271583000009&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 10</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0012d"><span class="bullet">12d</span><cite id="chem201600208-cit-0033"><span class="author">D. Berkovich-Berger</span>, <span class="author">N. G. Lemcoff</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2008</span>, <span class="pageFirst">1686</span>–<span class="pageLast">1688</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb800384j">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/18368165">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000254386100019&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 18</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0012e"><span class="bullet">12e</span><cite id="chem201600208-cit-0034"><span class="author">L. You</span>, <span class="author">R. Long</span>, <span class="author">V. M. Lynch</span>, <span class="author">E. V. Anslyn</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2011</span>, <span class="vol">17</span>, <span class="pageFirst">11017</span>–<span class="pageLast">11023</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/chem.201101085">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201101085">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXhtVOms7bO&amp;md5=09a6e0e38f0c9d7c461d6f27927cec40">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000296262400030&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 17</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0012f"><span class="bullet">12f</span><cite id="chem201600208-cit-0035"><span class="author">L. J. You</span>, <span class="author">S. Berman</span>, <span class="author">E. V. Anslyn</span>, <span class="journalTitle">Nat. Chem.</span> <span class="pubYear">2011</span>, <span class="vol">3</span>, <span class="pageFirst">943</span>–<span class="pageLast">948</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1038%2Fnchem.1198">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/22109274">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXhsVKjsb%252FN&amp;md5=3e32ad9d5cc6041d4811721b18939c9f">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000297685800012&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 50</a> | </li>
+               <li><a target="_blank" href="http://adsabs.harvard.edu/abs/2011NatCh...3..943Y">ADS</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0012g"><span class="bullet">12g</span><cite id="chem201600208-cit-0036"><span class="author">H. Seki</span>, <span class="author">S. Kuwabara</span>, <span class="author">H. Kudo</span>, <span class="author">T. Nishikubo</span>, <span class="journalTitle">Chem. Lett.</span> <span class="pubYear">2012</span>, <span class="vol">41</span>, <span class="pageFirst">699</span>–<span class="pageLast">701</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1246%2Fcl.2012.699">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC38XhtFehu7bJ&amp;md5=89b7f0705df80fabf7a4ed3b5e8950df">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000307862300014&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 3</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0012h"><span class="bullet">12h</span><cite id="chem201600208-cit-0037"><span class="author">J. A. Kaitz</span>, <span class="author">C. E. Diesendruck</span>, <span class="author">J. S. Moore</span>, <span class="journalTitle">Macromolecules</span> <span class="pubYear">2013</span>, <span class="vol">46</span>, <span class="pageFirst">8121</span>–<span class="pageLast">8128</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fma401744k">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXhsFOisLbP&amp;md5=f8167517d0ed9192dd84012f507a2962">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000326209400006&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 9</a> | </li>
+               <li><a target="_blank" href="http://adsabs.harvard.edu/abs/2013MaMol..46.8121K">ADS</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0013"><span class="bullet">13</span><cite id="chem201600208-cit-0038">Although aldehydes are not directly involved, for pioneering papers reporting the use of acetal exchange in the preparation of dynamic combinatorial libraries, see:</cite></li>
+             <li id="chem201600208-bib-0013a"><span class="bullet">13a</span><cite id="chem201600208-cit-0039"><span class="author">R. Cacciapaglia</span>, <span class="author">S. Di Stefano</span>, <span class="author">L. Mandolini</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2005</span>, <span class="vol">127</span>, <span class="pageFirst">13666</span>–<span class="pageLast">13671</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja054362o">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/16190732">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2MXpslequrg%253D&amp;md5=fa2976d599aaa0f57291fa2ddeedc174">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000232257100056&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 73</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0013b"><span class="bullet">13b</span><cite id="chem201600208-cit-0040"><span class="author">B. Fuchs</span>, <span class="author">A. Nelson</span>, <span class="author">A. Star</span>, <span class="author">J. F. Stoddart</span>, <span class="author">S. Vidal</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2003</span>, <span class="vol">42</span>, <span class="pageFirst">4220</span>–<span class="pageLast">4224</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/anie.200351558">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.200351558">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/14502741">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD3sXnvValtrc%253D&amp;md5=c1dd2d11d2d464c1a282097e7508f960">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000185544900015&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 56</a></li>
+              </ul><cite id="chem201600208-cit-0041"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2003</span>, <span class="vol">115</span>, <span class="pageFirst">4352</span>–<span class="pageLast">4356</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ange.200351558">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ange.200351558">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0014"><span class="bullet">14</span><cite id="chem201600208-cit-0042">&nbsp;</cite></li>
+             <li id="chem201600208-bib-0014a"><span class="bullet">14a</span><cite id="chem201600208-cit-0043"><span class="author">S. P. Black</span>, <span class="author">J. K. M. Sanders</span>, <span class="author">A. R. Stefankiewicz</span>, <span class="journalTitle">Chem. Soc. Rev.</span> <span class="pubYear">2014</span>, <span class="vol">43</span>, <span class="pageFirst">1861</span>–<span class="pageLast">1872</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC3CS60326A">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/24132207">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXivFOnsr8%253D&amp;md5=a154c7ef18c204a7117618e08faa5c3f">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000332037200007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 39</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0014b"><span class="bullet">14b</span><cite id="chem201600208-cit-0044"><span class="author">R. Larsson</span>, <span class="author">Z. Pei</span>, <span class="author">O. Ramström</span>, <span class="journalTitle">Angew. Chem. Int. Ed.</span> <span class="pubYear">2004</span>, <span class="vol">43</span>, <span class="pageFirst">3716</span>–<span class="pageLast">3718</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/anie.200454165">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/anie.200454165">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/15248281">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2cXmtVKqt7k%253D&amp;md5=db72a7e4a63dd16448a1ca82c6da4d56">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000222793600019&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 54</a></li>
+              </ul><cite id="chem201600208-cit-0045"><span class="journalTitle">Angew. Chem.</span> <span class="pubYear">2004</span>, <span class="vol">116</span>, <span class="pageFirst">3802</span>–<span class="pageLast">3804</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/ange.200454165">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/ange.200454165">Wiley Online Library</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0014c"><span class="bullet">14c</span><cite id="chem201600208-cit-0046"><span class="author">B. Shi</span>, <span class="author">M. F. Greaney</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2005</span>, <span class="pageFirst">886</span>–<span class="pageLast">888</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb414300k">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/15700070">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000226845200017&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 46</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0015"><span class="bullet">15</span><cite id="chem201600208-cit-0047"><span class="author">C. Saiz</span>, <span class="author">P. Wipf</span>, <span class="author">E. Manta</span>, <span class="author">G. Mahler</span>, <span class="journalTitle">Org. Lett.</span> <span class="pubYear">2009</span>, <span class="vol">11</span>, <span class="pageFirst">3170</span>–<span class="pageLast">3173</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fol901104a">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19585999">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD1MXot1ehsLw%253D&amp;md5=26acf23adc793c1c12e616f1079d7dda">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000268479900003&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 19</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0016"><span class="bullet">16</span><cite id="chem201600208-cit-0048">&nbsp;</cite></li>
+             <li id="chem201600208-bib-0016a"><span class="bullet">16a</span><cite id="chem201600208-cit-0049"><span class="author">M. Sakulsombat</span>, <span class="author">Y. Zhang</span>, <span class="author">O. Ramström</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2012</span>, <span class="vol">18</span>, <span class="pageFirst">6129</span>–<span class="pageLast">6132</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/chem.201102139">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201102139">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC38XltVaksrk%253D&amp;md5=edbfc4fa69e44d7f1dac1538576a85ee">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000303497600002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 17</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0016b"><span class="bullet">16b</span><cite id="chem201600208-cit-0050"><span class="author">M. E. Bracchi</span>, <span class="author">D. A. Fulton</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2015</span>, <span class="vol">51</span>, <span class="pageFirst">11052</span>–<span class="pageLast">11055</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC5CC02716K">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2MXpsF2mtLo%253D&amp;md5=71c612e5d1fdca2999a50ce78e266e44">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000356934500015&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science®</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0017"><span class="bullet">17</span><cite id="chem201600208-cit-0051"><span class="author">B. T. Gröbel</span>, <span class="author">D. Seebach</span>, <span class="journalTitle">Synthesis</span> <span class="pubYear">1977</span>, <span class="pageFirst">357</span>–<span class="pageLast">402</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1055%2Fs-1977-24412">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=A1977DK46300001&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 824</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0018"><span class="bullet">18</span><cite id="chem201600208-cit-0052"><span class="author">B. Trost</span>, <span class="author">E. Murayama</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">1981</span>, <span class="vol">103</span>, <span class="pageFirst">6529</span>–<span class="pageLast">6530</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja00411a058">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaL3MXls1ylsro%253D&amp;md5=0db15f9345de440dced959dfbadad651">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=A1981ML44100058&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 117</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0019"><span class="bullet">19</span><cite id="chem201600208-cit-0053"><span class="author">T. W. Greene</span>, <span class="author">P. G. M. Wuts</span>, <span class="bookTitle">Protective Groups in Organic Synthesis</span> Wiley, <span class="publisherLocation">Chichester</span>, <span class="pubYear">1999</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1002%2F0471220574">CrossRef</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0020"><span class="bullet">20</span><cite id="chem201600208-cit-0054"><span class="author">L. Sutton</span>, <span class="author">R. W. A. Donaubauer</span>, <span class="author">F. Hampel</span>, <span class="author">A. Hirsch</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2004</span>, <span class="pageFirst">1758</span>–<span class="pageLast">1759</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb401021c">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/15278172">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000223241100038&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 4</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0021"><span class="bullet">21</span><cite id="chem201600208-cit-0055"><span class="author">B. K. Koe</span>, <span class="author">W. D. J. Celmer</span>, <span class="journalTitle">Med. Chem.</span> <span class="pubYear">1964</span>, <span class="vol">7</span>, <span class="pageFirst">705</span>–<span class="pageLast">709</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fjm00336a005">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/14262792">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDyaF2cXkvFaht78%253D&amp;md5=d4e9a1836465475dd09ccd04df50f10e">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=A19645694B00031&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 9</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0022"><span class="bullet">22</span><cite id="chem201600208-cit-0056"><span class="author">G. Joshi</span>, <span class="author">E. V. Anslyn</span>, <span class="journalTitle">Org. Lett.</span> <span class="pubYear">2012</span>, <span class="vol">14</span>, <span class="pageFirst">4714</span>–<span class="pageLast">4717</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fol301781u">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/22934665">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC38Xht1yrsbbP&amp;md5=149de094040ac4b11b50b3644eed29b2">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000308958500004&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 12</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0023"><span class="bullet">23</span><cite id="chem201600208-cit-0057">Kinetic studies show that the reaction of thiol <b>1</b> with 3,4,5-trimethioxybenzaldehyde <b>A</b>, benzaldehyde <b>B</b> or 4-anisaldehyde <b>C</b> reached equilibrium in less than 2 h (see the Supporting Information, section 4.3).</cite></li>
+             <li id="chem201600208-bib-0024"><span class="bullet">24</span><cite id="chem201600208-cit-0058">Dithioacetal exchange was also observed when the 3,4,5-trimethoxyphenyl moiety in dithioacetal <b>2-A-2</b> was changed by a phenyl moiety (see the Supporting Information, section 4.1.).</cite></li>
+             <li id="chem201600208-bib-0025"><span class="bullet">25</span><cite id="chem201600208-cit-0059">&nbsp;</cite></li>
+             <li id="chem201600208-bib-0025a"><span class="bullet">25a</span><cite id="chem201600208-cit-0060"><span class="author">Y. Zhang</span>, <span class="author">O. Ramström</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2014</span>, <span class="vol">20</span>, <span class="pageFirst">3288</span>–<span class="pageLast">3291</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/chem.201304690">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.201304690">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXjtVGlt74%253D&amp;md5=b200d2b686cc06c69361e7d2da67bcb3">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000332747400006&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 9</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0025b"><span class="bullet">25b</span><cite id="chem201600208-cit-0061"><span class="author">Y. Zhang</span>, <span class="author">P. Vongvilai</span>, <span class="author">M. Sakulsombat</span>, <span class="author">A. Fischer</span>, <span class="author">O. Ramström</span>, <span class="journalTitle">Adv. Synth. Catal.</span> <span class="pubYear">2014</span>, <span class="vol">356</span>, <span class="pageFirst">987</span>–<span class="pageLast">992</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/adsc.201301033">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/adsc.201301033">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/26190961">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXjtl2ht7Y%253D&amp;md5=485201c9bab321d025bc351af9bff661">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000333196000012&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 12</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0025c"><span class="bullet">25c</span><cite id="chem201600208-cit-0062"><span class="author">Y. Zhang</span>, <span class="author">L. Hu</span>, <span class="author">O. Ramström</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2013</span>, <span class="vol">49</span>, <span class="pageFirst">1805</span>–<span class="pageLast">1807</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fc3cc38203f">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXitFaltrs%253D&amp;md5=bc975129241b4b88d7a41b0dc8969d0b">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000314650100006&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 13</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0025d"><span class="bullet">25d</span><cite id="chem201600208-cit-0063"><span class="author">K. D. Okochi</span>, <span class="author">Y. Jin</span>, <span class="author">W. Zhang</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2013</span>, <span class="vol">49</span>, <span class="pageFirst">4418</span>–<span class="pageLast">4420</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC2CC33078D">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3sXmt1CisLw%253D&amp;md5=c35ae48b9965f9b74888d4f1ce468d4a">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000317931500096&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 11</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0025e"><span class="bullet">25e</span><cite id="chem201600208-cit-0064"><span class="author">A. M. Escalante</span>, <span class="author">A. G. Orrillo</span>, <span class="author">R. L. E. Furlan</span>, <span class="journalTitle">J. Comb. Chem.</span> <span class="pubYear">2010</span>, <span class="vol">12</span>, <span class="pageFirst">410</span>–<span class="pageLast">413</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fcc100046r">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/20527911">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3cXntFylur0%253D&amp;md5=59c8d1a346fa448447bc86cbdcb3c396">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000279618200002&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 14</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0025f"><span class="bullet">25f</span><cite id="chem201600208-cit-0065"><span class="author">R. J. Sarma</span>, <span class="author">S. Otto</span>, <span class="author">J. R. Nitschke</span>, <span class="journalTitle">Chem. Eur. J.</span> <span class="pubYear">2007</span>, <span class="vol">13</span>, <span class="pageFirst">9542</span>–<span class="pageLast">9546</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list" data-on-platform="true" data-doi="10.1002/chem.200701228">
+               <li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/chem.200701228">Wiley Online Library</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/17879250">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD2sXhsVahsL7O&amp;md5=d2767932026a27cb221b999a4d0f985b">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000251391000012&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 52</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0025g"><span class="bullet">25g</span><cite id="chem201600208-cit-0066"><span class="author">J. Leclaire</span>, <span class="author">L. Vial</span>, <span class="author">S. Otto</span>, <span class="author">J. K. M. Sanders</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2005</span>, <span class="pageFirst">1959</span>–<span class="pageLast">1961</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb500638d">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/15834471">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000228818100010&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 57</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0026"><span class="bullet">26</span><cite id="chem201600208-cit-0067"><span class="author">A. Wilson</span>, <span class="author">G. Gasparini</span>, <span class="author">S. Matile</span>, <span class="journalTitle">Chem. Soc. Rev.</span> <span class="pubYear">2014</span>, <span class="vol">43</span>, <span class="pageFirst">1948</span>–<span class="pageLast">1962</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2FC3CS60342C">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/24287608">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC2cXivFOgu7c%253D&amp;md5=996e77e055e22b771d782921f068fe8a">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000332037200012&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 44</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0027"><span class="bullet">27</span><cite id="chem201600208-cit-0068">&nbsp;</cite></li>
+             <li id="chem201600208-bib-0027a"><span class="bullet">27a</span><cite id="chem201600208-cit-0069"><span class="author">A. V. Gromova</span>, <span class="author">J. M. Ciszewski</span>, <span class="author">B. L. Miller</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2012</span>, <span class="vol">48</span>, <span class="pageFirst">2131</span>–<span class="pageLast">2133</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fc2cc17192a">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC38Xht1Wns7Y%253D&amp;md5=33c3082585b989615764a3d083c35683">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000299503600022&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 15</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0027b"><span class="bullet">27b</span><cite id="chem201600208-cit-0070"><span class="author">N. Sakai</span>, <span class="author">S. Matile</span>, <span class="journalTitle">J. Am. Chem. Soc.</span> <span class="pubYear">2011</span>, <span class="vol">133</span>, <span class="pageFirst">18542</span>–<span class="pageLast">18545</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1021%2Fja207587x">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/22026813">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3MXhtlKgsL%252FE&amp;md5=7551d80f2359b70ebbccfc6c1ddcc1d1">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000297398900011&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 49</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0027c"><span class="bullet">27c</span><cite id="chem201600208-cit-0071"><span class="author">M. von Delius</span>, <span class="author">E. M. Geertsema</span>, <span class="author">D. A. Leigh</span>, <span class="journalTitle">Nat. Chem.</span> <span class="pubYear">2010</span>, <span class="vol">2</span>, <span class="pageFirst">96</span>–<span class="pageLast">101</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1038%2Fnchem.481">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/21124398">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3cXos1Cqsg%253D%253D&amp;md5=c92718628cc7603169fe37c47b633117">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000273820700012&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 114</a> | </li>
+               <li><a target="_blank" href="http://adsabs.harvard.edu/abs/2010NatCh...2...96V">ADS</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0027d"><span class="bullet">27d</span><cite id="chem201600208-cit-0072"><span class="author">D. A. Ossipov</span>, <span class="author">X. Yang</span>, <span class="author">O. Varghese</span>, <span class="author">S. Kootala</span>, <span class="author">J. Hilborn</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2010</span>, <span class="vol">46</span>, <span class="pageFirst">8368</span>–<span class="pageLast">8370</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fc0cc03055d">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BC3cXhtlKiu7fL&amp;md5=17c054e20ac4833e5dc4c36a39893de8">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000283690400014&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 23</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0027e"><span class="bullet">27e</span><cite id="chem201600208-cit-0073"><span class="author">Z. Rodriguez-Docampo</span>, <span class="author">S. Otto</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2008</span>, <span class="pageFirst">5301</span>–<span class="pageLast">5303</span>;</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb808725c">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/18985190">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000260620500007&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 55</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0027f"><span class="bullet">27f</span><cite id="chem201600208-cit-0074"><span class="author">A. G. Orrillo</span>, <span class="author">A. M. Escalante</span>, <span class="author">R. L. E. Furlan</span>, <span class="journalTitle">Chem. Commun.</span> <span class="pubYear">2008</span>, <span class="pageFirst">5298</span>–<span class="pageLast">5300</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1039%2Fb808565j">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/18985189">PubMed</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000260620500006&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 27</a></li>
+              </ul></li>
+             <li id="chem201600208-bib-0028"><span class="bullet">28</span><cite id="chem201600208-cit-0075">Although stirring was carried out for two days, kinetic studies indicate that the equilibrium in this step is reached in approximately 3 h (see the Supporting Information, section 4.2).</cite></li>
+             <li id="chem201600208-bib-0029"><span class="bullet">29</span><cite id="chem201600208-cit-0076"><span class="author">J.-M. Lehn</span>, <span class="journalTitle">Proc. Natl. Acad. Sci. USA</span> <span class="pubYear">2002</span>, <span class="vol">99</span>, <span class="pageFirst">4763</span>–<span class="pageLast">4765</span>.</cite>
+              <ul class="article-section__references-list-additional u-horizontal-list">
+               <li><a target="_blank" href="http://dx.doi.org/10.1073%2Fpnas.072065599">CrossRef</a> | </li>
+               <li><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/11929970">PubMed</a> | </li>
+               <li><a target="_blank" href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=wiley&amp;version=1%2E0&amp;coi=1%3aCAS%3a528%3aDC%252BD38XjtFKmsrc%253D&amp;md5=2f6a297171ab82dca2476e8c4365031f">CAS</a> | </li>
+               <li><a target="_blank" href="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=Wiley_Online_Library&amp;SrcAuth=LinksAMR&amp;KeyUT=000175087000005&amp;DestLinkType=FullRecord&amp;DestApp=ALL_WOS&amp;UsrCustomerID=5d29b08d2a4045cc6e96df01e7663ac0">Web of Science® Times Cited: 784</a> | </li>
+               <li><a target="_blank" href="http://adsabs.harvard.edu/abs/2002PNAS...99.4763L">ADS</a></li>
+              </ul></li>
+            </ul>
+           </div>
+          </section>
+          <section id="footer-citing" class="article-footer__section citations__section">
+           <h3 class="article-footer__section-title js-footer-title"><span class="icon icon__double-chevron"></span>Citing Literature </h3>
+           <div id="js-citations__section" class="article-info__section-content js-footer-info">
+            <div class="modal__header">
+             <ul class="cited-info__list u-horizontal-list">
+              <li class="cited-info__item"><span class="cited-info__text">Number of times cited</span>: <span id="js-citations__counter">0</span></li>
+             </ul>
+            </div>
+            <div class="modal__scrollable">
+             <ol class="article-section__citation-list"></ol>
+            </div>
+           </div>
+          </section>
+         </footer>
+        </article> 
+       </article> 
+      </article> 
+      <div class="l-article-support"> 
+       <div class="skyscraper--left"> 
+        <div id="skyscraper" class="skyscraper"> 
+         <aside id="advert-skyscraper" class="advert-skyscraper" role="complementary"> 
+          <div class="skyscraper__title">
+           Advertisement
+          </div> 
+          <script>
+                googletag.cmd.push ( function () {
+                    googletag.display ( 'advert-skyscraper' );
+                });
+            </script> 
+          <noscript> 
+           <a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=160x600|160x320|160x160|120x600&amp;tile=2&amp;c=445730044" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/2215/wly.chemistry_000033/chem-euro-j_2111&amp;sz=160x600|160x320|160x160|120x600&amp;tile=2&amp;c=445730044"> </a> 
+          </noscript> 
+         </aside> 
+        </div> 
+       </div> 
+       <div class="article-support js-article-support js-module" data-module="infopane"> 
+        <div class="article-support__links js-article-support-links"> 
+         <nav class="article-support__list-wrapper js-article-support-list-wrapper"> 
+          <ul class="article-support__list js-article-support-list u-list-plain"> 
+           <li class="article-support__item--pdf "> <a href="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600208/pdf" class="article-support__item-link js-infopane-pdf " data-support-type="PDF_options"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--pdf"></span> <span class="article-support__item-text">PDF</span> </a> </li> 
+           <li class="article-support__item--epdf"> <a href="http://onlinelibrary.wiley.com/doi/10.1002/chem.201600208/epdf" class="article-support__item-link js-infopane-epdf"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--pdf"></span> <span class="article-support__item-text">PDF</span> </a> </li> 
+           <li> <a href="#footer-article-info" class="article-support__item-link js-infopane-toggle" data-support-type="Information"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--info"></span> <span class="article-support__item-text">Info</span> </a> </li> 
+           <li> <a href="#references-section" class="article-support__item-link js-infopane-toggle" data-support-type="References" data-target-scroll="false"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--ref"></span> <span class="article-support__item-text">References</span> </a> </li> 
+           <li class="article-support__item-figure-viewer"> <a href="http://onlinelibrary.wiley.com/enhanced/figures/doi/10.1002/chem.201600208" data-module="figure-viewer-modal" class="js-module article-support__item-link" id="js-figure-viewer__link" target="figureViewer"> <span class="icon-aa icon-aa__sidepane icon-aa__sidepane--fig"></span> <span class="article-support__item-text">Figures</span> </a> </li> 
+          </ul> 
+         </nav> 
+        </div> 
+        <div class="article-support__pane js-article-support-pane is-hidden"> 
+         <div class="article-support__pane-title-bar"> 
+          <div class="article-support__pane-title js-article-support-title"></div> 
+          <div class="article-support__pane-close js-article-support-close"> 
+           <a href="#" class="article-support__pane-close__link" data-close="close" title="Close article support pane"> <span class="icon icon__infopane-close"></span> <span class="is-accessible">Close article support pane</span> </a> 
+          </div> 
+         </div> 
+         <div class="article-support__pane-content js-article-support-content"></div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- START: Footer --> 
+   <div class="stripe"> 
+    <div class="fill fill--1"></div> 
+    <div class="fill fill--2"></div> 
+    <div class="fill fill--3"></div> 
+    <div class="fill fill--4"></div> 
+   </div> 
+   <footer class="footer footer--wiley" role="contentinfo"> 
+    <nav class="footer__nav" role="navigation"> 
+     <ul class="footer__list footer__list--logo"> 
+      <li> <h2 class="footer__logo"> <a href="http://onlinelibrary.wiley.com"> <img src="http://onlinelibrary.wiley.com:80/enhanced/static/common/images/brand/wiley/footer-logo.png?version=1.11.2" alt="Wiley"> </a> </h2> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/browse/publications"> <b>Browse Publications</b> </a> </li> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/browse/subjects"> <b>Browse by Subject</b> </a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390229.html"> <b>Resources</b> </a> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://journalshelp.wiley.com/">Help &amp; Support</a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-813473.html">Cookies</a> &amp; <a class="footer__link" href="http://onlinelibrary.wiley.com/privacyPolicy">Privacy</a> </li> 
+      <li> <a class="footer__link" href="http://onlinelibrary.wiley.com/termsAndConditions">Terms &amp; Conditions</a> </li> 
+     </ul> 
+     <ul class="footer__list"> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390001.html">About Us</a> </li> 
+      <li> <a class="footer__link" href="http://www.wileyjobnetwork.com/">Wiley Job Network</a> </li> 
+      <li> <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390236.html">Advertisers</a> &amp; <a class="footer__link" href="http://olabout.wiley.com/WileyCDA/Section/id-390243.html">Agents</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="footer__copy"> 
+     <p class="footer__text footer__text--slogan">Powered by <a href="http://onlinelibrary.wiley.com" class="footer__link footer__link--active">Wiley Online Library</a></p> 
+     <p class="footer__text">Copyright © 1999 - 2016 <a href="http://www.wiley.com" class="footer__link footer__link--active">John Wiley &amp; Sons, Inc.</a> All Rights Reserved</p> 
+    </div> 
+   </footer> 
+   <script>
+        Modernizr.load('http://content.readcube.com/wiley/epdf_linker.js');
+    </script> 
+   <script>
+//<![CDATA[
+    
+    Modernizr.load([
+        {
+            load    : 'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/vendor/wiley-require-2.1.6.js',
+            callback: function() {
+
+                
+                var interval = setInterval(function() {
+                    if ( typeof WILEY !== 'undefined' && WILEY.requirejs ) {
+
+                        WILEY.requirejs([
+                                'http://onlinelibrary.wiley.com:80/enhanced/static/common/js/wiley-common.js?version=1.11.2',
+                                'http://onlinelibrary.wiley.com:80/enhanced/static/js/wiley-article.js?version=1.11.2'
+                            ], function() {
+                            WILEY.requirejs([
+                                'common/modules/main',
+                                'modules/main-article'
+
+                                                            ]);
+                        });
+
+                        clearInterval(interval);
+                    }
+                }, 100 );
+            }
+        }
+        ]);
+//]]>
+</script> 
+  </div> 
+  <script type="text/javascript">_satellite.pageBottom();</script>  
+ </body>
+</html>
