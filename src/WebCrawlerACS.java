@@ -1,22 +1,9 @@
-// A minimal Web Crawler written in Java
-// Usage: From command line 
-//     java WebCrawler <URL> [N]
-//  where URL is the url to start the crawl, and N (optional)
-//  is the maximum number of pages to download.
 
-import java.io.FileWriter;
+
 import java.io.IOException;
-import java.io.InputStream;
-import java.net.MalformedURLException;
 import java.net.URL;
-import java.net.URLConnection;
 import java.util.HashSet;
-import java.util.Hashtable;
 import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.Properties;
-import java.util.Queue;
-import java.util.StringTokenizer;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

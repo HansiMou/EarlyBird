@@ -1,4 +1,4 @@
-// base class
+
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -381,7 +381,7 @@ public class WebCrawler {
 			FileWriter writer = new FileWriter(config.cachepath, true);
 			for (Iterator items = newlyAdded.iterator(); items.hasNext();) {
 				String item = (String) items.next();
-				writer.write(item);
+				writer.write(item+"\n");
 			}
 			writer.close();
 		} catch (IOException e) {

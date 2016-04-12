@@ -1,19 +1,13 @@
-// A minimal Web Crawler written in Java
-// Usage: From command line 
-//     java WebCrawler <URL> [N]
-//  where URL is the url to start the crawl, and N (optional)
-//  is the maximum number of pages to download.
+
 
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.HashSet;
 import java.util.Iterator;
-import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 public class WebCrawlerSci extends WebCrawler {
 
@@ -55,10 +49,11 @@ public class WebCrawlerSci extends WebCrawler {
 		String[] tmp = url.toString().split("/");
 		String vol = tmp[tmp.length - 2];
 		String iss = tmp[tmp.length - 1];
-		Pattern p = Pattern.compile(vol + "\\\\/" + iss + "\\\\/" + "\\d+");
+		Pattern p = Pattern.compile(vol + "\\\\/" + iss + "\\\\/" + "\\d+(\\.\\d*)?\"");
 		Matcher m = p.matcher(res);
 		while (m.find()) {
 			String s = su.link+"/"+m.group().split("\\/")[2];
+			s = s.substring(0, s.length()-1);
 			try {
 				lastLvResult.add(new URL(s));
 			} catch (MalformedURLException e) {

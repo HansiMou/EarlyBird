@@ -48,7 +48,10 @@ public class FlashChemLit {
 		// + entry.getValue().print()+"\n");
 		// }
 		 */
-		putCrawlerToWork();
+		
+//		putCrawlerToWork();
+		
+		createIndex();
 		
 /*
 		 WebCrawlerNature wc = new WebCrawlerNature();
@@ -65,6 +68,23 @@ public class FlashChemLit {
 	}
 
 	/**
+	 * Description: use the Lucene to create index
+	 */
+	private static void createIndex() {
+		HTMLHandler hh = new HTMLHandler();
+		// TODO Auto-generated method stub
+		File dir = new File(config.folder);
+		for (File f : dir.listFiles()){
+			int x = hh.numOfWeeksToNow(f);
+			if (x >= config.weeknum)
+				f.delete();
+		}
+	}
+	
+
+	/**
+
+	/**
 	 * Description: the method for the Crawler 
 	 */
 	private static void putCrawlerToWork() {
@@ -74,30 +94,30 @@ public class FlashChemLit {
 
 		for (int i = 0; i < startings.size(); i++) {
 			if (startings.get(i).contains(".acs.")) {
-				WebCrawlerACS wc = new WebCrawlerACS();
-				wc.run(config.folder, urls.get(startings.get(i)), false,
-						config, driver, cache);
-				wc.updateCache();
+//				WebCrawlerACS wc = new WebCrawlerACS();
+//				wc.run(config.folder, urls.get(startings.get(i)), false,
+//						config, driver, cache);
+//				wc.updateCache();
 			} else if (startings.get(i).contains("science.sciencemag.org")) {
 				WebCrawlerSci wc = new WebCrawlerSci();
 				wc.run(config.folder, urls.get(startings.get(i)), false,
 						config, driver, cache);
 				wc.updateCache();
 			} else if (startings.get(i).contains("/nature/")) {
-				WebCrawlerNature wc = new WebCrawlerNature();
-				wc.run(config.folder, urls.get(startings.get(i)), false,
-						config, driver, cache);
-				wc.updateCache();
+//				WebCrawlerNature wc = new WebCrawlerNature();
+//				wc.run(config.folder, urls.get(startings.get(i)), false,
+//						config, driver, cache);
+//				wc.updateCache();
 			} else if (startings.get(i).contains(".nature.")) {
-				WebCrawlerNatureXX wc = new WebCrawlerNatureXX();
-				wc.run(config.folder, urls.get(startings.get(i)), false,
-						config, driver, cache);
-				wc.updateCache();
+//				WebCrawlerNatureXX wc = new WebCrawlerNatureXX();
+//				wc.run(config.folder, urls.get(startings.get(i)), false,
+//						config, driver, cache);
+//				wc.updateCache();
 			} else if (startings.get(i).contains("wiley")) {
-				WebCrawlerWiley wc = new WebCrawlerWiley();
-				wc.run(config.folder, urls.get(startings.get(i)), false,
-						config, driver, cache);
-				wc.updateCache();
+//				WebCrawlerWiley wc = new WebCrawlerWiley();
+//				wc.run(config.folder, urls.get(startings.get(i)), false,
+//						config, driver, cache);
+//				wc.updateCache();
 			}
 		}
 		driver.close();
