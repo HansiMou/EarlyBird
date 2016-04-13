@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
@@ -12,8 +13,15 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.queryparser.classic.MultiFieldQueryParser;
+import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.NumericRangeQuery;
+import org.apache.lucene.search.Query;
+import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.openqa.selenium.WebDriver;
@@ -55,8 +63,9 @@ public class FlashChemLit {
 
 		// putCrawlerToWork();
 
-//		deleteOutdateIndex();
-		createIndex();
+		// createIndex();
+		// deleteOutdateIndex();
+		testIndex();
 
 		/*
 		 * WebCrawlerNature wc = new WebCrawlerNature(); wc.run(config.folder,
@@ -71,13 +80,67 @@ public class FlashChemLit {
 	/**
 	 * Description:
 	 */
+	private static void testIndex() {
+		try {
+			Directory directory = FSDirectory.open(new File(config.indexfolder)
+					.toPath());
+			DirectoryReader reader = DirectoryReader.open(directory);
+			StandardAnalyzer analyzer = new StandardAnalyzer();
+			IndexWriterConfig configl = new IndexWriterConfig(analyzer);
+//			IndexWriter writer = null;
+//			try {
+//				writer = new IndexWriter(directory, configl);
+//				IndexReader indexReader = DirectoryReader.open(writer, true);
+//				System.out.println(indexReader.numDocs());
+//				writer.close();
+//			} catch (Exception eee) {
+//
+//			}
+
+			IndexSearcher searcher = new IndexSearcher(reader);
+			String[] stringQuery = "chemical".split(" ");
+			String[] ff = new String[stringQuery.length];
+			Arrays.fill(ff, "title");
+			Query query = MultiFieldQueryParser.parse(stringQuery, ff,
+					new StandardAnalyzer());
+
+			TopDocs rs = searcher.search(query, 10);
+
+			for (int i = 0; i < rs.scoreDocs.length; i++) {
+				Document doc = searcher.doc(rs.scoreDocs[i].doc);
+				System.out.println(doc.get("title"));
+			}
+			reader.close();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}
+
+	/**
+	 * Description:
+	 */
 	private static void deleteOutdateIndex() {
-		// TODO Auto-generated method stub
-		File indexfolder = new File(config.indexfolder);
-		if (!indexfolder.exists())
-			return;
-		else {
-			return;
+		try {
+			Directory directory = FSDirectory.open(new File(config.indexfolder)
+					.toPath());
+			DirectoryReader reader = DirectoryReader.open(directory);
+			StandardAnalyzer analyzer = new StandardAnalyzer();
+			IndexWriterConfig configl = new IndexWriterConfig(analyzer);
+			IndexWriter writer = null;
+			writer = new IndexWriter(directory, configl);
+			Query q = NumericRangeQuery.newLongRange("date",
+					new Date().getTime() - config.weeknum
+							* (7 * 24 * 3600 * 1000), new Date().getTime(),
+					true, true);
+			writer.deleteDocuments(q);
+			IndexReader indexReader = DirectoryReader.open(writer, true);
+			indexReader.close();
+			writer.close();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 	}
 
@@ -94,13 +157,13 @@ public class FlashChemLit {
 		IndexWriterConfig configl = new IndexWriterConfig(analyzer);
 		IndexWriter writer = null;
 		Directory directory;
-//		try {
-//			directory = FSDirectory.open(indexfolder.toPath());
-//			writer = new IndexWriter(directory, configl);
-//		} catch (IOException e1) {
-//			// TODO Auto-generated catch block
-//			e1.printStackTrace();
-//		}
+		try {
+			directory = FSDirectory.open(indexfolder.toPath());
+			writer = new IndexWriter(directory, configl);
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
 
 		HTMLHandler hh = new HTMLHandler();
 		// TODO Auto-generated method stub
@@ -109,15 +172,19 @@ public class FlashChemLit {
 			Document doc;
 			try {
 				doc = new HTMLHandler().getDocument(f);
-				// if (doc != null)
-				// writer.addDocument(doc);
-				// System.out.println(f.getPath());
-				// System.out.println(doc.getField("title").stringValue() +
-				// "\n");
+				if (doc != null) {
+					writer.addDocument(doc);
+				}
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
+			} finally {
+				f.delete();
 			}
+		}
+		try {
+			writer.close();
+		} catch (IOException e) {
 		}
 	}
 
