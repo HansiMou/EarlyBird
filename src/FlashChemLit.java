@@ -61,11 +61,11 @@ public class FlashChemLit {
 		 * entry.getValue().print()+"\n"); // }
 		 */
 
-		// putCrawlerToWork();
+		 putCrawlerToWork();
 
-		// createIndex();
-		// deleteOutdateIndex();
-		testIndex();
+		 createIndex();
+		 deleteOutdateIndex();
+//		testIndex();
 
 		/*
 		 * WebCrawlerNature wc = new WebCrawlerNature(); wc.run(config.folder,
