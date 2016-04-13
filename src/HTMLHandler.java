@@ -176,9 +176,9 @@ public class HTMLHandler {
 						.split("Abstract", 2)[1].trim();
 				// publisher
 				publisher = "Wiley";
+				// image
 				Elements ees = doc.getElementsByAttributeValue("class",
 						"issue-header__image-wrapper");
-				// image
 				if (ees.size() == 7)
 					image = ees.get(4).attr("src");
 
@@ -211,31 +211,114 @@ public class HTMLHandler {
 					else if (e.attr("name").equals("citation_keywords"))
 						author.add(e.attr("content").trim());
 				}
-				toPrint(title, doi, summary, date, url, fullurl, type, image,
-						journaltitle, publisher, author, keywords);
+				// toPrint(title, doi, summary, date, url, fullurl, type, image,
+				// journaltitle, publisher, author, keywords);
 			} else if (f.getName().contains("_doi_")) {
 				// ACS
-				// Elements es = doc.getElementsByAttributeValue("id",
-				// "pubDate");
-				// String text = es.get(0).text().split(":")[1].trim();
-				// String ds = text.split(",")[1].trim() + "-";
-				// ds = ds + month.get(text.split(" ")[0].toLowerCase()) + "-"
-				// + text.split(" |,")[1];
-				// DateFormat format1 = new SimpleDateFormat("yyyy-MM-dd");
-				// Date date = format1.parse(ds);
-				// last = date.getTime();
+				// url
+				Elements es = doc.getElementsByAttributeValue("type",
+						"application/atom+xml");
+				url = es.get(0).attr("href");
+
+				// image
+				es = doc.getElementsByAttributeValue("alt", "Abstract Image");
+				image = "http://pubs.acs.org" + es.get(0).attr("src");
+
+				// full url
+				es = doc.getElementsByAttributeValueStarting("href",
+						"/doi/full");
+				fullurl = "http://pubs.acs.org" + es.get(0).attr("href");
+
+				es = doc.getElementsByTag("meta");
+				for (Element e : es) {
+					// title
+					if (e.attr("name").equals("dc.Title"))
+						title = e.attr("content").trim();
+					// doi
+					else if (e.attr("name").equals("dc.Identifier"))
+						doi = e.attr("content").trim();
+					// type
+					else if (e.attr("name").equals("dc.Type"))
+						type = e.attr("content").trim().replace("-", " ");
+					// abstract
+					else if (e.attr("name").equals("dc.Description")) {
+						if (summary == null || summary.length() == 0)
+							summary = e.attr("content").trim();
+					}
+					// date
+					else if (e.attr("name").equals("dc.Date")) {
+						String[] tmp = e.attr("content").replace(",", "")
+								.trim().split(" ");
+						date = tmp[2] + "-" + month.get(tmp[0].toLowerCase())
+								+ "-" + tmp[1];
+					}
+					// publisher
+					// journal title
+					else if (e.attr("name").equals("dc.Publisher")) {
+						publisher = e.attr("content").trim();
+						journaltitle = publisher;
+					}
+					// author
+					else if (e.attr("name").equals("dc.Creator"))
+						author.add(e.attr("content").trim());
+					// keywords
+					else if (e.attr("name").equals("citation_keywords"))
+						author.add(e.attr("content").trim());
+				}
+//				toPrint(title, doi, summary, date, url, fullurl, type, image,
+//						journaltitle, publisher, author, keywords);
 			} else {
 				// Nature
-				// String[] text = doc.text().split("Published online");
-				// if (text.length == 2) {
-				// String[] tmp = text[1].trim().split(" ", 4);
-				// String d = tmp[2] + "-" + month.get(tmp[1].toLowerCase())
-				// + "-" + tmp[0];
-				// DateFormat format1 = new SimpleDateFormat("yyyy-MM-dd");
-				// Date date = format1.parse(d);
-				// last = date.getTime();
-				// } else
-				// return Integer.MAX_VALUE;
+				//image
+				Elements es = doc.getElementsByAttributeValueStarting("src", "/n");
+				image = "http://www.nature.com"+es.get(0).attr("src");
+				
+				//url
+				// full url
+				url = "http://www.nature.com"+f.getName().replace("_", "/");
+				fullurl = url;
+				es = doc.getElementsByTag("meta");
+				for (Element e : es) {
+					// abstract
+					if (e.attr("name").equals("description"))
+						summary = e.attr("content").trim();
+					// title
+					if (e.attr("name").equals("DC.title"))
+						title = e.attr("content").trim();
+					// date
+					else if (e.attr("name").equals("DC.date"))
+						date = e.attr("content").trim();
+					// doi
+					if (e.attr("name").equals("DC.identifier"))
+						doi = e.attr("content").replace("doi:"," ").trim();
+					else if (e.attr("name")
+							.equals("citation_abstract_html_url"))
+						url = e.attr("content").trim();
+					else if (e.attr("name").equals("citation_full_html_url"))
+						fullurl = e.attr("content").trim();
+					//type
+					else if (e.attr("name").equals("prism.section"))
+						type = e.attr("content").trim();
+					else if (e.attr("name").equals("og:image"))
+						image = e.attr("content").trim();
+					// j title
+					else if (e.attr("name").equals("citation_journal_title"))
+						journaltitle = e.attr("content").trim();
+					// publisher
+					else if (e.attr("name").equals("citation_publisher"))
+						publisher = e.attr("content").trim();
+					// author
+					else if (e.attr("name").equals("citation_author"))
+						author.add(e.attr("content"));
+					// keywords
+					else if (e.attr("name").equals("keywords")){
+						for (String each : e.attr("content").split(", ")){
+							keywords.add(each);
+						}
+					}
+				}
+				toPrint(title, doi, summary, date, url, fullurl, type, image,
+						journaltitle, publisher, author, keywords);
 			}
 
 		} catch (Exception e) {
@@ -248,9 +331,29 @@ public class HTMLHandler {
 	public void toPrint(String s1, String s2, String s3, String s4, String s5,
 			String s6, String s7, String s8, String s9, String s10,
 			ArrayList<String> s11, ArrayList<String> s12) {
-		System.out.print(s1 + "\n" + s2 + "\n" + s3 + "\n" + s4 + "\n" + s5
-				+ "\n" + s6 + "\n" + s7 + "\n" + s8 + "\n" + s9 + "\n" + s10
-				+ "\n");
-		System.out.println(s11.toString() + "\n" + s12.toString() + "\n");
+		if (s1.length() != 0)
+			System.out.print(s1 + "\n");
+		if (s2.length() != 0)
+			System.out.print(s2 + "\n");
+		if (s3.length() != 0)
+			System.out.print(s3 + "\n");
+		if (s4.length() != 0)
+			System.out.print(s4 + "\n");
+		if (s5.length() != 0)
+			System.out.print(s5 + "\n");
+		if (s6.length() != 0)
+			System.out.print(s6 + "\n");
+		if (s7.length() != 0)
+			System.out.print(s7 + "\n");
+		if (s8.length() != 0)
+			System.out.print(s8 + "\n");
+		if (s9.length() != 0)
+			System.out.print(s9 + "\n");
+		if (s10.length() != 0)
+			System.out.print(s10 + "\n");
+		if (s12.size() != 0)
+			System.out.println(s12.toString());
+		if (s11.size() != 0)
+			System.out.println(s11.toString() + "\n");
 	}
 }
