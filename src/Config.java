@@ -8,7 +8,7 @@ import java.io.FileReader;
  */
 
 public class Config {
-	String dnfolder = "download";
+	String dnfolder = "downloads";
 	String indexfolder = "index";
 	int weeknum = 1;
 	String cdp = "chromedriver";

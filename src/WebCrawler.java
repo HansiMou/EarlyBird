@@ -1,11 +1,12 @@
 
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.HashSet;
 import java.util.Hashtable;
 import java.util.Iterator;
@@ -120,8 +121,8 @@ public class WebCrawler {
 		String strURL = url.getFile();
 		int index = 0;
 		String specific = null;
-		for (String valid : strCommands.split("User-agent:")){
-			if (valid.trim().startsWith("*")){
+		for (String valid : strCommands.split("User-agent:")) {
+			if (valid.trim().startsWith("*")) {
 				specific = valid;
 				break;
 			}
@@ -381,7 +382,7 @@ public class WebCrawler {
 			FileWriter writer = new FileWriter(config.cachepath, true);
 			for (Iterator items = newlyAdded.iterator(); items.hasNext();) {
 				String item = (String) items.next();
-				writer.write(item+"\n");
+				writer.write(new Date().getTime() + " " + item + "\n");
 			}
 			writer.close();
 		} catch (IOException e) {

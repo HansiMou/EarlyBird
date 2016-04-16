@@ -2,6 +2,8 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Calendar;
@@ -47,13 +49,13 @@ public class FlashChemLit {
 
 	public static void main(String[] args) throws Exception {
 		// get the cache file
-		GetCache();
+		 GetCache();
 
 		// check folder exist or not and delete the outdated
-		CheckFolder();
+		 CheckFolder();
 
 		// get all the starting urls and set-up
-		GetUrls();
+		 GetUrls();
 		/*
 		 * // System.out.println(startings); // for (Map.Entry<String,
 		 * StartingUrl> entry : urls.entrySet()) { //
@@ -62,19 +64,18 @@ public class FlashChemLit {
 		 */
 
 		 putCrawlerToWork();
-
+		
 		 createIndex();
 		 deleteOutdateIndex();
-//		testIndex();
+		// testIndex();
+		// WebCrawlerACS wc = new WebCrawlerACS();
+		// try {
+		// wc.DownloadPagesJsoup(new URL(
+		// "http://pubs.acs.org/journal/jacsat"));
+		// } catch (MalformedURLException e) {
+		// e.printStackTrace();
+		// }
 
-		/*
-		 * WebCrawlerNature wc = new WebCrawlerNature(); wc.run(config.folder,
-		 * urls.get(startings.get(0)), false, config, driver, cache); try {
-		 * wc.DownloadPages(new URL(
-		 * "http://www.nature.com/nature/research/chemical-sciences.html?code=npg_subject_638&year=2016&month=04"
-		 * )); } catch (MalformedURLException e) { // TODO Auto-generated catch
-		 * block e.printStackTrace(); }
-		 */
 	}
 
 	/**
@@ -87,15 +88,15 @@ public class FlashChemLit {
 			DirectoryReader reader = DirectoryReader.open(directory);
 			StandardAnalyzer analyzer = new StandardAnalyzer();
 			IndexWriterConfig configl = new IndexWriterConfig(analyzer);
-//			IndexWriter writer = null;
-//			try {
-//				writer = new IndexWriter(directory, configl);
-//				IndexReader indexReader = DirectoryReader.open(writer, true);
-//				System.out.println(indexReader.numDocs());
-//				writer.close();
-//			} catch (Exception eee) {
-//
-//			}
+			// IndexWriter writer = null;
+			// try {
+			// writer = new IndexWriter(directory, configl);
+			// IndexReader indexReader = DirectoryReader.open(writer, true);
+			// System.out.println(indexReader.numDocs());
+			// writer.close();
+			// } catch (Exception eee) {
+			//
+			// }
 
 			IndexSearcher searcher = new IndexSearcher(reader);
 			String[] stringQuery = "chemical".split(" ");
@@ -237,7 +238,7 @@ public class FlashChemLit {
 			reader = new BufferedReader(new FileReader(file));
 			String tempString = null;
 			while ((tempString = reader.readLine()) != null) {
-				cache.add(tempString);
+				cache.add(tempString.split(" ", 2)[1]);
 			}
 			reader.close();
 		} catch (IOException e) {

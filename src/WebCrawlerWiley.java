@@ -1,18 +1,23 @@
-
-
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import org.openqa.selenium.WebDriver;
 
 public class WebCrawlerWiley extends WebCrawler {
+	static HashMap<String, String> imagecache = new HashMap<String, String>();
 
-	public void run(String path, StartingUrl s, boolean d, Config c, WebDriver wd, HashSet<String> cache) {
+	public void run(String path, StartingUrl s, boolean d, Config c,
+			WebDriver wd, HashSet<String> cache) {
 		initialize(path, s, d, c, wd, cache);
 		while (this.lv < this.LEVEL_LIMIT) {
 			URL url = newURLs.poll();
@@ -47,10 +52,12 @@ public class WebCrawlerWiley extends WebCrawler {
 		Document doc = null;
 		Elements es = null;
 		try {
-			doc = Jsoup.connect(url.toString()).timeout(3000)
-					.get();
+			doc = Jsoup.connect(url.toString()).timeout(3000).get();
+
+			AddImageUrl(doc);
+
 			es = doc.getAllElements();
-//			System.out.println(es.html());
+			// System.out.println(es.html());
 		} catch (IOException e) {
 			if (DEBUG)
 				e.printStackTrace();
@@ -75,6 +82,28 @@ public class WebCrawlerWiley extends WebCrawler {
 			} catch (Exception e1) {
 				// e1.printStackTrace();
 				continue;
+			}
+		}
+	}
+
+	/**
+	 * Description:
+	 * 
+	 * @param doc
+	 */
+	private void AddImageUrl(Document doc) {
+		// TODO Auto-generated method stub
+		Elements es = doc.getElementsByTag("img");
+		for (Element e : es) {
+			String src = e.attr("src").trim();
+			if (src.startsWith("http://onlinelibrary.wiley.com/store/10.1002")) {
+				String[] tmp = src.replace(
+						"http://onlinelibrary.wiley.com/store/10.1002/", "")
+						.split("/");
+				if (tmp == null || tmp.length <= 0)
+					continue;
+				String name = tmp[0];
+				imagecache.put(name, src);
 			}
 		}
 	}

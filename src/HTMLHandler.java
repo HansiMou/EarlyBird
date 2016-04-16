@@ -124,7 +124,7 @@ public class HTMLHandler {
 		String url = "";
 		String fullurl = "";
 		String type = "";
-		String image = "";
+		StringBuilder image = new StringBuilder("");
 		String journaltitle = "";
 		String publisher = "";
 		StringBuilder author = new StringBuilder();
@@ -167,8 +167,6 @@ public class HTMLHandler {
 								fullurl = e.attr("content").trim();
 							else if (e.attr("name").equals("og:type"))
 								type = e.attr("content").trim();
-							else if (e.attr("name").equals("og:image"))
-								image = e.attr("content").trim();
 							else if (e.attr("name").equals(
 									"citation_journal_title"))
 								journaltitle = e.attr("content").trim();
@@ -193,10 +191,8 @@ public class HTMLHandler {
 					// publisher
 					publisher = "Wiley";
 					// image
-					Elements ees = doc.getElementsByAttributeValue("class",
-							"issue-header__image-wrapper");
-					if (ees.size() == 7)
-						image = ees.get(4).attr("src");
+					image.append(WebCrawlerWiley.imagecache.get(f.getName()
+							.replace("_doi_10.1002_", "").split("_")[0]));
 				} catch (Exception ex) {
 				} finally {
 
@@ -248,9 +244,9 @@ public class HTMLHandler {
 					url = es.get(0).attr("href");
 
 					// image
-					es = doc.getElementsByAttributeValue("alt",
-							"Abstract Image");
-					image = "http://pubs.acs.org" + es.get(0).attr("src");
+					String[] tmp = f.getName().split("_");
+					image.append(WebCrawlerACS.imagecache
+							.get(tmp[tmp.length - 1]));
 
 					// full url
 					es = doc.getElementsByAttributeValueStarting("href",
@@ -307,13 +303,17 @@ public class HTMLHandler {
 				// Nature
 				try {
 					// image
-					Elements es = doc.getElementsByAttributeValueStarting(
-							"src", "/n");
-					image = "http://www.nature.com" + es.get(0).attr("src");
+					if (!f.getName().contains("nature_journal")) {
+						String[] tmp = f.getName().split("_|.");
+						if (tmp.length >= 3)
+							image.append(WebCrawlerNatureXX.imagecache
+									.get(tmp[tmp.length - 3].trim() + "."
+											+ tmp[tmp.length - 2].trim()));
+					}
 
 					// keywords
-					es = doc.getElementsByAttributeValueStarting("href",
-							"/subjects/");
+					Elements es = doc.getElementsByAttributeValueStarting(
+							"href", "/subjects/");
 					for (Element e : es) {
 						keywords.append(e.text() + ", ");
 					}
@@ -349,8 +349,6 @@ public class HTMLHandler {
 							// type
 							else if (e.attr("name").equals("prism.section"))
 								type = e.attr("content").trim();
-							else if (e.attr("name").equals("og:image"))
-								image = e.attr("content").trim();
 							// j title
 							else if (e.attr("name").equals(
 									"citation_journal_title"))
@@ -380,16 +378,18 @@ public class HTMLHandler {
 			doc1.add(new StoredField("url", url));
 			doc1.add(new StoredField("fullurl", fullurl));
 			doc1.add(new StoredField("type", type));
-			doc1.add(new StoredField("image", image));
+			 doc1.add(new StoredField("image", image.toString()));
 			doc1.add(new StoredField("journaltitle", journaltitle));
 			doc1.add(new StoredField("publisher", publisher));
 			doc1.add(new TextField("authors", author.length() > 2 ? author
 					.substring(0, author.length() - 2) : author.toString(),
 					Store.YES));
-			doc1.add(new TextField("keywords",
-					keywords.length() > 2 ? keywords.substring(0,
-							keywords.length() - 2) : keywords.toString(),
+			doc1.add(new TextField("keywords", keywords.length() > 2 ? keywords
+					.substring(0, keywords.length() - 2) : keywords.toString(),
 					Store.YES));
+			if (image.length() > 0)
+				System.out.println(image);
+			
 			return doc1;
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

@@ -2,17 +2,20 @@
 
 import java.io.IOException;
 import java.net.URL;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import org.openqa.selenium.WebDriver;
 
 public class WebCrawlerACS extends WebCrawler {
 	HashSet<URL> tmpnewURLs = new HashSet<URL>();
-
+	static HashMap<String, String> imagecache = new HashMap<String, String>();
+	
 	public void run(String path, StartingUrl s, boolean d, Config c, WebDriver wd, HashSet<String> cache) {
 		initialize(path, s, d, c, wd, cache);
 		while (this.lv < this.LEVEL_LIMIT) {
@@ -58,6 +61,9 @@ public class WebCrawlerACS extends WebCrawler {
 			doc = Jsoup.connect(url.toString()).data("query", "Java")
 					.userAgent("Mozilla").cookie("auth", "token").timeout(3000)
 					.post();
+			if (this.lv == this.LEVEL_LIMIT-1){
+				AddImageUrl(doc);
+			}
 			es = doc.getAllElements();
 //			System.out.println(es.html());
 		} catch (IOException e) {
@@ -109,5 +115,33 @@ public class WebCrawlerACS extends WebCrawler {
 			DownloadPagesJsoup(obj);
 		}
 		return this.lastLvResult;
+	}
+
+
+	/**
+	 * Description: 
+	 * @param doc
+	 */
+	private void AddImageUrl(Document doc) {
+		// TODO Auto-generated method stub
+		Elements es = doc.getElementsByAttributeValue("type", "text/javascript");
+		for (Element e : es){
+			String src = e.data();
+			if (src.startsWith("addFigure")){
+				String[] tmp = src.split("'|,| ");
+				if (tmp == null || tmp.length < 1)
+					continue;
+				String name = tmp[1].split("/")[1];
+				
+				String link = "http://pubs.acs.org"+tmp[4]+"/images/medium/"+tmp[7];
+				if (!imagecache.containsKey(name)){
+					imagecache.put(name, link);
+				}
+				else{
+					String exist = imagecache.get(name);
+					imagecache.put(name, exist+","+link);
+				}
+			}
+		}
 	}
 }
