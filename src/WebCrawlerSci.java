@@ -72,7 +72,7 @@ public class WebCrawlerSci extends WebCrawler {
 			obj = (URL) it.next();
 			if (DEBUG)
 				System.out.println(obj.toString());
-			DownloadPagesWebDriver(obj);
+			DownloadPagesJsoup(obj);
 		}
 		return this.lastLvResult;
 	}

@@ -11,7 +11,6 @@ public class Config {
 	String dnfolder = "downloads";
 	String indexfolder = "index";
 	int weeknum = 1;
-	String cdp = "chromedriver";
 	String cachepath = "cache";
 
 	public Config() {
@@ -28,9 +27,6 @@ public class Config {
 				} 
 				else if (str.startsWith("TimePeroidOfWeeks")) {
 					this.weeknum = Integer.parseInt(str.split("::")[1]);
-				}
-				else if (str.startsWith("ChromeDirverPath")){
-					this.cdp = str.split("::")[1];
 				}
 				else if (str.startsWith("CachePath")){
 					this.cachepath = str.split("::")[1];

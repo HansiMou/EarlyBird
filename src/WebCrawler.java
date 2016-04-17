@@ -5,7 +5,6 @@ import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
-import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Hashtable;
@@ -280,7 +279,7 @@ public class WebCrawler {
 		return true;
 	}
 
-	public boolean DownloadPagesWebDriver(URL url) {
+	public boolean DownloadPagesHtmlUnit(URL url) {
 		String name = url.getFile().replace("/", "_");
 		FileWriter writer;
 		try {
@@ -288,7 +287,7 @@ public class WebCrawler {
 				return false;
 			}
 			writer = new FileWriter(path + "/" + name);
-			writer.write(getpageWD(url));
+			writer.write(getpageHUD(url));
 			writer.close();
 			newlyAdded.add(name);
 		} catch (IOException e) {
@@ -296,8 +295,8 @@ public class WebCrawler {
 		return true;
 	}
 
-	// get page using web driver method
-	public String getpageWD(URL url) {
+	// get page using HtmlUnit Driver
+	public String getpageHUD(URL url) {
 
 		driver.get(url.toString());
 

@@ -1,5 +1,4 @@
 
-
 import java.io.IOException;
 import java.net.URL;
 import java.util.HashMap;
@@ -15,8 +14,9 @@ import org.openqa.selenium.WebDriver;
 public class WebCrawlerACS extends WebCrawler {
 	HashSet<URL> tmpnewURLs = new HashSet<URL>();
 	static HashMap<String, String> imagecache = new HashMap<String, String>();
-	
-	public void run(String path, StartingUrl s, boolean d, Config c, WebDriver wd, HashSet<String> cache) {
+
+	public void run(String path, StartingUrl s, boolean d, Config c,
+			WebDriver wd, HashSet<String> cache) {
 		initialize(path, s, d, c, wd, cache);
 		while (this.lv < this.LEVEL_LIMIT) {
 			URL url = newURLs.poll();
@@ -61,11 +61,11 @@ public class WebCrawlerACS extends WebCrawler {
 			doc = Jsoup.connect(url.toString()).data("query", "Java")
 					.userAgent("Mozilla").cookie("auth", "token").timeout(3000)
 					.post();
-			if (this.lv == this.LEVEL_LIMIT-1){
+			if (this.lv == this.LEVEL_LIMIT - 1) {
 				AddImageUrl(doc);
 			}
 			es = doc.getAllElements();
-//			System.out.println(es.html());
+			// System.out.println(es.html());
 		} catch (IOException e) {
 			if (DEBUG)
 				e.printStackTrace();
@@ -111,35 +111,35 @@ public class WebCrawlerACS extends WebCrawler {
 		while (it.hasNext()) {
 			obj = (URL) it.next();
 			if (DEBUG)
-			System.out.println(obj.toString());
+				System.out.println(obj.toString());
 			DownloadPagesJsoup(obj);
 		}
 		return this.lastLvResult;
 	}
 
-
 	/**
-	 * Description: 
+	 * Description:
+	 * 
 	 * @param doc
 	 */
 	private void AddImageUrl(Document doc) {
 		// TODO Auto-generated method stub
-		Elements es = doc.getElementsByAttributeValue("type", "text/javascript");
-		for (Element e : es){
+		Elements es = doc
+				.getElementsByAttributeValue("type", "text/javascript");
+		for (Element e : es) {
 			String src = e.data();
-			if (src.startsWith("addFigure")){
+			if (src.startsWith("addFigure")) {
 				String[] tmp = src.split("'|,| ");
-				if (tmp == null || tmp.length < 1)
+				if (tmp == null || tmp.length < 7)
 					continue;
 				String name = tmp[1].split("/")[1];
-				
-				String link = "http://pubs.acs.org"+tmp[4]+"/images/medium/"+tmp[7];
-				if (!imagecache.containsKey(name)){
+				String link = "http://pubs.acs.org" + tmp[4]
+						+ "/images/medium/" + tmp[7];
+				if (!imagecache.containsKey(name)) {
 					imagecache.put(name, link);
-				}
-				else{
+				} else {
 					String exist = imagecache.get(name);
-					imagecache.put(name, exist+","+link);
+					imagecache.put(name, exist + "," + link);
 				}
 			}
 		}

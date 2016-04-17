@@ -2,8 +2,6 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.net.MalformedURLException;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Calendar;
@@ -11,7 +9,6 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.concurrent.TimeUnit;
 
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
@@ -27,7 +24,7 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
 /**
  * @author Hansi Mou
@@ -67,7 +64,7 @@ public class FlashChemLit {
 		
 		 createIndex();
 		 deleteOutdateIndex();
-		// testIndex();
+		 testIndex();
 		// WebCrawlerACS wc = new WebCrawlerACS();
 		// try {
 		// wc.DownloadPagesJsoup(new URL(
@@ -193,9 +190,7 @@ public class FlashChemLit {
 	 * /** Description: the method for the Crawler
 	 */
 	private static void putCrawlerToWork() {
-		System.setProperty("webdriver.chrome.driver", config.cdp);
-		WebDriver driver = new ChromeDriver();
-		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		WebDriver driver = new HtmlUnitDriver(false);
 
 		for (int i = 0; i < startings.size(); i++) {
 			if (startings.get(i).contains(".acs.")) {

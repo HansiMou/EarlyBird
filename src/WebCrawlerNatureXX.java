@@ -97,7 +97,7 @@ public class WebCrawlerNatureXX extends WebCrawler {
 			obj = (URL) it.next();
 			if (DEBUG)
 				System.out.println(obj.toString());
-			DownloadPagesWebDriver(obj);
+			DownloadPagesHtmlUnit(obj);
 		}
 		return this.lastLvResult;
 	}
