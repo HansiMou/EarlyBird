@@ -1,0 +1,44 @@
+
+        h2 { color: #111; font-family: 'Optima'; font-size: 50px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+        p { color: #685206; font-family: 'Courier', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 0; }
+        
+        .submit_btn{
+            clear: both;
+            width: 100px;
+            text-align:center;
+            background: #4C7FEB;
+            color: #fff;
+            text-transform: uppercase;
+            border: 1px solid #4C7FEB;
+            padding: 10px 0 10px 0px;
+            margin: 0 auto;
+            -webkit-transition: color 0.2s,background-color 0.2s,box-shadow 0.2s,border 0.2s;
+            -moz-transition: color 0.2s,background-color 0.2s,box-shadow 0.2s,border 0.2s;
+            -o-transition: color 0.2s,background-color 0.2s,box-shadow 0.2s,border 0.2s;
+            transition: color 0.2s,background-color 0.2s,box-shadow 0.2s,border 0.2s;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+            border-radius: 3px;
+            -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+            -moz-box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+        }
+        .submit_btn:hover{
+            background: #285AC5;
+            box-shadow: none;
+        }
+        input[type="submit"]
+        {
+            font-size:14px;
+            font-family: 'Adobe Garamond';
+        }
+        td {
+            vertical-align: middle;
+            padding-top: 10px;
+            padding-right: 5px;
+            padding-bottom: 3px;
+            padding-left: 5px;
+        }
+        table {
+            margin-top:13%;
+        }
