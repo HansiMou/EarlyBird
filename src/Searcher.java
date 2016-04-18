@@ -36,13 +36,15 @@ public class Searcher {
 					.toPath());
 			DirectoryReader reader = DirectoryReader.open(directory);
 			IndexSearcher searcher = new IndexSearcher(reader);
-			String[] stringQuery = "news effect".split(" ");
-			String[] ff = new String[stringQuery.length];
-			Arrays.fill(ff, "abstract");
+			
+			
+			String[] stringQuery = new String[4];
+			Arrays.fill(stringQuery, "news effect");
+			String[] ff = {"title", "abstract", "authors", "keywords"};
 			Query query = MultiFieldQueryParser.parse(stringQuery, ff,
 					new StandardAnalyzer());
 
-			TopDocs rs = searcher.search(query, 30);
+			TopDocs rs = searcher.search(query, 20);
 			// write to a file
 			for (int i = 0; i < rs.scoreDocs.length; i++) {
 				Document doc = searcher.doc(rs.scoreDocs[i].doc);
