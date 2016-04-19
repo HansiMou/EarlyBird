@@ -1,6 +1,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="assets/i/favicon.png">
     <link rel="stylesheet" href="assets/css/amazeui.min.css"/>
     <link rel="stylesheet" href="assets/css/app.css">
     <link rel="stylesheet" href="assets/css/my.css">
@@ -55,44 +56,10 @@ echo '
 
 
 <div class="am-g am-g-fixed blog-g-fixed get">
-<div class="am-u-md-9">
-  <article class="blog-main">
-    <h3 class="am-article-title blog-title">
-      <a href="#">News at glance</a>
-    </h3>
-    <h4 class="am-article-meta blog-meta">by <a href="">open</a> posted on 2014/06/17 under <a href="#">字体</a></h4>
+<div class="am-u-md-9">';
 
-    <div class="am-g blog-content">
-      <div class="am-u-lg-6">
-      <div data-am-widget="slider" class="am-slider am-slider-b2" data-am-slider=\'{&quot;animation&quot;:&quot;slide&quot;,&quot;slideshow&quot;:false}\' >
-        <ul class="am-slides">
-          <li>
-              <img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
-          </li>
-          <li>
-              <img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
-          </li>
-          <li>
-              <img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
-          </li>
-          <li>
-              <img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
-          </li>
-        </ul>
-      </div>
-
-      </div>
-    </div>
-    <div class="am-g">
-      <div class="am-u-sm-6">
-        <p>看著自己的作品，你的喜悅之情溢於言表，差點就要說出我要感謝我的父母之類的得獎感言。但在你對面的客戶先是一點表情也沒有，又瞬間轉為陰沉，抿了抿嘴角冷冷的說……</p>
-
-        <p>「我要一種比較跳的感覺懂嗎？」</p>
-      </div>
-    </div>
-  </article>
-  
-</div>
+$w = system("cd /Users/hans/Documents/workspace/Flash\ ChemLit; java -cp .:lib/lucene-core-5.4.1.jar:lib/lucene-analyzers-common-5.4.1.jar:lib/lucene-queryparser-5.4.1.jar:lib/lucene-highlighter-5.4.1.jar:lib/lucene-join-5.4.1.jar:lib/lucene-memory-5.4.1.jar:bin/ Searcher \"".$_POST['query'] . "\"",$res);
+echo '</div>
 
 </div>
 <footer class="blog-footer">

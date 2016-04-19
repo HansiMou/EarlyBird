@@ -1,7 +1,9 @@
 
 h2 { color: #111; font-family: 'Optima'; font-size: 50px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
 p { color: black; font-family: 'Courier', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 0; }
-
+table {
+    height: 100%
+}
 .submit_btn{
     clear: both;
     width: 100px;
@@ -32,11 +34,6 @@ input[type="submit"]
     font-size:14px;
     font-family: 'Adobe Garamond';
 }
-td {
-}
-table {
-    height: 100%
-}
 .get {
     padding: 100px 0;
 }        
@@ -57,36 +54,41 @@ table {
 }
 
 .blog-title {
-    margin: 10px 0 20px 0;
+    margin: 6px 0 6px 0;
     font-family: 'Caslon';
+    font-size: 1.5em;
+    font-weight:bold;
+    color: #013ADF;
+    line-height:100%;
 }
 
-.blog-meta {
-    font-size: 14px;
-    margin: 10px 0 20px 0;
-    color: #222;
+.blog-authors {
+    font-family: 'Bookman old style';
+    font-style:italic;
+    color: #585858;
+    font-weight: normal;
+    font-size: 0.6em;
+    
+}
+.blog-keywords {
+    font-family: 'Futura';
+    color: snow;
+    font-weight: normal;
 }
 
-.blog-meta a {
-    color: #27ae60;
+.blog-date {
+    margin: 3px 0 3px 0;
+    font-family: 'Futura';
+    color: black;
+    font-weight: normal;
 }
 
-.blog-pagination a {
-    font-size: 1.4rem;
-}
-
-.blog-team li {
-    padding: 4px;
-}
-
-.blog-team img {
-    margin-bottom: 0;
-}
-
-.blog-content img,
-.blog-team img {
-    max-width: 100%;
-    height: auto;
+.blog-abs {
+    font-family: 'Futura';
+    color: black;
+    font-size: 0.9em;
+    line-height:150%;
+     font-weight: normal;
 }
 
 .blog-footer {
