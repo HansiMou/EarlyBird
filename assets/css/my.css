@@ -1,6 +1,6 @@
 
 h2 { color: #111; font-family: 'Optima'; font-size: 50px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
-p { color: #685206; font-family: 'Courier', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 0; }
+p { color: black; font-family: 'Courier', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 0; }
 
 .submit_btn{
     clear: both;
@@ -10,7 +10,7 @@ p { color: #685206; font-family: 'Courier', sans-serif; font-size: 14px; line-he
     color: #fff;
     text-transform: uppercase;
     border: 1px solid #4C7FEB;
-    padding: 10px 0 10px 0px;
+    padding: 8px 0 8px 0px;
     margin: 0 auto;
     -webkit-transition: color 0.2s,background-color 0.2s,box-shadow 0.2s,border 0.2s;
     -moz-transition: color 0.2s,background-color 0.2s,box-shadow 0.2s,border 0.2s;
@@ -33,14 +33,9 @@ input[type="submit"]
     font-family: 'Adobe Garamond';
 }
 td {
-    vertical-align: middle;
-    padding-top: 10px;
-    padding-right: 5px;
-    padding-bottom: 3px;
-    padding-left: 5px;
 }
 table {
-    margin-top:13%;
+    height: 100%
 }
 .get {
     padding: 100px 0;
@@ -63,6 +58,7 @@ table {
 
 .blog-title {
     margin: 10px 0 20px 0;
+    font-family: 'Caslon';
 }
 
 .blog-meta {
@@ -94,6 +90,7 @@ table {
 }
 
 .blog-footer {
-    padding: 10px 0;
+    margin-bottom: 0;
+    padding: 10px 0 0 0;
     text-align: center;
 }
