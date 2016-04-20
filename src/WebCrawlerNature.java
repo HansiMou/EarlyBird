@@ -62,7 +62,8 @@ public class WebCrawlerNature extends WebCrawler {
 				URL newUrl = new URL(url, es.get(i).attr("href"));
 				if (DEBUG)
 					System.out.println(newUrl);
-				if (shouldAdded(newUrl)) {
+				// specail cornter case for nature
+				if (newUrl.toString().contains("abs") && shouldAdded(newUrl)) {
 					// System.out.println(newUrl);
 					newURLs.add(newUrl);
 					last++;

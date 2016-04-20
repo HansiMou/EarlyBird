@@ -44,7 +44,7 @@
   
   <form action="index.php" method="POST" class="am-topbar-form am-topbar-left am-form-inline" role="search">
     <div class="am-form-group">
-      <input type="text" name="query" class="am-form-field am-input-sm" value="';echo $query;echo '" size="40">
+      <input type="text" name="query" class="am-form-field am-input-sm topsearch" value="';echo $query;echo '">
       <button type="submit" class="am-btn am-btn-primary am-btn-sm">SEARCH</button>
     </div>
   </form>
@@ -56,7 +56,7 @@ echo '
 
 
 <div class="am-g am-g-fixed blog-g-fixed get">
-<div class="am-u-md-9">';
+<div class="am-u-md-10">';
 
 $w = system("cd /Users/hans/Documents/workspace/Flash\ ChemLit; java -cp .:lib/lucene-core-5.4.1.jar:lib/lucene-analyzers-common-5.4.1.jar:lib/lucene-queryparser-5.4.1.jar:lib/lucene-highlighter-5.4.1.jar:lib/lucene-join-5.4.1.jar:lib/lucene-memory-5.4.1.jar:bin/ Searcher \"".$_POST['query'] . "\"",$res);
 echo '</div>

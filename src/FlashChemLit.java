@@ -46,13 +46,13 @@ public class FlashChemLit {
 
 	public static void main(String[] args) throws Exception {
 		// get the cache file
-		 GetCache();
+		GetCache();
 
 		// check folder exist or not and delete the outdated
-		 CheckFolder();
+		CheckFolder();
 
 		// get all the starting urls and set-up
-		 GetUrls();
+		GetUrls();
 		/*
 		 * // System.out.println(startings); // for (Map.Entry<String,
 		 * StartingUrl> entry : urls.entrySet()) { //
@@ -60,11 +60,11 @@ public class FlashChemLit {
 		 * entry.getValue().print()+"\n"); // }
 		 */
 
-		 putCrawlerToWork();
-		
-		 createIndex();
-		 deleteOutdateIndex();
-		 testIndex();
+		putCrawlerToWork();
+
+		createIndex();
+		deleteOutdateIndex();
+		// testIndex();
 		// WebCrawlerACS wc = new WebCrawlerACS();
 		// try {
 		// wc.DownloadPagesJsoup(new URL(
@@ -128,10 +128,9 @@ public class FlashChemLit {
 			IndexWriterConfig configl = new IndexWriterConfig(analyzer);
 			IndexWriter writer = null;
 			writer = new IndexWriter(directory, configl);
-			Query q = NumericRangeQuery.newLongRange("date",
+			Query q = NumericRangeQuery.newLongRange("date", (long) 0,
 					new Date().getTime() - config.weeknum
-							* (7 * 24 * 3600 * 1000), new Date().getTime(),
-					true, true);
+							* (7 * 24 * 3600 * 1000), true, true);
 			writer.deleteDocuments(q);
 			IndexReader indexReader = DirectoryReader.open(writer, true);
 			indexReader.close();
@@ -177,7 +176,7 @@ public class FlashChemLit {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			} finally {
-				f.delete();
+//				 f.delete();
 			}
 		}
 		try {
@@ -194,15 +193,15 @@ public class FlashChemLit {
 
 		for (int i = 0; i < startings.size(); i++) {
 			if (startings.get(i).contains(".acs.")) {
-				WebCrawlerACS wc = new WebCrawlerACS();
-				wc.run(config.dnfolder, urls.get(startings.get(i)), false,
-						config, driver, cache);
-				wc.updateCache();
+//				 WebCrawlerACS wc = new WebCrawlerACS();
+//				 wc.run(config.dnfolder, urls.get(startings.get(i)), false,
+//				 config, driver, cache);
+//				 wc.updateCache();
 			} else if (startings.get(i).contains("science.sciencemag.org")) {
-				WebCrawlerSci wc = new WebCrawlerSci();
-				wc.run(config.dnfolder, urls.get(startings.get(i)), false,
-						config, driver, cache);
-				wc.updateCache();
+//				 WebCrawlerSci wc = new WebCrawlerSci();
+//				 wc.run(config.dnfolder, urls.get(startings.get(i)), false,
+//				 config, driver, cache);
+//				 wc.updateCache();
 			} else if (startings.get(i).contains("/nature/")) {
 				WebCrawlerNature wc = new WebCrawlerNature();
 				wc.run(config.dnfolder, urls.get(startings.get(i)), false,
@@ -214,10 +213,10 @@ public class FlashChemLit {
 						config, driver, cache);
 				wc.updateCache();
 			} else if (startings.get(i).contains("wiley")) {
-				WebCrawlerWiley wc = new WebCrawlerWiley();
-				wc.run(config.dnfolder, urls.get(startings.get(i)), false,
-						config, driver, cache);
-				wc.updateCache();
+//				 WebCrawlerWiley wc = new WebCrawlerWiley();
+//				 wc.run(config.dnfolder, urls.get(startings.get(i)), false,
+//				 config, driver, cache);
+//				 wc.updateCache();
 			}
 		}
 		driver.close();

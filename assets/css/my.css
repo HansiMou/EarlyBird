@@ -35,7 +35,11 @@ input[type="submit"]
     font-family: 'Adobe Garamond';
 }
 .get {
-    padding: 100px 0;
+    padding: 10px 0;
+}
+
+.get2 {
+    padding: 20px 0;
 }        
 @media only screen and (min-width: 1200px) {
     .blog-g-fixed {

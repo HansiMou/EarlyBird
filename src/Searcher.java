@@ -64,9 +64,12 @@ public class Searcher {
 			SimpleDateFormat sdf = new SimpleDateFormat("MM-dd-yyyy");
 			if (rs.scoreDocs.length == 0)
 				System.out
-						.println("<div class=\"blog-abs\">No results found.</div>");
+						.println("<div class=\"get2\">No results found.</div>");
+			else if (rs.scoreDocs.length < 50)
+				System.out.println("<div class=\"get2\">Found "
+						+ rs.scoreDocs.length + " results.</div>");
 			else
-				System.out.println("<div class=\"blog-abs\">Show the top "
+				System.out.println("<div class=\"get2\">Showing the top "
 						+ rs.scoreDocs.length + " results.</div>");
 			for (int i = 0; i < rs.scoreDocs.length; i++) {
 				Document doc = searcher.doc(rs.scoreDocs[i].doc);
@@ -78,20 +81,36 @@ public class Searcher {
 				TokenStream tokenStream = new StandardAnalyzer().tokenStream(
 						"title", new StringReader(title));
 				String titleh = highlighter.getBestFragment(tokenStream, title);
-
+				if (titleh == null || titleh.length() == 0)
+					titleh = title;
 				tokenStream = new StandardAnalyzer().tokenStream("abs",
 						new StringReader(abs));
 				String absh = highlighter.getBestFragment(tokenStream, abs);
+				if (absh == null || absh.length() == 0)
+					absh = abs;
 
 				tokenStream = new StandardAnalyzer().tokenStream("authors",
 						new StringReader(authors));
 				String authorsh = highlighter.getBestFragment(tokenStream,
 						authors);
+				if (authorsh == null || authorsh.length() == 0)
+					authorsh = authors;
+
+				tokenStream = new StandardAnalyzer().tokenStream("keywords",
+						new StringReader(keywords));
+				String keywordsh = highlighter.getBestFragment(tokenStream,
+						keywords);
+				if (keywordsh == null || keywordsh.length() == 0)
+					keywordsh = keywords;
 
 				System.out
-						.println("<article class=\"blog-main\"><span class=\"am-badge am-badge-success am-radius\">"
+						.println("<article class=\"blog-main\"><span class=\"am-badge am-badge-danger am-radius\">"
+								+ doc.get("journaltitle")
+								+ "</span>&nbsp;"
+								+ "<span class=\"am-badge am-badge-success am-radius\">"
 								+ doc.get("type")
-								+ "</span><div class=\"blog-title\"><a href=\""
+								+ "</span>"
+								+ "<div class=\"blog-title\"><a href=\""
 								+ doc.get("fullurl")
 								+ "\">"
 								+ titleh
@@ -99,15 +118,8 @@ public class Searcher {
 
 				System.out
 						.println("<div class=\"am-article-meta blog-meta blog-authors\">"
-								+ doc.get("authors") + "</div>");
-				String[] tmp = keywords.split(",");
-				for (int i1 = 0; i1 < tmp.length; i1++) {
-					System.out
-							.print("<span class=\"am-badge am-round am-text-sm\">"
-									+ tmp[i1] + "</span>");
-					if (i1 != tmp.length - 1)
-						System.out.print("&nbsp;");
-				}
+								+ authorsh + "</div>");
+
 				java.util.Date dt = new Date(Long.valueOf(doc.get("date")));
 				String sDateTime = sdf.format(dt);
 				System.out
@@ -118,8 +130,8 @@ public class Searcher {
 				if (img != null && img.trim().length() > 0)
 					System.out
 							.println("<div class=\"am-g blog-content\">"
-									+ "<div class=\"am-u-lg-4\">"
-									+ "<div data-am-widget=\"slider\" class=\"am-slider am-slider-default\" data-am-slider='{&quot;animation&quot;:&quot;slide&quot;,&quot;slideshow&quot;:false}' >"
+									+ "<div class=\"am-u-lg-4 blog-image\">"
+									+ "<div data-am-widget=\"slider\" class=\"am-slider am-slider-default \" data-am-slider='{&quot;animation&quot;:&quot;slide&quot;,&quot;slideshow&quot;:false}' >"
 									+ "<ul class=\"am-slides\">");
 				if (img != null && img.trim().length() > 0) {
 					for (String im : img.split(",")) {
@@ -128,19 +140,38 @@ public class Searcher {
 				}
 				if (img != null && img.trim().length() > 0)
 					System.out.println("</ul>" + "</div> </div></div>");
-				System.out
-						.println("<section data-am-widget=\"accordion\" class=\"am-accordion am-accordion-basic\" data-am-accordion='{  }'>"
-								+ "<dl class=\"am-accordion-item blog-abs\">"
-								+ "<dt class=\"am-accordion-title blog-abs\">"
-								+ "Abstract"
-								+ "</dt>"
-								+ "<dd class=\"am-accordion-bd am-collapse blog-abs\">"
-								+ "<div class=\"am-accordion-content blog-abs\">"
-								+ absh
-								+ "</div>"
-								+ "</dd>"
-								+ "</dl>"
-								+ "</section></div>");
+				String[] tmp = keywordsh.split(",");
+				for (int i1 = 0; i1 < tmp.length; i1++) {
+					if (tmp[i1].contains("</span>")) {
+						System.out
+								.print("<span class=\"am-badge am-badge-warning am-round am-text-sm\">"
+										+ tmp[i1]
+												.replace(
+														"<span style=\"background:yellow\">",
+														"").replace("</span>",
+														"") + "</span>");
+					} else {
+						System.out
+								.print("<span class=\"am-badge am-round am-text-sm\">"
+										+ tmp[i1] + "</span>");
+					}
+					if (i1 != tmp.length - 1)
+						System.out.print("&nbsp;");
+				}
+				if (absh != null && absh.length() != 0)
+					System.out
+							.println("<section data-am-widget=\"accordion\" class=\"am-accordion am-accordion-basic\" data-am-accordion='{  }'>"
+									+ "<dl class=\"am-accordion-item blog-abs\">"
+									+ "<dt class=\"am-accordion-title blog-abs\">"
+									+ "Abstract"
+									+ "</dt>"
+									+ "<dd class=\"am-accordion-bd am-collapse blog-abs\">"
+									+ "<div class=\"am-accordion-content blog-abs\">"
+									+ absh
+									+ "</div>"
+									+ "</dd>"
+									+ "</dl>"
+									+ "</section></div>");
 
 				System.out.println("  </article>");
 				if (i != rs.scoreDocs.length - 1) {

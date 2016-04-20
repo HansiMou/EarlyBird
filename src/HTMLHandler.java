@@ -6,6 +6,7 @@ import java.util.Date;
 import java.util.HashMap;
 
 import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
 import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.LongField;
 import org.apache.lucene.document.StoredField;
@@ -134,13 +135,18 @@ public class HTMLHandler {
 			org.jsoup.nodes.Document doc = Jsoup.parse(f, "UTF-8", "");
 			if (f.getName().contains("_content_")) {
 				// Sci
+				Elements tt = null;
 				try {
-					summary = doc.getElementsByAttributeValue("class",
-							"section abstract").text();
+					tt = doc.getElementsByAttributeValue("class",
+							"section abstract");
+					if (tt.size() >= 1) {
+						summary = tt.get(0).text();
+					}
 					// no abstract, use summary
 					if (summary == null || summary.length() == 0) {
-						summary = doc.getElementsByAttributeValue("class",
-								"section summary").text();
+						summary = doc
+								.getElementsByAttributeValue("class",
+										"section summary").get(0).text();
 						if (summary.contains("Summary")) {
 							summary = summary.split("Summary", 2)[1].trim();
 						}
@@ -150,7 +156,9 @@ public class HTMLHandler {
 					doi = doc.getElementsByAttributeValue("class", "meta-line")
 							.text().replace("DOI:", "\nDOI:").trim();
 				} catch (Exception ex) {
-
+					System.out.println(f.getName());
+					System.out.println(tt.size() + "\t" + summary);
+					ex.printStackTrace();
 				} finally {
 					Elements es = doc.getElementsByTag("meta");
 					for (Element e : es) {
@@ -165,13 +173,13 @@ public class HTMLHandler {
 							else if (e.attr("name").equals(
 									"citation_full_html_url"))
 								fullurl = e.attr("content").trim();
-							else if (e.attr("name").equals("og:type"))
-								type = e.attr("content").trim();
 							else if (e.attr("name").equals(
 									"citation_journal_title"))
 								journaltitle = e.attr("content").trim();
 							else if (e.attr("name").equals("DC.Publisher"))
 								publisher = e.attr("content").trim();
+							else if (e.attr("name").equals("citation_section"))
+								type = e.attr("content").trim();
 							else if (e.attr("name").equals("DC.Contributor"))
 								author.append(e.attr("content").trim() + ", ");
 						} catch (Exception ex1) {
@@ -185,8 +193,14 @@ public class HTMLHandler {
 					&& f.getName().endsWith("_full")) {
 				// wiley
 				try {
+					// type
+					Elements tt = doc.getElementsByAttributeValue("class",
+							"article-header__category article-category");
+					if (tt.size() >= 1)
+						type = tt.get(0).text();
+
 					// summary
-					summary = doc.getElementById("en_main_abstract").text()
+					summary = doc.getElementById("abstract").text()
 							.split("Abstract", 2)[1].trim();
 					// publisher
 					publisher = "Wiley";
@@ -194,6 +208,8 @@ public class HTMLHandler {
 					image.append(WebCrawlerWiley.imagecache.get(f.getName()
 							.replace("_doi_10.1002_", "").split("_")[0]));
 				} catch (Exception ex) {
+					System.out.println(f.getName());
+					ex.printStackTrace();
 				} finally {
 
 					Elements es = doc.getElementsByTag("meta");
@@ -243,6 +259,11 @@ public class HTMLHandler {
 							"application/atom+xml");
 					url = es.get(0).attr("href");
 
+					// journal title
+					es = doc.getElementsByAttributeValue("for",
+							"qsTitleButton");
+					journaltitle = es.get(0).text();
+					
 					// image
 					String[] tmp = f.getName().split("_");
 					image.append(WebCrawlerACS.imagecache
@@ -253,12 +274,15 @@ public class HTMLHandler {
 							"/doi/full");
 					fullurl = "http://pubs.acs.org" + es.get(0).attr("href");
 				} catch (Exception ex) {
+					System.out.println(f.getName());
+					ex.printStackTrace();
 				} finally {
 					Elements es = doc.getElementsByTag("meta");
 					for (Element e : es) {
 						try {
 							// title
-							if (e.attr("name").equals("dc.Title"))
+							if (title.length() == 0
+									&& e.attr("name").equals("dc.Title"))
 								title = e.attr("content").trim();
 							// doi
 							else if (e.attr("name").equals("dc.Identifier"))
@@ -281,10 +305,8 @@ public class HTMLHandler {
 										+ tmp[1];
 							}
 							// publisher
-							// journal title
 							else if (e.attr("name").equals("dc.Publisher")) {
 								publisher = e.attr("content").trim();
-								journaltitle = publisher;
 							}
 							// author
 							else if (e.attr("name").equals("dc.Creator"))
@@ -293,6 +315,8 @@ public class HTMLHandler {
 							else if (e.attr("name").equals("citation_keywords"))
 								keywords.append(e.attr("content").trim() + ", ");
 						} catch (Exception ex1) {
+							System.out.println(f.getName());
+							ex1.printStackTrace();
 							continue;
 						}
 					}
@@ -303,17 +327,16 @@ public class HTMLHandler {
 				// Nature
 				try {
 					// image
-					if (!f.getName().contains("nature_journal")) {
-						String[] tmp = f.getName().split("_|.");
-						if (tmp.length >= 3)
-							image.append(WebCrawlerNatureXX.imagecache
-									.get(tmp[tmp.length - 3].trim() + "."
-											+ tmp[tmp.length - 2].trim()));
+					Elements es = doc.getElementsByAttribute("data-media-desc");
+					for (Element e : es) {
+						image.append("http://www.nature.com" + e.attr("src")
+								+ ",");
 					}
-
+					if (image.toString().endsWith(","))
+						image.deleteCharAt(image.length() - 1);
 					// keywords
-					Elements es = doc.getElementsByAttributeValueStarting(
-							"href", "/subjects/");
+					es = doc.getElementsByAttributeValueStarting("href",
+							"/subjects/");
 					for (Element e : es) {
 						keywords.append(e.text() + ", ");
 					}
@@ -323,6 +346,8 @@ public class HTMLHandler {
 							+ f.getName().replace("_", "/");
 					fullurl = url;
 				} catch (Exception ex) {
+					System.out.println(f.getName());
+					ex.printStackTrace();
 				} finally {
 					Elements es = doc.getElementsByTag("meta");
 					for (Element e : es) {
@@ -331,13 +356,14 @@ public class HTMLHandler {
 							if (e.attr("name").equals("description"))
 								summary = e.attr("content").trim();
 							// title
-							if (e.attr("name").equals("DC.title"))
+							else if (title.length() == 0
+									&& e.attr("name").equals("DC.title"))
 								title = e.attr("content").trim();
 							// date
 							else if (e.attr("name").equals("DC.date"))
 								date = e.attr("content").trim();
 							// doi
-							if (e.attr("name").equals("DC.identifier"))
+							else if (e.attr("name").equals("DC.identifier"))
 								doi = e.attr("content").replace("doi:", " ")
 										.trim();
 							else if (e.attr("name").equals(
@@ -361,7 +387,8 @@ public class HTMLHandler {
 							else if (e.attr("name").equals("citation_author"))
 								author.append(e.attr("content").trim() + ", ");
 						} catch (Exception ex1) {
-							continue;
+							System.out.println(f.getName());
+							ex1.printStackTrace();
 						}
 					}
 				}
@@ -371,25 +398,32 @@ public class HTMLHandler {
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 			long time = sdf.parse(date).getTime();
 			org.apache.lucene.document.Document doc1 = new org.apache.lucene.document.Document();
-			doc1.add(new TextField("title", title, Store.YES));
+			Field tf = new TextField("title", title, Store.YES);
+			tf.setBoost(100);
+			doc1.add(tf);
 			doc1.add(new StoredField("doi", doi));
 			doc1.add(new TextField("abstract", summary, Store.YES));
 			doc1.add(new LongField("date", time, Store.YES));
 			doc1.add(new StoredField("url", url));
 			doc1.add(new StoredField("fullurl", fullurl));
 			doc1.add(new StoredField("type", type));
-			 doc1.add(new StoredField("image", image.toString()));
+			doc1.add(new StoredField("image", image.toString()));
 			doc1.add(new StoredField("journaltitle", journaltitle));
 			doc1.add(new StoredField("publisher", publisher));
-			doc1.add(new TextField("authors", author.length() > 2 ? author
-					.substring(0, author.length() - 2) : author.toString(),
-					Store.YES));
-			doc1.add(new TextField("keywords", keywords.length() > 2 ? keywords
-					.substring(0, keywords.length() - 2) : keywords.toString(),
-					Store.YES));
-			if (image.length() > 0)
-				System.out.println(image);
-			
+			Field af = new TextField("authors",
+					author.length() > 2 ? author.substring(0,
+							author.length() - 2) : author.toString(), Store.YES);
+			af.setBoost(100);
+			doc1.add(af);
+			Field kf = new TextField("keywords",
+					keywords.length() > 2 ? keywords.substring(0,
+							keywords.length() - 2) : keywords.toString(),
+					Store.YES);
+			kf.setBoost(50);
+			doc1.add(kf);
+			// if (image.length() > 0)
+			// System.out.println(image);
+
 			return doc1;
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
