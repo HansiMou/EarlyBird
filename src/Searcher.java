@@ -1,8 +1,12 @@
 import java.io.File;
 import java.io.StringReader;
+import java.io.UnsupportedEncodingException;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Date;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import java.util.regex.PatternSyntaxException;
 
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -33,6 +37,7 @@ import org.apache.lucene.store.FSDirectory;
  */
 public class Searcher {
 	static Config config = new Config();
+
 	/**
 	 * Description:
 	 * 
@@ -53,7 +58,7 @@ public class Searcher {
 			Arrays.fill(oc, Occur.SHOULD);
 			Query query = MultiFieldQueryParser.parse(stringQuery, ff, oc,
 					new StandardAnalyzer());
-			
+
 			TopDocs rs = searcher.search(query, 50);
 			SimpleHTMLFormatter simpleHTMLFormatter = new SimpleHTMLFormatter(
 					"<span style=\"background:yellow\">", "</span>");
@@ -72,10 +77,15 @@ public class Searcher {
 						+ rs.scoreDocs.length + " results.</div>");
 			for (int i = 0; i < rs.scoreDocs.length; i++) {
 				Document doc = searcher.doc(rs.scoreDocs[i].doc);
-				String title = doc.get("title");
-				String abs = doc.get("abstract");
-				String authors = doc.get("authors");
-				String keywords = doc.get("keywords");
+				String title = doc.get("title").replace("‐", "-");
+				title = stringFilter(title);
+//				title = changeCharset(title, "UTF_8");
+				String abs = doc.get("abstract").replace("‐", "-")
+						.replace("−", "-").replace(" ", " ");
+//				abs = stringFilter(abs);
+//				abs = changeCharset(abs, "UTF_8");
+				String authors = doc.get("authors").replace("‐", "-");
+				String keywords = doc.get("keywords").replace("‐", "-");
 				TokenStream tokenStream = new StandardAnalyzer().tokenStream(
 						"title", new StringReader(title));
 				String titleh = highlighter.getBestFragment(tokenStream, title);
@@ -103,7 +113,7 @@ public class Searcher {
 
 				System.out
 						.println("<article class=\"blog-main\"><span class=\"am-badge am-badge-danger am-radius\">"
-								+ doc.get("journaltitle")
+								+ doc.get("journaltitle").replace("‐", "-")
 								+ "</span>&nbsp;"
 								+ "<span class=\"am-badge am-badge-success am-radius\">"
 								+ doc.get("type")
@@ -124,27 +134,29 @@ public class Searcher {
 						.println("<div class=\"am-article-meta blog-meta blog-date\">"
 								+ "Online Date: " + sDateTime);
 				System.out.println("&nbsp;DOI:" + doc.get("doi") + "</div>");
-				
-				
+
 				String img = doc.get("image");
 				if (img != null && img.trim().length() > 0)
 					System.out
-							.println("<div class=\"am-g blog-content\"><div class=\"am-u-lg-5\"><div id='ninja-slider"+i+"'><div class=\"slider"+i+"-inner\"><ul>");
+							.println("<div class=\"am-g blog-content\"><div class=\"am-u-lg-5\"><div id='ninja-slider"
+									+ i
+									+ "'><div class=\"slider"
+									+ i
+									+ "-inner\"><ul>");
 				if (img != null && img.trim().length() > 0) {
 					for (String im : img.split(",")) {
-						System.out.println("<li><a class=\"ns-img\" href=\""+im+"\"></a></li>");
+						System.out.println("<li><a class=\"ns-img\" href=\""
+								+ im + "\"></a></li>");
 					}
 				}
 				if (img != null && img.trim().length() > 0)
 					System.out.println("</ul>" + "</div></div></div> </div>");
-				
-				
-				
+
 				String[] tmp = keywordsh.split(",");
 				for (int i1 = 0; i1 < tmp.length; i1++) {
 					if (tmp[i1].contains("</span>")) {
 						System.out
-								.print("<span class=\"am-badge am-badge-warning am-round am-text-sm\">"
+								.print("<span class=\"am-badge am-badge-warning am-round\">"
 										+ tmp[i1]
 												.replace(
 														"<span style=\"background:yellow\">",
@@ -152,7 +164,7 @@ public class Searcher {
 														"") + "</span>");
 					} else {
 						System.out
-								.print("<span class=\"am-badge am-round am-text-sm\">"
+								.print("<span class=\"am-badge am-round blog-keywords\">"
 										+ tmp[i1] + "</span>");
 					}
 					if (i1 != tmp.length - 1)
@@ -182,5 +194,23 @@ public class Searcher {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+	}
+
+	public static String stringFilter(String str) throws PatternSyntaxException {
+		String regEx = "[！（）——【】‘；：。，、？]";
+		Pattern p = Pattern.compile(regEx);
+		Matcher m = p.matcher(str);
+		return m.replaceAll("").trim();
+	}
+
+	public static String changeCharset(String str, String newCharset)
+			throws UnsupportedEncodingException {
+		if (str != null) {
+			// 用默认字符编码解码字符串。
+			byte[] bs = str.getBytes();
+			// 用新的字符编码生成字符串
+			return new String(bs, newCharset);
+		}
+		return null;
 	}
 }

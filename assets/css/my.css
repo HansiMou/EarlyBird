@@ -1,6 +1,28 @@
+@font-face {  
+    /* font-properties */  
+    font-family: 'myarial';  
+    src:  
+    url('../fonts/myarial.ttf'); /* IE9 */  
+}  
 
-h2 { color: #111; font-family: 'Optima'; font-size: 50px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
-p { color: black; font-family: 'Courier', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 0; }
+@font-face {  
+    /* font-properties */  
+    font-family: 'myopima';  
+    src:  
+    url('../fonts/myopima.ttf'); /* IE9 */  
+}  
+
+@font-face {  
+    /* font-properties */  
+    font-family: 'mycourier';  
+    src:  
+    url('../fonts/mycourier.ttf'); /* IE9 */  
+}  
+
+
+
+h2 { color: #111; font-family: 'myopima'; font-size: 50px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+p { color: black; font-family: 'mycourier', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 0; }
 table {
     height: 100%
 }
@@ -32,12 +54,12 @@ table {
 input[type="submit"]
 {
     font-size:14px;
-    font-family: 'Adobe Garamond';
+    font-family: 'myarial';
 }
 input[type="text"]
 {
     font-size:20px;
-    font-family: 'Adobe Garamond';
+    font-family: 'myarial';
 }
 .get {
     padding: 10px 0;
@@ -64,15 +86,15 @@ input[type="text"]
 
 .blog-title {
     margin: 6px 0 6px 0;
-    font-family: 'Caslon';
-    font-size: 1.5em;
-    font-weight:bold;
+    font-family: 'myarial';
+    font-size: 1.3em;
+    font-weight:normal;
     color: #013ADF;
     line-height:100%;
 }
 
 .blog-authors {
-    font-family: 'Bookman old style';
+    font-family: 'myarial';
     font-style:italic;
     color: #585858;
     font-weight: normal;
@@ -80,20 +102,22 @@ input[type="text"]
     
 }
 .blog-keywords {
-    font-family: 'Futura';
+    font-family: 'myarial';
     color: snow;
-    font-weight: normal;
+    font-weight: lighter;
+    font-size: 0.6em;
 }
 
 .blog-date {
     margin: 3px 0 3px 0;
-    font-family: 'Futura';
+    font-family: 'myarial';
     color: black;
     font-weight: normal;
+    font-size: 0.6em;
 }
 
 .blog-abs {
-    font-family: 'Futura';
+    font-family: 'myarial';
     color: black;
     font-size: 0.9em;
     line-height:150%;

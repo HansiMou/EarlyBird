@@ -1,5 +1,4 @@
 
-
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.HashSet;
@@ -11,7 +10,8 @@ import org.openqa.selenium.WebDriver;
 
 public class WebCrawlerSci extends WebCrawler {
 
-	public void run(String path, StartingUrl s, boolean d, Config c, WebDriver wd, HashSet<String> cache) {
+	public void run(String path, StartingUrl s, boolean d, Config c,
+			WebDriver wd, HashSet<String> cache) {
 		initialize(path, s, d, c, wd, cache);
 		while (this.lv < this.LEVEL_LIMIT) {
 			URL url = newURLs.poll();
@@ -19,10 +19,10 @@ public class WebCrawlerSci extends WebCrawler {
 			// System.out.println(curNum);
 			if (DEBUG)
 				System.out.println("level " + this.lv + "\t" + url.toString());
-			// if (robotSafe(url)) {
-			GetProcessAdd(url);
+			if (robotSafe(url)) {
+				GetProcessAdd(url);
 
-			// }
+			}
 			if (curNum == 0) {
 				this.lv++;
 				curNum = last;
@@ -49,11 +49,12 @@ public class WebCrawlerSci extends WebCrawler {
 		String[] tmp = url.toString().split("/");
 		String vol = tmp[tmp.length - 2];
 		String iss = tmp[tmp.length - 1];
-		Pattern p = Pattern.compile(vol + "\\\\/" + iss + "\\\\/" + "\\d+(\\.\\d*)?\"");
+		Pattern p = Pattern.compile(vol + "\\\\/" + iss + "\\\\/"
+				+ "\\d+(\\.\\d*)?\"");
 		Matcher m = p.matcher(res);
 		while (m.find()) {
-			String s = su.link+"/"+m.group().split("\\/")[2];
-			s = s.substring(0, s.length()-1);
+			String s = su.link + "/" + m.group().split("\\/")[2];
+			s = s.substring(0, s.length() - 1);
 			try {
 				lastLvResult.add(new URL(s));
 			} catch (MalformedURLException e) {

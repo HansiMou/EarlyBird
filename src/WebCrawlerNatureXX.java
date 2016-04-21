@@ -1,4 +1,3 @@
-
 import java.io.IOException;
 import java.net.URL;
 import java.util.HashMap;
@@ -23,9 +22,9 @@ public class WebCrawlerNatureXX extends WebCrawler {
 			// System.out.println(curNum);
 			if (DEBUG)
 				System.out.println("level " + this.lv + "\t" + url.toString());
-			// if (robotSafe(url)) {
-			GetProcessAdd(url);
-			// }
+			if (robotSafe(url)) {
+				GetProcessAdd(url);
+			}
 			if (curNum == 0) {
 				this.lv++;
 				curNum = last;

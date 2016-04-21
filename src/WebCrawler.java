@@ -1,7 +1,10 @@
 
+import java.io.BufferedWriter;
+import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.OutputStreamWriter;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
@@ -126,7 +129,6 @@ public class WebCrawler {
 				break;
 			}
 		}
-		System.out.println(specific);
 		while ((index = specific.indexOf(DISALLOW, index)) != -1) {
 			index += DISALLOW.length();
 			String strPath = specific.substring(index);
@@ -241,14 +243,14 @@ public class WebCrawler {
 		// System.out.println(getpage(url));
 		// return false;
 		String name = url.getFile().replace("/", "_");
-		FileWriter writer;
 		try {
 			if (cache.contains(name)) {
 				return false;
 			}
-			writer = new FileWriter(path + "/" + name);
-			writer.write(getpage(url));
-			writer.close();
+			BufferedWriter out = new BufferedWriter
+				    (new OutputStreamWriter(new FileOutputStream(path+"/"+name),"UTF-8"));
+			out.write(getpage(url));
+			out.close();
 			newlyAdded.add(name);
 		} catch (IOException e) {
 		}
@@ -258,7 +260,6 @@ public class WebCrawler {
 	public boolean DownloadPagesJsoup(URL url) {
 		// TODO Auto-generated method stub
 		String name = url.getFile().replace("/", "_");
-		FileWriter writer;
 		try {
 			if (cache.contains(name)) {
 				return false;
@@ -266,9 +267,10 @@ public class WebCrawler {
 			Document doc = Jsoup.connect(url.toString()).data("query", "Java")
 					.userAgent("Mozilla").cookie("auth", "token").timeout(3000)
 					.post();
-			writer = new FileWriter(path + "/" + name);
-			writer.write(doc.html());
-			writer.close();
+			BufferedWriter out = new BufferedWriter
+				    (new OutputStreamWriter(new FileOutputStream(path+"/"+name),"UTF-8"));
+			out.write(doc.html());
+			out.close();
 			newlyAdded.add(name);
 			// System.out.println(doc.html());
 		} catch (Exception e) {
@@ -281,14 +283,14 @@ public class WebCrawler {
 
 	public boolean DownloadPagesHtmlUnit(URL url) {
 		String name = url.getFile().replace("/", "_");
-		FileWriter writer;
 		try {
 			if (cache.contains(name)) {
 				return false;
 			}
-			writer = new FileWriter(path + "/" + name);
-			writer.write(getpageHUD(url));
-			writer.close();
+			BufferedWriter out = new BufferedWriter
+				    (new OutputStreamWriter(new FileOutputStream(path+"/"+name),"UTF-8"));
+			out.write(getpageHUD(url));
+			out.close();
 			newlyAdded.add(name);
 		} catch (IOException e) {
 		}

@@ -1,5 +1,4 @@
 
-
 import java.io.IOException;
 import java.net.URL;
 import java.util.HashSet;
@@ -12,7 +11,8 @@ import org.openqa.selenium.WebDriver;
 
 public class WebCrawlerNature extends WebCrawler {
 
-	public void run(String path, StartingUrl s, boolean d, Config c, WebDriver wd, HashSet<String> cache) {
+	public void run(String path, StartingUrl s, boolean d, Config c,
+			WebDriver wd, HashSet<String> cache) {
 		initialize(path, s, d, c, wd, cache);
 		while (this.lv < this.LEVEL_LIMIT) {
 			URL url = newURLs.poll();
@@ -20,9 +20,9 @@ public class WebCrawlerNature extends WebCrawler {
 			// System.out.println(curNum);
 			if (DEBUG)
 				System.out.println("level " + this.lv + "\t" + url.toString());
-			// if (robotSafe(url)) {
-			GetProcessAdd(url);
-			// }
+			if (robotSafe(url)) {
+				GetProcessAdd(url);
+			}
 			if (curNum == 0) {
 				this.lv++;
 				curNum = last;
@@ -51,7 +51,7 @@ public class WebCrawlerNature extends WebCrawler {
 					.userAgent("Mozilla").cookie("auth", "token").timeout(3000)
 					.post();
 			es = doc.getAllElements();
-//			System.out.println(es.html());
+			// System.out.println(es.html());
 		} catch (IOException e) {
 			if (DEBUG)
 				e.printStackTrace();

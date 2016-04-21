@@ -1,6 +1,6 @@
 <html>
-  <head>
-    <meta charset="UTF-8">
+  <head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link href="assets/css/ninja-slider.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="assets/css/amazeui.min.css">
     <link rel="stylesheet" href="assets/css/my.css">
@@ -69,7 +69,7 @@ echo '
 <div class="am-g am-g-fixed blog-g-fixed get">
 <div class="am-u-md-10">';
 
-$w = system("cd /web/hm1305/fcl; /usr/bin/java -cp '.:lib/lucene-core-5.4.1.jar:lib/lucene-analyzers-common-5.4.1.jar:lib/lucene-queryparser-5.4.1.jar:lib/lucene-highlighter-5.4.1.jar:lib/lucene-join-5.4.1.jar:lib/lucene-memory-5.4.1.jar:class/' Searcher \"".$_POST['query'] . "\"",$res);
+$w = system("cd /web/hm1305/fclp; /usr/bin/java -cp '.:lib/lucene-core-5.4.1.jar:lib/lucene-analyzers-common-5.4.1.jar:lib/lucene-queryparser-5.4.1.jar:lib/lucene-highlighter-5.4.1.jar:lib/lucene-join-5.4.1.jar:lib/lucene-memory-5.4.1.jar:class/' Searcher \"".$_POST['query'] . "\"",$res);
 echo '</div>
 
 </div>
