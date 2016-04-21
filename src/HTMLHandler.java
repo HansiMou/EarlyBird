@@ -4,6 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.HashSet;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -28,6 +29,7 @@ import org.jsoup.select.Elements;
  */
 public class HTMLHandler {
 	public static HashMap<String, Integer> month = new HashMap<String, Integer>();
+	public static HashSet<String> importtitle = new HashSet<String>();
 
 	public int numOfWeeksToNow(File f) {
 		long last = 0;
@@ -90,9 +92,7 @@ public class HTMLHandler {
 	 */
 	private void intialize() {
 		// TODO Auto-generated method stub
-		if (month.size() == 12)
-			return;
-		else {
+		if (month.size() != 12) {
 			month.put("january", 1);
 			month.put("february", 2);
 			month.put("march", 3);
@@ -105,6 +105,19 @@ public class HTMLHandler {
 			month.put("october", 10);
 			month.put("november", 11);
 			month.put("december", 12);
+		}
+
+		if (importtitle.size() == 0) {
+			importtitle.add("Angewandte Chemie International Edition");
+			importtitle.add("Science");
+			importtitle.add("Nano Lett.");
+			importtitle.add("ACS Nano");
+			importtitle.add("J. Am. Chem. Soc.");
+			importtitle.add("Nature");
+			importtitle.add("Acc. Chem. Res.");
+			importtitle.add("Nature Materials");
+			importtitle.add("Chem. Rev.");
+
 		}
 	}
 
@@ -260,10 +273,9 @@ public class HTMLHandler {
 					url = es.get(0).attr("href");
 
 					// journal title
-					es = doc.getElementsByAttributeValue("for",
-							"qsTitleButton");
+					es = doc.getElementsByAttributeValue("for", "qsTitleButton");
 					journaltitle = es.get(0).text();
-					
+
 					// image
 					String[] tmp = f.getName().split("_");
 					image.append(WebCrawlerACS.imagecache
@@ -397,34 +409,71 @@ public class HTMLHandler {
 			}
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 			long time = sdf.parse(date).getTime();
-			org.apache.lucene.document.Document doc1 = new org.apache.lucene.document.Document();
-			Field tf = new TextField("title", title, Store.YES);
-			tf.setBoost(100);
-			doc1.add(tf);
-			doc1.add(new StoredField("doi", doi));
-			doc1.add(new TextField("abstract", summary, Store.YES));
-			doc1.add(new LongField("date", time, Store.YES));
-			doc1.add(new StoredField("url", url));
-			doc1.add(new StoredField("fullurl", fullurl));
-			doc1.add(new StoredField("type", type));
-			doc1.add(new StoredField("image", image.toString()));
-			doc1.add(new StoredField("journaltitle", journaltitle));
-			doc1.add(new StoredField("publisher", publisher));
-			Field af = new TextField("authors",
-					author.length() > 2 ? author.substring(0,
-							author.length() - 2) : author.toString(), Store.YES);
-			af.setBoost(100);
-			doc1.add(af);
-			Field kf = new TextField("keywords",
-					keywords.length() > 2 ? keywords.substring(0,
-							keywords.length() - 2) : keywords.toString(),
-					Store.YES);
-			kf.setBoost(50);
-			doc1.add(kf);
-			// if (image.length() > 0)
-			// System.out.println(image);
+			if (importtitle.contains(title.trim())) {
+				org.apache.lucene.document.Document doc1 = new org.apache.lucene.document.Document();
+				Field tf = new TextField("title", title, Store.YES);
+				tf.setBoost(1.6f);
+				doc1.add(tf);
+				
+				Field abf = new TextField("abstract", summary, Store.YES);
+				abf.setBoost(1.2f);
+				doc1.add(abf);
 
-			return doc1;
+				doc1.add(new StoredField("doi", doi));
+				doc1.add(new LongField("date", time, Store.YES));
+				doc1.add(new StoredField("url", url));
+				doc1.add(new StoredField("fullurl", fullurl));
+				doc1.add(new StoredField("type", type));
+				doc1.add(new StoredField("image", image.toString()));
+				doc1.add(new StoredField("journaltitle", journaltitle));
+				doc1.add(new StoredField("publisher", publisher));
+				Field af = new TextField("authors",
+						author.length() > 2 ? author.substring(0,
+								author.length() - 2) : author.toString(),
+						Store.YES);
+				af.setBoost(1.6f);
+				doc1.add(af);
+				Field kf = new TextField("keywords",
+						keywords.length() > 2 ? keywords.substring(0,
+								keywords.length() - 2) : keywords.toString(),
+						Store.YES);
+				kf.setBoost(1.4f);
+				doc1.add(kf);
+				// if (image.length() > 0)
+				// System.out.println(image);
+
+				return doc1;
+			} else {
+				org.apache.lucene.document.Document doc1 = new org.apache.lucene.document.Document();
+				Field tf = new TextField("title", title, Store.YES);
+				tf.setBoost(1.2f);
+				doc1.add(tf);
+				doc1.add(new StoredField("doi", doi));
+				doc1.add(new TextField("abstract", summary, Store.YES));
+				doc1.add(new LongField("date", time, Store.YES));
+				doc1.add(new StoredField("url", url));
+				doc1.add(new StoredField("fullurl", fullurl));
+				doc1.add(new StoredField("type", type));
+				doc1.add(new StoredField("image", image.toString()));
+				doc1.add(new StoredField("journaltitle", journaltitle));
+				doc1.add(new StoredField("publisher", publisher));
+				Field af = new TextField("authors",
+						author.length() > 2 ? author.substring(0,
+								author.length() - 2) : author.toString(),
+						Store.YES);
+				af.setBoost(1.2f);
+				doc1.add(af);
+				Field kf = new TextField("keywords",
+						keywords.length() > 2 ? keywords.substring(0,
+								keywords.length() - 2) : keywords.toString(),
+						Store.YES);
+				kf.setBoost(1.1f);
+				doc1.add(kf);
+				// if (image.length() > 0)
+				// System.out.println(image);
+
+				return doc1;
+			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			return null;

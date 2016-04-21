@@ -33,7 +33,6 @@ import org.apache.lucene.store.FSDirectory;
  */
 public class Searcher {
 	static Config config = new Config();
-
 	/**
 	 * Description:
 	 * 
@@ -54,12 +53,12 @@ public class Searcher {
 			Arrays.fill(oc, Occur.SHOULD);
 			Query query = MultiFieldQueryParser.parse(stringQuery, ff, oc,
 					new StandardAnalyzer());
-
+			
 			TopDocs rs = searcher.search(query, 50);
 			SimpleHTMLFormatter simpleHTMLFormatter = new SimpleHTMLFormatter(
 					"<span style=\"background:yellow\">", "</span>");
 			Highlighter highlighter = new Highlighter(simpleHTMLFormatter,
-					new QueryScorer(query));
+					new QueryScorer(query, "title"));
 			highlighter.setTextFragmenter(new SimpleFragmenter(1024));
 			SimpleDateFormat sdf = new SimpleDateFormat("MM-dd-yyyy");
 			if (rs.scoreDocs.length == 0)
@@ -77,7 +76,6 @@ public class Searcher {
 				String abs = doc.get("abstract");
 				String authors = doc.get("authors");
 				String keywords = doc.get("keywords");
-
 				TokenStream tokenStream = new StandardAnalyzer().tokenStream(
 						"title", new StringReader(title));
 				String titleh = highlighter.getBestFragment(tokenStream, title);
@@ -126,20 +124,22 @@ public class Searcher {
 						.println("<div class=\"am-article-meta blog-meta blog-date\">"
 								+ "Online Date: " + sDateTime);
 				System.out.println("&nbsp;DOI:" + doc.get("doi") + "</div>");
+				
+				
 				String img = doc.get("image");
 				if (img != null && img.trim().length() > 0)
 					System.out
-							.println("<div class=\"am-g blog-content\">"
-									+ "<div class=\"am-u-lg-4 blog-image\">"
-									+ "<div data-am-widget=\"slider\" class=\"am-slider am-slider-default \" data-am-slider='{&quot;animation&quot;:&quot;slide&quot;,&quot;slideshow&quot;:false}' >"
-									+ "<ul class=\"am-slides\">");
+							.println("<div class=\"am-g blog-content\"><div class=\"am-u-lg-5\"><div id='ninja-slider"+i+"'><div class=\"slider"+i+"-inner\"><ul>");
 				if (img != null && img.trim().length() > 0) {
 					for (String im : img.split(",")) {
-						System.out.println("<li><img src=\"" + im + "\"></li>");
+						System.out.println("<li><a class=\"ns-img\" href=\""+im+"\"></a></li>");
 					}
 				}
 				if (img != null && img.trim().length() > 0)
-					System.out.println("</ul>" + "</div> </div></div>");
+					System.out.println("</ul>" + "</div></div></div> </div>");
+				
+				
+				
 				String[] tmp = keywordsh.split(",");
 				for (int i1 = 0; i1 < tmp.length; i1++) {
 					if (tmp[i1].contains("</span>")) {

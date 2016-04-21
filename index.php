@@ -1,10 +1,13 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="assets/i/favicon.png">
-    <link rel="stylesheet" href="assets/css/amazeui.min.css"/>
-    <link rel="stylesheet" href="assets/css/app.css">
+    <link href="assets/css/ninja-slider.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="assets/css/amazeui.min.css">
     <link rel="stylesheet" href="assets/css/my.css">
+  <link rel="icon" type="image/png" href="assets/i/favicon.png">
+  <link rel="icon" sizes="192x192" href="assets/i/app-icon72x72@2x.png">
+  <link rel="stylesheet" href="assets/css/app.css">
+    <script src="assets/js/ninja-slider.js" type="text/javascript"></script>
   </head>
   <body>
   <?php $query = $_POST['query'];
@@ -15,10 +18,14 @@
       <tr><td height="25%"></td></tr>
       <tr><td height="10%"><h2>Flash ChemLit</h2></td></tr>
       <tr>
-        <td height="30" align="center"><p><input type="text" name="query" class="am-form-field am-radius"/></p></td>
+        <td height="30" align="center"><div class="am-input-group">
+        <input type="text" name="query" class="am-form-field" size="37" value="';echo $query;echo '">
+        <span class="am-input-group-btn">
+          <button class="am-btn am-btn-default am-btn-danger" type="submit"><span class="am-icon-search"></span> </button>
+        </span>
+      </div></td>
       </tr>
       <tr><td height="2%"></td></tr>
-      <tr><td height="25" align="center"><input class="submit_btn" id="submit_btn" type="submit" name="submit" value="Search"></td></tr>
       <tr></tr>
       <tr></tr>
 
@@ -44,8 +51,12 @@
   
   <form action="index.php" method="POST" class="am-topbar-form am-topbar-left am-form-inline" role="search">
     <div class="am-form-group">
-      <input type="text" name="query" class="am-form-field am-input-sm topsearch" value="';echo $query;echo '">
-      <button type="submit" class="am-btn am-btn-primary am-btn-sm">SEARCH</button>
+      <div class="am-input-group">
+        <input type="text" name="query" class="am-form-field" size="37" value="';echo $query;echo '">
+        <span class="am-input-group-btn">
+          <button class="am-btn am-btn-default am-btn-danger" type="submit"><span class="am-icon-search"></span> </button>
+        </span>
+      </div>
     </div>
   </form>
   
@@ -58,7 +69,7 @@ echo '
 <div class="am-g am-g-fixed blog-g-fixed get">
 <div class="am-u-md-10">';
 
-$w = system("cd /Users/hans/Documents/workspace/Flash\ ChemLit; java -cp .:lib/lucene-core-5.4.1.jar:lib/lucene-analyzers-common-5.4.1.jar:lib/lucene-queryparser-5.4.1.jar:lib/lucene-highlighter-5.4.1.jar:lib/lucene-join-5.4.1.jar:lib/lucene-memory-5.4.1.jar:bin/ Searcher \"".$_POST['query'] . "\"",$res);
+$w = system("cd /web/hm1305/fcl; /usr/bin/java -cp '.:lib/lucene-core-5.4.1.jar:lib/lucene-analyzers-common-5.4.1.jar:lib/lucene-queryparser-5.4.1.jar:lib/lucene-highlighter-5.4.1.jar:lib/lucene-join-5.4.1.jar:lib/lucene-memory-5.4.1.jar:class/' Searcher \"".$_POST['query'] . "\"",$res);
 echo '</div>
 
 </div>
@@ -73,7 +84,14 @@ echo '</div>
   }
   ?>
       
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/amazeui.min.js"></script>
+    <!--[if (gte IE 9)|!(IE)]><!-->
+    <script src="assets/js/jquery.min.js"></script>
+    <!--<![endif]-->
+    <!--[if lte IE 8 ]>
+    <script src="http://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://cdn.staticfile.org/modernizr/2.8.3/modernizr.js"></script>
+    <script src="assets/js/amazeui.ie8polyfill.min.js"></script>
+    <![endif]-->
+    <script src="assets/js/amazeui.min.js"></script>
   </body>
 </html>

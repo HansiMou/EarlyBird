@@ -176,7 +176,7 @@ public class FlashChemLit {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			} finally {
-//				 f.delete();
+				 f.delete();
 			}
 		}
 		try {
@@ -193,15 +193,15 @@ public class FlashChemLit {
 
 		for (int i = 0; i < startings.size(); i++) {
 			if (startings.get(i).contains(".acs.")) {
-//				 WebCrawlerACS wc = new WebCrawlerACS();
-//				 wc.run(config.dnfolder, urls.get(startings.get(i)), false,
-//				 config, driver, cache);
-//				 wc.updateCache();
+				 WebCrawlerACS wc = new WebCrawlerACS();
+				 wc.run(config.dnfolder, urls.get(startings.get(i)), false,
+				 config, driver, cache);
+				 wc.updateCache();
 			} else if (startings.get(i).contains("science.sciencemag.org")) {
-//				 WebCrawlerSci wc = new WebCrawlerSci();
-//				 wc.run(config.dnfolder, urls.get(startings.get(i)), false,
-//				 config, driver, cache);
-//				 wc.updateCache();
+				 WebCrawlerSci wc = new WebCrawlerSci();
+				 wc.run(config.dnfolder, urls.get(startings.get(i)), false,
+				 config, driver, cache);
+				 wc.updateCache();
 			} else if (startings.get(i).contains("/nature/")) {
 				WebCrawlerNature wc = new WebCrawlerNature();
 				wc.run(config.dnfolder, urls.get(startings.get(i)), false,
@@ -213,10 +213,10 @@ public class FlashChemLit {
 						config, driver, cache);
 				wc.updateCache();
 			} else if (startings.get(i).contains("wiley")) {
-//				 WebCrawlerWiley wc = new WebCrawlerWiley();
-//				 wc.run(config.dnfolder, urls.get(startings.get(i)), false,
-//				 config, driver, cache);
-//				 wc.updateCache();
+				 WebCrawlerWiley wc = new WebCrawlerWiley();
+				 wc.run(config.dnfolder, urls.get(startings.get(i)), false,
+				 config, driver, cache);
+				 wc.updateCache();
 			}
 		}
 		driver.close();
