@@ -79,35 +79,51 @@ public class Searcher {
 				Document doc = searcher.doc(rs.scoreDocs[i].doc);
 				String title = doc.get("title").replace("‐", "-");
 				title = stringFilter(title);
-//				title = changeCharset(title, "UTF_8");
-				String abs = doc.get("abstract").replace("‐", "-")
-						.replace("−", "-").replace(" ", " ");
-//				abs = stringFilter(abs);
-//				abs = changeCharset(abs, "UTF_8");
+				String abs = doc.get("abstract");
 				String authors = doc.get("authors");
 				String keywords = doc.get("keywords");
 				TokenStream tokenStream = new StandardAnalyzer().tokenStream(
 						"title", new StringReader(title));
-				String titleh = highlighter.getBestFragment(tokenStream, title);
+				String titleh = "";
+				if (!args[0].contains("*") && !args[0].contains("~")) {
+					titleh = highlighter.getBestFragment(tokenStream, title);
+				} else {
+					titleh = title;
+				}
 				if (titleh == null || titleh.length() == 0)
 					titleh = title;
 				tokenStream = new StandardAnalyzer().tokenStream("abs",
 						new StringReader(abs));
-				String absh = highlighter.getBestFragment(tokenStream, abs);
+				String absh = "";
+				if (!args[0].contains("*") && !args[0].contains("~")) {
+					absh = highlighter.getBestFragment(tokenStream, abs);
+				} else {
+					absh = abs;
+				}
 				if (absh == null || absh.length() == 0)
 					absh = abs;
 
 				tokenStream = new StandardAnalyzer().tokenStream("authors",
 						new StringReader(authors));
-				String authorsh = highlighter.getBestFragment(tokenStream,
-						authors);
+				String authorsh = "";
+				if (!args[0].contains("*") && !args[0].contains("~")) {
+					authorsh = highlighter
+							.getBestFragment(tokenStream, authors);
+				} else {
+					authorsh = authors;
+				}
 				if (authorsh == null || authorsh.length() == 0)
 					authorsh = authors;
 
 				tokenStream = new StandardAnalyzer().tokenStream("keywords",
 						new StringReader(keywords));
-				String keywordsh = highlighter.getBestFragment(tokenStream,
-						keywords);
+				String keywordsh = "";
+				if (!args[0].contains("*") && !args[0].contains("~")) {
+					keywordsh = highlighter.getBestFragment(tokenStream,
+							keywords);
+				} else {
+					keywordsh = keywords;
+				}
 				if (keywordsh == null || keywordsh.length() == 0)
 					keywordsh = keywords;
 
@@ -136,24 +152,27 @@ public class Searcher {
 				System.out.println("&nbsp;DOI:" + doc.get("doi") + "</div>");
 
 				String img = doc.get("image");
-				if (img != null && img.trim().length() > 0 && !img.trim().toLowerCase().equals("null"))
+				if (img != null && img.trim().length() > 0
+						&& !img.trim().toLowerCase().equals("null"))
 					System.out
 							.println("<div class=\"am-g blog-content\"><div class=\"am-u-lg-5\"><div id='ninja-slider"
 									+ i
 									+ "'><div class=\"slider"
 									+ i
 									+ "-inner\"><ul>");
-				if (img != null && img.trim().length() > 0 && !img.trim().toLowerCase().equals("null")){
+				if (img != null && img.trim().length() > 0
+						&& !img.trim().toLowerCase().equals("null")) {
 					for (String im : img.split(",")) {
 						System.out.println("<li><a class=\"ns-img\" href=\""
 								+ im + "\"></a></li>");
 					}
 				}
-			if (img != null && img.trim().length() > 0 && !img.trim().toLowerCase().equals("null"))
+				if (img != null && img.trim().length() > 0
+						&& !img.trim().toLowerCase().equals("null"))
 					System.out.println("</ul>" + "</div></div></div> </div>");
 
 				String[] tmp = keywordsh.split(",");
-				for (int i1 = 0; i1 < tmp.length-1; i1++) {
+				for (int i1 = 0; i1 < tmp.length - 1; i1++) {
 					if (tmp[i1].contains("</span>")) {
 						System.out
 								.print("<span class=\"am-badge am-badge-warning am-round\">"

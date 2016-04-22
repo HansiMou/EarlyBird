@@ -23,9 +23,9 @@ public class WebCrawlerACS extends WebCrawler {
 			// System.out.println(curNum);
 			if (DEBUG)
 				System.out.println("level " + this.lv + "\t" + url.toString());
-			if (robotSafe(url)) {
+//			if (robotSafe(url)) {
 				GetProcessAdd(url);
-			}
+//			}
 			if (curNum == 0) {
 				this.lv++;
 				curNum = last;
