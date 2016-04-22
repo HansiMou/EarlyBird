@@ -1,9 +1,10 @@
-import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileReader;
+import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.InputStream;
+import java.io.UnsupportedEncodingException;
+import java.nio.charset.Charset;
+import java.util.HashMap;
 
 /**
  * @author Hansi Mou
@@ -16,8 +17,9 @@ import java.io.InputStreamReader;
  *
  *         Apr 15, 2016
  */
-public class Searcher2 {
+public class Searcher3 {
 	static Config config = new Config();
+
 
 	/**
 	 * Description:
@@ -26,19 +28,37 @@ public class Searcher2 {
 	 */
 	@SuppressWarnings("deprecation")
 	public static void main(String[] args) {
+		Charset charset = Charset.forName("UTF-8");
+		// System.out.println("”");
+		HashMap<Character, String> hm = new HashMap<Character, String>();
+		
 		try {
-			File file = new File("downloads/_doi_10.1002_asia.201600200_full");
-			BufferedReader reader = new BufferedReader(new InputStreamReader(
-					new FileInputStream(file)));
-			reader = new BufferedReader(new FileReader(file));
-			String tempString = null;
-			while ((tempString = reader.readLine()) != null) {
-//				String ss = new String(tempString.getBytes(), "utf-8");
+			InputStream inputStream = new FileInputStream(
+					"downloads/_doi_10.1002_anie.201511882_full");
+			int num = inputStream.available();
+			// System.out.println("available bytes number is : " + num);
+			byte[] bytes1 = null;
+			if (num > 0) {
+				bytes1 = new byte[num];
+				// System.out.println("bytes1 length is : " + bytes1.length);
+				inputStream.read(bytes1);
+				// charset指定的是字节数组原来的字符编码集
+				String res = new String(bytes1, charset);
+				
+				for (char c : res.toCharArray()) {
+					if (hm.containsKey(c)) {
+						o.append(hm.get(c));
+					} else
+						o.append(c);
+				}
+				System.out.println((o.toString()));
 			}
-			reader.close();
-		} catch (IOException e) {
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
-		} finally {
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 		// try {
 		// Directory directory = FSDirectory.open(new File(config.indexfolder)

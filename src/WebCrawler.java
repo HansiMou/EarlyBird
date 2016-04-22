@@ -8,6 +8,7 @@ import java.io.OutputStreamWriter;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
+import java.nio.charset.Charset;
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Hashtable;
@@ -269,7 +270,7 @@ public class WebCrawler {
 					.post();
 			BufferedWriter out = new BufferedWriter
 				    (new OutputStreamWriter(new FileOutputStream(path+"/"+name),"UTF-8"));
-			out.write(doc.html());
+			out.write(new String(doc.html().getBytes(), Charset.forName("UTF-8")));
 			out.close();
 			newlyAdded.add(name);
 			// System.out.println(doc.html());

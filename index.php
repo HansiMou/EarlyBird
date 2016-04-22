@@ -1,6 +1,6 @@
 <html>
   <head lang="en">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=Unicode" />
     <link href="assets/css/ninja-slider.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="assets/css/amazeui.min.css">
     <link rel="stylesheet" href="assets/css/my.css">

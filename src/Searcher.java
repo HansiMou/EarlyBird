@@ -53,7 +53,7 @@ public class Searcher {
 
 			String[] stringQuery = new String[4];
 			Arrays.fill(stringQuery, args[0]);
-			String[] ff = { "title", "author", "keywords", "abstract" };
+			String[] ff = { "title", "authors", "keywords", "abstract" };
 			Occur[] oc = new Occur[4];
 			Arrays.fill(oc, Occur.SHOULD);
 			Query query = MultiFieldQueryParser.parse(stringQuery, ff, oc,
@@ -84,8 +84,8 @@ public class Searcher {
 						.replace("−", "-").replace(" ", " ");
 //				abs = stringFilter(abs);
 //				abs = changeCharset(abs, "UTF_8");
-				String authors = doc.get("authors").replace("‐", "-");
-				String keywords = doc.get("keywords").replace("‐", "-");
+				String authors = doc.get("authors");
+				String keywords = doc.get("keywords");
 				TokenStream tokenStream = new StandardAnalyzer().tokenStream(
 						"title", new StringReader(title));
 				String titleh = highlighter.getBestFragment(tokenStream, title);
@@ -136,24 +136,24 @@ public class Searcher {
 				System.out.println("&nbsp;DOI:" + doc.get("doi") + "</div>");
 
 				String img = doc.get("image");
-				if (img != null && img.trim().length() > 0)
+				if (img != null && img.trim().length() > 0 && !img.trim().toLowerCase().equals("null"))
 					System.out
 							.println("<div class=\"am-g blog-content\"><div class=\"am-u-lg-5\"><div id='ninja-slider"
 									+ i
 									+ "'><div class=\"slider"
 									+ i
 									+ "-inner\"><ul>");
-				if (img != null && img.trim().length() > 0) {
+				if (img != null && img.trim().length() > 0 && !img.trim().toLowerCase().equals("null")){
 					for (String im : img.split(",")) {
 						System.out.println("<li><a class=\"ns-img\" href=\""
 								+ im + "\"></a></li>");
 					}
 				}
-				if (img != null && img.trim().length() > 0)
+			if (img != null && img.trim().length() > 0 && !img.trim().toLowerCase().equals("null"))
 					System.out.println("</ul>" + "</div></div></div> </div>");
 
 				String[] tmp = keywordsh.split(",");
-				for (int i1 = 0; i1 < tmp.length; i1++) {
+				for (int i1 = 0; i1 < tmp.length-1; i1++) {
 					if (tmp[i1].contains("</span>")) {
 						System.out
 								.print("<span class=\"am-badge am-badge-warning am-round\">"

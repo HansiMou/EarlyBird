@@ -12,6 +12,7 @@ import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.LongField;
 import org.apache.lucene.document.StoredField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.util.BytesRef;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -409,13 +410,25 @@ public class HTMLHandler {
 			}
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 			long time = sdf.parse(date).getTime();
+
+			String authors = full2HalfChange(author.toString());
+
+			String keyword = full2HalfChange(keywords.toString());
+			
+			title = full2HalfChange(title.toString());
+			
+			journaltitle =  full2HalfChange(journaltitle.toString());
+			
 			if (importtitle.contains(title.trim())) {
 				org.apache.lucene.document.Document doc1 = new org.apache.lucene.document.Document();
-				Field tf = new TextField("title", title, Store.YES);
+				Field tf = new TextField("title",
+						new BytesRef(title.toString()).utf8ToString(),
+						Store.YES);
 				tf.setBoost(1.6f);
 				doc1.add(tf);
-				
-				Field abf = new TextField("abstract", summary, Store.YES);
+
+				Field abf = new TextField("abstract", new BytesRef(
+						summary.toString()).utf8ToString(), Store.YES);
 				abf.setBoost(1.2f);
 				doc1.add(abf);
 
@@ -427,16 +440,11 @@ public class HTMLHandler {
 				doc1.add(new StoredField("image", image.toString()));
 				doc1.add(new StoredField("journaltitle", journaltitle));
 				doc1.add(new StoredField("publisher", publisher));
-				Field af = new TextField("authors",
-						author.length() > 2 ? author.substring(0,
-								author.length() - 2) : author.toString(),
-						Store.YES);
+
+				Field af = new TextField("authors", authors, Store.YES);
 				af.setBoost(1.6f);
 				doc1.add(af);
-				Field kf = new TextField("keywords",
-						keywords.length() > 2 ? keywords.substring(0,
-								keywords.length() - 2) : keywords.toString(),
-						Store.YES);
+				Field kf = new TextField("keywords", keyword, Store.YES);
 				kf.setBoost(1.4f);
 				doc1.add(kf);
 				// if (image.length() > 0)
@@ -457,16 +465,10 @@ public class HTMLHandler {
 				doc1.add(new StoredField("image", image.toString()));
 				doc1.add(new StoredField("journaltitle", journaltitle));
 				doc1.add(new StoredField("publisher", publisher));
-				Field af = new TextField("authors",
-						author.length() > 2 ? author.substring(0,
-								author.length() - 2) : author.toString(),
-						Store.YES);
+				Field af = new TextField("authors", authors, Store.YES);
 				af.setBoost(1.2f);
 				doc1.add(af);
-				Field kf = new TextField("keywords",
-						keywords.length() > 2 ? keywords.substring(0,
-								keywords.length() - 2) : keywords.toString(),
-						Store.YES);
+				Field kf = new TextField("keywords", keyword, Store.YES);
 				kf.setBoost(1.1f);
 				doc1.add(kf);
 				// if (image.length() > 0)
@@ -507,5 +509,66 @@ public class HTMLHandler {
 			System.out.println(s12.toString());
 		if (s11.size() != 0)
 			System.out.println(s11.toString() + "\n");
+	}
+
+	static HashMap<Character, String> hm = new HashMap<Character, String>();
+	public static String full2HalfChange(String ori) {
+		if (hm.size() == 0){
+			hm.put('？', "?");
+			hm.put('”', "\"");
+			hm.put('“', "\"");
+			hm.put('-', "-");
+			hm.put(' ', " ");
+			hm.put('‘', "'");
+			hm.put('’', "'");
+			hm.put('Δ', "&#916;");
+			hm.put('`', "'");
+			hm.put('·', "'");
+			hm.put('Γ', "&#915;");
+			hm.put('Θ', "&#920;");
+			hm.put('Λ', "&#923;");
+			hm.put('Π', "&#928;");
+			hm.put('Σ', "&#931;");
+			hm.put('Φ', "&#934;");
+			hm.put('Ψ', "&#936;");
+			hm.put('Ω', "&#937;");
+			hm.put('α', "&#945;");
+			hm.put('β', "&#946;");
+			hm.put('γ', "&#947;");
+			hm.put('δ', "&#948;");
+			hm.put('ε', "&#949;");
+			hm.put('η', "&#951;");
+			hm.put('θ', "&#952;");
+			hm.put('λ', "&#955;");
+			hm.put('μ', "&#956;");
+			hm.put('ο', "&#959;");
+			hm.put('π', "&#960;");
+			hm.put('σ', "&#963;");
+			hm.put('τ', "&#964;");
+			hm.put('υ', "&#965;	");
+			hm.put('φ', "&#966;");
+			hm.put('ω', "&#969;");
+			hm.put('∑', "&#8721;");
+			hm.put('∠', "&#8736;");
+			hm.put(' ', " ");
+			hm.put(' ', " ");
+			hm.put('–', "-");
+			hm.put('′', "'");
+			hm.put('−', "-");
+			hm.put('é', "&#233;");
+			hm.put('à', "&#224;");
+			hm.put('â', "&#226;");
+			hm.put('è', "&#232;");
+			hm.put('ù', "&#249;");
+			hm.put('ü', "&#252;");
+		}
+		StringBuilder o = new StringBuilder();
+		for (char c : ori.toCharArray()) {
+			if (hm.containsKey(c)) {
+				o.append(hm.get(c));
+			} else
+				o.append(c);
+		}
+		return o.toString();
 	}
 }
