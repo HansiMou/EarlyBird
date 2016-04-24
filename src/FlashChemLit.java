@@ -25,7 +25,6 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
-
 /**
  * @author Hansi Mou
  * @date Apr 5, 2016

@@ -16,7 +16,6 @@ import org.apache.lucene.util.BytesRef;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
 /**
  * @author Hansi Mou
  * @date Apr 11, 2016
@@ -411,13 +410,9 @@ public class HTMLHandler {
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 			long time = sdf.parse(date).getTime();
 
-			String authors = full2HalfChange(author.toString());
+			String authors = author.toString();
 
-			String keyword = full2HalfChange(keywords.toString());
-			
-			title = full2HalfChange(title.toString());
-			
-			journaltitle =  full2HalfChange(journaltitle.toString());
+			String keyword = keywords.toString();
 			
 			if (importtitle.contains(title.trim())) {
 				org.apache.lucene.document.Document doc1 = new org.apache.lucene.document.Document();
@@ -561,6 +556,14 @@ public class HTMLHandler {
 			hm.put('è', "&#232;");
 			hm.put('ù', "&#249;");
 			hm.put('ü', "&#252;");
+			hm.put('ó', "&#243;");
+			hm.put(' ', " ");
+			hm.put('ä', "&#228;");
+			hm.put('ö', "&#246;");
+			hm.put('ü', "&#252;");
+			hm.put('á', "&#225;");
+			hm.put('š', "&#353;");
+			hm.put('ř', "&#345;");
 		}
 		StringBuilder o = new StringBuilder();
 		for (char c : ori.toCharArray()) {

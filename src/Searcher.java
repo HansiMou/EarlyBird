@@ -77,9 +77,8 @@ public class Searcher {
 						+ rs.scoreDocs.length + " results.</div>");
 			for (int i = 0; i < rs.scoreDocs.length; i++) {
 				Document doc = searcher.doc(rs.scoreDocs[i].doc);
-				String title = doc.get("title").replace("‐", "-");
-				title = stringFilter(title);
 				String abs = doc.get("abstract");
+				String title = doc.get("title");
 				String authors = doc.get("authors");
 				String keywords = doc.get("keywords");
 				TokenStream tokenStream = new StandardAnalyzer().tokenStream(
@@ -142,7 +141,7 @@ public class Searcher {
 
 				System.out
 						.println("<div class=\"am-article-meta blog-meta blog-authors\">"
-								+ authorsh + "</div>");
+								+ authorsh.substring(0, authorsh.length()-1) + "</div>");
 
 				java.util.Date dt = new Date(Long.valueOf(doc.get("date")));
 				String sDateTime = sdf.format(dt);
@@ -213,13 +212,6 @@ public class Searcher {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-	}
-
-	public static String stringFilter(String str) throws PatternSyntaxException {
-		String regEx = "[！（）——【】‘；：。，、？]";
-		Pattern p = Pattern.compile(regEx);
-		Matcher m = p.matcher(str);
-		return m.replaceAll("").trim();
 	}
 
 	public static String changeCharset(String str, String newCharset)
